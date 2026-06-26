@@ -1,0 +1,3325 @@
+{
+  "version": 1,
+  "page_count": 165,
+  "total_page_seconds": 351.0066,
+  "average_page_seconds": 2.1273,
+  "phase_totals_seconds": {
+    "internal_links": 193.4592,
+    "content_assembly": 57.0505,
+    "media_svg": 56.3545,
+    "monetization": 27.4066,
+    "youtube": 6.299,
+    "quality_write": 5.1936,
+    "content_cleanup_final": 2.7025,
+    "preparation": 2.4749,
+    "content_cleanup_initial": 0.0668
+  },
+  "slowest_pages": [
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0157,
+      "phases": {
+        "preparation": 0.0243,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.3349,
+        "content_cleanup_final": 0.0283,
+        "media_svg": 0.1069,
+        "youtube": 1.1129,
+        "content_assembly": 0.4677,
+        "monetization": 1.8646,
+        "quality_write": 0.0753
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_nasa_curation_contra_591b66",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0122,
+      "phases": {
+        "preparation": 0.0161,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1618,
+        "content_cleanup_final": 0.0181,
+        "media_svg": 0.2757,
+        "youtube": 0.0117,
+        "content_assembly": 0.3425,
+        "monetization": 3.1549,
+        "quality_write": 0.0309
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_vatican_story_f31126_allied_intelligence_a2e36c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.7855,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.1507,
+        "content_cleanup_final": 0.0177,
+        "media_svg": 0.394,
+        "youtube": 1.0044,
+        "content_assembly": 0.3355,
+        "monetization": 1.8358,
+        "quality_write": 0.0299
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_supporter_arguments_2e8636",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.5196,
+      "phases": {
+        "preparation": 0.0254,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.1815,
+        "content_cleanup_final": 0.0261,
+        "media_svg": 0.1548,
+        "youtube": 1.0187,
+        "content_assembly": 0.4491,
+        "monetization": 1.5993,
+        "quality_write": 0.0643
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_marconi_claim_304998_marconi_burden_of_pr_92fc69",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.5171,
+      "phases": {
+        "preparation": 0.0154,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2334,
+        "content_cleanup_final": 0.0192,
+        "media_svg": 2.805,
+        "youtube": 0.0164,
+        "content_assembly": 0.3519,
+        "monetization": 0.045,
+        "quality_write": 0.0304
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_alien_bodies_claims_fb6300_magenta_body_witness_d6b9da",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.074,
+      "phases": {
+        "preparation": 0.0154,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2081,
+        "content_cleanup_final": 0.0168,
+        "media_svg": 0.2766,
+        "youtube": 0.0101,
+        "content_assembly": 0.3363,
+        "monetization": 2.1794,
+        "quality_write": 0.031
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_document_authenticat_1ab9aa_archive_placement_7d7a05",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4715,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1961,
+        "content_cleanup_final": 0.0177,
+        "media_svg": 0.7307,
+        "youtube": 0.0095,
+        "content_assembly": 0.3307,
+        "monetization": 1.1553,
+        "quality_write": 0.0311
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935_milan_transport_link_71d098",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3752,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1645,
+        "content_cleanup_final": 0.0172,
+        "media_svg": 0.2994,
+        "youtube": 0.0146,
+        "content_assembly": 0.3427,
+        "monetization": 1.4909,
+        "quality_write": 0.0281
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_alien_bodies_claims_fb6300_magenta_source_stack_23f60d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2688,
+      "phases": {
+        "preparation": 0.0161,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1687,
+        "content_cleanup_final": 0.0154,
+        "media_svg": 0.2678,
+        "youtube": 0.0116,
+        "content_assembly": 0.3385,
+        "monetization": 1.4173,
+        "quality_write": 0.033
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_alien_bodies_claims_fb6300_roswell_body_lore_co_e387b7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.126,
+      "phases": {
+        "preparation": 0.0157,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 1.1284,
+        "content_cleanup_final": 0.0077,
+        "media_svg": 0.2724,
+        "youtube": 0.0094,
+        "content_assembly": 0.3198,
+        "monetization": 1.343,
+        "quality_write": 0.0293
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_document_authenticat_1ab9aa_blue_book_custody_d213f8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0992,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2019,
+        "content_cleanup_final": 0.0228,
+        "media_svg": 0.7038,
+        "youtube": 0.012,
+        "content_assembly": 0.3741,
+        "monetization": 0.7469,
+        "quality_write": 0.0371
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_object_descriptions_7204e5_magenta_nazi_bell_mo_88a457",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9534,
+      "phases": {
+        "preparation": 0.0158,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1592,
+        "content_cleanup_final": 0.02,
+        "media_svg": 0.2811,
+        "youtube": 0.0126,
+        "content_assembly": 0.3539,
+        "monetization": 1.0783,
+        "quality_write": 0.032
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_oss_transfer_records_971012",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8938,
+      "phases": {
+        "preparation": 0.0158,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1814,
+        "content_cleanup_final": 0.0183,
+        "media_svg": 0.2874,
+        "youtube": 0.0154,
+        "content_assembly": 0.345,
+        "monetization": 0.9992,
+        "quality_write": 0.0308
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_physical_evidence_ga_4e2226_magenta_wreckage_sam_f37bb0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8517,
+      "phases": {
+        "preparation": 0.0153,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1429,
+        "content_cleanup_final": 0.0103,
+        "media_svg": 0.2897,
+        "youtube": 1.0034,
+        "content_assembly": 0.3239,
+        "monetization": 0.0376,
+        "quality_write": 0.0282
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_crash_retrieval_patt_e228ef_kecksburg_retrieval_c5ad74",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8262,
+      "phases": {
+        "preparation": 0.016,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1536,
+        "content_cleanup_final": 0.0167,
+        "media_svg": 0.2739,
+        "youtube": 0.01,
+        "content_assembly": 0.3423,
+        "monetization": 0.9804,
+        "quality_write": 0.0329
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_magenta_vs_roswell_5988a2_project_mogul_roswel_ad2ec0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4311,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1859,
+        "content_cleanup_final": 0.0187,
+        "media_svg": 0.2834,
+        "youtube": 0.0098,
+        "content_assembly": 0.3465,
+        "monetization": 0.5379,
+        "quality_write": 0.0313
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_supporter_arguments_2e8636_anonymous_file_trail_7ba62a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3955,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 1.2495,
+        "content_cleanup_final": 0.0135,
+        "media_svg": 0.7127,
+        "youtube": 0.014,
+        "content_assembly": 0.3225,
+        "monetization": 0.0554,
+        "quality_write": 0.0276
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_supporter_arguments_2e8636_fascist_paper_featur_637b48",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.375,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1883,
+        "content_cleanup_final": 0.0246,
+        "media_svg": 0.705,
+        "youtube": 0.0093,
+        "content_assembly": 0.3549,
+        "monetization": 0.0598,
+        "quality_write": 0.0325
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef_missing_civilian_wit_044ce6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3589,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 1.164,
+        "content_cleanup_final": 0.007,
+        "media_svg": 0.7695,
+        "youtube": 0.0147,
+        "content_assembly": 0.3136,
+        "monetization": 0.0609,
+        "quality_write": 0.0289
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef_lost_dossier_photoco_0e90ac",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3318,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1362,
+        "content_cleanup_final": 0.0138,
+        "media_svg": 0.7515,
+        "youtube": 0.0113,
+        "content_assembly": 0.3316,
+        "monetization": 0.0542,
+        "quality_write": 0.0329
+      }
+    }
+  ],
+  "pages": [
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0157,
+      "phases": {
+        "preparation": 0.0243,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.3349,
+        "content_cleanup_final": 0.0283,
+        "media_svg": 0.1069,
+        "youtube": 1.1129,
+        "content_assembly": 0.4677,
+        "monetization": 1.8646,
+        "quality_write": 0.0753
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_supporter_arguments_2e8636",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.5196,
+      "phases": {
+        "preparation": 0.0254,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.1815,
+        "content_cleanup_final": 0.0261,
+        "media_svg": 0.1548,
+        "youtube": 1.0187,
+        "content_assembly": 0.4491,
+        "monetization": 1.5993,
+        "quality_write": 0.0643
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62_paper_tests_limits_800914",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0049,
+      "phases": {
+        "preparation": 0.0157,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2608,
+        "content_cleanup_final": 0.0188,
+        "media_svg": 0.2882,
+        "youtube": 0.0098,
+        "content_assembly": 0.3407,
+        "monetization": 0.0396,
+        "quality_write": 0.0309
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_archive_trail_e36ff1_magenta_press_blacko_caabc6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9207,
+      "phases": {
+        "preparation": 0.0166,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.1691,
+        "content_cleanup_final": 0.0193,
+        "media_svg": 0.2781,
+        "youtube": 0.0155,
+        "content_assembly": 0.344,
+        "monetization": 0.0468,
+        "quality_write": 0.0308
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_vatican_story_f31126_allied_intelligence_a2e36c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.7855,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.1507,
+        "content_cleanup_final": 0.0177,
+        "media_svg": 0.394,
+        "youtube": 1.0044,
+        "content_assembly": 0.3355,
+        "monetization": 1.8358,
+        "quality_write": 0.0299
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_archive_trail_e36ff1_marconi_personnel_tr_6b1d89",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8924,
+      "phases": {
+        "preparation": 0.0156,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1701,
+        "content_cleanup_final": 0.0135,
+        "media_svg": 0.2709,
+        "youtube": 0.0151,
+        "content_assembly": 0.3375,
+        "monetization": 0.0396,
+        "quality_write": 0.0298
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_archive_trail_e36ff1_secret_recovery_budg_a96bb3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8873,
+      "phases": {
+        "preparation": 0.0158,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1563,
+        "content_cleanup_final": 0.0157,
+        "media_svg": 0.2695,
+        "youtube": 0.0162,
+        "content_assembly": 0.342,
+        "monetization": 0.042,
+        "quality_write": 0.0295
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_archive_trail_e36ff1_vergiate_hangar_cust_7f1e2f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9075,
+      "phases": {
+        "preparation": 0.0369,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1433,
+        "content_cleanup_final": 0.0161,
+        "media_svg": 0.2827,
+        "youtube": 0.0145,
+        "content_assembly": 0.3385,
+        "monetization": 0.0449,
+        "quality_write": 0.0302
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935_ticino_corridor_b30ade",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9099,
+      "phases": {
+        "preparation": 0.0159,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1537,
+        "content_cleanup_final": 0.0209,
+        "media_svg": 0.2839,
+        "youtube": 0.0158,
+        "content_assembly": 0.3432,
+        "monetization": 0.0477,
+        "quality_write": 0.0284
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_marconi_claim_304998_marconi_archive_trai_b3c876",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0744,
+      "phases": {
+        "preparation": 0.0157,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2132,
+        "content_cleanup_final": 0.0757,
+        "media_svg": 0.2951,
+        "youtube": 0.0171,
+        "content_assembly": 0.3797,
+        "monetization": 0.0404,
+        "quality_write": 0.0371
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_marconi_claim_304998_marconi_official_pos_9beac6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3303,
+      "phases": {
+        "preparation": 0.0153,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.3053,
+        "content_cleanup_final": 0.0169,
+        "media_svg": 0.2915,
+        "youtube": 0.0112,
+        "content_assembly": 0.5725,
+        "monetization": 0.073,
+        "quality_write": 0.0442
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_marconi_claim_304998_marconi_radio_vs_ufo_2a56e4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3063,
+      "phases": {
+        "preparation": 0.0256,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.5338,
+        "content_cleanup_final": 0.0167,
+        "media_svg": 0.313,
+        "youtube": 0.0098,
+        "content_assembly": 0.3392,
+        "monetization": 0.0379,
+        "quality_write": 0.0298
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_marconi_claim_304998_marconi_burden_of_pr_92fc69",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.5171,
+      "phases": {
+        "preparation": 0.0154,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2334,
+        "content_cleanup_final": 0.0192,
+        "media_svg": 2.805,
+        "youtube": 0.0164,
+        "content_assembly": 0.3519,
+        "monetization": 0.045,
+        "quality_write": 0.0304
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_marconi_claim_304998_marconi_witness_trai_89a7f7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0085,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2737,
+        "content_cleanup_final": 0.015,
+        "media_svg": 0.276,
+        "youtube": 0.0103,
+        "content_assembly": 0.3412,
+        "monetization": 0.0418,
+        "quality_write": 0.0328
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_marconi_claim_304998_mussolini_reports_rs_cb021d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9352,
+      "phases": {
+        "preparation": 0.0159,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1986,
+        "content_cleanup_final": 0.0176,
+        "media_svg": 0.2713,
+        "youtube": 0.0158,
+        "content_assembly": 0.3439,
+        "monetization": 0.0416,
+        "quality_write": 0.0302
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9_siai_marchetti_name_e6e38f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8894,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1614,
+        "content_cleanup_final": 0.0153,
+        "media_svg": 0.2839,
+        "youtube": 0.0118,
+        "content_assembly": 0.3294,
+        "monetization": 0.041,
+        "quality_write": 0.029
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_van_erp_critique_675cc5_magenta_motif_map_c2e0d2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9075,
+      "phases": {
+        "preparation": 0.0166,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.186,
+        "content_cleanup_final": 0.0112,
+        "media_svg": 0.2748,
+        "youtube": 0.0148,
+        "content_assembly": 0.3314,
+        "monetization": 0.0423,
+        "quality_write": 0.03
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_vatican_story_f31126_grusch_vatican_claim_133bdd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8908,
+      "phases": {
+        "preparation": 0.0163,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1553,
+        "content_cleanup_final": 0.0159,
+        "media_svg": 0.2754,
+        "youtube": 0.0114,
+        "content_assembly": 0.3445,
+        "monetization": 0.042,
+        "quality_write": 0.0296
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_vatican_story_f31126_missing_vatican_reco_cc68bf",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9223,
+      "phases": {
+        "preparation": 0.0156,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1433,
+        "content_cleanup_final": 0.0181,
+        "media_svg": 0.3043,
+        "youtube": 0.0193,
+        "content_assembly": 0.3489,
+        "monetization": 0.0411,
+        "quality_write": 0.0313
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_vatican_story_f31126_retrieval_chronology_0bb463",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9157,
+      "phases": {
+        "preparation": 0.0155,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1641,
+        "content_cleanup_final": 0.0187,
+        "media_svg": 0.2867,
+        "youtube": 0.0125,
+        "content_assembly": 0.3463,
+        "monetization": 0.0405,
+        "quality_write": 0.0312
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_vatican_story_f31126_vatican_later_retell_cd5ae0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9156,
+      "phases": {
+        "preparation": 0.0161,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 1.138,
+        "content_cleanup_final": 0.0119,
+        "media_svg": 0.2873,
+        "youtube": 0.0099,
+        "content_assembly": 0.3774,
+        "monetization": 0.0439,
+        "quality_write": 0.0308
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_vergiate_hangars_b90386_siai_1945_removal_d3d3fe",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9256,
+      "phases": {
+        "preparation": 0.0156,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1383,
+        "content_cleanup_final": 0.017,
+        "media_svg": 0.3321,
+        "youtube": 0.0105,
+        "content_assembly": 0.3394,
+        "monetization": 0.0404,
+        "quality_write": 0.0319
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_3a5c90_censorship_evidence_f410d5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9631,
+      "phases": {
+        "preparation": 0.0154,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1611,
+        "content_cleanup_final": 0.0148,
+        "media_svg": 0.3411,
+        "youtube": 0.0133,
+        "content_assembly": 0.3466,
+        "monetization": 0.0409,
+        "quality_write": 0.0296
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_3a5c90_ovra_secrecy_limits_3a5bea",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9506,
+      "phases": {
+        "preparation": 0.0166,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1715,
+        "content_cleanup_final": 0.0213,
+        "media_svg": 0.2945,
+        "youtube": 0.0164,
+        "content_assembly": 0.3599,
+        "monetization": 0.0382,
+        "quality_write": 0.0318
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_3a5c90_propaganda_prestige_07ac59",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9117,
+      "phases": {
+        "preparation": 0.0165,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.164,
+        "content_cleanup_final": 0.0203,
+        "media_svg": 0.2825,
+        "youtube": 0.0132,
+        "content_assembly": 0.3445,
+        "monetization": 0.0403,
+        "quality_write": 0.0301
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603_aaro_grusch_conflict_e74465",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9595,
+      "phases": {
+        "preparation": 0.0153,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1958,
+        "content_cleanup_final": 0.0221,
+        "media_svg": 0.2759,
+        "youtube": 0.0146,
+        "content_assembly": 0.3609,
+        "monetization": 0.0418,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603_grusch_oversight_sta_fdb62a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9837,
+      "phases": {
+        "preparation": 0.0161,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2145,
+        "content_cleanup_final": 0.0237,
+        "media_svg": 0.2868,
+        "youtube": 0.0108,
+        "content_assembly": 0.3566,
+        "monetization": 0.0421,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603_grusch_testimony_lim_365ecc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9267,
+      "phases": {
+        "preparation": 0.0156,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1912,
+        "content_cleanup_final": 0.0176,
+        "media_svg": 0.2801,
+        "youtube": 0.0121,
+        "content_assembly": 0.3385,
+        "monetization": 0.0391,
+        "quality_write": 0.0319
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603_magenta_media_reviva_762bdd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9301,
+      "phases": {
+        "preparation": 0.0157,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1894,
+        "content_cleanup_final": 0.0162,
+        "media_svg": 0.2819,
+        "youtube": 0.0112,
+        "content_assembly": 0.3439,
+        "monetization": 0.0404,
+        "quality_write": 0.031
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603_pinotti_fascist_file_7b42a9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9336,
+      "phases": {
+        "preparation": 0.0158,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1805,
+        "content_cleanup_final": 0.0161,
+        "media_svg": 0.2793,
+        "youtube": 0.0195,
+        "content_assembly": 0.3491,
+        "monetization": 0.0418,
+        "quality_write": 0.0312
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935_vergiate_hangars_b90386",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.945,
+      "phases": {
+        "preparation": 0.0152,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.177,
+        "content_cleanup_final": 0.0202,
+        "media_svg": 0.2819,
+        "youtube": 0.0191,
+        "content_assembly": 0.3497,
+        "monetization": 0.0493,
+        "quality_write": 0.0321
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_magenta_timeline_3d7ff6_rs33_timeline_role_099117",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9123,
+      "phases": {
+        "preparation": 0.0155,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1668,
+        "content_cleanup_final": 0.0154,
+        "media_svg": 0.288,
+        "youtube": 0.0159,
+        "content_assembly": 0.3409,
+        "monetization": 0.0402,
+        "quality_write": 0.0291
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_nasa_data_problem_d6b89b_gofast_uap_lesson_a1b858",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8854,
+      "phases": {
+        "preparation": 0.0158,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1426,
+        "content_cleanup_final": 0.0125,
+        "media_svg": 0.2847,
+        "youtube": 0.009,
+        "content_assembly": 0.3535,
+        "monetization": 0.0376,
+        "quality_write": 0.0294
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9_aircraft_factory_sto_e8fa4f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9071,
+      "phases": {
+        "preparation": 0.0153,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1366,
+        "content_cleanup_final": 0.0185,
+        "media_svg": 0.2835,
+        "youtube": 0.0116,
+        "content_assembly": 0.3423,
+        "monetization": 0.0677,
+        "quality_write": 0.0313
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9_sesto_calende_siai_s_de0938",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8741,
+      "phases": {
+        "preparation": 0.0155,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1574,
+        "content_cleanup_final": 0.0135,
+        "media_svg": 0.2737,
+        "youtube": 0.0092,
+        "content_assembly": 0.3325,
+        "monetization": 0.042,
+        "quality_write": 0.03
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9_siai_industrial_reco_7cb33f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9149,
+      "phases": {
+        "preparation": 0.0158,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1601,
+        "content_cleanup_final": 0.0188,
+        "media_svg": 0.2915,
+        "youtube": 0.0157,
+        "content_assembly": 0.3393,
+        "monetization": 0.0421,
+        "quality_write": 0.0312
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9_varese_aviation_dist_48db57",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.909,
+      "phases": {
+        "preparation": 0.0156,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.156,
+        "content_cleanup_final": 0.0214,
+        "media_svg": 0.2883,
+        "youtube": 0.0125,
+        "content_assembly": 0.3438,
+        "monetization": 0.0412,
+        "quality_write": 0.0299
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9_vergiate_1933_hangar_3e20d1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8841,
+      "phases": {
+        "preparation": 0.0151,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1546,
+        "content_cleanup_final": 0.0156,
+        "media_svg": 0.2857,
+        "youtube": 0.0121,
+        "content_assembly": 0.3293,
+        "monetization": 0.0417,
+        "quality_write": 0.0296
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b_house_uap_hearings_e09ffb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9405,
+      "phases": {
+        "preparation": 0.016,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1681,
+        "content_cleanup_final": 0.0204,
+        "media_svg": 0.2743,
+        "youtube": 0.0123,
+        "content_assembly": 0.3594,
+        "monetization": 0.0584,
+        "quality_write": 0.0311
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_van_erp_critique_675cc5_billy_brophy_drift_810720",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8111,
+      "phases": {
+        "preparation": 0.0157,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 1.1057,
+        "content_cleanup_final": 0.0076,
+        "media_svg": 0.2756,
+        "youtube": 0.0151,
+        "content_assembly": 0.3213,
+        "monetization": 0.0417,
+        "quality_write": 0.0281
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_van_erp_critique_675cc5_magenta_date_drift_534bbf",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8371,
+      "phases": {
+        "preparation": 0.0154,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 1.1309,
+        "content_cleanup_final": 0.0122,
+        "media_svg": 0.2719,
+        "youtube": 0.0089,
+        "content_assembly": 0.3281,
+        "monetization": 0.0399,
+        "quality_write": 0.0293
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_van_erp_critique_675cc5_rs33_protocol_test_f7b9d7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8297,
+      "phases": {
+        "preparation": 0.0158,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 1.1297,
+        "content_cleanup_final": 0.0086,
+        "media_svg": 0.2782,
+        "youtube": 0.0109,
+        "content_assembly": 0.3173,
+        "monetization": 0.0411,
+        "quality_write": 0.0278
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_vergiate_hangars_b90386_siai_marchetti_fit_1c325b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8553,
+      "phases": {
+        "preparation": 0.0158,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 1.1335,
+        "content_cleanup_final": 0.0106,
+        "media_svg": 0.2826,
+        "youtube": 0.012,
+        "content_assembly": 0.3278,
+        "monetization": 0.0432,
+        "quality_write": 0.0295
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62_anonymous_sender_cus_9ad279",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8954,
+      "phases": {
+        "preparation": 0.0151,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1598,
+        "content_cleanup_final": 0.0171,
+        "media_svg": 0.2799,
+        "youtube": 0.01,
+        "content_assembly": 0.3437,
+        "monetization": 0.0396,
+        "quality_write": 0.0297
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62_bell_craft_retelling_e29967",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9137,
+      "phases": {
+        "preparation": 0.0162,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1475,
+        "content_cleanup_final": 0.0174,
+        "media_svg": 0.2868,
+        "youtube": 0.0137,
+        "content_assembly": 0.3508,
+        "monetization": 0.0481,
+        "quality_write": 0.0329
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62_lost_originals_repea_a78722",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8718,
+      "phases": {
+        "preparation": 0.0155,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 1.1257,
+        "content_cleanup_final": 0.014,
+        "media_svg": 0.2805,
+        "youtube": 0.01,
+        "content_assembly": 0.346,
+        "monetization": 0.0485,
+        "quality_write": 0.0311
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62_rs33_institutional_p_fbf54c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9087,
+      "phases": {
+        "preparation": 0.0156,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1539,
+        "content_cleanup_final": 0.0141,
+        "media_svg": 0.2812,
+        "youtube": 0.0109,
+        "content_assembly": 0.3548,
+        "monetization": 0.0447,
+        "quality_write": 0.0331
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62_stefani_telegram_sec_70b246",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9147,
+      "phases": {
+        "preparation": 0.0158,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1719,
+        "content_cleanup_final": 0.0167,
+        "media_svg": 0.2922,
+        "youtube": 0.0099,
+        "content_assembly": 0.3339,
+        "monetization": 0.0433,
+        "quality_write": 0.0306
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_3a5c90_allied_transfer_comp_12b10d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9596,
+      "phases": {
+        "preparation": 0.0167,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1975,
+        "content_cleanup_final": 0.0241,
+        "media_svg": 0.2751,
+        "youtube": 0.0104,
+        "content_assembly": 0.3543,
+        "monetization": 0.0469,
+        "quality_write": 0.0341
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_document_authenticat_1ab9aa_paper_ink_tests_82d500",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2989,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1451,
+        "content_cleanup_final": 0.0139,
+        "media_svg": 0.7083,
+        "youtube": 0.0094,
+        "content_assembly": 0.3314,
+        "monetization": 0.0605,
+        "quality_write": 0.0299
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_3a5c90_aviation_secrecy_mag_ca55e4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8939,
+      "phases": {
+        "preparation": 0.0155,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1593,
+        "content_cleanup_final": 0.0183,
+        "media_svg": 0.2736,
+        "youtube": 0.0118,
+        "content_assembly": 0.3446,
+        "monetization": 0.0402,
+        "quality_write": 0.0301
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_3a5c90_magenta_paper_trails_60c18b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9249,
+      "phases": {
+        "preparation": 0.0157,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1718,
+        "content_cleanup_final": 0.0158,
+        "media_svg": 0.286,
+        "youtube": 0.0104,
+        "content_assembly": 0.3479,
+        "monetization": 0.0452,
+        "quality_write": 0.0317
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_fascist_ufo_files_e2e7f2_rs33_archival_test_b3200a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8665,
+      "phases": {
+        "preparation": 0.0153,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1345,
+        "content_cleanup_final": 0.0153,
+        "media_svg": 0.2774,
+        "youtube": 0.016,
+        "content_assembly": 0.3394,
+        "monetization": 0.0392,
+        "quality_write": 0.029
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59_axis_secret_labs_53736b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8786,
+      "phases": {
+        "preparation": 0.0159,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.144,
+        "content_cleanup_final": 0.0111,
+        "media_svg": 0.2826,
+        "youtube": 0.0106,
+        "content_assembly": 0.3282,
+        "monetization": 0.0566,
+        "quality_write": 0.0291
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b_nara_uap_collection_5204cf",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9412,
+      "phases": {
+        "preparation": 0.016,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1731,
+        "content_cleanup_final": 0.0197,
+        "media_svg": 0.2772,
+        "youtube": 0.012,
+        "content_assembly": 0.3538,
+        "monetization": 0.0568,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef_paper_ink_limits_aeaee9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2799,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1534,
+        "content_cleanup_final": 0.0104,
+        "media_svg": 0.6576,
+        "youtube": 0.0152,
+        "content_assembly": 0.3356,
+        "monetization": 0.0765,
+        "quality_write": 0.0307
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_witness_problem_6214cd_anonymous_family_cha_b59c4d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9137,
+      "phases": {
+        "preparation": 0.0156,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1673,
+        "content_cleanup_final": 0.0117,
+        "media_svg": 0.2919,
+        "youtube": 0.0158,
+        "content_assembly": 0.3369,
+        "monetization": 0.0427,
+        "quality_write": 0.0314
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_witness_problem_6214cd_local_lombardy_witne_23343d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9645,
+      "phases": {
+        "preparation": 0.0163,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1887,
+        "content_cleanup_final": 0.0184,
+        "media_svg": 0.2974,
+        "youtube": 0.0139,
+        "content_assembly": 0.3554,
+        "monetization": 0.0421,
+        "quality_write": 0.0318
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_witness_problem_6214cd_magenta_date_witness_cc3db3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9472,
+      "phases": {
+        "preparation": 0.0152,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1887,
+        "content_cleanup_final": 0.0158,
+        "media_svg": 0.293,
+        "youtube": 0.0157,
+        "content_assembly": 0.3425,
+        "monetization": 0.045,
+        "quality_write": 0.0308
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_witness_problem_6214cd_rs33_witness_anchors_dcfaad",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8841,
+      "phases": {
+        "preparation": 0.0166,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1554,
+        "content_cleanup_final": 0.0131,
+        "media_svg": 0.2846,
+        "youtube": 0.0098,
+        "content_assembly": 0.3279,
+        "monetization": 0.0449,
+        "quality_write": 0.0314
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_witness_problem_6214cd_vergiate_hangar_witn_feb362",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8895,
+      "phases": {
+        "preparation": 0.0155,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1516,
+        "content_cleanup_final": 0.0166,
+        "media_svg": 0.2781,
+        "youtube": 0.0162,
+        "content_assembly": 0.3372,
+        "monetization": 0.0433,
+        "quality_write": 0.0306
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_aaro_official_view_8814fc_aaro_tested_claims_9df86f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9498,
+      "phases": {
+        "preparation": 0.0151,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.186,
+        "content_cleanup_final": 0.0223,
+        "media_svg": 0.2901,
+        "youtube": 0.0123,
+        "content_assembly": 0.351,
+        "monetization": 0.0409,
+        "quality_write": 0.0316
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_anonymous_docs_vs_wr_a3343d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8764,
+      "phases": {
+        "preparation": 0.0164,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1558,
+        "content_cleanup_final": 0.0132,
+        "media_svg": 0.2716,
+        "youtube": 0.0132,
+        "content_assembly": 0.3312,
+        "monetization": 0.0434,
+        "quality_write": 0.0312
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_magenta_fragment_lab_64cef2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8626,
+      "phases": {
+        "preparation": 0.0155,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1433,
+        "content_cleanup_final": 0.0153,
+        "media_svg": 0.2719,
+        "youtube": 0.0094,
+        "content_assembly": 0.3334,
+        "monetization": 0.043,
+        "quality_write": 0.0304
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_missing_first_custod_46be1a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9032,
+      "phases": {
+        "preparation": 0.0155,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.166,
+        "content_cleanup_final": 0.0163,
+        "media_svg": 0.2762,
+        "youtube": 0.0159,
+        "content_assembly": 0.3408,
+        "monetization": 0.0409,
+        "quality_write": 0.031
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_siai_storage_records_1d7853",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.865,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1433,
+        "content_cleanup_final": 0.0143,
+        "media_svg": 0.2728,
+        "youtube": 0.0087,
+        "content_assembly": 0.3348,
+        "monetization": 0.0428,
+        "quality_write": 0.0307
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_wartime_transfer_gap_b64845",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8869,
+      "phases": {
+        "preparation": 0.0151,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1621,
+        "content_cleanup_final": 0.0137,
+        "media_svg": 0.2766,
+        "youtube": 0.0154,
+        "content_assembly": 0.3305,
+        "monetization": 0.0431,
+        "quality_write": 0.0301
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_fascist_ufo_files_e2e7f2_marconi_credibility_4d3f77",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8298,
+      "phases": {
+        "preparation": 0.0157,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.126,
+        "content_cleanup_final": 0.014,
+        "media_svg": 0.2646,
+        "youtube": 0.0101,
+        "content_assembly": 0.3307,
+        "monetization": 0.0383,
+        "quality_write": 0.03
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_magenta_timeline_3d7ff6_1990s_document_batch_8b3865",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.917,
+      "phases": {
+        "preparation": 0.0153,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 1.1904,
+        "content_cleanup_final": 0.0144,
+        "media_svg": 0.2765,
+        "youtube": 0.0156,
+        "content_assembly": 0.3342,
+        "monetization": 0.0398,
+        "quality_write": 0.0305
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_nasa_curation_contra_591b66",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0122,
+      "phases": {
+        "preparation": 0.0161,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1618,
+        "content_cleanup_final": 0.0181,
+        "media_svg": 0.2757,
+        "youtube": 0.0117,
+        "content_assembly": 0.3425,
+        "monetization": 3.1549,
+        "quality_write": 0.0309
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_magenta_timeline_3d7ff6_april_june_date_shif_ec8fc8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8321,
+      "phases": {
+        "preparation": 0.0156,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 1.112,
+        "content_cleanup_final": 0.0116,
+        "media_svg": 0.2781,
+        "youtube": 0.0146,
+        "content_assembly": 0.3282,
+        "monetization": 0.0411,
+        "quality_write": 0.0305
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_magenta_timeline_3d7ff6_crash_landing_wordin_1bcd61",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8858,
+      "phases": {
+        "preparation": 0.0154,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1552,
+        "content_cleanup_final": 0.014,
+        "media_svg": 0.2726,
+        "youtube": 0.0176,
+        "content_assembly": 0.3341,
+        "monetization": 0.0451,
+        "quality_write": 0.0314
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_magenta_timeline_3d7ff6_magenta_telegrams_pr_c7b466",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8365,
+      "phases": {
+        "preparation": 0.0155,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1312,
+        "content_cleanup_final": 0.0074,
+        "media_svg": 0.2742,
+        "youtube": 0.0148,
+        "content_assembly": 0.3192,
+        "monetization": 0.0448,
+        "quality_write": 0.0291
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_magenta_timeline_3d7ff6_vatican_american_add_123897",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.889,
+      "phases": {
+        "preparation": 0.0158,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 1.153,
+        "content_cleanup_final": 0.0168,
+        "media_svg": 0.2749,
+        "youtube": 0.013,
+        "content_assembly": 0.3401,
+        "monetization": 0.0436,
+        "quality_write": 0.0313
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_magenta_vs_roswell_5988a2_cabinet_rs33_claim_099b01",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9109,
+      "phases": {
+        "preparation": 0.0164,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1762,
+        "content_cleanup_final": 0.0154,
+        "media_svg": 0.2815,
+        "youtube": 0.0112,
+        "content_assembly": 0.3335,
+        "monetization": 0.0448,
+        "quality_write": 0.0316
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b_aaro_oversight_backl_169d80",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9966,
+      "phases": {
+        "preparation": 0.0156,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2186,
+        "content_cleanup_final": 0.0222,
+        "media_svg": 0.285,
+        "youtube": 0.0113,
+        "content_assembly": 0.3482,
+        "monetization": 0.064,
+        "quality_write": 0.0312
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b_closed_vs_public_evi_4b0afc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.008,
+      "phases": {
+        "preparation": 0.0696,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1854,
+        "content_cleanup_final": 0.019,
+        "media_svg": 0.2863,
+        "youtube": 0.0109,
+        "content_assembly": 0.3444,
+        "monetization": 0.0592,
+        "quality_write": 0.0328
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b_schumer_rounds_recor_c412bc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9522,
+      "phases": {
+        "preparation": 0.0161,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2042,
+        "content_cleanup_final": 0.0207,
+        "media_svg": 0.2757,
+        "youtube": 0.0113,
+        "content_assembly": 0.348,
+        "monetization": 0.0428,
+        "quality_write": 0.0328
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_van_erp_critique_675cc5_bell_shape_die_glock_fd29fc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8373,
+      "phases": {
+        "preparation": 0.0156,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 1.1328,
+        "content_cleanup_final": 0.0075,
+        "media_svg": 0.2793,
+        "youtube": 0.0107,
+        "content_assembly": 0.3171,
+        "monetization": 0.0463,
+        "quality_write": 0.0277
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_van_erp_critique_675cc5_saucer_to_craft_clai_7b805e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8617,
+      "phases": {
+        "preparation": 0.0156,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1214,
+        "content_cleanup_final": 0.014,
+        "media_svg": 0.2777,
+        "youtube": 0.0146,
+        "content_assembly": 0.3303,
+        "monetization": 0.0579,
+        "quality_write": 0.0297
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_vergiate_hangars_b90386_vergiate_1933_facili_1ac57d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8837,
+      "phases": {
+        "preparation": 0.0151,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1525,
+        "content_cleanup_final": 0.0181,
+        "media_svg": 0.2805,
+        "youtube": 0.0075,
+        "content_assembly": 0.3362,
+        "monetization": 0.0411,
+        "quality_write": 0.0323
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_vergiate_hangars_b90386_vergiate_document_pr_2de7de",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9584,
+      "phases": {
+        "preparation": 0.0157,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1426,
+        "content_cleanup_final": 0.0178,
+        "media_svg": 0.2745,
+        "youtube": 0.0162,
+        "content_assembly": 0.4132,
+        "monetization": 0.0444,
+        "quality_write": 0.0337
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_vergiate_hangars_b90386_vergiate_missing_rec_d62565",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9902,
+      "phases": {
+        "preparation": 0.0159,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2341,
+        "content_cleanup_final": 0.0108,
+        "media_svg": 0.2876,
+        "youtube": 0.0133,
+        "content_assembly": 0.3485,
+        "monetization": 0.0473,
+        "quality_write": 0.0324
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_vergiate_hangars_b90386_vergiate_sesto_stora_ba4d40",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0053,
+      "phases": {
+        "preparation": 0.0303,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2226,
+        "content_cleanup_final": 0.0189,
+        "media_svg": 0.2798,
+        "youtube": 0.0179,
+        "content_assembly": 0.3589,
+        "monetization": 0.046,
+        "quality_write": 0.0304
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_document_authenticat_1ab9aa_archive_placement_7d7a05",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4715,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1961,
+        "content_cleanup_final": 0.0177,
+        "media_svg": 0.7307,
+        "youtube": 0.0095,
+        "content_assembly": 0.3307,
+        "monetization": 1.1553,
+        "quality_write": 0.0311
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_fascist_ufo_files_e2e7f2_document_event_proof_8ff4d2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9625,
+      "phases": {
+        "preparation": 0.0166,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.191,
+        "content_cleanup_final": 0.0171,
+        "media_svg": 0.2918,
+        "youtube": 0.0107,
+        "content_assembly": 0.3485,
+        "monetization": 0.0473,
+        "quality_write": 0.039
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_document_authenticat_1ab9aa_blue_book_custody_d213f8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0992,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2019,
+        "content_cleanup_final": 0.0228,
+        "media_svg": 0.7038,
+        "youtube": 0.012,
+        "content_assembly": 0.3741,
+        "monetization": 0.7469,
+        "quality_write": 0.0371
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_fascist_ufo_files_e2e7f2_fascist_censorship_c_87c34c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.992,
+      "phases": {
+        "preparation": 0.0166,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1881,
+        "content_cleanup_final": 0.0178,
+        "media_svg": 0.2789,
+        "youtube": 0.0122,
+        "content_assembly": 0.3845,
+        "monetization": 0.0603,
+        "quality_write": 0.0331
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_nasa_data_problem_d6b89b_magenta_anonymous_do_725fb2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9777,
+      "phases": {
+        "preparation": 0.0165,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1765,
+        "content_cleanup_final": 0.0144,
+        "media_svg": 0.2952,
+        "youtube": 0.0319,
+        "content_assembly": 0.3654,
+        "monetization": 0.046,
+        "quality_write": 0.0315
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_nasa_data_problem_d6b89b_magenta_reproducible_cb7ae2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0026,
+      "phases": {
+        "preparation": 0.0157,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2159,
+        "content_cleanup_final": 0.0169,
+        "media_svg": 0.2999,
+        "youtube": 0.0169,
+        "content_assembly": 0.3614,
+        "monetization": 0.0443,
+        "quality_write": 0.0311
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_nasa_data_problem_d6b89b_uap_missing_metadata_4f1b19",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9827,
+      "phases": {
+        "preparation": 0.0166,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.183,
+        "content_cleanup_final": 0.0173,
+        "media_svg": 0.2993,
+        "youtube": 0.0172,
+        "content_assembly": 0.3703,
+        "monetization": 0.0467,
+        "quality_write": 0.0318
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_nasa_data_problem_d6b89b_unidentified_not_ali_becdd7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9962,
+      "phases": {
+        "preparation": 0.0157,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2149,
+        "content_cleanup_final": 0.0137,
+        "media_svg": 0.311,
+        "youtube": 0.0106,
+        "content_assembly": 0.3586,
+        "monetization": 0.0417,
+        "quality_write": 0.0296
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_pinotti_documents_21e30d_anonymous_mailing_so_cd77e2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9875,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2029,
+        "content_cleanup_final": 0.0136,
+        "media_svg": 0.2863,
+        "youtube": 0.0392,
+        "content_assembly": 0.3517,
+        "monetization": 0.0455,
+        "quality_write": 0.031
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_pinotti_documents_21e30d_cisu_archivist_criti_906d11",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0548,
+      "phases": {
+        "preparation": 0.0164,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2626,
+        "content_cleanup_final": 0.0201,
+        "media_svg": 0.3027,
+        "youtube": 0.0196,
+        "content_assembly": 0.3519,
+        "monetization": 0.0476,
+        "quality_write": 0.0332
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_pinotti_documents_21e30d_missing_archive_mark_0bf7c7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0857,
+      "phases": {
+        "preparation": 0.0161,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2761,
+        "content_cleanup_final": 0.0171,
+        "media_svg": 0.2933,
+        "youtube": 0.0196,
+        "content_assembly": 0.3721,
+        "monetization": 0.0503,
+        "quality_write": 0.0409
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_pinotti_documents_21e30d_old_paper_official_r_d32eb6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0548,
+      "phases": {
+        "preparation": 0.0164,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.2485,
+        "content_cleanup_final": 0.0182,
+        "media_svg": 0.3226,
+        "youtube": 0.0102,
+        "content_assembly": 0.3593,
+        "monetization": 0.0463,
+        "quality_write": 0.0325
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_pinotti_documents_21e30d_pinotti_photocopy_li_dd1343",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0626,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2736,
+        "content_cleanup_final": 0.0139,
+        "media_svg": 0.3167,
+        "youtube": 0.0149,
+        "content_assembly": 0.35,
+        "monetization": 0.0438,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_pinotti_documents_21e30d_ufo_publication_path_e45546",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0295,
+      "phases": {
+        "preparation": 0.0159,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2556,
+        "content_cleanup_final": 0.0202,
+        "media_svg": 0.2871,
+        "youtube": 0.0158,
+        "content_assembly": 0.3573,
+        "monetization": 0.0456,
+        "quality_write": 0.0316
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_aaro_official_view_8814fc_kona_blue_circular_r_01e6b1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0203,
+      "phases": {
+        "preparation": 0.016,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2438,
+        "content_cleanup_final": 0.017,
+        "media_svg": 0.3042,
+        "youtube": 0.0117,
+        "content_assembly": 0.3503,
+        "monetization": 0.0444,
+        "quality_write": 0.0324
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_aaro_official_view_8814fc_missing_us_custody_t_a433f6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0064,
+      "phases": {
+        "preparation": 0.018,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2186,
+        "content_cleanup_final": 0.022,
+        "media_svg": 0.2905,
+        "youtube": 0.0142,
+        "content_assembly": 0.3634,
+        "monetization": 0.0455,
+        "quality_write": 0.0336
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_aaro_official_view_8814fc_nasa_evidence_standa_dcf049",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9707,
+      "phases": {
+        "preparation": 0.0158,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.207,
+        "content_cleanup_final": 0.0191,
+        "media_svg": 0.2833,
+        "youtube": 0.0148,
+        "content_assembly": 0.3549,
+        "monetization": 0.0427,
+        "quality_write": 0.0327
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_aaro_official_view_8814fc_scepticism_not_absen_75016e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9132,
+      "phases": {
+        "preparation": 0.0157,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1548,
+        "content_cleanup_final": 0.018,
+        "media_svg": 0.291,
+        "youtube": 0.0114,
+        "content_assembly": 0.3468,
+        "monetization": 0.0438,
+        "quality_write": 0.0313
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_april_1945_siai_capt_320cf5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9417,
+      "phases": {
+        "preparation": 0.0159,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1797,
+        "content_cleanup_final": 0.0202,
+        "media_svg": 0.2754,
+        "youtube": 0.0137,
+        "content_assembly": 0.3482,
+        "monetization": 0.0551,
+        "quality_write": 0.0331
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_nineteen_44_timeline_6b248c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8925,
+      "phases": {
+        "preparation": 0.0165,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1667,
+        "content_cleanup_final": 0.0147,
+        "media_svg": 0.2646,
+        "youtube": 0.0107,
+        "content_assembly": 0.3425,
+        "monetization": 0.0457,
+        "quality_write": 0.0307
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_oss_transfer_records_971012",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8938,
+      "phases": {
+        "preparation": 0.0158,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1814,
+        "content_cleanup_final": 0.0183,
+        "media_svg": 0.2874,
+        "youtube": 0.0154,
+        "content_assembly": 0.345,
+        "monetization": 0.9992,
+        "quality_write": 0.0308
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_pinotti_grusch_versi_087ba1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9174,
+      "phases": {
+        "preparation": 0.0163,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1604,
+        "content_cleanup_final": 0.0149,
+        "media_svg": 0.2742,
+        "youtube": 0.0248,
+        "content_assembly": 0.3493,
+        "monetization": 0.0446,
+        "quality_write": 0.0325
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_vatican_back_channel_68b52e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8854,
+      "phases": {
+        "preparation": 0.0157,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1566,
+        "content_cleanup_final": 0.0153,
+        "media_svg": 0.2723,
+        "youtube": 0.0124,
+        "content_assembly": 0.3416,
+        "monetization": 0.0399,
+        "quality_write": 0.0312
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_vergiate_sesto_stora_ba4d40",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.88,
+      "phases": {
+        "preparation": 0.0158,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1372,
+        "content_cleanup_final": 0.0154,
+        "media_svg": 0.2834,
+        "youtube": 0.014,
+        "content_assembly": 0.3389,
+        "monetization": 0.0438,
+        "quality_write": 0.0311
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935_magenta_location_dri_0933c4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9615,
+      "phases": {
+        "preparation": 0.0164,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1395,
+        "content_cleanup_final": 0.0139,
+        "media_svg": 0.28,
+        "youtube": 0.0119,
+        "content_assembly": 0.3926,
+        "monetization": 0.0741,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935_magenta_milan_distan_39c044",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9519,
+      "phases": {
+        "preparation": 0.016,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1526,
+        "content_cleanup_final": 0.0115,
+        "media_svg": 0.2752,
+        "youtube": 0.0142,
+        "content_assembly": 0.4047,
+        "monetization": 0.0485,
+        "quality_write": 0.0288
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935_malpensa_aviation_be_ae7f37",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9649,
+      "phases": {
+        "preparation": 0.0157,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.213,
+        "content_cleanup_final": 0.0104,
+        "media_svg": 0.2855,
+        "youtube": 0.0148,
+        "content_assembly": 0.3481,
+        "monetization": 0.0473,
+        "quality_write": 0.0297
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_magenta_vs_roswell_5988a2_magenta_preroswell_s_307978",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9813,
+      "phases": {
+        "preparation": 0.0161,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2118,
+        "content_cleanup_final": 0.0132,
+        "media_svg": 0.2954,
+        "youtube": 0.0186,
+        "content_assembly": 0.3518,
+        "monetization": 0.0419,
+        "quality_write": 0.0321
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935_milan_transport_link_71d098",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3752,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1645,
+        "content_cleanup_final": 0.0172,
+        "media_svg": 0.2994,
+        "youtube": 0.0146,
+        "content_assembly": 0.3427,
+        "monetization": 1.4909,
+        "quality_write": 0.0281
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_magenta_vs_roswell_5988a2_magenta_roswell_reco_3f471b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9525,
+      "phases": {
+        "preparation": 0.0193,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2105,
+        "content_cleanup_final": 0.0157,
+        "media_svg": 0.2749,
+        "youtube": 0.0159,
+        "content_assembly": 0.3425,
+        "monetization": 0.0417,
+        "quality_write": 0.0317
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_magenta_vs_roswell_5988a2_project_mogul_roswel_ad2ec0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4311,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1859,
+        "content_cleanup_final": 0.0187,
+        "media_svg": 0.2834,
+        "youtube": 0.0098,
+        "content_assembly": 0.3465,
+        "monetization": 0.5379,
+        "quality_write": 0.0313
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_magenta_vs_roswell_5988a2_roswell_public_rever_f02461",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9165,
+      "phases": {
+        "preparation": 0.0158,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1665,
+        "content_cleanup_final": 0.0167,
+        "media_svg": 0.2896,
+        "youtube": 0.01,
+        "content_assembly": 0.3404,
+        "monetization": 0.0429,
+        "quality_write": 0.0343
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_magenta_vs_roswell_5988a2_roswell_witness_cycl_c2f3d6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9037,
+      "phases": {
+        "preparation": 0.0154,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1654,
+        "content_cleanup_final": 0.0172,
+        "media_svg": 0.2842,
+        "youtube": 0.0101,
+        "content_assembly": 0.3419,
+        "monetization": 0.04,
+        "quality_write": 0.029
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59_die_glocke_template_8e66bf",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9556,
+      "phases": {
+        "preparation": 0.0159,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1703,
+        "content_cleanup_final": 0.0177,
+        "media_svg": 0.3006,
+        "youtube": 0.0161,
+        "content_assembly": 0.3444,
+        "monetization": 0.0591,
+        "quality_write": 0.0312
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59_paperclip_confusion_43f9f9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.911,
+      "phases": {
+        "preparation": 0.0167,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1619,
+        "content_cleanup_final": 0.0161,
+        "media_svg": 0.2786,
+        "youtube": 0.0118,
+        "content_assembly": 0.3387,
+        "monetization": 0.0563,
+        "quality_write": 0.0304
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_object_descriptions_7204e5_magenta_translation_81870e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8697,
+      "phases": {
+        "preparation": 0.0158,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1528,
+        "content_cleanup_final": 0.0093,
+        "media_svg": 0.2851,
+        "youtube": 0.0171,
+        "content_assembly": 0.3226,
+        "monetization": 0.0391,
+        "quality_write": 0.0275
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_alien_bodies_claims_fb6300_aaro_body_recovery_l_81505d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9242,
+      "phases": {
+        "preparation": 0.0155,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1708,
+        "content_cleanup_final": 0.0215,
+        "media_svg": 0.2886,
+        "youtube": 0.0108,
+        "content_assembly": 0.344,
+        "monetization": 0.0417,
+        "quality_write": 0.031
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_alien_bodies_claims_fb6300_biologics_language_g_d54ce2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9249,
+      "phases": {
+        "preparation": 0.0163,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 1.1474,
+        "content_cleanup_final": 0.0081,
+        "media_svg": 0.2761,
+        "youtube": 0.0158,
+        "content_assembly": 0.3253,
+        "monetization": 0.1022,
+        "quality_write": 0.0335
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_alien_bodies_claims_fb6300_magenta_body_evidenc_14b71b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9794,
+      "phases": {
+        "preparation": 0.0158,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.178,
+        "content_cleanup_final": 0.0135,
+        "media_svg": 0.2755,
+        "youtube": 0.013,
+        "content_assembly": 0.411,
+        "monetization": 0.041,
+        "quality_write": 0.0311
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_alien_bodies_claims_fb6300_magenta_source_stack_23f60d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2688,
+      "phases": {
+        "preparation": 0.0161,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1687,
+        "content_cleanup_final": 0.0154,
+        "media_svg": 0.2678,
+        "youtube": 0.0116,
+        "content_assembly": 0.3385,
+        "monetization": 1.4173,
+        "quality_write": 0.033
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_alien_bodies_claims_fb6300_roswell_body_lore_co_e387b7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.126,
+      "phases": {
+        "preparation": 0.0157,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 1.1284,
+        "content_cleanup_final": 0.0077,
+        "media_svg": 0.2724,
+        "youtube": 0.0094,
+        "content_assembly": 0.3198,
+        "monetization": 1.343,
+        "quality_write": 0.0293
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_alien_bodies_claims_fb6300_magenta_body_witness_d6b9da",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.074,
+      "phases": {
+        "preparation": 0.0154,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2081,
+        "content_cleanup_final": 0.0168,
+        "media_svg": 0.2766,
+        "youtube": 0.0101,
+        "content_assembly": 0.3363,
+        "monetization": 2.1794,
+        "quality_write": 0.031
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_crash_retrieval_patt_e228ef_reverse_engineering_17a70d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8975,
+      "phases": {
+        "preparation": 0.0159,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1595,
+        "content_cleanup_final": 0.0205,
+        "media_svg": 0.2779,
+        "youtube": 0.0105,
+        "content_assembly": 0.3417,
+        "monetization": 0.0403,
+        "quality_write": 0.0309
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_crash_retrieval_patt_e228ef_secret_compartments_03cf5b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8806,
+      "phases": {
+        "preparation": 0.0165,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.151,
+        "content_cleanup_final": 0.0156,
+        "media_svg": 0.2779,
+        "youtube": 0.0102,
+        "content_assembly": 0.3324,
+        "monetization": 0.0456,
+        "quality_write": 0.0311
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_crash_retrieval_patt_e228ef_kecksburg_retrieval_c5ad74",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8262,
+      "phases": {
+        "preparation": 0.016,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1536,
+        "content_cleanup_final": 0.0167,
+        "media_svg": 0.2739,
+        "youtube": 0.01,
+        "content_assembly": 0.3423,
+        "monetization": 0.9804,
+        "quality_write": 0.0329
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59_belluzzo_turboproiet_37047b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8762,
+      "phases": {
+        "preparation": 0.0158,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1407,
+        "content_cleanup_final": 0.0144,
+        "media_svg": 0.2687,
+        "youtube": 0.0149,
+        "content_assembly": 0.3348,
+        "monetization": 0.0562,
+        "quality_write": 0.0303
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59_campini_reverse_engi_494907",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9105,
+      "phases": {
+        "preparation": 0.0151,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1416,
+        "content_cleanup_final": 0.0142,
+        "media_svg": 0.2787,
+        "youtube": 0.0099,
+        "content_assembly": 0.3339,
+        "monetization": 0.085,
+        "quality_write": 0.0318
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59_v_weapons_credibilit_81a587",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8259,
+      "phases": {
+        "preparation": 0.0157,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1502,
+        "content_cleanup_final": 0.0163,
+        "media_svg": 0.1747,
+        "youtube": 0.009,
+        "content_assembly": 0.3332,
+        "monetization": 0.0948,
+        "quality_write": 0.0316
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_object_descriptions_7204e5_magenta_1936_blendin_d8853d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8456,
+      "phases": {
+        "preparation": 0.0154,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 1.1299,
+        "content_cleanup_final": 0.0141,
+        "media_svg": 0.2806,
+        "youtube": 0.0096,
+        "content_assembly": 0.3274,
+        "monetization": 0.0392,
+        "quality_write": 0.029
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_object_descriptions_7204e5_magenta_saucer_label_738601",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8149,
+      "phases": {
+        "preparation": 0.0159,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 1.1184,
+        "content_cleanup_final": 0.0068,
+        "media_svg": 0.2784,
+        "youtube": 0.0101,
+        "content_assembly": 0.315,
+        "monetization": 0.0434,
+        "quality_write": 0.0266
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_object_descriptions_7204e5_magenta_nazi_bell_mo_88a457",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9534,
+      "phases": {
+        "preparation": 0.0158,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1592,
+        "content_cleanup_final": 0.02,
+        "media_svg": 0.2811,
+        "youtube": 0.0126,
+        "content_assembly": 0.3539,
+        "monetization": 1.0783,
+        "quality_write": 0.032
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_object_descriptions_7204e5_magenta_shape_confli_a6f7f8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8707,
+      "phases": {
+        "preparation": 0.0161,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1311,
+        "content_cleanup_final": 0.0125,
+        "media_svg": 0.2873,
+        "youtube": 0.0182,
+        "content_assembly": 0.3364,
+        "monetization": 0.0394,
+        "quality_write": 0.0294
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_object_descriptions_7204e5_magenta_shape_eviden_6adf5f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8889,
+      "phases": {
+        "preparation": 0.0162,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1432,
+        "content_cleanup_final": 0.0117,
+        "media_svg": 0.2847,
+        "youtube": 0.0174,
+        "content_assembly": 0.3379,
+        "monetization": 0.0466,
+        "quality_write": 0.0308
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_physical_evidence_ga_4e2226_magenta_witness_gap_39a76f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9216,
+      "phases": {
+        "preparation": 0.0156,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1691,
+        "content_cleanup_final": 0.0166,
+        "media_svg": 0.29,
+        "youtube": 0.0179,
+        "content_assembly": 0.3365,
+        "monetization": 0.0443,
+        "quality_write": 0.0312
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef_changing_craft_descr_9081c8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2891,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 1.1338,
+        "content_cleanup_final": 0.0129,
+        "media_svg": 0.7154,
+        "youtube": 0.0143,
+        "content_assembly": 0.3271,
+        "monetization": 0.0544,
+        "quality_write": 0.0308
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef_dates_locations_conf_0dafe6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3044,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1387,
+        "content_cleanup_final": 0.0142,
+        "media_svg": 0.7039,
+        "youtube": 0.0152,
+        "content_assembly": 0.3327,
+        "monetization": 0.0688,
+        "quality_write": 0.0306
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef_expected_records_gap_a07bd7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2953,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1523,
+        "content_cleanup_final": 0.0114,
+        "media_svg": 0.7038,
+        "youtube": 0.0152,
+        "content_assembly": 0.3267,
+        "monetization": 0.0569,
+        "quality_write": 0.0285
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef_lost_dossier_photoco_0e90ac",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3318,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1362,
+        "content_cleanup_final": 0.0138,
+        "media_svg": 0.7515,
+        "youtube": 0.0113,
+        "content_assembly": 0.3316,
+        "monetization": 0.0542,
+        "quality_write": 0.0329
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef_missing_civilian_wit_044ce6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3589,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 1.164,
+        "content_cleanup_final": 0.007,
+        "media_svg": 0.7695,
+        "youtube": 0.0147,
+        "content_assembly": 0.3136,
+        "monetization": 0.0609,
+        "quality_write": 0.0289
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_supporter_arguments_2e8636_anonymous_file_trail_7ba62a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3955,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 1.2495,
+        "content_cleanup_final": 0.0135,
+        "media_svg": 0.7127,
+        "youtube": 0.014,
+        "content_assembly": 0.3225,
+        "monetization": 0.0554,
+        "quality_write": 0.0276
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_supporter_arguments_2e8636_fascist_paper_featur_637b48",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.375,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1883,
+        "content_cleanup_final": 0.0246,
+        "media_svg": 0.705,
+        "youtube": 0.0093,
+        "content_assembly": 0.3549,
+        "monetization": 0.0598,
+        "quality_write": 0.0325
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_supporter_arguments_2e8636_fascist_secrecy_limi_8dad62",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2875,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1473,
+        "content_cleanup_final": 0.0155,
+        "media_svg": 0.699,
+        "youtube": 0.0159,
+        "content_assembly": 0.3373,
+        "monetization": 0.0421,
+        "quality_write": 0.03
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_supporter_arguments_2e8636_later_retellings_mag_61fd39",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.266,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 1.1438,
+        "content_cleanup_final": 0.011,
+        "media_svg": 0.7109,
+        "youtube": 0.0124,
+        "content_assembly": 0.3221,
+        "monetization": 0.0387,
+        "quality_write": 0.0266
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_supporter_arguments_2e8636_marconi_secret_commi_79add3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3222,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.1511,
+        "content_cleanup_final": 0.0157,
+        "media_svg": 0.7306,
+        "youtube": 0.0158,
+        "content_assembly": 0.3389,
+        "monetization": 0.0391,
+        "quality_write": 0.0303
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_supporter_arguments_2e8636_siai_marchetti_hanga_f52fb1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2867,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1393,
+        "content_cleanup_final": 0.0182,
+        "media_svg": 0.7109,
+        "youtube": 0.0157,
+        "content_assembly": 0.3317,
+        "monetization": 0.0409,
+        "quality_write": 0.0295
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_crash_retrieval_patt_e228ef_custody_chain_retrie_f16b73",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9349,
+      "phases": {
+        "preparation": 0.0152,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1724,
+        "content_cleanup_final": 0.0202,
+        "media_svg": 0.2782,
+        "youtube": 0.0141,
+        "content_assembly": 0.3631,
+        "monetization": 0.0406,
+        "quality_write": 0.0307
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_crash_retrieval_patt_e228ef_delayed_leaks_retrie_6505cf",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.903,
+      "phases": {
+        "preparation": 0.0161,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1524,
+        "content_cleanup_final": 0.0201,
+        "media_svg": 0.2728,
+        "youtube": 0.0144,
+        "content_assembly": 0.3539,
+        "monetization": 0.0415,
+        "quality_write": 0.0314
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_crash_retrieval_patt_e228ef_roswell_retrieval_te_32570d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8963,
+      "phases": {
+        "preparation": 0.0155,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1428,
+        "content_cleanup_final": 0.0219,
+        "media_svg": 0.2804,
+        "youtube": 0.0109,
+        "content_assembly": 0.3362,
+        "monetization": 0.0583,
+        "quality_write": 0.0299
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_document_authenticat_1ab9aa_magenta_record_echoe_92b7eb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3134,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1696,
+        "content_cleanup_final": 0.0163,
+        "media_svg": 0.7107,
+        "youtube": 0.0101,
+        "content_assembly": 0.3363,
+        "monetization": 0.0397,
+        "quality_write": 0.0304
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_document_authenticat_1ab9aa_mj12_fake_memo_tests_0f72bf",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2702,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 1.1344,
+        "content_cleanup_final": 0.0137,
+        "media_svg": 0.7087,
+        "youtube": 0.0139,
+        "content_assembly": 0.3285,
+        "monetization": 0.0417,
+        "quality_write": 0.0289
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9_balbo_air_spectacles_b41fa6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8732,
+      "phases": {
+        "preparation": 0.0155,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1536,
+        "content_cleanup_final": 0.0167,
+        "media_svg": 0.281,
+        "youtube": 0.0084,
+        "content_assembly": 0.3282,
+        "monetization": 0.0394,
+        "quality_write": 0.0302
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9_campini_timeline_pro_0dc5de",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8788,
+      "phases": {
+        "preparation": 0.0151,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1502,
+        "content_cleanup_final": 0.017,
+        "media_svg": 0.2819,
+        "youtube": 0.0113,
+        "content_assembly": 0.3338,
+        "monetization": 0.0388,
+        "quality_write": 0.0303
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9_caproni_campini_myth_e4173f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8519,
+      "phases": {
+        "preparation": 0.0157,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1325,
+        "content_cleanup_final": 0.0138,
+        "media_svg": 0.281,
+        "youtube": 0.01,
+        "content_assembly": 0.3302,
+        "monetization": 0.0384,
+        "quality_write": 0.03
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9_guidonia_wind_tunnel_41f36f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8469,
+      "phases": {
+        "preparation": 0.0164,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1368,
+        "content_cleanup_final": 0.0123,
+        "media_svg": 0.2812,
+        "youtube": 0.0093,
+        "content_assembly": 0.3213,
+        "monetization": 0.0406,
+        "quality_write": 0.0287
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9_italian_reverse_engi_0d47fe",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8946,
+      "phases": {
+        "preparation": 0.0165,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1575,
+        "content_cleanup_final": 0.0187,
+        "media_svg": 0.2719,
+        "youtube": 0.0165,
+        "content_assembly": 0.3427,
+        "monetization": 0.0398,
+        "quality_write": 0.0303
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9_siai_marchetti_recor_721331",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8755,
+      "phases": {
+        "preparation": 0.0157,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1363,
+        "content_cleanup_final": 0.0176,
+        "media_svg": 0.2821,
+        "youtube": 0.0102,
+        "content_assembly": 0.3396,
+        "monetization": 0.0433,
+        "quality_write": 0.0305
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_physical_evidence_ga_4e2226_anonymous_files_limi_8c12cc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8686,
+      "phases": {
+        "preparation": 0.0156,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1401,
+        "content_cleanup_final": 0.0134,
+        "media_svg": 0.2901,
+        "youtube": 0.0147,
+        "content_assembly": 0.3256,
+        "monetization": 0.0406,
+        "quality_write": 0.0281
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_physical_evidence_ga_4e2226_blue_book_archive_co_ad2a40",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.876,
+      "phases": {
+        "preparation": 0.0155,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1494,
+        "content_cleanup_final": 0.0133,
+        "media_svg": 0.2825,
+        "youtube": 0.011,
+        "content_assembly": 0.3312,
+        "monetization": 0.0426,
+        "quality_write": 0.0301
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_physical_evidence_ga_4e2226_magenta_chain_of_cus_fc2ef3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8541,
+      "phases": {
+        "preparation": 0.0158,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 1.1273,
+        "content_cleanup_final": 0.0152,
+        "media_svg": 0.2826,
+        "youtube": 0.0154,
+        "content_assembly": 0.3287,
+        "monetization": 0.0401,
+        "quality_write": 0.0286
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_physical_evidence_ga_4e2226_siai_marchetti_hanga_9a7c5f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.896,
+      "phases": {
+        "preparation": 0.0154,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1627,
+        "content_cleanup_final": 0.0162,
+        "media_svg": 0.2836,
+        "youtube": 0.0143,
+        "content_assembly": 0.3319,
+        "monetization": 0.0408,
+        "quality_write": 0.0307
+      }
+    },
+    {
+      "base_name": "Alleged_Magenta_ufo_7bc4e9_physical_evidence_ga_4e2226_magenta_wreckage_sam_f37bb0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8517,
+      "phases": {
+        "preparation": 0.0153,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1429,
+        "content_cleanup_final": 0.0103,
+        "media_svg": 0.2897,
+        "youtube": 1.0034,
+        "content_assembly": 0.3239,
+        "monetization": 0.0376,
+        "quality_write": 0.0282
+      }
+    }
+  ],
+  "parallel": {
+    "enabled": true,
+    "mode": "process",
+    "worker_count": 3,
+    "workers_raw": "auto",
+    "max_workers": 3,
+    "progress_interval_seconds": 60.0,
+    "queued_rebuild_pages": 165,
+    "reused_pages": 46,
+    "rebuilt_pages": 165,
+    "error_pages": 0,
+    "page_work_wall_seconds": 128.3375,
+    "rebuilt_pages_per_minute": 77.1404,
+    "queued_rebuild_pages_per_minute": 77.1404,
+    "apparent_page_work_speedup": 2.735,
+    "process_worker_diagnostics": {
+      "completed_pages": 165,
+      "successful_pages": 165,
+      "failed_pages": 0,
+      "worker_summary": {
+        "83580": {
+          "pages": 57,
+          "successes": 57,
+          "failures": 0,
+          "total_worker_seconds": 121.1965,
+          "max_worker_seconds": 5.0573,
+          "last_base_name": "Alleged_Magenta_ufo_7bc4e9_physical_evidence_ga_4e2226_siai_marchetti_hanga_9a7c5f"
+        },
+        "62156": {
+          "pages": 54,
+          "successes": 54,
+          "failures": 0,
+          "total_worker_seconds": 119.5206,
+          "max_worker_seconds": 5.0464,
+          "last_base_name": "Alleged_Magenta_ufo_7bc4e9_physical_evidence_ga_4e2226_magenta_wreckage_sam_f37bb0"
+        },
+        "2372": {
+          "pages": 54,
+          "successes": 54,
+          "failures": 0,
+          "total_worker_seconds": 116.3047,
+          "max_worker_seconds": 4.8221,
+          "last_base_name": "Alleged_Magenta_ufo_7bc4e9_physical_evidence_ga_4e2226_magenta_chain_of_cus_fc2ef3"
+        }
+      },
+      "slowest_worker_pages": [
+        {
+          "base_name": "Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef",
+          "level": 2,
+          "success": true,
+          "worker_pid": 83580,
+          "worker_duration_seconds": 5.0573,
+          "total_seconds": 5.0157,
+          "worker_started_at_utc": "2026-06-26T10:44:31.725109Z",
+          "worker_finished_at_utc": "2026-06-26T10:44:36.740820Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_nasa_curation_contra_591b66",
+          "level": 3,
+          "success": true,
+          "worker_pid": 62156,
+          "worker_duration_seconds": 5.0464,
+          "total_seconds": 5.0122,
+          "worker_started_at_utc": "2026-06-26T10:45:19.763767Z",
+          "worker_finished_at_utc": "2026-06-26T10:45:24.776012Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Alleged_Magenta_ufo_7bc4e9_vatican_story_f31126_allied_intelligence_a2e36c",
+          "level": 3,
+          "success": true,
+          "worker_pid": 2372,
+          "worker_duration_seconds": 4.8221,
+          "total_seconds": 4.7855,
+          "worker_started_at_utc": "2026-06-26T10:44:35.734054Z",
+          "worker_finished_at_utc": "2026-06-26T10:44:40.519565Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Alleged_Magenta_ufo_7bc4e9_supporter_arguments_2e8636",
+          "level": 2,
+          "success": true,
+          "worker_pid": 62156,
+          "worker_duration_seconds": 4.5563,
+          "total_seconds": 4.5196,
+          "worker_started_at_utc": "2026-06-26T10:44:33.779012Z",
+          "worker_finished_at_utc": "2026-06-26T10:44:38.298684Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Alleged_Magenta_ufo_7bc4e9_marconi_claim_304998_marconi_burden_of_pr_92fc69",
+          "level": 3,
+          "success": true,
+          "worker_pid": 2372,
+          "worker_duration_seconds": 4.553,
+          "total_seconds": 4.5171,
+          "worker_started_at_utc": "2026-06-26T10:44:42.501300Z",
+          "worker_finished_at_utc": "2026-06-26T10:44:47.018429Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Alleged_Magenta_ufo_7bc4e9_alien_bodies_claims_fb6300_magenta_body_witness_d6b9da",
+          "level": 3,
+          "success": true,
+          "worker_pid": 83580,
+          "worker_duration_seconds": 4.1099,
+          "total_seconds": 4.074,
+          "worker_started_at_utc": "2026-06-26T10:46:00.984213Z",
+          "worker_finished_at_utc": "2026-06-26T10:46:05.058281Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Alleged_Magenta_ufo_7bc4e9_document_authenticat_1ab9aa_archive_placement_7d7a05",
+          "level": 3,
+          "success": true,
+          "worker_pid": 62156,
+          "worker_duration_seconds": 3.5076,
+          "total_seconds": 3.4715,
+          "worker_started_at_utc": "2026-06-26T10:45:32.602007Z",
+          "worker_finished_at_utc": "2026-06-26T10:45:36.073548Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935_milan_transport_link_71d098",
+          "level": 3,
+          "success": true,
+          "worker_pid": 62156,
+          "worker_duration_seconds": 3.4106,
+          "total_seconds": 3.3752,
+          "worker_started_at_utc": "2026-06-26T10:45:52.337783Z",
+          "worker_finished_at_utc": "2026-06-26T10:45:55.712989Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Alleged_Magenta_ufo_7bc4e9_alien_bodies_claims_fb6300_magenta_source_stack_23f60d",
+          "level": 3,
+          "success": true,
+          "worker_pid": 62156,
+          "worker_duration_seconds": 3.31,
+          "total_seconds": 3.2688,
+          "worker_started_at_utc": "2026-06-26T10:46:01.615392Z",
+          "worker_finished_at_utc": "2026-06-26T10:46:04.884228Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Alleged_Magenta_ufo_7bc4e9_alien_bodies_claims_fb6300_roswell_body_lore_co_e387b7",
+          "level": 3,
+          "success": true,
+          "worker_pid": 2372,
+          "worker_duration_seconds": 3.1628,
+          "total_seconds": 3.126,
+          "worker_started_at_utc": "2026-06-26T10:46:01.900252Z",
+          "worker_finished_at_utc": "2026-06-26T10:46:05.026280Z",
+          "result_merge_seconds": 0.0
+        }
+      ]
+    }
+  }
+}
