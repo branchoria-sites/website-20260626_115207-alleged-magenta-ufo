@@ -280,29 +280,29 @@ image: /assets/images/Alleged_Magenta_ufo_7bc4e9_cabinet_rs33_e30383_marconi_rs3
 
 ## Introduction
 
-Within the alleged [Cabinet]({{ 'rs-33/' | relative_url }}) RS/33 story, the claim that Guglielmo Marconi led the group is one of its most important—and most testable—elements. Marconi was not an obscure scientist but one of the world's best-known inventors, a Nobel Prize winner, president of the Royal Academy of Italy and a prominent figure within Fascist Italy. If he genuinely chaired a secret government committee investigating an anomalous recovered craft in 1933, that would significantly strengthen the historical importance of the Magenta narrative. At the same time, attaching Marconi's name raises the evidential standard. A secret project involving someone of his prominence would normally be expected to leave administrative, personal or institutional traces beyond a set of anonymously surfaced documents. That tension explains why Marconi's alleged leadership sits at the centre of debates over RS/33. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist ...August 10, 2020 — 10 Aug 2020 — This material dealt with a purported flying saucer that had either...</span></span></span>
+Within the alleged [Cabinet]({{ 'rs-33/' | relative_url }}) RS/33 story, the claim that Guglielmo Marconi led the group is one of its most important—and most testable—elements. Marconi was not an obscure scientist but one of the world's best-known inventors, a Nobel Prize winner, president of the Royal Academy of Italy and a prominent figure within Fascist Italy. If he genuinely chaired a secret government committee investigating an anomalous recovered craft in 1933, that would significantly strengthen the historical importance of the Magenta narrative. At the same time, attaching Marconi's name raises the evidential standard. A secret project involving someone of his prominence would normally be expected to leave administrative, personal or institutional traces beyond a set of anonymously surfaced documents. That tension explains why Marconi's alleged leadership sits at the centre of debates over RS/33.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist ...August 10, 2020 — 10 Aug 2020 — This material dealt with a purported flying saucer that had either...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_cabinet_rs33_e30383_marconi_rs33_leaders_4d96e2-Illustration-1-dark.svg" | relative_url }}" alt="Marconi illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_cabinet_rs33_e30383_marconi_rs33_leaders_4d96e2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_cabinet_rs33_e30383_marconi_rs33_leaders_4d96e2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Marconi is central to the claim
 
-The RS/33 narrative presented by Italian UFO researcher Roberto Pinotti describes Marconi as the scientific head of a secret Fascist cabinet created after the alleged recovery of an unidentified craft near Magenta in 1933. In this version, Benito Mussolini authorised the organisation, while Marconi directed its scientific investigation alongside senior political and military figures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist ...August 10, 2020 — 10 Aug 2020 — This material dealt with a purported flying saucer that had either...</span></span></span>
+The RS/33 narrative presented by Italian UFO researcher Roberto Pinotti describes Marconi as the scientific head of a secret Fascist cabinet created after the alleged recovery of an unidentified craft near Magenta in 1933. In this version, Benito Mussolini authorised the organisation, while Marconi directed its scientific investigation alongside senior political and military figures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist ...August 10, 2020 — 10 Aug 2020 — This material dealt with a purported flying saucer that had either...</span></span></span>
 
 Marconi is an attractive figure for such a story because he genuinely occupied positions that could make his involvement appear plausible. By 1933 he was:
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* President of the Royal Academy of Italy.(#endnote-3 "Endnote 3") <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Royal_Academy_of_Italy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Royal Academy of Italy</span><span class="citation-popover-snippet">Royal Academy of Italy</span></span></span>
+* President of the Royal Academy of Italy.(#endnote-3 "Endnote 3")<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Royal_Academy_of_Italy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Royal Academy of Italy</span><span class="citation-popover-snippet">Royal Academy of Italy</span></span></span>
 * A Nobel Prize-winning physicist and internationally recognised inventor.
 * A senator and prominent supporter of the Fascist regime.
 * Closely connected with government scientific policy and communications research.
 
 </div>
 
-These facts mean he was one of the few Italian scientists who could realistically have been asked to advise the government on an unusual technical problem. His established proximity to the regime therefore gives the RS/33 narrative an initial appearance of historical plausibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Guglielmo_Marconi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Guglielmo Marconi</span><span class="citation-popover-snippet">Guglielmo Marconi</span></span></span>
+These facts mean he was one of the few Italian scientists who could realistically have been asked to advise the government on an unusual technical problem. His established proximity to the regime therefore gives the RS/33 narrative an initial appearance of historical plausibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Guglielmo_Marconi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Guglielmo Marconi</span><span class="citation-popover-snippet">Guglielmo Marconi</span></span></span>
 
-However, genuine access to government circles is not evidence that he actually led the alleged cabinet. The historical record confirms his influence within Fascist Italy, but it does not independently confirm the existence of RS/33 itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Guglielmo_Marconi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Guglielmo Marconi</span><span class="citation-popover-snippet">Guglielmo Marconi</span></span></span>
+However, genuine access to government circles is not evidence that he actually led the alleged cabinet. The historical record confirms his influence within Fascist Italy, but it does not independently confirm the existence of RS/33 itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Guglielmo_Marconi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Guglielmo Marconi</span><span class="citation-popover-snippet">Guglielmo Marconi</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W0CCTWKh544" title="1933 Italy’s UFO Crash before Roswell. Mussolini’s Secret. Was It Taken By The US? Some Say Yes!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W0CCTWKh544" target="_blank" rel="noopener noreferrer">1933 Italy’s UFO Crash before Roswell. Mussolini’s Secret. Was It Taken By The US? Some Say Yes!</a></p><p class="youtube-embed-meta">Channel: Space The Final Frontier Above &amp; Beyond</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W0CCTWKh544" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W0CCTWKh544">Open on YouTube</a></p></div></div></div>
@@ -311,7 +311,7 @@ However, genuine access to government circles is not evidence that he actually l
 
 The strongest historical objection is not that Marconi was incapable of leading such a committee, but that historians would normally expect far more surviving documentation if he had done so.
 
-Marconi's career is unusually well documented. His work generated extensive correspondence, government appointments, Academy records, newspaper coverage and diplomatic references. The Royal Academy of Italy itself maintained institutional archives recording its activities and leadership. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Guglielmo_Marconi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Guglielmo Marconi</span><span class="citation-popover-snippet">Guglielmo Marconi</span></span></span>
+Marconi's career is unusually well documented. His work generated extensive correspondence, government appointments, Academy records, newspaper coverage and diplomatic references. The Royal Academy of Italy itself maintained institutional archives recording its activities and leadership.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Guglielmo_Marconi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Guglielmo Marconi</span><span class="citation-popover-snippet">Guglielmo Marconi</span></span></span>
 
 If Marconi had chaired an officially authorised scientific cabinet reporting directly to Mussolini, researchers might reasonably expect at least some of the following to survive:
 
@@ -326,7 +326,7 @@ If Marconi had chaired an officially authorised scientific cabinet reporting dir
 
 </div>
 
-None of these categories has yet produced an independently verified record explicitly confirming that RS/33 existed under Marconi's leadership. Instead, the public case depends primarily on documents anonymously delivered to UFO researchers during the 1990s and on later interpretations of those papers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist ...August 10, 2020 — 10 Aug 2020 — This material dealt with a purported flying saucer that had either...</span></span></span>
+None of these categories has yet produced an independently verified record explicitly confirming that RS/33 existed under Marconi's leadership. Instead, the public case depends primarily on documents anonymously delivered to UFO researchers during the 1990s and on later interpretations of those papers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist ...August 10, 2020 — 10 Aug 2020 — This material dealt with a purported flying saucer that had either...</span></span></span>
 
 This does not automatically prove the claim false. Secret programmes can leave incomplete records, especially during wartime or after regime changes. Nevertheless, the absence of corroborating archival evidence becomes more significant when the alleged participants are exceptionally prominent public figures.
 
@@ -336,22 +336,22 @@ This does not automatically prove the claim false. Secret programmes can leave i
 
 Marconi's reputation performs two opposite functions within the RS/33 story.
 
-On one hand, his scientific stature increases the narrative's credibility for some readers. A Nobel laureate leading an investigation sounds more plausible than an unknown bureaucrat doing so. His genuine interest in advanced radio technology and experimental communication also makes him an intuitive choice for a speculative research assignment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Guglielmo_Marconi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Guglielmo Marconi</span><span class="citation-popover-snippet">Guglielmo Marconi</span></span></span>
+On one hand, his scientific stature increases the narrative's credibility for some readers. A Nobel laureate leading an investigation sounds more plausible than an unknown bureaucrat doing so. His genuine interest in advanced radio technology and experimental communication also makes him an intuitive choice for a speculative research assignment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Guglielmo_Marconi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Guglielmo Marconi</span><span class="citation-popover-snippet">Guglielmo Marconi</span></span></span>
 
 On the other hand, prestige increases the burden of proof.
 
 Because Marconi was internationally famous, historians know a great deal about his public career. Extraordinary claims involving well-documented historical figures generally require correspondingly strong documentary support. The better documented a person's life is, the harder it becomes to explain the complete absence of independent evidence for an alleged activity of major governmental importance.
 
-This is why critics often focus less on whether Marconi *could* have been involved and more on why no securely authenticated contemporary record has emerged from the many archives connected with him, the Royal Academy, or the Fascist state. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — The common origin of the story is the so called &quot;Fascist...</span></span></span>
+This is why critics often focus less on whether Marconi *could* have been involved and more on why no securely authenticated contemporary record has emerged from the many archives connected with him, the Royal Academy, or the Fascist state.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — The common origin of the story is the so called &quot;Fascist...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LyQ17mQNnLI" title="VISITORS: Craig Oliver (The Magenta Project)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LyQ17mQNnLI" target="_blank" rel="noopener noreferrer">VISITORS: Craig Oliver (The Magenta Project)</a></p><p class="youtube-embed-meta">Channel: Frightday</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LyQ17mQNnLI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LyQ17mQNnLI">Open on YouTube</a></p></div></div></div>
 
 ## Later claims and attempted corroboration
 
-Interest in Marconi's alleged role increased after renewed attention to the Magenta story in 2023. Some publications and commentators highlighted family statements and magazine interviews suggesting that relatives believed Marconi participated in a secret commission. These accounts are presented by [supporters]({{ 'supporters/' | relative_url }}) as corroborating testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Secret documents suggest a suspicious cover-up</span><span class="citation-popover-snippet">Popular MechanicsResearcher Says He Has Evidence of a 1933 UFO Crash...July 6, 2023 — 6 Jul 2023 — An Italian researcher says the first...</span><span class="citation-popover-meta">Published: July 6, 2023</span></span></span>
+Interest in Marconi's alleged role increased after renewed attention to the Magenta story in 2023. Some publications and commentators highlighted family statements and magazine interviews suggesting that relatives believed Marconi participated in a secret commission. These accounts are presented by [supporters]({{ 'supporters/' | relative_url }}) as corroborating testimony.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Secret documents suggest a suspicious cover-up</span><span class="citation-popover-snippet">Popular MechanicsResearcher Says He Has Evidence of a 1933 UFO Crash...July 6, 2023 — 6 Jul 2023 — An Italian researcher says the first...</span><span class="citation-popover-meta">Published: July 6, 2023</span></span></span>
 
-Such claims, however, differ from primary archival evidence. Family recollections, interviews conducted decades after the events and magazine reports may provide leads for further investigation, but historians generally regard them as weaker evidence than authenticated government files, dated correspondence or contemporaneous official records. No broadly accepted archival discovery has yet independently verified Marconi's chairmanship of RS/33. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — The common origin of the story is the so called &quot;Fascist...</span></span></span>
+Such claims, however, differ from primary archival evidence. Family recollections, interviews conducted decades after the events and magazine reports may provide leads for further investigation, but historians generally regard them as weaker evidence than authenticated government files, dated correspondence or contemporaneous official records. No broadly accepted archival discovery has yet independently verified Marconi's chairmanship of RS/33.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — The common origin of the story is the so called &quot;Fascist...</span></span></span>
 
 ## What Marconi's alleged leadership means for assessing RS/33
 
@@ -359,201 +359,201 @@ Marconi occupies a unique position in evaluating the RS/33 claim because his inv
 
 If authenticated contemporary documentation were found showing that Italy's leading scientist chaired a secret committee studying an unidentified recovered object, it would transform the historical significance of the Magenta case. It would indicate that the Fascist government devoted high-level scientific attention to an incident currently known mainly through disputed documents.
 
-Until such corroboration appears, however, Marconi's name functions primarily as part of the internal narrative presented by RS/33 proponents rather than as independently established historical fact. His genuine status within Fascist Italy explains why the claim attracts attention, but that same status also creates a demanding evidential benchmark that the publicly available record has not yet met. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist ...August 10, 2020 — 10 Aug 2020 — This material dealt with a purported flying saucer that had either...</span></span></span>
+Until such corroboration appears, however, Marconi's name functions primarily as part of the internal narrative presented by RS/33 proponents rather than as independently established historical fact. His genuine status within Fascist Italy explains why the claim attracts attention, but that same status also creates a demanding evidential benchmark that the publicly available record has not yet met.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist ...August 10, 2020 — 10 Aug 2020 — This material dealt with a purported flying saucer that had either...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PiPeptPgLYs" title="The Magenta Project: The 1933 Italy UFO Crash-Retrieval That Changed the World -- Updated Supercut" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PiPeptPgLYs" target="_blank" rel="noopener noreferrer">The Magenta Project: The 1933 Italy UFO Crash-Retrieval That Changed the World -- Updated Supercut</a></p><p class="youtube-embed-meta">Channel: The Magenta Project - The 1933 UFO Crash in Italy</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PiPeptPgLYs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PiPeptPgLYs">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Marconi really lead RS 33?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Marconi really lead RS 33?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Helps readers compare evidence standards for extraordinary government-related UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers compare evidence standards for extraordinary government-related UFO claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Offers a framework for evaluating extraordinary historical claims using evidence and critical thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers a framework for evaluating extraordinary historical claims using evidence and critical thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explores methods of assessing UFO reports rather than accepting claims at face value.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores methods of assessing UFO reports rather than accepting claims at face value.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
         
-        <p class="fr-book-desc">First published 2011.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LATEST SCANDAL 1913 John Bernard Partridge Marconi Committee PUNCH CARTOON PAGE"><img src="{{ '/assets/images/marketplace-covers/a117aed990d0f5053e9f.jpg' | relative_url }}" alt="Listing image for LATEST SCANDAL 1913 John Bernard Partridge Marconi Committee PUNCH CARTOON PAGE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer">LATEST SCANDAL 1913 John Bernard Partridge Marconi Committee PUNCH CARTOON PAGE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Marconi portrait print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Marconi portrait print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LATEST SCANDAL 1913 John Bernard Partridge Marconi Committee PUNCH CARTOON PAGE"><img src="{{ '/assets/images/marketplace-covers/a117aed990d0f5053e9f.jpg' | relative_url }}" alt="Listing image for LATEST SCANDAL 1913 John Bernard Partridge Marconi Committee PUNCH CARTOON PAGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer">LATEST SCANDAL 1913 John Bernard Partridge Marconi Committee PUNCH CARTOON PAGE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Marconi portrait print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Marconi portrait print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MARCONI OCTOPUS 1913 Leonard Raven-Hill PUNCH CARTOON PAGE"><img src="{{ '/assets/images/marketplace-covers/a53a06a04f5729b0da28.jpg' | relative_url }}" alt="Listing image for MARCONI OCTOPUS 1913 Leonard Raven-Hill PUNCH CARTOON PAGE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer">MARCONI OCTOPUS 1913 Leonard Raven-Hill PUNCH CARTOON PAGE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Marconi portrait print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Marconi portrait print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MARCONI OCTOPUS 1913 Leonard Raven-Hill PUNCH CARTOON PAGE"><img src="{{ '/assets/images/marketplace-covers/a53a06a04f5729b0da28.jpg' | relative_url }}" alt="Listing image for MARCONI OCTOPUS 1913 Leonard Raven-Hill PUNCH CARTOON PAGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer">MARCONI OCTOPUS 1913 Leonard Raven-Hill PUNCH CARTOON PAGE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Marconi portrait print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Marconi portrait print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Guglielmo Marconi Pop Art Portrait Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16d8840898dba2b9ffd0.jpg' | relative_url }}" alt="Listing image for Guglielmo Marconi Pop Art Portrait Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer">Guglielmo Marconi Pop Art Portrait Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Marconi portrait print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Marconi portrait print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Guglielmo Marconi Pop Art Portrait Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16d8840898dba2b9ffd0.jpg' | relative_url }}" alt="Listing image for Guglielmo Marconi Pop Art Portrait Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer">Guglielmo Marconi Pop Art Portrait Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Marconi portrait print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Marconi portrait print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo:Guglielmo Marconi Portrait in White Uniform 1917"><img src="{{ '/assets/images/marketplace-covers/70408712dd22f1850318.jpg' | relative_url }}" alt="Listing image for Photo:Guglielmo Marconi Portrait in White Uniform 1917" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer">Photo:Guglielmo Marconi Portrait in White Uniform 1917</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Marconi portrait print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Marconi portrait print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo:Guglielmo Marconi Portrait in White Uniform 1917"><img src="{{ '/assets/images/marketplace-covers/70408712dd22f1850318.jpg' | relative_url }}" alt="Listing image for Photo:Guglielmo Marconi Portrait in White Uniform 1917" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer">Photo:Guglielmo Marconi Portrait in White Uniform 1917</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Marconi portrait print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Marconi portrait print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="marconi-0f5182-did-marconi-really-lead-rs-33-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -569,7 +569,7 @@ Until such corroboration appears, however, Marconi's name functions primarily as
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -589,7 +589,7 @@ Until such corroboration appears, however, Marconi's name functions primarily as
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -621,7 +621,7 @@ Until such corroboration appears, however, Marconi's name functions primarily as
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -673,7 +673,7 @@ Until such corroboration appears, however, Marconi's name functions primarily as
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -718,7 +718,7 @@ Until such corroboration appears, however, Marconi's name functions primarily as
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -759,94 +759,94 @@ Until such corroboration appears, however, Marconi's name functions primarily as
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: theblackvault.com  
    Title: TH E UFO FILES OF MUSSOLINI: Fascist  
-   Link: <a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-[fascist-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-[fascist-ufo-files</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE UFO FILES OF MUSSOLINI: Fascist...August 10, 2020 — 10 Aug 2020 — This material dealt with a purported flying saucer that had either...</p></details>
+   Link:<a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-[fascist-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-[fascist-ufo-files</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE UFO FILES OF MUSSOLINI: Fascist...August 10, 2020 — 10 Aug 2020 — This material dealt with a purported flying saucer that had either...</p></details>
    Published: August 10, 2020  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Guglielmo Marconi  
-   Link: <a href="https://en.wikipedia.org/wiki/Guglielmo_Marconi" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Guglielmo_Marconi</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Guglielmo_Marconi" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Guglielmo_Marconi</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Royal Academy of Italy  
-   Link: <a href="https://en.wikipedia.org/wiki/Royal_Academy_of_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Royal_Academy_of_Italy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Royal_Academy_of_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Royal_Academy_of_Italy</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — The common origin of the story is the so called &quot;Fascist...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — The common origin of the story is the so called &quot;Fascist...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: UFO sightings in Italy  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in Italy... RS/33, that allegedly was authorized by Benito Mussolini, and headed by the Nobel scientist Guglielmo Marcon...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in Italy... RS/33, that allegedly was authorized by Benito Mussolini, and headed by the Nobel scientist Guglielmo Marcon...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: popularmechanics.com  
    Title: Secret documents suggest a suspicious cover-up  
-   Link: <a href="https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Popular MechanicsResearcher Says He Has Evidence of a 1933 UFO Crash...July 6, 2023 — 6 Jul 2023 — An Italian researcher says the first...</p></details>
+   Link:<a href="https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Popular MechanicsResearcher Says He Has Evidence of a 1933 UFO Crash...July 6, 2023 — 6 Jul 2023 — An Italian researcher says the first...</p></details>
    Published: July 6, 2023  
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40EscapeVelocity1/1933-magenta-italy-discussions-by-john-ramirez-and-robert-salas-and-jesse-michels-talking-about-fd28c8da2def" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40EscapeVelocity1/1933-magenta-italy-discussions-by-john-ramirez-and-robert-salas-and-jesse-michels-talking-about-fd28c8da2def</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1933 Magenta, Italy discussions by John Ramirez and...According to the “Fascist UFO Files” that P?notti received, the RS/33 was founded...</p></details>
+   Link:<a href="https://medium.com/%40EscapeVelocity1/1933-magenta-italy-discussions-by-john-ramirez-and-robert-salas-and-jesse-michels-talking-about-fd28c8da2def" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40EscapeVelocity1/1933-magenta-italy-discussions-by-john-ramirez-and-robert-salas-and-jesse-michels-talking-about-fd28c8da2def</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1933 Magenta, Italy discussions by John Ramirez and...According to the “Fascist UFO Files” that P?notti received, the RS/33 was founded...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/oz5syr/marconi_companies_connection_to_the_ufo_phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/oz5syr/marconi_companies_connection_to_the_ufo_phenomenon/</a>  
+   Link:<a href="https://www.reddit.com/r/ufo/comments/oz5syr/marconi_companies_connection_to_the_ufo_phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/oz5syr/marconi_companies_connection_to_the_ufo_phenomenon/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: wantedinrome.com  
    Title: the crash that predated [roswell](&#123;&#123; 'roswell/' | relative_url &#125;&#125;) mussolinis secret ufo files  
-   Link: <a href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...2 Mar 2026 — If the story is true, it predates the 1947 Roswell incident by fo...</p></details>
+   Link:<a href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...2 Mar 2026 — If the story is true, it predates the 1947 Roswell incident by fo...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: fearandwine.com  
-   Link: <a href="https://www.fearandwine.com/post/signal-lost-the-marconi-thread" target="_blank" rel="noopener noreferrer nofollow">https://www.fearandwine.com/post/signal-lost-the-marconi-thread</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Signal Lost: The Marconi Thread | Fear and Wine Podcast13 Jun 2026 — In 1923, Marconi joined Benito Mussolini&#x27;s National Fascist Party...</p></details>
+   Link:<a href="https://www.fearandwine.com/post/signal-lost-the-marconi-thread" target="_blank" rel="noopener noreferrer nofollow">https://www.fearandwine.com/post/signal-lost-the-marconi-thread</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Signal Lost: The Marconi Thread | Fear and Wine Podcast13 Jun 2026 — In 1923, Marconi joined Benito Mussolini&#x27;s National Fascist Party...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: interestingengineering.com  
    Title: worlds first ufo crash happened in italy claim  
-   Link: <a href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow">https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interesting EngineeringWorld&#x27;s first UFO crash happened in Italy, 14 years before...10 Jul 2023 — The world&#x27;s first crash of an unidenti...</p></details>
+   Link:<a href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow">https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interesting EngineeringWorld&#x27;s first UFO crash happened in Italy, 14 years before...10 Jul 2023 — The world&#x27;s first crash of an unidenti...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
    Title: italy recovered a ufo in 1933 family members  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1ch9y8d/italy_recovered_a_ufo_in_1933_family_members/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1ch9y8d/italy_recovered_a_ufo_in_1933_family_members/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Italy recovered a UFO in 1933: family members confirm that...Guglielmo Marconi was put in charge of RS/33 researching the 1933 Magenta...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1ch9y8d/italy_recovered_a_ufo_in_1933_family_members/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1ch9y8d/italy_recovered_a_ufo_in_1933_family_members/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Italy recovered a UFO in 1933: family members confirm that...Guglielmo Marconi was put in charge of RS/33 researching the 1933 Magenta...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=W0CCTWKh544" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W0CCTWKh544</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1933 Magenta UFO crash Mussolini Cabinet RS/33 La VERA STORIA dell&#x27;UFO di MUSSOLINI AstroViktor...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=W0CCTWKh544" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W0CCTWKh544</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1933 Magenta UFO crash Mussolini Cabinet RS/33 La VERA STORIA dell&#x27;UFO di MUSSOLINI AstroViktor...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: unilad.com  
    Title: worlds first ufo crash 250661 20230703  
-   Link: <a href="https://www.unilad.com/news/worlds-first-ufo-crash-250661-20230703" target="_blank" rel="noopener noreferrer nofollow">https://www.unilad.com/news/worlds-first-ufo-crash-250661-20230703</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Researcher has incredible evidence files surrounding...3 Jul 2023 — He alleges that the group was called RS/33 and was headed up by Gugl...</p></details>
+   Link:<a href="https://www.unilad.com/news/worlds-first-ufo-crash-250661-20230703" target="_blank" rel="noopener noreferrer nofollow">https://www.unilad.com/news/worlds-first-ufo-crash-250661-20230703</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Researcher has incredible evidence files surrounding...3 Jul 2023 — He alleges that the group was called RS/33 and was headed up by Gugl...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sofmag.com  
    Title: ufo crash magenta italy 1933  
-   Link: <a href="https://sofmag.com/ufo-crash-magenta-italy-1933/" target="_blank" rel="noopener noreferrer nofollow">https://sofmag.com/ufo-crash-magenta-italy-1933/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mussolini&#x27;s UFO file: The 1933 Magenta Crash Declassified9 Nov 2025 — The RS/33 reports noted DNA-like structures in the Magenta occupant...</p></details>
+   Link:<a href="https://sofmag.com/ufo-crash-magenta-italy-1933/" target="_blank" rel="noopener noreferrer nofollow">https://sofmag.com/ufo-crash-magenta-italy-1933/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mussolini&#x27;s UFO file: The 1933 Magenta Crash Declassified9 Nov 2025 — The RS/33 reports noted DNA-like structures in the Magenta occupant...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: VISITORS: Craig Oliver (The Magenta Project)  
-   Link: <a href="https://www.youtube.com/watch?v=LyQ17mQNnLI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LyQ17mQNnLI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Magenta Project: The 1933 Italy UFO Crash-Retrieval That Changed the World -- Updated Supercut...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LyQ17mQNnLI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LyQ17mQNnLI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Magenta Project: The 1933 Italy UFO Crash-Retrieval That Changed the World -- Updated Supercut...</p></details>

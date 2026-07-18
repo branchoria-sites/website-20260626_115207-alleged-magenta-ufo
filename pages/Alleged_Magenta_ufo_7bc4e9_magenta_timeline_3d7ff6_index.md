@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /alleged-magenta-ufo-7bc4e9-magenta/
 description: Focused pages that expand on Timeline.
-date: '2026-06-26'
+date: '2026'
 layout: default
 parent_basename: Alleged_Magenta_ufo_7bc4e9_magenta_timeline_3d7ff6
 parent_title: Timeline
@@ -16,7 +16,7 @@ parent_permalink: /timeline/
 
 # Explore Topics in Timeline
 
-The following pages expand on the main **[Timeline]({{ '/timeline/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Timeline]({{ '/timeline/' | relative_url }})** page and cover its key branches in.
 
 - [1990 s Batches]({{ '/1990-s-batches/' | relative_url }})
 - [April vs June]({{ '/april-vs-june/' | relative_url }})

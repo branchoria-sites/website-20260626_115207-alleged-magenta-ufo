@@ -280,13 +280,13 @@ image: /assets/images/Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9_sesto_cal
 
 ## Introduction
 
-When the alleged 1933 Magenta UFO crash is discussed, [later retellings]({{ 'later-retellings/' | relative_url }}) often point to [SIAI-Marchetti]({{ 'siai/' | relative_url }}) hangars at Vergiate as the supposed storage location for recovered wreckage. A closer look at the company's history, however, suggests that **Sesto Calende provides the stronger historical aviation setting**. Long before the alleged incident, Sesto Calende was already the established home of SIAI (Società Idrovolanti Alta Italia), with its seaplane base, workshops, flying school and engineering workforce on Lake Maggiore. That does not validate the UFO story itself, but it does make Sesto Calende a more firmly documented industrial backdrop than references that rely exclusively on Vergiate. The distinction matters because it separates what is historically verifiable from what remains part of an unproven legend. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+When the alleged 1933 Magenta UFO crash is discussed, [later retellings]({{ 'later-retellings/' | relative_url }}) often point to [SIAI-Marchetti]({{ 'siai/' | relative_url }}) hangars at Vergiate as the supposed storage location for recovered wreckage. A closer look at the company's history, however, suggests that **Sesto Calende provides the stronger historical aviation setting**. Long before the alleged incident, Sesto Calende was already the established home of SIAI (Società Idrovolanti Alta Italia), with its seaplane base, workshops, flying school and engineering workforce on Lake Maggiore. That does not validate the UFO story itself, but it does make Sesto Calende a more firmly documented industrial backdrop than references that rely exclusively on Vergiate. The distinction matters because it separates what is historically verifiable from what remains part of an unproven legend.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9_sesto_calende_siai_s_de0938-Illustration-1-dark.svg" | relative_url }}" alt="Sesto Base illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9_sesto_calende_siai_s_de0938-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9_sesto_calende_siai_s_de0938-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Sesto Calende Fits the Story Better
 
-The central historical fact is straightforward: SIAI was founded in 1915 and established its operations at Sesto Calende, where it specialised in seaplane production. The company name itself—Società Idrovolanti Alta Italia ("Upper Italy Seaplane Company")—reflected this early focus. Its facilities on Lake Maggiore became one of Italy's principal centres for naval [aviation]({{ 'aviation/' | relative_url }}) during and after the First World War, giving the town an established aviation identity well before the early 1930s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+The central historical fact is straightforward: SIAI was founded in 1915 and established its operations at Sesto Calende, where it specialised in seaplane production. The company name itself—Società Idrovolanti Alta Italia ("Upper Italy Seaplane Company")—reflected this early focus. Its facilities on Lake Maggiore became one of Italy's principal centres for naval [aviation]({{ 'aviation/' | relative_url }}) during and after the First World War, giving the town an established aviation identity well before the early 1930s.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 This chronology is important for assessing the Magenta narrative. If a secret programme had sought an existing aeronautical complex capable of handling an unusual aircraft, Sesto Calende already possessed the essential ingredients:
 
@@ -300,7 +300,7 @@ This chronology is important for assessing the Magenta narrative. If a secret pr
 
 </div>
 
-These characteristics are historical facts independent of any UFO claim. They explain why Sesto Calende represents a more securely documented industrial setting than later simplified references that mention only "SIAI-Marchetti at [Vergiate]({{ 'vergiate/' | relative_url }})". <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+These characteristics are historical facts independent of any UFO claim. They explain why Sesto Calende represents a more securely documented industrial setting than later simplified references that mention only "SIAI-Marchetti at [Vergiate]({{ 'vergiate/' | relative_url }})".<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ri8BHxcJYfw" title="The 1933 UFO Crash in Magenta, Italy w/ Michael Armentor | XK Podcast Ep. 013" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ri8BHxcJYfw" target="_blank" rel="noopener noreferrer">The 1933 UFO Crash in Magenta, Italy w/ Michael Armentor | XK Podcast Ep. 013</a></p><p class="youtube-embed-meta">Channel: Xpanded Knowledge &middot; Views: 261 &middot; Uploaded: October 2025 &middot; Length: 1 hour 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ri8BHxcJYfw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ri8BHxcJYfw">Open on YouTube</a></p></div></div></div>
@@ -309,7 +309,7 @@ These characteristics are historical facts independent of any UFO claim. They ex
 
 Sesto Calende was not merely the company's registered location. It functioned as a complete aviation centre.
 
-From its earliest years, SIAI combined manufacturing with pilot training and testing on Lake Maggiore, whose sheltered waters made it particularly suitable for flying boats and seaplanes. During the inter-war period the company expanded rapidly, producing military and civilian aircraft that became well known in Italian aviation history. By the 1930s Sesto Calende had acquired decades of accumulated technical expertise rather than being a newly created industrial site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+From its earliest years, SIAI combined manufacturing with pilot training and testing on Lake Maggiore, whose sheltered waters made it particularly suitable for flying boats and seaplanes. During the inter-war period the company expanded rapidly, producing military and civilian aircraft that became well known in Italian aviation history. By the 1930s Sesto Calende had acquired decades of accumulated technical expertise rather than being a newly created industrial site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 That continuity is significant because the alleged Magenta incident is usually dated to 1933. Regardless of whether the crash story is accepted or rejected, the documented existence of an established aircraft manufacturer at Sesto Calende is not in dispute.
 
@@ -332,7 +332,7 @@ An established aircraft factory would have offered several advantages if officia
 
 </div>
 
-These features explain why aviation historians view Sesto Calende as an authentic industrial landscape, irrespective of whether any extraordinary object was ever taken there. The infrastructure is real even if the claimed purpose remains unsupported. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+These features explain why aviation historians view Sesto Calende as an authentic industrial landscape, irrespective of whether any extraordinary object was ever taken there. The infrastructure is real even if the claimed purpose remains unsupported.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 This distinction helps avoid a common logical error in discussions of the Magenta case. Demonstrating that suitable facilities existed does **not** demonstrate that an extraterrestrial craft was stored there. It merely shows that the location would have been more plausible than an isolated rural site if officials had wanted secure technical storage.
 
@@ -342,9 +342,9 @@ This distinction helps avoid a common logical error in discussions of the Magent
 
 The geography becomes less clear in later UFO literature.
 
-Roberto Pinotti's published account initially refers to hangars at Vergiate but also reproduces Alfredo Lissoni's hypothesis that the object may have been hidden at **Vergiate or Sesto Calende**. That shift is notable because it broadens the location from one specific site to the wider SIAI industrial district in the Varese area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">UFO was stored in the hangars of the SIAI Marchetti in Vergiate ...Read more</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist ...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Robert...</span></span></span>
+Roberto Pinotti's published account initially refers to hangars at Vergiate but also reproduces Alfredo Lissoni's hypothesis that the object may have been hidden at **Vergiate or Sesto Calende**. That shift is notable because it broadens the location from one specific site to the wider SIAI industrial district in the Varese area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">UFO was stored in the hangars of the SIAI Marchetti in Vergiate ...Read more</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist ...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Robert...</span></span></span>
 
-This broader [wording]({{ 'wording/' | relative_url }}) probably reflects the reality that SIAI's operations expanded over time. Modern readers often associate the company with Vergiate because later manufacturing and testing became concentrated there. Yet the company's historical roots—and therefore its strongest documented connection before the alleged 1933 incident—remain firmly tied to Sesto Calende. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+This broader [wording]({{ 'wording/' | relative_url }}) probably reflects the reality that SIAI's operations expanded over time. Modern readers often associate the company with Vergiate because later manufacturing and testing became concentrated there. Yet the company's historical roots—and therefore its strongest documented connection before the alleged 1933 incident—remain firmly tied to Sesto Calende.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 As a result, later retellings sometimes collapse several neighbouring aviation locations into a single mental picture, even though their development occurred at different stages in the company's history.
 
@@ -360,13 +360,13 @@ The historical record supports several uncontested points:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* SIAI was already established at Sesto Calende before 1933.(#endnote-3 "Endnote 3") <span class="citation-chip-wrap"><a class="citation-chip" href="https://it.wikipedia.org/wiki/Sesto_Calende" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sesto Calende</span><span class="citation-popover-snippet">Sesto Calende</span></span></span>
+* SIAI was already established at Sesto Calende before 1933.(#endnote-3 "Endnote 3")<span class="citation-chip-wrap"><a class="citation-chip" href="https://it.wikipedia.org/wiki/Sesto_Calende" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sesto Calende</span><span class="citation-popover-snippet">Sesto Calende</span></span></span>
 * The town was an important Italian aviation centre on Lake Maggiore.
-* Aircraft manufacturing, engineering expertise and secure aeronautical facilities unquestionably existed there. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+* Aircraft manufacturing, engineering expertise and secure aeronautical facilities unquestionably existed there.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 </div>
 
-What remains unverified is the separate claim that a non-human or otherwise extraordinary craft was ever recovered, transported or stored at those facilities. Investigations into the alleged Fascist-era documents have produced substantial criticism, with historians and sceptical investigators arguing that the documentary evidence contains significant inconsistencies and may be modern fabrications. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://it.wikipedia.org/wiki/Incidente_di_Magenta" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente di Magenta</span><span class="citation-popover-snippet">Incidente di Magenta</span></span></span>
+What remains unverified is the separate claim that a non-human or otherwise extraordinary craft was ever recovered, transported or stored at those facilities. Investigations into the alleged Fascist-era documents have produced substantial criticism, with historians and sceptical investigators arguing that the documentary evidence contains significant inconsistencies and may be modern fabrications.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://it.wikipedia.org/wiki/Incidente_di_Magenta" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente di Magenta</span><span class="citation-popover-snippet">Incidente di Magenta</span></span></span>
 
 For that reason, Sesto Calende should be understood not as evidence that the alleged Magenta crash occurred, but as the **best-supported historical aviation backdrop** within the story. It represents a genuine, well-documented centre of Italian aircraft production whose existence is independent of the UFO narrative, making it a stronger geographical fit than later simplified references that rely solely on Vergiate.
 
@@ -374,194 +374,194 @@ For that reason, Sesto Calende should be understood not as evidence that the all
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9_sesto_calende_siai_s_de0938-Illustration-3-dark.svg" | relative_url }}" alt="Sesto Base illustration 3" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9_sesto_calende_siai_s_de0938-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9_sesto_calende_siai_s_de0938-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Sesto Calende Fits the Story Better. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Sesto Calende Fits the Story Better. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a grounded, evidence-focused framework for assessing historical UFO claims such as the alleged 1933 Magenta story.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a grounded, evidence-focused framework for assessing historical UFO claims such as the alleged 1933 Magenta story.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines notable UFO claims while encouraging critical evaluation of evidence and sources.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines notable UFO claims while encouraging critical evaluation of evidence and sources.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Offers historical context and investigative methods useful when separating documented facts from legend.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers historical context and investigative methods useful when separating documented facts from legend.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
-        </h4>
-        <p class="fr-book-author">By Mark Pilkington</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
+</h4>
+<p class="fr-book-author">By Mark Pilkington</p>
         
-        <p class="fr-book-desc">Explores how intelligence, rumor and retellings can reshape UFO narratives over time.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how intelligence, rumor and retellings can reshape UFO narratives over time.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sesto-base-why-sesto-calende-fits-the-story-better-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -577,7 +577,7 @@ For that reason, Sesto Calende should be understood not as evidence that the all
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -597,7 +597,7 @@ For that reason, Sesto Calende should be understood not as evidence that the all
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -629,7 +629,7 @@ For that reason, Sesto Calende should be understood not as evidence that the all
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -681,7 +681,7 @@ For that reason, Sesto Calende should be understood not as evidence that the all
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -726,7 +726,7 @@ For that reason, Sesto Calende should be understood not as evidence that the all
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -767,89 +767,89 @@ For that reason, Sesto Calende should be understood not as evidence that the all
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/SIAI-Marchetti</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/SIAI-Marchetti</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Incidente di Magenta  
-   Link: <a href="https://it.wikipedia.org/wiki/Incidente_di_Magenta" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Incidente_di_Magenta</a>  
+   Link:<a href="https://it.wikipedia.org/wiki/Incidente_di_Magenta" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Incidente_di_Magenta</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Sesto Calende  
-   Link: <a href="https://it.wikipedia.org/wiki/Sesto_Calende" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Sesto_Calende</a>  
+   Link:<a href="https://it.wikipedia.org/wiki/Sesto_Calende" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Sesto_Calende</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Vergiate" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Vergiate</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Vergiate" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Vergiate</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: UFO sightings in Italy  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in ItalyThis is a list of alleged sightings of unidentified flying objects or UFOs in Italy. Contents. 1 100 BC; 2 91 BC...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in ItalyThis is a list of alleged sightings of unidentified flying objects or UFOs in Italy. Contents. 1 100 BC; 2 91 BC...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: theblackvault.com  
-   Link: <a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-[fascist-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-[fascist-ufo-files</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Robert...</p></details>
+   Link:<a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-[fascist-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-[fascist-ufo-files</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Robert...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1b023cx/the_1933_italian_ufo_incident_which_helped_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b023cx/the_1933_italian_ufo_incident_which_helped_to/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1b023cx/the_1933_italian_ufo_incident_which_helped_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b023cx/the_1933_italian_ufo_incident_which_helped_to/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: metabunk.org  
    Title: claim a ufo crashed in 1933 italy and the us recovered it.13282  
-   Link: <a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating around UFO...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating around UFO...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: antoniolagrotta.eu  
-   Link: <a href="https://www.antoniolagrotta.eu/projects/see-flying-saucers-are-real-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.antoniolagrotta.eu/projects/see-flying-saucers-are-real-1.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Italy). On the ground remained the wreckage of the alleged UFO and the body of the two pilots.... Pinotti said that...Read more...</p></details>
+   Link:<a href="https://www.antoniolagrotta.eu/projects/see-flying-saucers-are-real-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.antoniolagrotta.eu/projects/see-flying-saucers-are-real-1.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Italy). On the ground remained the wreckage of the alleged UFO and the body of the two pilots.... Pinotti said that...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: wantedinrome.com  
    Title: the crash that predated [roswell](&#123;&#123; 'roswell/' | relative_url &#125;&#125;) mussolinis secret ufo files  
-   Link: <a href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...2 Mar 2026 — In one instance, an Italian fighter plane intercepted a UFO betwe...</p></details>
+   Link:<a href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...2 Mar 2026 — In one instance, an Italian fighter plane intercepted a UFO betwe...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Arrivo del S-55 del comandante Maddalena a Sesto Calende  
-   Link: <a href="https://www.youtube.com/watch?v=2LP9nXetkc4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2LP9nXetkc4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mussolini&#x27;s UFO story is relevant because it evaluates the historical timeline and structural background of the 1933 Magenta case, includ...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2LP9nXetkc4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2LP9nXetkc4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mussolini&#x27;s UFO story is relevant because it evaluates the historical timeline and structural background of the 1933 Magenta case, includ...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Secret UFO Files of Fascist Italy | Mussolini's UFO Cabinet RS/33 Revealed  
-   Link: <a href="https://www.youtube.com/watch?v=eKZ2U3lkJ9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eKZ2U3lkJ9o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 UFO Crash in Magenta, Italy w/ Michael Armentor | XK Podcast Ep. 013...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eKZ2U3lkJ9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eKZ2U3lkJ9o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 UFO Crash in Magenta, Italy w/ Michael Armentor | XK Podcast Ep. 013...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ri8BHxcJYfw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ri8BHxcJYfw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Italy&#x27;s Weird &amp; Wonderful Twin-Hull Flying Boats | Savoia-Marchetti S.55...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ri8BHxcJYfw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ri8BHxcJYfw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Italy&#x27;s Weird &amp; Wonderful Twin-Hull Flying Boats | Savoia-Marchetti S.55...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchomnia.blogspot.com  
-   Link: <a href="https://researchomnia.blogspot.com/2017/04/the-truth-about-ufo-in-1933-italy.html" target="_blank" rel="noopener noreferrer nofollow">https://researchomnia.blogspot.com/2017/04/the-truth-about-ufo-in-1933-italy.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE TRUTH ABOUT THE UFO IN 1933 ITALY12 Apr 2017 — The UFO problem was created after WW2, mainly after the famous Roswell crash....but in...</p></details>
+   Link:<a href="https://researchomnia.blogspot.com/2017/04/the-truth-about-ufo-in-1933-italy.html" target="_blank" rel="noopener noreferrer nofollow">https://researchomnia.blogspot.com/2017/04/the-truth-about-ufo-in-1933-italy.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE TRUTH ABOUT THE UFO IN 1933 ITALY12 Apr 2017 — The UFO problem was created after WW2, mainly after the famous Roswell crash....but in...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sofmag.com  
    Title: ufo crash magenta italy 1933  
-   Link: <a href="https://sofmag.com/ufo-crash-magenta-italy-1933/" target="_blank" rel="noopener noreferrer nofollow">https://sofmag.com/ufo-crash-magenta-italy-1933/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the pre-dawn haze of June 13, 1933, a quiet field near Magenta, Italy erupted...Read more...</p></details>
+   Link:<a href="https://sofmag.com/ufo-crash-magenta-italy-1933/" target="_blank" rel="noopener noreferrer nofollow">https://sofmag.com/ufo-crash-magenta-italy-1933/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the pre-dawn haze of June 13, 1933, a quiet field near Magenta, Italy erupted...Read more...</p></details>
    Published: June 13, 1933  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: The TRUE STORY of MUSSOLINI's UFO  
-   Link: <a href="https://www.youtube.com/watch?v=HEWhhyrujGI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HEWhhyrujGI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Secret UFO Files of Fascist Italy | Mussolini&#x27;s UFO Cabinet RS/33 Revealed...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HEWhhyrujGI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HEWhhyrujGI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Secret UFO Files of Fascist Italy | Mussolini&#x27;s UFO Cabinet RS/33 Revealed...</p></details>

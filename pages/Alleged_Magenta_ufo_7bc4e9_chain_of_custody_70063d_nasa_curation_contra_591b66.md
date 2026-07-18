@@ -286,7 +286,7 @@ Claims about recovered extraterrestrial wreckage are often discussed as though u
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_nasa_curation_contra_591b66-Illustration-1-dark.svg" | relative_url }}" alt="NASA Contrast illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_nasa_curation_contra_591b66-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_nasa_curation_contra_591b66-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How NASA plans sample custody before collection
 
-NASA's Astromaterials Acquisition and Curation programme treats provenance as part of the scientific instrument rather than an administrative afterthought. Mission planners begin designing curation systems years before launch, defining how samples will be collected, packaged, transported, stored and ultimately distributed for research. This planning is integrated into the mission itself rather than added after the samples return. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13973" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Materials Archive and Witnesses.Read more</span><span class="citation-popover-snippet">Wiley Online LibraryCuration planning and facilities for asteroid Bennu samples...by K Righter · 2023 · Cited by 28 — Like curation plan...</span></span></span>
+NASA's Astromaterials Acquisition and Curation programme treats provenance as part of the scientific instrument rather than an administrative afterthought. Mission planners begin designing curation systems years before launch, defining how samples will be collected, packaged, transported, stored and ultimately distributed for research. This planning is integrated into the mission itself rather than added after the samples return.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13973" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Materials Archive and Witnesses.Read more</span><span class="citation-popover-snippet">Wiley Online LibraryCuration planning and facilities for asteroid Bennu samples...by K Righter · 2023 · Cited by 28 — Like curation plan...</span></span></span>
 
 The OSIRIS-REx asteroid mission illustrates this philosophy particularly well. Long before the spacecraft reached asteroid Bennu, the mission had already developed:
 
@@ -295,15 +295,15 @@ The OSIRIS-REx asteroid mission illustrates this philosophy particularly well. L
 
 * dedicated clean-room facilities;
 * documented recovery procedures;
-* contamination-control requirements; <span class="citation-chip-wrap"><a class="citation-chip" href="https://astrobiology.com/2025/10/planning-considerations-related-to-contamination-control-for-the-return-and-analysis-of-martian-samples.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astrobiology.com">[astrobiology.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astrobiology.com</span><span class="citation-popover-snippet">Planning Considerations Related to Contamination Control for...8 Oct 2025 — The Mars 2020 Perseverance rover implemented strict contamin...</span></span></span>
+* contamination-control requirements;<span class="citation-chip-wrap"><a class="citation-chip" href="https://astrobiology.com/2025/10/planning-considerations-related-to-contamination-control-for-the-return-and-analysis-of-martian-samples.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astrobiology.com">[astrobiology.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astrobiology.com</span><span class="citation-popover-snippet">Planning Considerations Related to Contamination Control for...8 Oct 2025 — The Mars 2020 Perseverance rover implemented strict contamin...</span></span></span>
 * sample tracking protocols;
 * archival systems for every significant handling stage.
 
 </div>
 
-The goal was not simply to protect the sample but to preserve confidence in every future scientific conclusion drawn from it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13973" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Materials Archive and Witnesses.Read more</span><span class="citation-popover-snippet">Wiley Online LibraryCuration planning and facilities for asteroid Bennu samples...by K Righter · 2023 · Cited by 28 — Like curation plan...</span></span></span>
+The goal was not simply to protect the sample but to preserve confidence in every future scientific conclusion drawn from it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13973" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Materials Archive and Witnesses.Read more</span><span class="citation-popover-snippet">Wiley Online LibraryCuration planning and facilities for asteroid Bennu samples...by K Righter · 2023 · Cited by 28 — Like curation plan...</span></span></span>
 
-NASA's curation office at the Johnson Space Center continues this approach across its collections, including Apollo lunar material, meteorites, comet particles, solar-wind samples and returned asteroid material. Each specimen remains associated with detailed documentation throughout its scientific life, allowing researchers decades later to reconstruct exactly how it entered the collection and what analytical procedures it has undergone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/reference/jsc-astromaterials-curation-research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA+2NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">jsc astromaterials curation research</span><span class="citation-popover-snippet">Astromaterials Curation &amp; Research22 Jan 2026 — NASA JSC provides astromaterials curation for extraterrestrial samples from the moon...</span></span></span>
+NASA's curation office at the Johnson Space Center continues this approach across its collections, including Apollo lunar material, meteorites, comet particles, solar-wind samples and returned asteroid material. Each specimen remains associated with detailed documentation throughout its scientific life, allowing researchers decades later to reconstruct exactly how it entered the collection and what analytical procedures it has undergone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/reference/jsc-astromaterials-curation-research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA+2NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">jsc astromaterials curation research</span><span class="citation-popover-snippet">Astromaterials Curation &amp; Research22 Jan 2026 — NASA JSC provides astromaterials curation for extraterrestrial samples from the moon...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7PmibyXSmKY" title="NASA Johnson Curation Lab Ready to Reveal OSIRIS-REx Asteroid Sample" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7PmibyXSmKY" target="_blank" rel="noopener noreferrer">NASA Johnson Curation Lab Ready to Reveal OSIRIS-REx Asteroid Sample</a></p><p class="youtube-embed-meta">Channel: NASA Johnson</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7PmibyXSmKY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7PmibyXSmKY">Open on YouTube</a></p></div></div></div>
@@ -312,17 +312,17 @@ NASA's curation office at the Johnson Space Center continues this approach acros
 
 One of the most revealing aspects of NASA's procedures is that they do not merely try to prevent contamination—they actively measure and document it.
 
-For OSIRIS-REx, the mission created an extensive "contamination knowledge" programme alongside conventional contamination control. Engineers archived hundreds of materials used in spacecraft construction, clean-room operations and recovery equipment because any of them might later appear as trace contaminants during laboratory analysis. Witness plates and material samples were deliberately exposed to the same environments as the returned asteroid sample so scientists could identify which substances originated on Earth rather than Bennu. Environmental samples were also collected during capsule recovery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13973" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Materials Archive and Witnesses.Read more</span><span class="citation-popover-snippet">Wiley Online LibraryCuration planning and facilities for asteroid Bennu samples...by K Righter · 2023 · Cited by 28 — Like curation plan...</span></span></span>
+For OSIRIS-REx, the mission created an extensive "contamination knowledge" programme alongside conventional contamination control. Engineers archived hundreds of materials used in spacecraft construction, clean-room operations and recovery equipment because any of them might later appear as trace contaminants during laboratory analysis. Witness plates and material samples were deliberately exposed to the same environments as the returned asteroid sample so scientists could identify which substances originated on Earth rather than Bennu. Environmental samples were also collected during capsule recovery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13973" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Materials Archive and Witnesses.Read more</span><span class="citation-popover-snippet">Wiley Online LibraryCuration planning and facilities for asteroid Bennu samples...by K Righter · 2023 · Cited by 28 — Like curation plan...</span></span></span>
 
 This distinction is important. Scientific confidence does not depend on assuming contamination never occurred. Instead, NASA records enough information to distinguish contamination from authentic extraterrestrial material later in the laboratory.
 
 The documentation therefore extends beyond the sample itself to include:
 
-* clean-room environmental records; * archived construction materials; <span class="citation-chip-wrap"><a class="citation-chip" href="https://ares.jsc.nasa.gov/missions/osiris-rex/ares-involvement.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ares.jsc.nasa.gov">[ares.jsc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ares.jsc.nasa.gov</span><span class="citation-popover-title">ares involvement</span><span class="citation-popover-snippet">OSIRIS-REx &#124; The ARES TeamHe was involved with collecting and archiving materials for contamination knowledge, design and construction...</span></span></span> * recovery-site environmental samples; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hou.usra.edu/meetings/lpsc2025/pdf/1496.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hou.usra.edu">[hou.usra.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hou.usra.edu</span><span class="citation-popover-snippet">usra.eduOSIRIS-REX CURATIONEnvironmental samples of the landing site were collected for contamination knowledge as the capsule was recove...</span></span></span>
+* clean-room environmental records; * archived construction materials;<span class="citation-chip-wrap"><a class="citation-chip" href="https://ares.jsc.nasa.gov/missions/osiris-rex/ares-involvement.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ares.jsc.nasa.gov">[ares.jsc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ares.jsc.nasa.gov</span><span class="citation-popover-title">ares involvement</span><span class="citation-popover-snippet">OSIRIS-REx &#124; The ARES TeamHe was involved with collecting and archiving materials for contamination knowledge, design and construction...</span></span></span> * recovery-site environmental samples;<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hou.usra.edu/meetings/lpsc2025/pdf/1496.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hou.usra.edu">[hou.usra.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hou.usra.edu</span><span class="citation-popover-snippet">usra.eduOSIRIS-REX CURATIONEnvironmental samples of the landing site were collected for contamination knowledge as the capsule was recove...</span></span></span>
 * witness plates exposed during transport and storage;
 * handling histories for personnel and facilities.
 
-These records allow future investigators to explain unexpected findings instead of relying on memory or inference. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13973" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Materials Archive and Witnesses.Read more</span><span class="citation-popover-snippet">Wiley Online LibraryCuration planning and facilities for asteroid Bennu samples...by K Righter · 2023 · Cited by 28 — Like curation plan...</span></span></span>
+These records allow future investigators to explain unexpected findings instead of relying on memory or inference.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13973" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Materials Archive and Witnesses.Read more</span><span class="citation-popover-snippet">Wiley Online LibraryCuration planning and facilities for asteroid Bennu samples...by K Righter · 2023 · Cited by 28 — Like curation plan...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_nasa_curation_contra_591b66-Illustration-2-dark.svg" | relative_url }}" alt="NASA Contrast illustration 2" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_nasa_curation_contra_591b66-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_nasa_curation_contra_591b66-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -347,7 +347,7 @@ NASA's procedures demonstrate several principles that are largely absent from pu
 
 Without such documentation, later laboratory examination—even if an unusual metal fragment existed—would struggle to establish that the object actually originated from the alleged 1933 event instead of another source.
 
-Another important contrast concerns future verification. NASA expects samples to be re-analysed repeatedly as analytical technology improves. Apollo rocks collected more than half a century ago continue to produce new scientific results because their provenance has been preserved while contamination has been minimised and documented. Researchers can therefore compare modern measurements with historical records in confidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/citations/20150001928" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server+2NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">NASA Technical Reports ServerJSC Advanced Curation: Research and Development...by MD Fries · 2015 — The samples are curated in a manner...</span></span></span>
+Another important contrast concerns future verification. NASA expects samples to be re-analysed repeatedly as analytical technology improves. Apollo rocks collected more than half a century ago continue to produce new scientific results because their provenance has been preserved while contamination has been minimised and documented. Researchers can therefore compare modern measurements with historical records in confidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/citations/20150001928" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server+2NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">NASA Technical Reports ServerJSC Advanced Curation: Research and Development...by MD Fries · 2015 — The samples are curated in a manner...</span></span></span>
 
 By comparison, the Magenta narrative relies primarily on alleged historical documents, recollections and later interpretations rather than on a continuously documented physical object whose handling history can be independently reconstructed.
 
@@ -369,194 +369,194 @@ Applied to the alleged Magenta wreckage, this comparison shifts the central ques
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_nasa_curation_contra_591b66-Illustration-3-dark.svg" | relative_url }}" alt="NASA Contrast illustration 3" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_nasa_curation_contra_591b66-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_nasa_curation_contra_591b66-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Real Extraterrestrial Custody Looks Like. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Real Extraterrestrial Custody Looks Like. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains why extraordinary claims require rigorous evidence and documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why extraordinary claims require rigorous evidence and documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scientific+Sherlock+Holmes%3A+Cracking+the+Case+with+Science+and+Forensics+James+O%27brien&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scientific Sherlock Holmes: Cracking the Case with Science and Forensics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8372954-M.jpg" alt="Cover for The Scientific Sherlock Holmes: Cracking the Case with Science and Forensics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Scientific+Sherlock+Holmes%3A+Cracking+the+Case+with+Science+and+Forensics+James+O%27brien&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scientific Sherlock Holmes: Cracking the Case with Science and Forensics">The Scientific Sherlock Holmes: Cracking the Case with Scienc...</a>
-        </h4>
-        <p class="fr-book-author">By James O&#x27;brien</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scientific+Sherlock+Holmes%3A+Cracking+the+Case+with+Science+and+Forensics+James+O%27brien&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scientific Sherlock Holmes: Cracking the Case with Science and Forensics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8372954-M.jpg" alt="Cover for The Scientific Sherlock Holmes: Cracking the Case with Science and Forensics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Scientific+Sherlock+Holmes%3A+Cracking+the+Case+with+Science+and+Forensics+James+O%27brien&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scientific Sherlock Holmes: Cracking the Case with Science and Forensics">The Scientific Sherlock Holmes: Cracking the Case with Scienc...</a>
+</h4>
+<p class="fr-book-author">By James O&#x27;brien</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Forensic sciences, Chemistry, forensic, Criminal investigation, Detective and mystery stories, history an...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Scientific+Sherlock+Holmes%3A+Cracking+the+Case+with+Science+and+Forensics+James+O%27brien&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Forensic sciences, Chemistry, forensic, Criminal investigation, Detective and mystery stories, history an...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Scientific+Sherlock+Holmes%3A+Cracking+the+Case+with+Science+and+Forensics+James+O%27brien&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Astrobiology+David+Catling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Astrobiology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14395310-M.jpg" alt="Cover for Astrobiology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Astrobiology+David+Catling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Astrobiology">Astrobiology</a>
-        </h4>
-        <p class="fr-book-author">By David Catling</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Astrobiology+David+Catling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Astrobiology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14395310-M.jpg" alt="Cover for Astrobiology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Astrobiology+David+Catling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Astrobiology">Astrobiology</a>
+</h4>
+<p class="fr-book-author">By David Catling</p>
         
-        <p class="fr-book-desc">First published 2013. Subjects: Exobiology, Popular works, Astrobiologie, Popular Science and Mathematics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Astrobiology+David+Catling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2013. Subjects: Exobiology, Popular works, Astrobiologie, Popular Science and Mathematics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Astrobiology+David+Catling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Packing for Mars on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Packing for Mars">Packing for Mars</a>
-        </h4>
-        <p class="fr-book-author">By Mary Roach</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Packing for Mars on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Packing for Mars">Packing for Mars</a>
+</h4>
+<p class="fr-book-author">By Mary Roach</p>
         
-        <p class="fr-book-desc">Explains the practical realities of space missions, handling procedures, and scientific operations that contrast with unsupported claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the practical realities of space missions, handling procedures, and scientific operations that contrast with unsupported claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scientific+Sherlock+Holmes%3A+Cracking+the+Case+with+Science+and+Forensics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scientific Sherlock Holmes: Cracking the Case with Science and Forensics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Astrobiology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Astrobiology</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scientific+Sherlock+Holmes%3A+Cracking+the+Case+with+Science+and+Forensics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scientific Sherlock Holmes: Cracking the Case with Science and Forensics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Astrobiology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Astrobiology</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Campo Del Cielo Meteorite 30.86g In Specimen Display Case"><img src="{{ '/assets/images/marketplace-covers/23b333f487fcd2793191.jpg' | relative_url }}" alt="Listing image for Campo Del Cielo Meteorite 30.86g In Specimen Display Case" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen" target="_blank" rel="sponsored noopener noreferrer">Campo Del Cielo Meteorite 30.86g In Specimen Display Case</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite display specimen</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Campo Del Cielo Meteorite 30.86g In Specimen Display Case"><img src="{{ '/assets/images/marketplace-covers/23b333f487fcd2793191.jpg' | relative_url }}" alt="Listing image for Campo Del Cielo Meteorite 30.86g In Specimen Display Case" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen" target="_blank" rel="sponsored noopener noreferrer">Campo Del Cielo Meteorite 30.86g In Specimen Display Case</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display specimen">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite display specimen</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NWA 869 METEORITE Stone Chondrite CARVED CUBE Display Specimen Carving"><img src="{{ '/assets/images/marketplace-covers/92d86d651ccbfa90a9e3.jpg' | relative_url }}" alt="Listing image for NWA 869 METEORITE Stone Chondrite CARVED CUBE Display Specimen Carving" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen" target="_blank" rel="sponsored noopener noreferrer">NWA 869 METEORITE Stone Chondrite CARVED CUBE Display Specimen Carving</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite display specimen</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NWA 869 METEORITE Stone Chondrite CARVED CUBE Display Specimen Carving"><img src="{{ '/assets/images/marketplace-covers/92d86d651ccbfa90a9e3.jpg' | relative_url }}" alt="Listing image for NWA 869 METEORITE Stone Chondrite CARVED CUBE Display Specimen Carving" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen" target="_blank" rel="sponsored noopener noreferrer">NWA 869 METEORITE Stone Chondrite CARVED CUBE Display Specimen Carving</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display specimen">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite display specimen</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NWA XXX Stone Meteorite Chondrite CARVED SPHERE Display Specimen Carving"><img src="{{ '/assets/images/marketplace-covers/291b93b2909d6801d7ed.jpg' | relative_url }}" alt="Listing image for NWA XXX Stone Meteorite Chondrite CARVED SPHERE Display Specimen Carving" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen" target="_blank" rel="sponsored noopener noreferrer">NWA XXX Stone Meteorite Chondrite CARVED SPHERE Display Specimen Carving</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite display specimen</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NWA XXX Stone Meteorite Chondrite CARVED SPHERE Display Specimen Carving"><img src="{{ '/assets/images/marketplace-covers/291b93b2909d6801d7ed.jpg' | relative_url }}" alt="Listing image for NWA XXX Stone Meteorite Chondrite CARVED SPHERE Display Specimen Carving" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen" target="_blank" rel="sponsored noopener noreferrer">NWA XXX Stone Meteorite Chondrite CARVED SPHERE Display Specimen Carving</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display specimen">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite display specimen</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NWA XXX Stone Meteorite Chondrite CARVED SPHERE Display Specimen Carving"><img src="{{ '/assets/images/marketplace-covers/76d72555b1be9d20a725.jpg' | relative_url }}" alt="Listing image for NWA XXX Stone Meteorite Chondrite CARVED SPHERE Display Specimen Carving" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen" target="_blank" rel="sponsored noopener noreferrer">NWA XXX Stone Meteorite Chondrite CARVED SPHERE Display Specimen Carving</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite display specimen</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NWA XXX Stone Meteorite Chondrite CARVED SPHERE Display Specimen Carving"><img src="{{ '/assets/images/marketplace-covers/76d72555b1be9d20a725.jpg' | relative_url }}" alt="Listing image for NWA XXX Stone Meteorite Chondrite CARVED SPHERE Display Specimen Carving" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen" target="_blank" rel="sponsored noopener noreferrer">NWA XXX Stone Meteorite Chondrite CARVED SPHERE Display Specimen Carving</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display specimen">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite display specimen</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="nasa-contrast-what-real-extraterrestrial-custody-looks-like-alleged-magenta-ufo-meteorite-display-specimen" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -572,7 +572,7 @@ Applied to the alleged Magenta wreckage, this comparison shifts the central ques
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -592,7 +592,7 @@ Applied to the alleged Magenta wreckage, this comparison shifts the central ques
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -624,7 +624,7 @@ Applied to the alleged Magenta wreckage, this comparison shifts the central ques
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -676,7 +676,7 @@ Applied to the alleged Magenta wreckage, this comparison shifts the central ques
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -721,7 +721,7 @@ Applied to the alleged Magenta wreckage, this comparison shifts the central ques
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -762,97 +762,97 @@ Applied to the alleged Magenta wreckage, this comparison shifts the central ques
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: onlinelibrary.wiley.com  
    Title: Materials Archive and [Witnesses](&#123;&#123; 'witnesses/' | relative_url &#125;&#125;). Read more  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13973" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13973</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryCuration planning and facilities for asteroid Bennu samples...by K Righter · 2023 · Cited by 28 — Like curation plan...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13973" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13973</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryCuration planning and facilities for asteroid Bennu samples...by K Righter · 2023 · Cited by 28 — Like curation plan...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nasa.gov  
    Title: jsc astromaterials curation research  
-   Link: <a href="https://www.nasa.gov/reference/jsc-astromaterials-curation-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/reference/jsc-astromaterials-curation-research/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Astromaterials Curation &amp; Research22 Jan 2026 — NASA JSC provides astromaterials curation for extraterrestrial samples from the moon...</p></details>
+   Link:<a href="https://www.nasa.gov/reference/jsc-astromaterials-curation-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/reference/jsc-astromaterials-curation-research/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Astromaterials Curation &amp; Research22 Jan 2026 — NASA JSC provides astromaterials curation for extraterrestrial samples from the moon...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/citations/20140000766" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20140000766</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerCuration of Osiris-REx Asteroid Samplesby K Righter · 2013 · Cited by 3 — The mission curation plan is being...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/citations/20140000766" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20140000766</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerCuration of Osiris-REx Asteroid Samplesby K Righter · 2013 · Cited by 3 — The mission curation plan is being...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/citations/20170002070" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20170002070</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerAstromaterials Curation Online Resources for Principal...by NS Todd · 2017 — The Astromaterials Curation of...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/citations/20170002070" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20170002070</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerAstromaterials Curation Online Resources for Principal...by NS Todd · 2017 — The Astromaterials Curation of...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/citations/20150001928" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20150001928</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerJSC Advanced Curation: Research and Development...by MD Fries · 2015 — The samples are curated in a manner...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/citations/20150001928" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20150001928</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerJSC Advanced Curation: Research and Development...by MD Fries · 2015 — The samples are curated in a manner...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/20180007273/downloads/20180007273.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20180007273/downloads/20180007273.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerCurating NASA&#x27;s Past, Present, and Future Extraterrestrial...by RA Zeigler · 2018 — The next sample return...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/api/citations/20180007273/downloads/20180007273.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20180007273/downloads/20180007273.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerCurating NASA&#x27;s Past, Present, and Future Extraterrestrial...by RA Zeigler · 2018 — The next sample return...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ares.jsc.nasa.gov  
    Title: ares involvement  
-   Link: <a href="https://ares.jsc.nasa.gov/missions/osiris-rex/ares-involvement.html" target="_blank" rel="noopener noreferrer nofollow">https://ares.jsc.nasa.gov/missions/osiris-rex/ares-involvement.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OSIRIS-REx | The ARES TeamHe was involved with collecting and archiving materials for contamination knowledge, design and construction...</p></details>
+   Link:<a href="https://ares.jsc.nasa.gov/missions/osiris-rex/ares-involvement.html" target="_blank" rel="noopener noreferrer nofollow">https://ares.jsc.nasa.gov/missions/osiris-rex/ares-involvement.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OSIRIS-REx | The ARES TeamHe was involved with collecting and archiving materials for contamination knowledge, design and construction...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.gov  
-   Link: <a href="https://www.science.gov/topicpages/s/sample%2Bcuration%2Bfacility" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/s/sample%2Bcuration%2Bfacility</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>sample curation facility: Topics by...JSC curation currently houses all or part of nine different sample collections: (1) Apollo samples...</p></details>
+   Link:<a href="https://www.science.gov/topicpages/s/sample%2Bcuration%2Bfacility" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/s/sample%2Bcuration%2Bfacility</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sample curation facility: Topics by...JSC curation currently houses all or part of nine different sample collections: (1) Apollo samples...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: hou.usra.edu  
-   Link: <a href="https://www.hou.usra.edu/meetings/lpsc2025/pdf/1496.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hou.usra.edu/meetings/lpsc2025/pdf/1496.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>usra.eduOSIRIS-REX CURATIONEnvironmental samples of the landing site were collected for contamination knowledge as the capsule was recove...</p></details>
+   Link:<a href="https://www.hou.usra.edu/meetings/lpsc2025/pdf/1496.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hou.usra.edu/meetings/lpsc2025/pdf/1496.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>usra.eduOSIRIS-REX CURATIONEnvironmental samples of the landing site were collected for contamination knowledge as the capsule was recove...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: astrobiology.com  
-   Link: <a href="https://astrobiology.com/2025/10/planning-considerations-related-to-contamination-control-for-the-return-and-analysis-of-martian-samples.html" target="_blank" rel="noopener noreferrer nofollow">https://astrobiology.com/2025/10/planning-considerations-related-to-contamination-control-for-the-return-and-analysis-of-martian-samples.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Planning Considerations Related to Contamination Control for...8 Oct 2025 — The Mars 2020 Perseverance rover implemented strict contamin...</p></details>
+   Link:<a href="https://astrobiology.com/2025/10/planning-considerations-related-to-contamination-control-for-the-return-and-analysis-of-martian-samples.html" target="_blank" rel="noopener noreferrer nofollow">https://astrobiology.com/2025/10/planning-considerations-related-to-contamination-control-for-the-return-and-analysis-of-martian-samples.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Planning Considerations Related to Contamination Control for...8 Oct 2025 — The Mars 2020 Perseverance rover implemented strict contamin...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cosmochemistry-papers.com  
    Title: jaxa curation for bennu samples returned by the nasas osiris rex mission  
-   Link: <a href="https://cosmochemistry-papers.com/2025/10/23/jaxa-curation-for-bennu-samples-returned-by-the-nasas-osiris-rex-mission/" target="_blank" rel="noopener noreferrer nofollow">https://cosmochemistry-papers.com/2025/10/23/jaxa-curation-for-bennu-samples-returned-by-the-nasas-osiris-rex-mission/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>JAXA curation for Bennu samples returned by the NASA&#x27;s...23 Oct 2025 — NASA&#x27;s OSIRIS-REx mission successfully collected and returned ~12...</p></details>
+   Link:<a href="https://cosmochemistry-papers.com/2025/10/23/jaxa-curation-for-bennu-samples-returned-by-the-nasas-osiris-rex-mission/" target="_blank" rel="noopener noreferrer nofollow">https://cosmochemistry-papers.com/2025/10/23/jaxa-curation-for-bennu-samples-returned-by-the-nasas-osiris-rex-mission/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JAXA curation for Bennu samples returned by the NASA&#x27;s...23 Oct 2025 — NASA&#x27;s OSIRIS-REx mission successfully collected and returned ~12...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cleanroomtechnology.com  
    Title: nasa breakthrough in astromaterials curation cleanroom monitoring 210665  
-   Link: <a href="https://cleanroomtechnology.com/nasa-breakthrough-in-astromaterials-curation-cleanroom-monitoring-210665" target="_blank" rel="noopener noreferrer nofollow">https://cleanroomtechnology.com/nasa-breakthrough-in-astromaterials-curation-cleanroom-monitoring-210665</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA breakthrough in astromaterials curation cleanroom...15 Aug 2023 — NASA has achieved a breakthrough in its extraterrestrial sample s...</p></details>
+   Link:<a href="https://cleanroomtechnology.com/nasa-breakthrough-in-astromaterials-curation-cleanroom-monitoring-210665" target="_blank" rel="noopener noreferrer nofollow">https://cleanroomtechnology.com/nasa-breakthrough-in-astromaterials-curation-cleanroom-monitoring-210665</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA breakthrough in astromaterials curation cleanroom...15 Aug 2023 — NASA has achieved a breakthrough in its extraterrestrial sample s...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
    Title: 337093483 Advanced Curation of Astromaterials for Planetary Science  
-   Link: <a href="https://www.researchgate.net/publication/337093483_Advanced_Curation_of_Astromaterials_for_Planetary_Science" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/337093483_Advanced_Curation_of_Astromaterials_for_Planetary_Science</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Curation of Astromaterials for Planetary Science7 Nov 2019 — The primary result of advanced curation research is to both reduce...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/337093483_Advanced_Curation_of_Astromaterials_for_Planetary_Science" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/337093483_Advanced_Curation_of_Astromaterials_for_Planetary_Science</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Curation of Astromaterials for Planetary Science7 Nov 2019 — The primary result of advanced curation research is to both reduce...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6350808/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6350808/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by JP Dworkin · 2017 · Cited by 83 — OSIRIS-REx will return pristine samples of carbonaceous asteroid Bennu. This article describes ho...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6350808/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6350808/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by JP Dworkin · 2017 · Cited by 83 — OSIRIS-REx will return pristine samples of carbonaceous asteroid Bennu. This article describes ho...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtu.be  
-   Link: <a href="https://youtu.be/xj0O-fLSV7c" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/xj0O-fLSV7c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Get details on the mission and where it’s headed to next: [https://science.nasa.gov/mission/osiris-rex/...&quot;](https://science.nasa.gov/mission/osiris-rex/...&quot;)...</p></details>
+   Link:<a href="https://youtu.be/xj0O-fLSV7c" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/xj0O-fLSV7c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Get details on the mission and where it’s headed to next: [https://science.nasa.gov/mission/osiris-rex/...&quot;](https://science.nasa.gov/mission/osiris-rex/...&quot;)...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Lunar Sample Laboratory Facility  
-   Link: <a href="https://en.wikipedia.org/wiki/Lunar_Sample_Laboratory_Facility" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lunar_Sample_Laboratory_Facility</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lunar Sample Laboratory FacilityThe facility preserves most of the 382 kilograms (842 lb) of lunar material returned over the course o...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Lunar_Sample_Laboratory_Facility" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lunar_Sample_Laboratory_Facility</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lunar Sample Laboratory FacilityThe facility preserves most of the 382 kilograms (842 lb) of lunar material returned over the course o...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: NASA Johnson Curation Lab Ready to Reveal OSIRIS-REx Asteroid Sample  
-   Link: <a href="https://www.youtube.com/watch?v=7PmibyXSmKY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7PmibyXSmKY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Johnson&#x27;s Astromaterials Laboratory - YouTube NASA Johnson&#x27;s Astromaterials Laboratory - YouTube...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7PmibyXSmKY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7PmibyXSmKY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Johnson&#x27;s Astromaterials Laboratory - YouTube NASA Johnson&#x27;s Astromaterials Laboratory - YouTube...</p></details>

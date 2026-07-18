@@ -307,7 +307,7 @@ This is significant because Allied governments generated extensive paperwork eve
 
 [Supporters]({{ 'supporters/' | relative_url }}) of the Magenta narrative sometimes suggest that the Office of Strategic Services (OSS), the American wartime intelligence agency that preceded the CIA, could have managed such an operation.
 
-The OSS certainly conducted clandestine work in Italy. It maintained networks with resistance groups, gathered intelligence behind enemy lines, coordinated with Allied military commands and collected scientific and industrial information. Its surviving archival collections contain substantial documentation concerning activities in Italy, neutral countries and post-war exploitation programmes. The U.S. National Archives' finding aids describe extensive OSS operational records, including files relating to intelligence collection, captured material and liaison with military agencies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/holocaust/finding-aid/military/rg-226-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesMilitary Agency Records RG 226August 15, 2016 — 15 Aug 2016 — This series contain much information on activities in neut...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
+The OSS certainly conducted clandestine work in Italy. It maintained networks with resistance groups, gathered intelligence behind enemy lines, coordinated with Allied military commands and collected scientific and industrial information. Its surviving archival collections contain substantial documentation concerning activities in Italy, neutral countries and post-war exploitation programmes. The U.S. National Archives' finding aids describe extensive OSS operational records, including files relating to intelligence collection, captured material and liaison with military agencies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/holocaust/finding-aid/military/rg-226-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesMilitary Agency Records RG 226August 15, 2016 — 15 Aug 2016 — This series contain much information on activities in neut...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
 
 The issue is not whether the OSS possessed the capability to organise secret recoveries. It unquestionably did. The issue is that no declassified OSS document has been identified that references:
 
@@ -369,7 +369,7 @@ American, British and Allied organisations documented:
 
 </div>
 
-Many of these collections have been available to researchers for decades through national archives and later declassification initiatives. Additional wartime intelligence records concerning Europe, including OSS materials and related government collections, have likewise entered the public record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/holocaust/finding-aid/military/rg-226-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives-2001.state.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesMilitary Agency Records RG 226August 15, 2016 — 15 Aug 2016 — This series contain much information on activities in neut...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
+Many of these collections have been available to researchers for decades through national archives and later declassification initiatives. Additional wartime intelligence records concerning Europe, including OSS materials and related government collections, have likewise entered the public record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/holocaust/finding-aid/military/rg-226-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives-2001.state.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesMilitary Agency Records RG 226August 15, 2016 — 15 Aug 2016 — This series contain much information on activities in neut...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
 
 This extensive archival landscape does not guarantee that every classified operation has become visible. It does, however, make the complete absence of supporting documentary traces increasingly difficult to reconcile with a large multinational recovery involving military occupation forces, intelligence agencies and Vatican intermediaries.
 
@@ -399,201 +399,201 @@ The Vatican could theoretically have served as an informal diplomatic channel wi
 
 ## Modern claims versus archival evidence
 
-Public interest in the alleged transfer increased substantially after former U.S. intelligence official David [Grusch]({{ 'grusch/' | relative_url }}) repeated claims that Pope Pius XII had passed information to the United States, allowing American forces to recover the craft near the end of the war. Grusch stated that this information had been provided to him rather than being based on documents he had personally verified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usccb.org">[USCCB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usccb.org</span><span class="citation-popover-title">Angels or aliens?</span><span class="citation-popover-snippet">Some researchers say Vatican archives...18 Jun 2024 — Grusch claimed Pope Pius XII &quot;backchanneled&quot; information to the United States abou...</span></span></span>
+Public interest in the alleged transfer increased substantially after former U.S. intelligence official David [Grusch]({{ 'grusch/' | relative_url }}) repeated claims that Pope Pius XII had passed information to the United States, allowing American forces to recover the craft near the end of the war. Grusch stated that this information had been provided to him rather than being based on documents he had personally verified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usccb.org">[USCCB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usccb.org</span><span class="citation-popover-title">Angels or aliens?</span><span class="citation-popover-snippet">Some researchers say Vatican archives...18 Jun 2024 — Grusch claimed Pope Pius XII &quot;backchanneled&quot; information to the United States abou...</span></span></span>
 
 The key historical question therefore remains unchanged. Has any independent archival evidence surfaced that links wartime Allied intelligence records to such an operation?
 
 To date, the answer remains no. Researchers have identified extensive declassified intelligence and military collections relating to Italy, wartime scientific exploitation and OSS activities, but no authenticated Allied record has been produced that corroborates the alleged recovery or transfer from Fascist Italy to the United States. This gap is one of the central evidential problems facing the Magenta narrative, because the claim describes an operation that would likely have involved multiple institutions whose surviving archives are unusually rich by Second World War standards.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Are the Allied Intelligence Files?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Are the Allied Intelligence Files?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Examines how classified military programs generate, conceal, and eventually reveal documentary evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how classified military programs generate, conceal, and eventually reveal documentary evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Frames extraordinary UFO claims around documentary evidence, official testimony, and archival standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Frames extraordinary UFO claims around documentary evidence, official testimony, and archival standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Second+World+War+Antony+Beevor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Second World War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7239351-M.jpg" alt="Cover for The Second World War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Second+World+War+Antony+Beevor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Second World War">The Second World War</a>
-        </h4>
-        <p class="fr-book-author">By Antony Beevor</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Second+World+War+Antony+Beevor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Second World War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7239351-M.jpg" alt="Cover for The Second World War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Second+World+War+Antony+Beevor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Second World War">The Second World War</a>
+</h4>
+<p class="fr-book-author">By Antony Beevor</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: World War, 1939-1945, Sino-japanese war, 1937-1945, New York Times reviewed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Second+World+War+Antony+Beevor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: World War, 1939-1945, Sino-japanese war, 1937-1945, New York Times reviewed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Second+World+War+Antony+Beevor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+sword+and+the+shield+Christopher+Andrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The sword and the shield on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/298172-M.jpg" alt="Cover for The sword and the shield" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+sword+and+the+shield+Christopher+Andrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The sword and the shield">The sword and the shield</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Andrew, Vasili Mitrokhin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+sword+and+the+shield+Christopher+Andrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The sword and the shield on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/298172-M.jpg" alt="Cover for The sword and the shield" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+sword+and+the+shield+Christopher+Andrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The sword and the shield">The sword and the shield</a>
+</h4>
+<p class="fr-book-author">By Christopher Andrew, Vasili Mitrokhin</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Intelligence service, Secret service, Foreign relations, History, Soviet Union. Komitet gosudarstvennoĭ b...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+sword+and+the+shield+Christopher+Andrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Intelligence service, Secret service, Foreign relations, History, Soviet Union. Komitet gosudarstvennoĭ b...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+sword+and+the+shield+Christopher+Andrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Second+World+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Second World War</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Second+World+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Second World War</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="allied-records-where-are-the-allied-intelligence-files-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -609,7 +609,7 @@ To date, the answer remains no. Researchers have identified extensive declassifi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -629,7 +629,7 @@ To date, the answer remains no. Researchers have identified extensive declassifi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -661,7 +661,7 @@ To date, the answer remains no. Researchers have identified extensive declassifi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -713,7 +713,7 @@ To date, the answer remains no. Researchers have identified extensive declassifi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -758,7 +758,7 @@ To date, the answer remains no. Researchers have identified extensive declassifi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -799,81 +799,81 @@ To date, the answer remains no. Researchers have identified extensive declassifi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/holocaust/finding-aid/military/rg-226-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/holocaust/finding-aid/military/rg-226-1.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesMilitary Agency Records RG 226August 15, 2016 — 15 Aug 2016 — This series contain much information on activities in neut...</p></details>
+   Link:<a href="https://www.archives.gov/research/holocaust/finding-aid/military/rg-226-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/holocaust/finding-aid/military/rg-226-1.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesMilitary Agency Records RG 226August 15, 2016 — 15 Aug 2016 — This series contain much information on activities in neut...</p></details>
    Published: August 15, 2016  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: 1997-2001.state.gov  
    Title: A FINDING AID TO RECORDS AT THE NATIONAL  
-   Link: <a href="https://1997-2001.state.gov/www/regions/eur/nginv.pdf" target="_blank" rel="noopener noreferrer nofollow">https://1997-2001.state.gov/www/regions/eur/nginv.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DRG BRADSHER · Cited by 1 — declassified almost all World War II records then at NARA. E.O. 11652 also... Allied Intelligence in World W...</p></details>
+   Link:<a href="https://1997-2001.state.gov/www/regions/eur/nginv.pdf" target="_blank" rel="noopener noreferrer nofollow">https://1997-2001.state.gov/www/regions/eur/nginv.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DRG BRADSHER · Cited by 1 — declassified almost all World War II records then at NARA. E.O. 11652 also... Allied Intelligence in World W...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: usccb.org  
    Title: Angels or aliens?  
-   Link: <a href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow">https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Some researchers say Vatican archives...18 Jun 2024 — Grusch claimed Pope Pius XII &quot;backchanneled&quot; information to the United States abou...</p></details>
+   Link:<a href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow">https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Some researchers say Vatican archives...18 Jun 2024 — Grusch claimed Pope Pius XII &quot;backchanneled&quot; information to the United States abou...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are more unusual. Early...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are more unusual. Early...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch UFO whistleblower claimsNo evidence supporting Grusch&#x27;s UFO claims has been presented, and they have been dismissed by mu...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch UFO whistleblower claimsNo evidence supporting Grusch&#x27;s UFO claims has been presented, and they have been dismissed by mu...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: irp.fas.org  
-   Link: <a href="https://irp.fas.org/news/2000/06/000626-declass-usia1.htm" target="_blank" rel="noopener noreferrer nofollow">https://irp.fas.org/news/2000/06/000626-declass-usia1.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>fas.orgText: Intelligence Records on Nazi War Crimes DeclassifiedThe documents contain general information about OSS activities worldwide...</p></details>
+   Link:<a href="https://irp.fas.org/news/2000/06/000626-declass-usia1.htm" target="_blank" rel="noopener noreferrer nofollow">https://irp.fas.org/news/2000/06/000626-declass-usia1.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fas.orgText: Intelligence Records on Nazi War Crimes DeclassifiedThe documents contain general information about OSS activities worldwide...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nypost.com  
    Title: pentagon whistleblower claims vatican helped us retrive ufo from mussolini  
-   Link: <a href="https://nypost.com/2023/06/13/pentagon-whistleblower-claims-vatican-helped-us-retrive-ufo-from-mussolini/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2023/06/13/pentagon-whistleblower-claims-vatican-helped-us-retrive-ufo-from-mussolini/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon whistleblower claims Vatican helped US retrieve...13 Jun 2023 — David Grusch, 36, an Air Force veteran and former intelligence...</p></details>
+   Link:<a href="https://nypost.com/2023/06/13/pentagon-whistleblower-claims-vatican-helped-us-retrive-ufo-from-mussolini/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2023/06/13/pentagon-whistleblower-claims-vatican-helped-us-retrive-ufo-from-mussolini/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon whistleblower claims Vatican helped US retrieve...13 Jun 2023 — David Grusch, 36, an Air Force veteran and former intelligence...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DVYMSf-CJ0F/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVYMSf-CJ0F/?hl=en-gb</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;UFO caught opening a PORTAL!!!&quot; claimed Italian citizens as they caught something strange on video.Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DVYMSf-CJ0F/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVYMSf-CJ0F/?hl=en-gb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;UFO caught opening a PORTAL!!!&quot; claimed Italian citizens as they caught something strange on video.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: wantedinrome.com  
    Title: the crash that predated [roswell](&#123;&#123; 'roswell/' | relative_url &#125;&#125;) mussolinis secret ufo files  
-   Link: <a href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...2 Mar 2026 — In one instance, an Italian fighter plane intercepted a UFO betwe...</p></details>
+   Link:<a href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...2 Mar 2026 — In one instance, an Italian fighter plane intercepted a UFO betwe...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_grusch_and_the_italian_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_grusch_and_the_italian_ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lation that Mussolini&#x27;s government retrieved a crashed UFO/UAP in 1933.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_grusch_and_the_italian_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_grusch_and_the_italian_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lation that Mussolini&#x27;s government retrieved a crashed UFO/UAP in 1933.Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/14desdy/whistleblower_david_grusch_and_the_italian_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/14desdy/whistleblower_david_grusch_and_the_italian_ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>velation that Mussolini&#x27;s government retrieved a crashed UFO/UAP...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/14desdy/whistleblower_david_grusch_and_the_italian_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/14desdy/whistleblower_david_grusch_and_the_italian_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>velation that Mussolini&#x27;s government retrieved a crashed UFO/UAP...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
    Title: the magenta crash was information of the event  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1bwdr74/the_magenta_crash_was_information_of_the_event/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bwdr74/the_magenta_crash_was_information_of_the_event/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Was information of the event the &quot;pistol held...Alleged Honey Comb debris from the San Augustin UFO crash in 1947 looks the same as the...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1bwdr74/the_magenta_crash_was_information_of_the_event/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bwdr74/the_magenta_crash_was_information_of_the_event/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Was information of the event the &quot;pistol held...Alleged Honey Comb debris from the San Augustin UFO crash in 1947 looks the same as the...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=RBAISwCZ2v0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RBAISwCZ2v0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Jesus an alien? Pope Francis&#x27; interest in UAPs explained | Reality Check with Ross Coulthart...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RBAISwCZ2v0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RBAISwCZ2v0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is Jesus an alien? Pope Francis&#x27; interest in UAPs explained | Reality Check with Ross Coulthart...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: David Grusch's Most Overlooked Statement  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1fi5qwu/david_gruschs_most_overlooked_statement_the_1933/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fi5qwu/david_gruschs_most_overlooked_statement_the_1933/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 UFO...During Joe Rogan interview, David Grusch strongly implied that 1933 Magenta Italy UFO recovery was not the first recovere...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1fi5qwu/david_gruschs_most_overlooked_statement_the_1933/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fi5qwu/david_gruschs_most_overlooked_statement_the_1933/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 UFO...During Joe Rogan interview, David Grusch strongly implied that 1933 Magenta Italy UFO recovery was not the first recovere...</p></details>

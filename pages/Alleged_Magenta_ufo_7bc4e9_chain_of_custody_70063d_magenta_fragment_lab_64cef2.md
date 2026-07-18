@@ -280,7 +280,7 @@ image: /assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_magenta
 
 ## Introduction
 
-If someone presented a metal fragment and claimed it came from the alleged 1933 Magenta UFO crash, a competent laboratory would not begin by asking whether the alloy looked unusual. It would first ask whether the sample could be traced. Modern analytical laboratories treat provenance and [chain of custody]({{ 'custody/' | relative_url }}) as part of the evidence itself because even the most sophisticated tests cannot establish where a fragment originated if its collection and handling history are unknown. International forensic practice emphasises that sample integrity depends on documented custody, secure packaging, controlled transfers and contamination prevention before any analytical work begins. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2The ANSI Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Chain of Custody in the Era of Modern Forensics</span><span class="citation-popover-snippet">by T D’Anna · 2023 · Cited by 71 — The purpose of this work is to renew the interest and attention for the chain of custody in forensi...</span></span></span>
+If someone presented a metal fragment and claimed it came from the alleged 1933 Magenta UFO crash, a competent laboratory would not begin by asking whether the alloy looked unusual. It would first ask whether the sample could be traced. Modern analytical laboratories treat provenance and [chain of custody]({{ 'custody/' | relative_url }}) as part of the evidence itself because even the most sophisticated tests cannot establish where a fragment originated if its collection and handling history are unknown. International forensic practice emphasises that sample integrity depends on documented custody, secure packaging, controlled transfers and contamination prevention before any analytical work begins.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2The ANSI Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Chain of Custody in the Era of Modern Forensics</span><span class="citation-popover-snippet">by T D’Anna · 2023 · Cited by 71 — The purpose of this work is to renew the interest and attention for the chain of custody in forensi...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_magenta_fragment_lab_64cef2-Illustration-1-dark.svg" | relative_url }}" alt="Lab Intake illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_magenta_fragment_lab_64cef2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_magenta_fragment_lab_64cef2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -306,7 +306,7 @@ Typical intake documentation would include:
 
 </div>
 
-Many laboratories also record whether the sample was received under sealed conditions, whether seal numbers match accompanying paperwork and whether discrepancies were observed during accession. Any inconsistency becomes part of the permanent laboratory record rather than being corrected informally. These procedures are standard because later analytical conclusions are only as defensible as the documentation established during intake. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://agatlabs.com/wp-content/uploads/forensics-legal-sample-handling-protocol-client-responsibilities-guide-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: agatlabs.com">[agatlabs.com+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">agatlabs.com</span><span class="citation-popover-snippet">and handling are required from receipt to sample disposition and disposal.Read more...</span></span></span>
+Many laboratories also record whether the sample was received under sealed conditions, whether seal numbers match accompanying paperwork and whether discrepancies were observed during accession. Any inconsistency becomes part of the permanent laboratory record rather than being corrected informally. These procedures are standard because later analytical conclusions are only as defensible as the documentation established during intake.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://agatlabs.com/wp-content/uploads/forensics-legal-sample-handling-protocol-client-responsibilities-guide-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: agatlabs.com">[agatlabs.com+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">agatlabs.com</span><span class="citation-popover-snippet">and handling are required from receipt to sample disposition and disposal.Read more...</span></span></span>
 
 For an alleged Magenta fragment, laboratories would almost certainly request far more historical information than they would for an ordinary industrial sample because the claimed provenance is the central scientific question.
 
@@ -332,7 +332,7 @@ A laboratory would therefore seek detailed information about:
 
 These questions matter because contamination can affect measurements of surface chemistry, corrosion products, isotopic composition and trace elements. Fingerprints, polishing compounds, machining oils, museum waxes and modern cutting tools may all leave detectable residues that complicate interpretation.
 
-Consequently, many laboratories document contamination risks before sampling begins and may photograph every surface under controlled lighting before removing even a tiny specimen. Where practical, analysts distinguish between surface contamination and interior material by carefully recording where any analytical subsample was taken. Forensic guidance similarly stresses contamination prevention through controlled handling, secure packaging and documented laboratory procedures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/document/forensic-laboratory-standards-prevention-monitoring-and-mitigation-dna-contamination" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST+2UCLan - University of Central Lancashire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">Forensic Laboratory Standards for Prevention, Monitoring,</span><span class="citation-popover-snippet">Forensic Laboratory Standards for Prevention, Monitoring...May 8, 2020 — This standard covers aspects of limiting, detecting, asses...</span><span class="citation-popover-meta">Published: May 8, 2020</span></span></span>
+Consequently, many laboratories document contamination risks before sampling begins and may photograph every surface under controlled lighting before removing even a tiny specimen. Where practical, analysts distinguish between surface contamination and interior material by carefully recording where any analytical subsample was taken. Forensic guidance similarly stresses contamination prevention through controlled handling, secure packaging and documented laboratory procedures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/document/forensic-laboratory-standards-prevention-monitoring-and-mitigation-dna-contamination" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST+2UCLan - University of Central Lancashire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">Forensic Laboratory Standards for Prevention, Monitoring,</span><span class="citation-popover-snippet">Forensic Laboratory Standards for Prevention, Monitoring...May 8, 2020 — This standard covers aspects of limiting, detecting, asses...</span><span class="citation-popover-meta">Published: May 8, 2020</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_magenta_fragment_lab_64cef2-Illustration-2-dark.svg" | relative_url }}" alt="Lab Intake illustration 2" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_magenta_fragment_lab_64cef2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_magenta_fragment_lab_64cef2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -371,7 +371,7 @@ Scientific interpretation depends on two separate questions:
 
 Laboratory instruments answer the first question far more readily than the second.
 
-An unusual composition might reflect experimental metallurgy, aerospace manufacturing, contamination, conservation treatments or incomplete comparison datasets. Without documented provenance linking the object continuously back to the alleged recovery, analytical findings cannot by themselves authenticate the historical claim. Chain-of-custody literature consistently treats traceability and analytical data as complementary rather than interchangeable forms of evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2The ANSI Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Chain of Custody in the Era of Modern Forensics</span><span class="citation-popover-snippet">by T D’Anna · 2023 · Cited by 71 — The purpose of this work is to renew the interest and attention for the chain of custody in forensi...</span></span></span>
+An unusual composition might reflect experimental metallurgy, aerospace manufacturing, contamination, conservation treatments or incomplete comparison datasets. Without documented provenance linking the object continuously back to the alleged recovery, analytical findings cannot by themselves authenticate the historical claim. Chain-of-custody literature consistently treats traceability and analytical data as complementary rather than interchangeable forms of evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2The ANSI Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Chain of Custody in the Era of Modern Forensics</span><span class="citation-popover-snippet">by T D’Anna · 2023 · Cited by 71 — The purpose of this work is to renew the interest and attention for the chain of custody in forensi...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_magenta_fragment_lab_64cef2-Illustration-3-dark.svg" | relative_url }}" alt="Lab Intake illustration 3" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_magenta_fragment_lab_64cef2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_magenta_fragment_lab_64cef2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -398,194 +398,194 @@ Absent those elements, a laboratory could still analyse the material's compositi
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Before Testing, Prove the Sample Is Traceable. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Before Testing, Prove the Sample Is Traceable. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Criminalistics+An+Introduction+to+Forensic+Science+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Criminalistics An Introduction to Forensic Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10117055-M.jpg" alt="Cover for Criminalistics An Introduction to Forensic Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Criminalistics+An+Introduction+to+Forensic+Science+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Criminalistics An Introduction to Forensic Science">Criminalistics An Introduction to Forensic Science</a>
-        </h4>
-        <p class="fr-book-author">By Richard Saferstein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Criminalistics+An+Introduction+to+Forensic+Science+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Criminalistics An Introduction to Forensic Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10117055-M.jpg" alt="Cover for Criminalistics An Introduction to Forensic Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Criminalistics+An+Introduction+to+Forensic+Science+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Criminalistics An Introduction to Forensic Science">Criminalistics An Introduction to Forensic Science</a>
+</h4>
+<p class="fr-book-author">By Richard Saferstein</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: Criminal investigation, Medical jurisprudence, Chemistry, forensic, Forensic ballistics, Forensic Chemistry.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Criminalistics+An+Introduction+to+Forensic+Science+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: Criminal investigation, Medical jurisprudence, Chemistry, forensic, Forensic ballistics, Forensic Chemistry.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Criminalistics+An+Introduction+to+Forensic+Science+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Forensic+examination+of+glass+and+paint+Brian+Caddy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensic examination of glass and paint on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1392057-M.jpg" alt="Cover for Forensic examination of glass and paint" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Forensic+examination+of+glass+and+paint+Brian+Caddy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic examination of glass and paint">Forensic examination of glass and paint</a>
-        </h4>
-        <p class="fr-book-author">By Brian Caddy</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Forensic+examination+of+glass+and+paint+Brian+Caddy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensic examination of glass and paint on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1392057-M.jpg" alt="Cover for Forensic examination of glass and paint" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Forensic+examination+of+glass+and+paint+Brian+Caddy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic examination of glass and paint">Forensic examination of glass and paint</a>
+</h4>
+<p class="fr-book-author">By Brian Caddy</p>
         
-        <p class="fr-book-desc">First published 2001. Subjects: Paint, Criminal investigation, Identification, Glass, Forensic sciences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Forensic+examination+of+glass+and+paint+Brian+Caddy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2001. Subjects: Paint, Criminal investigation, Identification, Glass, Forensic sciences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Forensic+examination+of+glass+and+paint+Brian+Caddy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Forensic+science+Stuart+H.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensic science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/644977-M.jpg" alt="Cover for Forensic science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Forensic+science+Stuart+H.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic science">Forensic science</a>
-        </h4>
-        <p class="fr-book-author">By Stuart H. James, Jon J. Nordby</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Forensic+science+Stuart+H.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensic science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/644977-M.jpg" alt="Cover for Forensic science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Forensic+science+Stuart+H.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic science">Forensic science</a>
+</h4>
+<p class="fr-book-author">By Stuart H. James, Jon J. Nordby</p>
         
-        <p class="fr-book-desc">First published 2002. Subjects: Forensic sciences, Forensische wetenschappen, Handbooks, manuals, Crime laboratories, Criminal Evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Forensic+science+Stuart+H.+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2002. Subjects: Forensic sciences, Forensische wetenschappen, Handbooks, manuals, Crime laboratories, Criminal Evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Forensic+science+Stuart+H.+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Materials+Characterization+Yang+Leng&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Materials Characterization on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12827656-M.jpg" alt="Cover for Materials Characterization" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Materials+Characterization+Yang+Leng&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Materials Characterization">Materials Characterization</a>
-        </h4>
-        <p class="fr-book-author">By Yang Leng</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Materials+Characterization+Yang+Leng&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Materials Characterization on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12827656-M.jpg" alt="Cover for Materials Characterization" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Materials+Characterization+Yang+Leng&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Materials Characterization">Materials Characterization</a>
+</h4>
+<p class="fr-book-author">By Yang Leng</p>
         
-        <p class="fr-book-desc">First published 2009. Subjects: Materials, Textbooks, Analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Materials+Characterization+Yang+Leng&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2009. Subjects: Materials, Textbooks, Analysis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Materials+Characterization+Yang+Leng&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Criminalistics+An+to+Forensic+Science+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Criminalistics An to Forensic Science books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Forensic+examination+of+glass+and+paint&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forensic examination of glass and paint</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Forensic+science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forensic science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Criminalistics+An+to+Forensic+Science+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Criminalistics An to Forensic Science books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Forensic+examination+of+glass+and+paint&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forensic examination of glass and paint</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Forensic+science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forensic science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="lab-intake-before-testing-prove-the-sample-is-traceable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -601,7 +601,7 @@ Absent those elements, a laboratory could still analyse the material's compositi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -621,7 +621,7 @@ Absent those elements, a laboratory could still analyse the material's compositi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -653,7 +653,7 @@ Absent those elements, a laboratory could still analyse the material's compositi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -705,7 +705,7 @@ Absent those elements, a laboratory could still analyse the material's compositi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -750,7 +750,7 @@ Absent those elements, a laboratory could still analyse the material's compositi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -791,82 +791,82 @@ Absent those elements, a laboratory could still analyse the material's compositi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Chain of Custody in the Era of Modern [Forensics](&#123;&#123; 'forensics/' | relative_url &#125;&#125;)  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by T D’Anna · 2023 · Cited by 71 — The purpose of this work is to renew the interest and attention for the chain of custody in forensi...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by T D’Anna · 2023 · Cited by 71 — The purpose of this work is to renew the interest and attention for the chain of custody in forensi...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: blog.ansi.org  
    Title: astm d4840 sample chain of custody procedures  
-   Link: <a href="https://blog.ansi.org/ansi/astm-d4840-sample-chain-of-custody-procedures/" target="_blank" rel="noopener noreferrer nofollow">https://blog.ansi.org/ansi/astm-d4840-sample-chain-of-custody-procedures/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The ANSI BlogASTM D4840: Sample Chain-of-Custody Procedures...3 Feb 2022 — The ASTM D4840 guide contains a comprehensive discussion of p...</p></details>
+   Link:<a href="https://blog.ansi.org/ansi/astm-d4840-sample-chain-of-custody-procedures/" target="_blank" rel="noopener noreferrer nofollow">https://blog.ansi.org/ansi/astm-d4840-sample-chain-of-custody-procedures/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The ANSI BlogASTM D4840: Sample Chain-of-Custody Procedures...3 Feb 2022 — The ASTM D4840 guide contains a comprehensive discussion of p...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: agatlabs.com  
-   Link: <a href="https://agatlabs.com/wp-content/uploads/forensics-legal-sample-handling-protocol-client-responsibilities-guide-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://agatlabs.com/wp-content/uploads/forensics-legal-sample-handling-protocol-client-responsibilities-guide-en.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and handling are required from receipt to sample disposition and disposal.Read more...</p></details>
+   Link:<a href="https://agatlabs.com/wp-content/uploads/forensics-legal-sample-handling-protocol-client-responsibilities-guide-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://agatlabs.com/wp-content/uploads/forensics-legal-sample-handling-protocol-client-responsibilities-guide-en.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and handling are required from receipt to sample disposition and disposal.Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nist.gov  
    Title: Forensic Laboratory Standards for Prevention, Monitoring,  
-   Link: <a href="https://www.nist.gov/document/forensic-laboratory-standards-prevention-monitoring-and-mitigation-dna-contamination" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/document/forensic-laboratory-standards-prevention-monitoring-and-mitigation-dna-contamination</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Laboratory Standards for Prevention, Monitoring...May 8, 2020 — This standard covers aspects of limiting, detecting, asses...</p></details>
+   Link:<a href="https://www.nist.gov/document/forensic-laboratory-standards-prevention-monitoring-and-mitigation-dna-contamination" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/document/forensic-laboratory-standards-prevention-monitoring-and-mitigation-dna-contamination</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Laboratory Standards for Prevention, Monitoring...May 8, 2020 — This standard covers aspects of limiting, detecting, asses...</p></details>
    Published: May 8, 2020  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: knowledge.lancashire.ac.uk  
-   Link: <a href="https://knowledge.lancashire.ac.uk/id/eprint/46224/1/Maintaining%20the%20Chain%20of%20Custody%20Anti-Contamination%20Measures%20for%20Trace%20DNA%20Evidence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.lancashire.ac.uk/id/eprint/46224/1/Maintaining%20the%20Chain%20of%20Custody%20Anti-Contamination%20Measures%20for%20Trace%20DNA%20Evidence.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Central LancashireAnti-contamination measures for trace DNA evidenceby SK Alketbi · 2023 · Cited by 35 — As forensic techno...</p></details>
+   Link:<a href="https://knowledge.lancashire.ac.uk/id/eprint/46224/1/Maintaining%20the%20Chain%20of%20Custody%20Anti-Contamination%20Measures%20for%20Trace%20DNA%20Evidence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.lancashire.ac.uk/id/eprint/46224/1/Maintaining%20the%20Chain%20of%20Custody%20Anti-Contamination%20Measures%20for%20Trace%20DNA%20Evidence.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of Central LancashireAnti-contamination measures for trace DNA evidenceby SK Alketbi · 2023 · Cited by 35 — As forensic techno...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Chain of Custody  
-   Link: <a href="https://www.youtube.com/watch?v=BlW6AwZ6r-s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BlW6AwZ6r-s</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Lesson: Evidence Collection &amp; Chain of Custody...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BlW6AwZ6r-s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BlW6AwZ6r-s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Lesson: Evidence Collection &amp; Chain of Custody...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/369940913_Maintaining_the_chain_of_custody_Anti-contamination_measures_for_trace_DNA_evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369940913_Maintaining_the_chain_of_custody_Anti-contamination_measures_for_trace_DNA_evidence</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Maintaining the chain of custody: Anti-contamination...11 Apr 2023 — Maintaining a clear chain of custody is critical to the admis...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/369940913_Maintaining_the_chain_of_custody_Anti-contamination_measures_for_trace_DNA_evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369940913_Maintaining_the_chain_of_custody_Anti-contamination_measures_for_trace_DNA_evidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Maintaining the chain of custody: Anti-contamination...11 Apr 2023 — Maintaining a clear chain of custody is critical to the admis...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/astm-international_forensicscience-fsps-evidence-activity-7358503064711884800-h1VM" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/astm-international_forensicscience-fsps-evidence-activity-7358503064711884800-h1VM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ASTM E30 standard for trace evidence collection and...A new standard being developed by ASTM&#x27;s forensic sciences committee (E30) aims to...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/astm-international_forensicscience-fsps-evidence-activity-7358503064711884800-h1VM" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/astm-international_forensicscience-fsps-evidence-activity-7358503064711884800-h1VM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ASTM E30 standard for trace evidence collection and...A new standard being developed by ASTM&#x27;s forensic sciences committee (E30) aims to...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: labmanager.com  
-   Link: <a href="https://www.labmanager.com/evidence-chain-of-custody-best-practices-building-trust-and-traceability-across-scientific-and-forensic-labs-34564" target="_blank" rel="noopener noreferrer nofollow">https://www.labmanager.com/evidence-chain-of-custody-best-practices-building-trust-and-traceability-across-scientific-and-forensic-labs-34564</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence Chain of Custody Best Practices for LabsLearn how to strengthen your lab&#x27;s evidence chain of custody with LIMS automation, audit...</p></details>
+   Link:<a href="https://www.labmanager.com/evidence-chain-of-custody-best-practices-building-trust-and-traceability-across-scientific-and-forensic-labs-34564" target="_blank" rel="noopener noreferrer nofollow">https://www.labmanager.com/evidence-chain-of-custody-best-practices-building-trust-and-traceability-across-scientific-and-forensic-labs-34564</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence Chain of Custody Best Practices for LabsLearn how to strengthen your lab&#x27;s evidence chain of custody with LIMS automation, audit...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ASTMInternational/posts/a-new-standard-being-developed-by-astms-forensic-sciences-committee-e30-aims-to-/1152141223612324/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ASTMInternational/posts/a-new-standard-being-developed-by-astms-forensic-sciences-committee-e30-aims-to-/1152141223612324/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>t, and store trace evidence while minimizing contamination...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/ASTMInternational/posts/a-new-standard-being-developed-by-astms-forensic-sciences-committee-e30-aims-to-/1152141223612324/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ASTMInternational/posts/a-new-standard-being-developed-by-astms-forensic-sciences-committee-e30-aims-to-/1152141223612324/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t, and store trace evidence while minimizing contamination...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: How to Complete a COC Record  
-   Link: <a href="https://www.youtube.com/watch?v=d6F6nx1HPpQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d6F6nx1HPpQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence Collection Techniques in Forensic Science...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=d6F6nx1HPpQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d6F6nx1HPpQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence Collection Techniques in Forensic Science...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Forensic Lesson: Evidence Collection & Chain of Custody  
-   Link: <a href="https://www.youtube.com/watch?v=Cap9LgT7314" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Cap9LgT7314</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Laboratory Forensic Investigation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Cap9LgT7314" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Cap9LgT7314</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laboratory Forensic Investigation...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Laboratory Forensic Investigation  
-   Link: <a href="https://www.youtube.com/watch?v=q2EzcTJ3xiY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q2EzcTJ3xiY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Complete a COC Record...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=q2EzcTJ3xiY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q2EzcTJ3xiY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Complete a COC Record...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Evidence Collection Techniques in Forensic Science  
-   Link: <a href="https://www.youtube.com/watch?v=IHHGnkDGCIQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IHHGnkDGCIQ</a>  
+   Link:<a href="https://www.youtube.com/watch?v=IHHGnkDGCIQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IHHGnkDGCIQ</a>  

@@ -280,7 +280,7 @@ image: /assets/images/Alleged_Magenta_ufo_7bc4e9_van_erp_critique_675cc5_magenta
 
 ## Introduction
 
-Within the sceptical discussion of the alleged 1933 Magenta UFO crash, one of the most useful contributions from the Metabunk forum is not a new historical discovery but a way of visualising how the modern story has grown. Rather than treating every retelling as though it reflected a single continuous tradition, contributors effectively separate the recurring motifs and ask when each first appears. The result is a "motif map": a comparison showing that many details now presented together as one coherent narrative appear to have different documentary histories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — A UFO landed or crashed in Magenta, it was taken to an ai...</span></span></span>
+Within the sceptical discussion of the alleged 1933 Magenta UFO crash, one of the most useful contributions from the Metabunk forum is not a new historical discovery but a way of visualising how the modern story has grown. Rather than treating every retelling as though it reflected a single continuous tradition, contributors effectively separate the recurring motifs and ask when each first appears. The result is a "motif map": a comparison showing that many details now presented together as one coherent narrative appear to have different documentary histories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — A UFO landed or crashed in Magenta, it was taken to an ai...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_van_erp_critique_675cc5_magenta_motif_map_c2e0d2-Illustration-1-dark.svg" | relative_url }}" alt="Motif Map illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_van_erp_critique_675cc5_magenta_motif_map_c2e0d2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_van_erp_critique_675cc5_magenta_motif_map_c2e0d2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -290,14 +290,14 @@ This perspective complements Pepijn [van Erp]({{ 'van-erp/' | relative_url }})'s
 
 Metabunk contributors compare early Italian publications by Roberto Pinotti with later interviews, documentaries and online discussions. Their observation is that today's popular version frequently combines several distinctive claims into a single package:
 
-* a recovered craft near Magenta in 1933; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[metabunk.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — A UFO landed or crashed in Magenta, it was taken to an ai...</span></span></span>
+* a recovered craft near Magenta in 1933;<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[metabunk.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — A UFO landed or crashed in Magenta, it was taken to an ai...</span></span></span>
 * Mussolini's alleged RS/33 study group;
 * later American recovery through the Office of Strategic Services;
 * secret [Vatican]({{ 'vatican/' | relative_url }}) involvement, especially Pope Pius XII;
-* a bell-shaped craft; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/the-debrief-intelligence-officials-say-u-s-has-retrieved-craft-of-non-human-origin.12977/post-291380" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[metabunk.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">David Grusch, Whistleblower, Claims U.S</span><span class="citation-popover-snippet">Has Retrieved...5 Jun 2023 — D.G.: In 1933, a bell-like craft, around ten meters in size was recovered in Magenta, northern Italy. It wa...</span></span></span>
+* a bell-shaped craft;<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/the-debrief-intelligence-officials-say-u-s-has-retrieved-craft-of-non-human-origin.12977/post-291380" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[metabunk.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">David Grusch, Whistleblower, Claims U.S</span><span class="citation-popover-snippet">Has Retrieved...5 Jun 2023 — D.G.: In 1933, a bell-like craft, around ten meters in size was recovered in Magenta, northern Italy. It wa...</span></span></span>
 * recovered non-human or "Nordic"-looking occupants.
 
-Rather than assuming these details originated together, the discussion traces each motif independently. The point is methodological: if the components have different origins and different publication histories, then their coexistence in a modern narrative does not automatically strengthen one another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — A UFO landed or crashed in Magenta, it was taken to an ai...</span></span></span>
+Rather than assuming these details originated together, the discussion traces each motif independently. The point is methodological: if the components have different origins and different publication histories, then their coexistence in a modern narrative does not automatically strengthen one another.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — A UFO landed or crashed in Magenta, it was taken to an ai...</span></span></span>
 
 This differs from evaluating whether any individual claim might be true. The focus is on transmission: how stories accumulate features over time.
 
@@ -308,13 +308,13 @@ This differs from evaluating whether any individual claim might be true. The foc
 
 The Metabunk analysis highlights several motifs that now recur across podcasts, interviews and social-media summaries despite having uneven documentary support.
 
-**The Pope and Vatican intervention.** Modern accounts often include Pope Pius XII secretly informing the United States about the recovered craft. Contributors note that this element became especially prominent after David [Grusch]({{ 'grusch/' | relative_url }})'s public statements, yet they do not find it as a central feature of the early Pinotti material describing the alleged [Fascist files]({{ 'fascist-files/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — A UFO landed or crashed in Magenta, it was taken to an ai...</span></span></span>
+**The Pope and Vatican intervention.** Modern accounts often include Pope Pius XII secretly informing the United States about the recovered craft. Contributors note that this element became especially prominent after David [Grusch]({{ 'grusch/' | relative_url }})'s public statements, yet they do not find it as a central feature of the early Pinotti material describing the alleged [Fascist files]({{ 'fascist-files/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — A UFO landed or crashed in Magenta, it was taken to an ai...</span></span></span>
 
-**The bell-shaped craft.** Grusch described a bell-like vehicle roughly ten metres across. Metabunk compares this with translations of Pinotti's earlier publications, which instead describe metallic discs, tubes or hat-like objects rather than a bell. The forum notes that "bell" imagery is already familiar within UFO culture through separate legends surrounding the supposed Nazi wonder weapon known as "Die Glocke", raising the possibility that [later retellings]({{ 'later-retellings/' | relative_url }}) absorbed an already recognisable symbol. Importantly, contributors present this as a question of source history rather than proof of borrowing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — A UFO landed or crashed in Magenta, it was taken to an ai...</span></span></span>
+**The bell-shaped craft.** Grusch described a bell-like vehicle roughly ten metres across. Metabunk compares this with translations of Pinotti's earlier publications, which instead describe metallic discs, tubes or hat-like objects rather than a bell. The forum notes that "bell" imagery is already familiar within UFO culture through separate legends surrounding the supposed Nazi wonder weapon known as "Die Glocke", raising the possibility that [later retellings]({{ 'later-retellings/' | relative_url }}) absorbed an already recognisable symbol. Importantly, contributors present this as a question of source history rather than proof of borrowing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — A UFO landed or crashed in Magenta, it was taken to an ai...</span></span></span>
 
-**American recovery.** The idea that United States intelligence ultimately acquired the craft appears in contemporary narratives, but the exact mechanism and supporting evidence vary between tellings. Metabunk therefore treats it as another motif whose documentary path deserves to be examined separately from the original RS/33 claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — A UFO landed or crashed in Magenta, it was taken to an ai...</span></span></span>
+**American recovery.** The idea that United States intelligence ultimately acquired the craft appears in contemporary narratives, but the exact mechanism and supporting evidence vary between tellings. Metabunk therefore treats it as another motif whose documentary path deserves to be examined separately from the original RS/33 claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — A UFO landed or crashed in Magenta, it was taken to an ai...</span></span></span>
 
-**Nordic or human-like occupants.** Modern online discussions sometimes include reports of blond, human-looking beings associated with Magenta. Metabunk participants note that such claims circulate within later UFO literature but are difficult to trace back to the earliest Italian documents cited by Pinotti. Instead of assuming continuity, they ask whether this is another example of later folklore attaching itself to an already popular case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — A UFO landed or crashed in Magenta, it was taken to an ai...</span></span></span>
+**Nordic or human-like occupants.** Modern online discussions sometimes include reports of blond, human-looking beings associated with Magenta. Metabunk participants note that such claims circulate within later UFO literature but are difficult to trace back to the earliest Italian documents cited by Pinotti. Instead of assuming continuity, they ask whether this is another example of later folklore attaching itself to an already popular case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — A UFO landed or crashed in Magenta, it was taken to an ai...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_van_erp_critique_675cc5_magenta_motif_map_c2e0d2-Illustration-2-dark.svg" | relative_url }}" alt="Motif Map illustration 2" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_van_erp_critique_675cc5_magenta_motif_map_c2e0d2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_van_erp_critique_675cc5_magenta_motif_map_c2e0d2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -322,11 +322,11 @@ The Metabunk analysis highlights several motifs that now recur across podcasts, 
 
 The motif map is most persuasive where it compares concrete texts rather than relying on impressions.
 
-In Pinotti's published English-language account reproduced by The Black Vault and quoted extensively on Metabunk, descriptions of anomalous objects include metallic discs, cigar- or tube-like forms and paired "hat" shapes. Contributors point out that they do not find the now-famous bell-shaped description in these earlier materials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — A UFO landed or crashed in Magenta, it was taken to an ai...</span></span></span>
+In Pinotti's published English-language account reproduced by The Black Vault and quoted extensively on Metabunk, descriptions of anomalous objects include metallic discs, cigar- or tube-like forms and paired "hat" shapes. Contributors point out that they do not find the now-famous bell-shaped description in these earlier materials.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — A UFO landed or crashed in Magenta, it was taken to an ai...</span></span></span>
 
-Likewise, while the RS/33 narrative revolves around Mussolini, anonymous Fascist documents and alleged scientific investigation, the Pope does not occupy the prominent operational role later attributed to him in modern interviews. The Vatican storyline therefore appears, from the perspective of the motif map, to represent an additional narrative layer rather than an original component demonstrably present throughout the case's publication history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — A UFO landed or crashed in Magenta, it was taken to an ai...</span></span></span>
+Likewise, while the RS/33 narrative revolves around Mussolini, anonymous Fascist documents and alleged scientific investigation, the Pope does not occupy the prominent operational role later attributed to him in modern interviews. The Vatican storyline therefore appears, from the perspective of the motif map, to represent an additional narrative layer rather than an original component demonstrably present throughout the case's publication history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — A UFO landed or crashed in Magenta, it was taken to an ai...</span></span></span>
 
-The same comparative method is applied to claims about recovered occupants. Early Italian material focuses overwhelmingly on the alleged documents, bureaucracy and aircraft recovery. Detailed descriptions of alien bodies are comparatively difficult to locate in the foundational publications that launched the Magenta story internationally. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — A UFO landed or crashed in Magenta, it was taken to an ai...</span></span></span>
+The same comparative method is applied to claims about recovered occupants. Early Italian material focuses overwhelmingly on the alleged documents, bureaucracy and aircraft recovery. Detailed descriptions of alien bodies are comparatively difficult to locate in the foundational publications that launched the Magenta story internationally.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — A UFO landed or crashed in Magenta, it was taken to an ai...</span></span></span>
 
 ## How Motif Bundling Creates False Richness
 
@@ -343,203 +343,203 @@ The mechanism works in several stages:
 3. Subsequent [retellings]({{ 'retellings/' | relative_url }}) present the combined version as though every element had always belonged together.
 4. Readers interpret the resulting complexity as evidence of depth rather than as evidence of accumulation.
 
-In this framework, the number of details becomes misleading. Instead of many independent confirmations, the audience may simply be encountering one expanding narrative that repeatedly incorporates familiar motifs from wider UFO culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — A UFO landed or crashed in Magenta, it was taken to an ai...</span></span></span>
+In this framework, the number of details becomes misleading. Instead of many independent confirmations, the audience may simply be encountering one expanding narrative that repeatedly incorporates familiar motifs from wider UFO culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — A UFO landed or crashed in Magenta, it was taken to an ai...</span></span></span>
 
 ## Why the Motif Map Matters
 
 The value of the Metabunk motif map is methodological rather than rhetorical. It does not depend on proving that every later addition is fabricated. Instead, it asks a narrower historical question: can each element be traced to early documentary evidence, or does it first become visible only after the story had already entered modern UFO folklore?
 
-That approach closely aligns with Pepijn van Erp's broader critique of later embellishment. Both analyses encourage readers to distinguish between an original documentary claim and the cumulative mythology that can develop around it. As applied to the Magenta case, the motif map suggests that recurring features such as the Pope, the bell-shaped craft, American recovery and Nordic bodies should be evaluated independently rather than accepted as mutually reinforcing simply because modern retellings present them as one seamless account. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — A UFO landed or crashed in Magenta, it was taken to an ai...</span></span></span>
+That approach closely aligns with Pepijn van Erp's broader critique of later embellishment. Both analyses encourage readers to distinguish between an original documentary claim and the cumulative mythology that can develop around it. As applied to the Magenta case, the motif map suggests that recurring features such as the Pope, the bell-shaped craft, American recovery and Nordic bodies should be evaluated independently rather than accepted as mutually reinforcing simply because modern retellings present them as one seamless account.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — A UFO landed or crashed in Magenta, it was taken to an ai...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Many Stories Became One Magenta Myth. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Many Stories Became One Magenta Myth. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains skeptical methods applicable to assessing bundled claims and unsupported motifs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains skeptical methods applicable to assessing bundled claims and unsupported motifs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides foundational context for evaluating UFO claims and how narratives develop.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides foundational context for evaluating UFO claims and how narratives develop.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Offers a contrasting perspective that helps readers compare evidence and competing narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers a contrasting perspective that helps readers compare evidence and competing narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Explores how UFO stories accumulate cultural meaning and evolve through retelling.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how UFO stories accumulate cultural meaning and evolve through retelling.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b8e82448c5ac8c1c5d76.jpg' | relative_url }}" alt="Listing image for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b8e82448c5ac8c1c5d76.jpg' | relative_url }}" alt="Listing image for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro NEW MEXICO UFO Travel Poster, ROSWELL Desert Alien Poster, Sci-Fi Santa Fe"><img src="{{ '/assets/images/marketplace-covers/2b78ede972258550fbe8.jpg' | relative_url }}" alt="Listing image for Retro NEW MEXICO UFO Travel Poster, ROSWELL Desert Alien Poster, Sci-Fi Santa Fe" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro NEW MEXICO UFO Travel Poster, ROSWELL Desert Alien Poster, Sci-Fi Santa Fe</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro NEW MEXICO UFO Travel Poster, ROSWELL Desert Alien Poster, Sci-Fi Santa Fe"><img src="{{ '/assets/images/marketplace-covers/2b78ede972258550fbe8.jpg' | relative_url }}" alt="Listing image for Retro NEW MEXICO UFO Travel Poster, ROSWELL Desert Alien Poster, Sci-Fi Santa Fe" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro NEW MEXICO UFO Travel Poster, ROSWELL Desert Alien Poster, Sci-Fi Santa Fe</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Festival 2009 Posters"><img src="{{ '/assets/images/marketplace-covers/e11455c51dee68e7b691.jpg' | relative_url }}" alt="Listing image for Roswell UFO Festival 2009 Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Festival 2009 Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Festival 2009 Posters"><img src="{{ '/assets/images/marketplace-covers/e11455c51dee68e7b691.jpg' | relative_url }}" alt="Listing image for Roswell UFO Festival 2009 Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Festival 2009 Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="motif-map-how-many-stories-became-one-magenta-myth-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -555,7 +555,7 @@ That approach closely aligns with Pepijn van Erp's broader critique of later emb
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -575,7 +575,7 @@ That approach closely aligns with Pepijn van Erp's broader critique of later emb
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -607,7 +607,7 @@ That approach closely aligns with Pepijn van Erp's broader critique of later emb
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -659,7 +659,7 @@ That approach closely aligns with Pepijn van Erp's broader critique of later emb
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -704,7 +704,7 @@ That approach closely aligns with Pepijn van Erp's broader critique of later emb
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -745,85 +745,85 @@ That approach closely aligns with Pepijn van Erp's broader critique of later emb
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — A UFO landed or crashed in Magenta, it was taken to an ai...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — A UFO landed or crashed in Magenta, it was taken to an ai...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: metabunk.org  
    Title: David Grusch, Whistleblower, Claims U.S  
-   Link: <a href="https://www.metabunk.org/threads/the-debrief-intelligence-officials-say-u-s-has-retrieved-craft-of-non-human-origin.12977/post-291380" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/the-debrief-intelligence-officials-say-u-s-has-retrieved-craft-of-non-human-origin.12977/post-291380</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Has Retrieved...5 Jun 2023 — D.G.: In 1933, a bell-like craft, around ten meters in size was recovered in Magenta, northern Italy. It wa...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/the-debrief-intelligence-officials-say-u-s-has-retrieved-craft-of-non-human-origin.12977/post-291380" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/the-debrief-intelligence-officials-say-u-s-has-retrieved-craft-of-non-human-origin.12977/post-291380</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Has Retrieved...5 Jun 2023 — D.G.: In 1933, a bell-like craft, around ten meters in size was recovered in Magenta, northern Italy. It wa...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/threads/introducing.14808/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/introducing.14808/</a>  
+   Link:<a href="https://www.metabunk.org/threads/introducing.14808/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/introducing.14808/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: metabunk.org  
    Title: page 9  
-   Link: <a href="https://www.metabunk.org/threads/green-pyramid-ufos-in-night-vision-footage-are-bokeh.11695/page-9" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/green-pyramid-ufos-in-night-vision-footage-are-bokeh.11695/page-9</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>But surely for low light the aperture would...Read more...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/green-pyramid-ufos-in-night-vision-footage-are-bokeh.11695/page-9" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/green-pyramid-ufos-in-night-vision-footage-are-bokeh.11695/page-9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>But surely for low light the aperture would...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: metabunk.org  
    Title: "Metapod" UFO  
-   Link: <a href="https://www.metabunk.org/threads/metapod-ufo-top-voted-post-of-the-month-on-r-ufos-maybe-top-of-all-time.12375/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/metapod-ufo-top-voted-post-of-the-month-on-r-ufos-maybe-top-of-all-time.12375/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Top voted post of the month on r...11 Apr 2022 — It seems to be mostly matt and to have an irregular shaped transparent panel on one sid...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/metapod-ufo-top-voted-post-of-the-month-on-r-ufos-maybe-top-of-all-time.12375/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/metapod-ufo-top-voted-post-of-the-month-on-r-ufos-maybe-top-of-all-time.12375/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top voted post of the month on r...11 Apr 2022 — It seems to be mostly matt and to have an irregular shaped transparent panel on one sid...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: metabunk.org  
    Title: page 17  
-   Link: <a href="https://www.metabunk.org/threads/jellyfish-ufo-from-tmzs-ufo-revolution.13304/page-17" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/jellyfish-ufo-from-tmzs-ufo-revolution.13304/page-17</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jellyfish UFO from TMZ&#x27;s &#x27;UFO Revolution&#x27; | Page 175 Jan 2024 — If we are discussing balloon IR [transparency](&amp;#123;&amp;#123; &#x27;transparency/&#x27; | relative_url &amp;#125;&amp;#125;), I would like to revisit thi...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/jellyfish-ufo-from-tmzs-ufo-revolution.13304/page-17" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/jellyfish-ufo-from-tmzs-ufo-revolution.13304/page-17</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jellyfish UFO from TMZ&#x27;s &#x27;UFO Revolution&#x27; | Page 175 Jan 2024 — If we are discussing balloon IR [transparency](&amp;#123;&amp;#123; &#x27;transparency/&#x27; | relative_url &amp;#125;&amp;#125;), I would like to revisit thi...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: metabunk.org  
    Title: page 2  
-   Link: <a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/page-2" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/page-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — Claim: A UFO crashed in 1933 Italy and the US Recovered it. Threa...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/page-2" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/page-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — Claim: A UFO crashed in 1933 Italy and the US Recovered it. Threa...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/tags/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/tags/ufos/</a>  
+   Link:<a href="https://www.metabunk.org/tags/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/tags/ufos/</a>  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
    Title: what do you think about 1933 italy ufo crash is  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1cio2zw/what_do_you_think_about_1933_italy_ufo_crash_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cio2zw/what_do_you_think_about_1933_italy_ufo_crash_is/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is it a weak...Both Grusch and Ross have mentioned about the 1933 UFO crash in Italy, and we have heard several accounts on retrieval as...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1cio2zw/what_do_you_think_about_1933_italy_ufo_crash_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cio2zw/what_do_you_think_about_1933_italy_ufo_crash_is/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is it a weak...Both Grusch and Ross have mentioned about the 1933 UFO crash in Italy, and we have heard several accounts on retrieval as...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=l7S8KnXePJI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l7S8KnXePJI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mussolini’s Hidden UFO Crash EXPOSED | The [Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;) of Italy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=l7S8KnXePJI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l7S8KnXePJI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mussolini’s Hidden UFO Crash EXPOSED | The [Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;) of Italy...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=fY6sBD_IWEs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fY6sBD_IWEs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Italy’s UFO Crash Before Roswell? The 1933 Magenta Incident Revealed...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fY6sBD_IWEs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fY6sBD_IWEs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Italy’s UFO Crash Before Roswell? The 1933 Magenta Incident Revealed...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=19oMz_WJZXs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=19oMz_WJZXs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Magenta Project: The 1933 Magenta, Italy UFO Crash-Retrieval...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=19oMz_WJZXs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=19oMz_WJZXs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Magenta Project: The 1933 Magenta, Italy UFO Crash-Retrieval...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Mussolini’s Hidden UFO Crash EXPOSED | The Roswell of Italy  
-   Link: <a href="https://www.youtube.com/watch?v=6u6wcDsaxyI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6u6wcDsaxyI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1933 Magenta UFO crash The 1933 Magenta, Italy UFO Crash UAP Gerb...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6u6wcDsaxyI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6u6wcDsaxyI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1933 Magenta UFO crash The 1933 Magenta, Italy UFO Crash UAP Gerb...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=FGiwgyLY7Aw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FGiwgyLY7Aw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 Magenta UFO Crash: Mussolini’s Alien Cover-Up in Italy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FGiwgyLY7Aw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FGiwgyLY7Aw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 Magenta UFO Crash: Mussolini’s Alien Cover-Up in Italy...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: books.google.com  
    Title: The Origin Map  
-   Link: <a href="https://books.google.com/books/about/The_Origin_Map.html?id=QN-y6ZOSVT0C" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_Origin_Map.html?id=QN-y6ZOSVT0C</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Origin Map: Discovery of a Prehistoric, Megalithic...The Origin Map: Discovery of a Prehistoric, Megalithic, Astrophysical Map and Scul...</p></details>
+   Link:<a href="https://books.google.com/books/about/The_Origin_Map.html?id=QN-y6ZOSVT0C" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_Origin_Map.html?id=QN-y6ZOSVT0C</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Origin Map: Discovery of a Prehistoric, Megalithic...The Origin Map: Discovery of a Prehistoric, Megalithic, Astrophysical Map and Scul...</p></details>

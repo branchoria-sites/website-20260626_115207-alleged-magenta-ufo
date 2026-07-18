@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /alleged-magenta-ufo-7bc4e9-siai/
 description: Focused pages that expand on SIAI.
-date: '2026-06-26'
+date: '2026'
 layout: default
 parent_basename: Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9
 parent_title: SIAI
@@ -16,7 +16,7 @@ parent_permalink: /siai/
 
 # Explore Topics in SIAI
 
-The following pages expand on the main **[SIAI]({{ '/siai/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[SIAI]({{ '/siai/' | relative_url }})** page and cover its key branches in.
 
 - [Factory Logic]({{ '/factory-logic/' | relative_url }})
 - [Sesto Base]({{ '/sesto-base/' | relative_url }})

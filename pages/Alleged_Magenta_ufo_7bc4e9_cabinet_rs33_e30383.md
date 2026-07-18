@@ -447,7 +447,7 @@ image: /assets/images/Alleged_Magenta_ufo_7bc4e9_cabinet_rs33_e30383-overview-so
 
 ## Introduction
 
-Cabinet RS/33 is the alleged secret Fascist-era study group said to have investigated the object at the centre of the Magenta UFO crash story. In the claim promoted by Italian UFO researcher Roberto Pinotti and Alfredo Lissoni, “RS” means “Special Researches” and “33” marks the year 1933; Mussolini supposedly authorised the unit, Guglielmo Marconi supposedly led it, and the group allegedly examined “unconventional flying vehicles” after a recovery near Magenta in [Lombardy]({{ 'lombardy/' | relative_url }}). The problem is that RS/33 is still not established as a verified historical office. Its public case rests mainly on late-surfacing documents sent anonymously in the 1990s, later interpretations, and disputed authenticity tests, rather than a clear archival file, named bureaucratic chain, or surviving official register. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files...</span></span></span>
+Cabinet RS/33 is the alleged secret Fascist-era study group said to have investigated the object at the centre of the Magenta UFO crash story. In the claim promoted by Italian UFO researcher Roberto Pinotti and Alfredo Lissoni, “RS” means “Special Researches” and “33” marks the year 1933; Mussolini supposedly authorised the unit, Guglielmo Marconi supposedly led it, and the group allegedly examined “unconventional flying vehicles” after a recovery near Magenta in [Lombardy]({{ 'lombardy/' | relative_url }}). The problem is that RS/33 is still not established as a verified historical office. Its public case rests mainly on late-surfacing documents sent anonymously in the 1990s, later interpretations, and disputed authenticity tests, rather than a clear archival file, named bureaucratic chain, or surviving official register.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_cabinet_rs33_e30383-overview.webp" | relative_url }}" alt="Overview image for RS 33" loading="eager" decoding="sync" fetchpriority="high">
@@ -455,11 +455,11 @@ That makes RS/33 the institutional heart of the Magenta case and also its main w
 
 ## What RS/33 Is Claimed to Mean
 
-In the proponent version, Cabinet RS/33 was not simply a casual advisory group. It was a concealed scientific and intelligence body allegedly created after an unknown craft came down or landed near Magenta in 1933. Pinotti’s account says the group was authorised by Mussolini to study the “problem”, with the abbreviation standing for “Special Researches” and the number referring to 1933. The same account links the cabinet to later reports between 1933 and 1940, including alleged sightings over Mestre and Venice in 1936. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files...</span></span></span>
+In the proponent version, Cabinet RS/33 was not simply a casual advisory group. It was a concealed scientific and intelligence body allegedly created after an unknown craft came down or landed near Magenta in 1933. Pinotti’s account says the group was authorised by Mussolini to study the “problem”, with the abbreviation standing for “Special Researches” and the number referring to 1933. The same account links the cabinet to later reports between 1933 and 1940, including alleged sightings over Mestre and Venice in 1936.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files...</span></span></span>
 
-The claimed structure gives the story a striking cast of real historical names. Pinotti says the cabinet was headed by Marconi, then president of the Royal Italian Academy, and included scientists, astronomers and aeronautical specialists. Italo Balbo and Galeazzo Ciano are also described as connected to the founding or oversight of the group. These are not obscure names: Marconi was Italy’s most famous radio pioneer, Balbo was a major Fascist aviation figure, and Ciano was Mussolini’s son-in-law and foreign minister. Their presence in the story gives RS/33 an aura of plausibility, but it also raises the evidential stakes: a group involving figures of that rank should, in principle, leave a heavier documentary trace than [anonymous papers]({{ 'anonymous-papers/' | relative_url }}) and [later retellings]({{ 'later-retellings/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files...</span></span></span>
+The claimed structure gives the story a striking cast of real historical names. Pinotti says the cabinet was headed by Marconi, then president of the Royal Italian Academy, and included scientists, astronomers and aeronautical specialists. Italo Balbo and Galeazzo Ciano are also described as connected to the founding or oversight of the group. These are not obscure names: Marconi was Italy’s most famous radio pioneer, Balbo was a major Fascist aviation figure, and Ciano was Mussolini’s son-in-law and foreign minister. Their presence in the story gives RS/33 an aura of plausibility, but it also raises the evidential stakes: a group involving figures of that rank should, in principle, leave a heavier documentary trace than [anonymous papers]({{ 'anonymous-papers/' | relative_url }}) and [later retellings]({{ 'later-retellings/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files...</span></span></span>
 
-The cabinet’s alleged task was not framed in modern UFO language. The papers described by Pinotti use the idea of “unconventional flying vehicles”, which matters because the term “flying saucer” only entered popular usage after Kenneth Arnold’s 1947 sighting in the United States. A 1930s Italian government office would more likely have interpreted a strange craft as a secret aircraft, foreign weapon, atmospheric phenomenon or intelligence problem than as a post-war-style “UFO”. Pinotti’s own version reflects that tension: Mussolini is said to have suspected a French, British or German secret weapon, while Marconi is said to have leaned towards an extraterrestrial explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files...</span></span></span>
+The cabinet’s alleged task was not framed in modern UFO language. The papers described by Pinotti use the idea of “unconventional flying vehicles”, which matters because the term “flying saucer” only entered popular usage after Kenneth Arnold’s 1947 sighting in the United States. A 1930s Italian government office would more likely have interpreted a strange craft as a secret aircraft, foreign weapon, atmospheric phenomenon or intelligence problem than as a post-war-style “UFO”. Pinotti’s own version reflects that tension: Mussolini is said to have suspected a French, British or German secret weapon, while Marconi is said to have leaned towards an extraterrestrial explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_cabinet_rs33_e30383-Illustration-1-dark.svg" | relative_url }}" alt="RS 33 illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_cabinet_rs33_e30383-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_cabinet_rs33_e30383-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -467,7 +467,7 @@ The cabinet’s alleged task was not framed in modern UFO language. The papers d
 
 RS/33 matters because it is the bridge between a local crash story and a state-level recovery claim. A strange object allegedly coming down near Magenta would be one kind of case; a dictator creating a secret cabinet of scientists to study it would be another. The cabinet claim turns the Magenta narrative into an alleged early crash-retrieval and [reverse-engineering]({{ 'reverse-engineering/' | relative_url }}) programme, predating Roswell by fourteen years.
 
-It also gives the story its internal mechanism of secrecy. Pinotti says the material included [telegrams]({{ 'telegrams/' | relative_url }}) and a protocol intended for the prefect, secret services and newspapers, requiring silence about an alleged landing of an unknown aircraft on national soil. In that telling, Cabinet RS/33 controlled the flow of reports and helped suppress public discussion through the regime’s information system, including the Stefani news agency and secret-police links. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files...</span></span></span>
+It also gives the story its internal mechanism of secrecy. Pinotti says the material included [telegrams]({{ 'telegrams/' | relative_url }}) and a protocol intended for the prefect, secret services and newspapers, requiring silence about an alleged landing of an unknown aircraft on national soil. In that telling, Cabinet RS/33 controlled the flow of reports and helped suppress public discussion through the regime’s information system, including the Stefani news agency and secret-police links.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files...</span></span></span>
 
 For believers, that mechanism explains why no open public scandal followed the alleged 1933 event. Fascist Italy was a controlled media environment, and a dictatorship could plausibly bury sensitive aviation or defence information. For sceptics, the same mechanism creates an unfalsifiable shield: the absence of normal records is explained as secrecy, while the absence of surviving hard evidence is explained as wartime transfer, destruction or capture.
 
@@ -478,24 +478,24 @@ That is why RS/33 is more important than the shape of the alleged craft. A bell-
 
 ## The Evidence Offered for RS/33
 
-The public evidence for RS/33 begins with the material Pinotti and Lissoni say they received anonymously from 1996 onwards. According to Pinotti’s account, the first batch included handwritten notes on stationery bearing the seal of the Kingdom’s Senate, followed by further documents from an anonymous sender who claimed to be related to a cabinet member. The material allegedly referred to a “mysterious airship”, later sightings, and the cabinet’s role in investigating and concealing unconventional aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files...</span></span></span>
+The public evidence for RS/33 begins with the material Pinotti and Lissoni say they received anonymously from 1996 onwards. According to Pinotti’s account, the first batch included handwritten notes on stationery bearing the seal of the Kingdom’s Senate, followed by further documents from an anonymous sender who claimed to be related to a cabinet member. The material allegedly referred to a “mysterious airship”, later sightings, and the cabinet’s role in investigating and concealing unconventional aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files...</span></span></span>
 
-The documents described in the proponent case include three or four telegrams about the recovery, a secrecy protocol, later papers naming alleged members, and material relating to sightings after 1933. Pinotti says one key 1936 drawing was examined by forensic consultant Antonio Garavaglia, who concluded that the paper and ink were consistent with Fascist-era originals. He also says historian Andrea Bedetti found the style, terminology and stationery consistent with the period, while acknowledging that this would not rule out a highly knowledgeable forger. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files...</span></span></span>
+The documents described in the proponent case include three or four telegrams about the recovery, a secrecy protocol, later papers naming alleged members, and material relating to sightings after 1933. Pinotti says one key 1936 drawing was examined by forensic consultant Antonio Garavaglia, who concluded that the paper and ink were consistent with Fascist-era originals. He also says historian Andrea Bedetti found the style, terminology and stationery consistent with the period, while acknowledging that this would not rule out a highly knowledgeable forger.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files...</span></span></span>
 
 That is the strongest pro-RS/33 argument: the papers are not presented merely as modern typed summaries, but as physical documents whose paper, ink and bureaucratic style were claimed to have been tested or reviewed. The argument is not that every detail has been independently proven, but that the documents are detailed enough, period-flavoured enough and connected to enough real figures to deserve serious archival scrutiny.
 
-The weakness is just as clear. The chain of custody is poor. The supposed source was anonymous. Some material was photocopied. Pinotti’s account says a thirty-page dossier sent elsewhere was lost, and the search for direct witnesses was largely fruitless. A sceptical reader does not have to prove every page false to see the problem: documents that surface anonymously six decades later, after decades of UFO literature had already shaped expectations, need unusually strong independent corroboration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files...</span></span></span>
+The weakness is just as clear. The chain of custody is poor. The supposed source was anonymous. Some material was photocopied. Pinotti’s account says a thirty-page dossier sent elsewhere was lost, and the search for direct witnesses was largely fruitless. A sceptical reader does not have to prove every page false to see the problem: documents that surface anonymously six decades later, after decades of UFO literature had already shaped expectations, need unusually strong independent corroboration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PzqM4L_3fXc" title="Ancient Aliens: SHOCKING FLYING SAUCER Crashes in WWII Italy (Special) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PzqM4L_3fXc" target="_blank" rel="noopener noreferrer">Ancient Aliens: SHOCKING FLYING SAUCER Crashes in WWII Italy (Special) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PzqM4L_3fXc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PzqM4L_3fXc">Open on YouTube</a></p></div></div></div>
 
 ## Why the Archival Status Remains Disputed
 
-A confirmed Cabinet RS/33 would ideally be visible in ordinary historical cross-checks: government correspondence, ministerial records, academy papers, aviation files, police files, wartime transfers or post-war [Allied intelligence]({{ 'allied-records/' | relative_url }}) holdings. Publicly, however, the case has not produced a widely accepted archival file establishing RS/33 as a real Fascist government office. The Italian Central State Archive exists as the major repository for central state records, including Mussolini-era material, but searches and public references do not currently show a straightforward institutional record for RS/33 comparable to a normal office or commission. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://acs.cultura.gov.it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acs.cultura.gov.it">[Archivio Centrale dello Stato]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acs.cultura.gov.it</span><span class="citation-popover-snippet">23 Febbraio 2026. Nel corso della mattinata di lunedì 23 febbraio, presso l...Read more...</span></span></span>
+A confirmed Cabinet RS/33 would ideally be visible in ordinary historical cross-checks: government correspondence, ministerial records, academy papers, aviation files, police files, wartime transfers or post-war [Allied intelligence]({{ 'allied-records/' | relative_url }}) holdings. Publicly, however, the case has not produced a widely accepted archival file establishing RS/33 as a real Fascist government office. The Italian Central State Archive exists as the major repository for central state records, including Mussolini-era material, but searches and public references do not currently show a straightforward institutional record for RS/33 comparable to a normal office or commission.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://acs.cultura.gov.it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acs.cultura.gov.it">[Archivio Centrale dello Stato]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acs.cultura.gov.it</span><span class="citation-popover-snippet">23 Febbraio 2026. Nel corso della mattinata di lunedì 23 febbraio, presso l...Read more...</span></span></span>
 
 This absence does not absolutely disprove a secret body. Authoritarian systems can conceal sensitive work, and wartime archives can be damaged, dispersed or deliberately stripped. But absence becomes more significant when the alleged body is said to involve high-ranking ministers, Marconi, the Royal Italian Academy, secret police channels, the air force, a major aviation facility and continuing work over years. The more institutions a programme supposedly touched, the harder it is for every trace to remain dependent on late anonymous disclosure.
 
-Sceptical analyses also point to contamination from later UFO mythology. Pepijn van Erp notes that some modern versions, especially those involving David Grusch’s discussion of a 1933 Italian recovery, include a bell-shaped craft and Vatican backchannel claims that do not align cleanly with the earlier Italian-source framing. Van Erp highlights an apparent tension: Pinotti’s summary of one protocol excluded other bodies, including the Pontifical University, from the flow of reports, whereas later versions elevate the Vatican into a route by which the United States learned of the object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pepijnvanerp.nl">[pepijnvanerp.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pepijnvanerp.nl</span><span class="citation-popover-title">Mussolini’s UFO – Cabinet RS/33 – Pepijn van Erp</span><span class="citation-popover-snippet">Mussolini’s UFO – Cabinet RS/33 – Pepijn van Erp</span></span></span>
+Sceptical analyses also point to contamination from later UFO mythology. Pepijn van Erp notes that some modern versions, especially those involving David Grusch’s discussion of a 1933 Italian recovery, include a bell-shaped craft and Vatican backchannel claims that do not align cleanly with the earlier Italian-source framing. Van Erp highlights an apparent tension: Pinotti’s summary of one protocol excluded other bodies, including the Pontifical University, from the flow of reports, whereas later versions elevate the Vatican into a route by which the United States learned of the object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pepijnvanerp.nl">[pepijnvanerp.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pepijnvanerp.nl</span><span class="citation-popover-title">Mussolini’s UFO – Cabinet RS/33 – Pepijn van Erp</span><span class="citation-popover-snippet">Mussolini’s UFO – Cabinet RS/33 – Pepijn van Erp</span></span></span>
 
 That contradiction matters because RS/33 is supposed to be the control centre of the story. If one version says the cabinet tightly controlled information and excluded religious or outside academic bodies, while another says Vatican channels were central to the later handover, readers have to ask whether the story is preserving a consistent historical memory or accreting motifs from different UFO traditions.
 
@@ -503,7 +503,7 @@ That contradiction matters because RS/33 is supposed to be the control centre of
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_cabinet_rs33_e30383-Illustration-2-dark.svg" | relative_url }}" alt="RS 33 illustration 2" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_cabinet_rs33_e30383-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_cabinet_rs33_e30383-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Marconi’s Role: Plausible Name, Unproven Appointment
 
-Marconi is the most powerful name attached to RS/33. His involvement feels plausible at a surface level because he was a world-famous Italian scientist, had state prestige, and was associated with radio, long-distance signals and high technology. In Pinotti’s version, Marconi headed the cabinet as president of the Royal Italian Academy and was joined by other scientists and aeronautical experts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files...</span></span></span>
+Marconi is the most powerful name attached to RS/33. His involvement feels plausible at a surface level because he was a world-famous Italian scientist, had state prestige, and was associated with radio, long-distance signals and high technology. In Pinotti’s version, Marconi headed the cabinet as president of the Royal Italian Academy and was joined by other scientists and aeronautical experts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files...</span></span></span>
 
 But plausibility is not proof. A real Marconi appointment to a secret study cabinet should be confirmable through at least one independent trail: Academy papers, private correspondence, government appointment records, diaries, memoirs, security files or later testimonies from people close to the institution. Publicly available evidence has not yet delivered that level of confirmation.
 
@@ -525,13 +525,13 @@ The current public case is strongest at the level of narrative detail and weakes
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_cabinet_rs33_e30383-Illustration-3-dark.svg" | relative_url }}" alt="RS 33 illustration 3" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_cabinet_rs33_e30383-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_cabinet_rs33_e30383-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Later UAP Claims Changed the RS/33 Debate
 
-RS/33 moved from Italian UFO lore into wider English-language discussion after David Grusch’s 2023 UAP claims brought renewed attention to an alleged 1933 Italian recovery. The U.S. House [Oversight]({{ 'oversight/' | relative_url }}) Committee’s July 2023 hearing listed Grusch as a witness and former National Reconnaissance Officer Representative to the UAP Task Force, while news coverage reported his claim that Mussolini’s government recovered a craft in northern Italy in 1933 and that the United States later obtained it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">Open source on house.gov.</span></span></span>
+RS/33 moved from Italian UFO lore into wider English-language discussion after David Grusch’s 2023 UAP claims brought renewed attention to an alleged 1933 Italian recovery. The U.S. House [Oversight]({{ 'oversight/' | relative_url }}) Committee’s July 2023 hearing listed Grusch as a witness and former National Reconnaissance Officer Representative to the UAP Task Force, while news coverage reported his claim that Mussolini’s government recovered a craft in northern Italy in 1933 and that the United States later obtained it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">Open source on house.gov.</span></span></span>
 
 That renewed attention did not independently authenticate RS/33. It amplified the case. Grusch’s claims made the Magenta story harder to dismiss as a purely local UFO legend, but they also introduced a second-hand problem: public reporting did not provide the underlying records by which readers could verify whether his information came from classified files, earlier UFO literature, briefings based on the Pinotti material, or some mixture of sources.
 
-The Vatican element shows the same difficulty. Catholic News Service reported in 2024 that Marco Grilli, secretary to the prefect of the Vatican Apostolic Archives, rejected the idea that Grusch’s claim had an archival basis, saying he did not know where the information came from. That does not prove no Vatican-related document exists anywhere, but it undercuts the public claim that Vatican archive knowledge presently corroborates the Magenta handover story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usccb.org">[USCCB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usccb.org</span><span class="citation-popover-title">Angels or aliens? Some researchers say Vatican archives hold UFO secrets &#124; USCCB</span><span class="citation-popover-snippet">Angels or aliens? Some researchers say Vatican archives hold UFO secrets &#124; USCCB</span></span></span>
+The Vatican element shows the same difficulty. Catholic News Service reported in 2024 that Marco Grilli, secretary to the prefect of the Vatican Apostolic Archives, rejected the idea that Grusch’s claim had an archival basis, saying he did not know where the information came from. That does not prove no Vatican-related document exists anywhere, but it undercuts the public claim that Vatican archive knowledge presently corroborates the Magenta handover story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usccb.org">[USCCB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usccb.org</span><span class="citation-popover-title">Angels or aliens? Some researchers say Vatican archives hold UFO secrets &#124; USCCB</span><span class="citation-popover-snippet">Angels or aliens? Some researchers say Vatican archives hold UFO secrets &#124; USCCB</span></span></span>
 
-The official U.S. UAP record also does not currently support a confirmed reverse-engineering history. AARO’s 2024 historical report said it found no evidence that U.S. companies possessed off-world technology, and its review of earlier U.S. investigations found no evidence of extraterrestrial technology in Project SAUCER. Reuters likewise reported AARO’s conclusion that investigations since the Second World War had found no evidence of extraterrestrial technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
+The official U.S. UAP record also does not currently support a confirmed reverse-engineering history. AARO’s 2024 historical report said it found no evidence that U.S. companies possessed off-world technology, and its review of earlier U.S. investigations found no evidence of extraterrestrial technology in Project SAUCER. Reuters likewise reported AARO’s conclusion that investigations since the Second World War had found no evidence of extraterrestrial technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4ww6ZZXHdHo" title="The Full History of UFOs: From Ancient Sightings to Modern UAPs (Documentary)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4ww6ZZXHdHo" target="_blank" rel="noopener noreferrer">The Full History of UFOs: From Ancient Sightings to Modern UAPs (Documentary)</a></p><p class="youtube-embed-meta">Channel: Historical History</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4ww6ZZXHdHo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4ww6ZZXHdHo">Open on YouTube</a></p></div></div></div>
@@ -545,178 +545,178 @@ The central uncertainty is not whether Fascist Italy could have hidden sensitive
 For readers, the practical test is simple. RS/33 would become much stronger if researchers produced a clean archival trail: a catalogue entry, an original file with custody history, correspondence between named offices, Marconi-related papers, or Allied capture records that refer to the cabinet in a way not derived from the modern UFO literature. It would become stronger still if those records connected to physical material from Vergiate or Magenta. Without that, Cabinet RS/33 should be treated as the most important but least settled part of the alleged Magenta UFO crash.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Cabinet RS 33 a Real UFO Office?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Cabinet RS 33 a Real UFO Office?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a grounded framework for evaluating government UFO claims and evidentiary standards relevant to alleged secret offices.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a grounded framework for evaluating government UFO claims and evidentiary standards relevant to alleged secret offices.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Explores historical government involvement with UFO reports, directly paralleling claims about RS/33.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores historical government involvement with UFO reports, directly paralleling claims about RS/33.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Extraterrestrial Encounters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2WeeBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Extraterrestrial Encounters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Extraterrestrial Encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>
-        </h4>
-        <p class="fr-book-author">By Ronald Story</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Extraterrestrial Encounters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2WeeBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Extraterrestrial Encounters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Extraterrestrial Encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>
+</h4>
+<p class="fr-book-author">By Ronald Story</p>
         
-        <p class="fr-book-desc">Places the Magenta and related historical narratives within the wider UFO literature.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places the Magenta and related historical narratives within the wider UFO literature.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Covers major UFO cases, personalities, and disputed historical claims in encyclopedic form.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers major UFO cases, personalities, and disputed historical claims in encyclopedic form.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Encyclopedia of Extraterrestrial Encounters</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Encyclopedia of Extraterrestrial Encounters</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="rs-33-was-cabinet-rs-33-a-real-ufo-office-alleged-magenta-ufo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -732,7 +732,7 @@ For readers, the practical test is simple. RS/33 would become much stronger if r
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -752,7 +752,7 @@ For readers, the practical test is simple. RS/33 would become much stronger if r
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -784,7 +784,7 @@ For readers, the practical test is simple. RS/33 would become much stronger if r
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -836,7 +836,7 @@ For readers, the practical test is simple. RS/33 would become much stronger if r
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -881,7 +881,7 @@ For readers, the practical test is simple. RS/33 would become much stronger if r
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -922,109 +922,109 @@ For readers, the practical test is simple. RS/33 would become much stronger if r
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: theblackvault.com  
    Title: TH E UFO FILES OF MUSSOLINI: [Fascist UFO Files](&#123;&#123; 'fascist-files/' | relative_url &#125;&#125;) by Roberto Pinotti  
-   Link: <a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files...</p></details>
+   Link:<a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pepijnvanerp.nl  
    Title: Mussolini’s UFO – Cabinet RS/33 – Pepijn van Erp  
-   Link: <a href="https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/" target="_blank" rel="noopener noreferrer nofollow">https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/</a>  
+   Link:<a href="https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/" target="_blank" rel="noopener noreferrer nofollow">https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: oversight.house.gov  
-   Link: <a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
+   Link:<a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: usccb.org  
    Title: Angels or aliens? Some researchers say Vatican archives hold UFO secrets | USCCB  
-   Link: <a href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow">https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets</a>  
+   Link:<a href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow">https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
+   Link:<a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: history.state.gov  
-   Link: <a href="https://history.state.gov/historicaldocuments/frus1933v01/ch20" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1933v01/ch20</a>  
+   Link:<a href="https://history.state.gov/historicaldocuments/frus1933v01/ch20" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1933v01/ch20</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: acs.cultura.gov.it  
-   Link: <a href="https://acs.cultura.gov.it/" target="_blank" rel="noopener noreferrer nofollow">https://acs.cultura.gov.it/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Febbraio 2026. Nel corso della mattinata di lunedì 23 febbraio, presso l...Read more...</p></details>
+   Link:<a href="https://acs.cultura.gov.it/" target="_blank" rel="noopener noreferrer nofollow">https://acs.cultura.gov.it/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23 Febbraio 2026. Nel corso della mattinata di lunedì 23 febbraio, presso l...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: acs.cultura.gov.it  
    Title: Archivio Centrale dello Statobenito mussolini  
-   Link: <a href="https://acs.cultura.gov.it/tag/benito-mussolini/" target="_blank" rel="noopener noreferrer nofollow">https://acs.cultura.gov.it/tag/benito-mussolini/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Il documentario, realizzato da Rai Educational/Rai Storia in collaborazione con &#x27;La Grande Storia&#x27;...Read more...</p></details>
+   Link:<a href="https://acs.cultura.gov.it/tag/benito-mussolini/" target="_blank" rel="noopener noreferrer nofollow">https://acs.cultura.gov.it/tag/benito-mussolini/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Il documentario, realizzato da Rai Educational/Rai Storia in collaborazione con &#x27;La Grande Storia&#x27;...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: acs.cultura.gov.it  
    Title: documenti autografi di mussolini restituiti allarchivio centrale dello stato  
-   Link: <a href="https://acs.cultura.gov.it/documenti-autografi-di-mussolini-restituiti-allarchivio-centrale-dello-stato/" target="_blank" rel="noopener noreferrer nofollow">https://acs.cultura.gov.it/documenti-autografi-di-mussolini-restituiti-allarchivio-centrale-dello-stato/</a>  
+   Link:<a href="https://acs.cultura.gov.it/documenti-autografi-di-mussolini-restituiti-allarchivio-centrale-dello-stato/" target="_blank" rel="noopener noreferrer nofollow">https://acs.cultura.gov.it/documenti-autografi-di-mussolini-restituiti-allarchivio-centrale-dello-stato/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/archiviocentrale_official/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/archiviocentrale_official/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/archiviocentrale_official/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/archiviocentrale_official/?hl=en</a>  
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Ancient Aliens: SHOCKING FLYING SAUCER Crashes in WWII Italy (Special) | History  
-   Link: <a href="https://www.youtube.com/watch?v=PzqM4L_3fXc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PzqM4L_3fXc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trump&#x27;s UFO Files: I analyzed the 162 secret documents...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PzqM4L_3fXc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PzqM4L_3fXc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trump&#x27;s UFO Files: I analyzed the 162 secret documents...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Historical History  
-   Link: <a href="https://www.youtube.com/watch?v=4ww6ZZXHdHo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4ww6ZZXHdHo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Los secretos tras el avistamiento OVNI de Mussolini: &#x27;Cuarto milenio&#x27; muestra los documentos Mediaset Infinity España...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4ww6ZZXHdHo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4ww6ZZXHdHo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Los secretos tras el avistamiento OVNI de Mussolini: &#x27;Cuarto milenio&#x27; muestra los documentos Mediaset Infinity España...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: The Magenta UFO case in Italy  
-   Link: <a href="https://www.youtube.com/watch?v=OsniQnH7phU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OsniQnH7phU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cabinet RS/33 Mussolini ufo crash Magenta La VERA STORIA dell&#x27;UFO di MUSSOLINI AstroViktor...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OsniQnH7phU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OsniQnH7phU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cabinet RS/33 Mussolini ufo crash Magenta La VERA STORIA dell&#x27;UFO di MUSSOLINI AstroViktor...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: The TRUE STORY of MUSSOLINI's UFO  
-   Link: <a href="https://www.youtube.com/watch?v=HEWhhyrujGI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HEWhhyrujGI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: SHOCKING FLYING SAUCER Crashes in WWII Italy (Special) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HEWhhyrujGI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HEWhhyrujGI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: SHOCKING FLYING SAUCER Crashes in WWII Italy (Special) | History...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40EscapeVelocity1/1933-magenta-italy-discussions-by-john-ramirez-and-robert-salas-and-jesse-michels-talking-about-fd28c8da2def" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40EscapeVelocity1/1933-magenta-italy-discussions-by-john-ramirez-and-robert-salas-and-jesse-michels-talking-about-fd28c8da2def</a>  
+   Link:<a href="https://medium.com/%40EscapeVelocity1/1933-magenta-italy-discussions-by-john-ramirez-and-robert-salas-and-jesse-michels-talking-about-fd28c8da2def" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40EscapeVelocity1/1933-magenta-italy-discussions-by-john-ramirez-and-robert-salas-and-jesse-michels-talking-about-fd28c8da2def</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SOFMAG/posts/benito-mussolini-ordered-a-complete-news-blackout-on-the-ufo-that-crashed-in-mag/1438374178335229/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SOFMAG/posts/benito-mussolini-ordered-a-complete-news-blackout-on-the-ufo-that-crashed-in-mag/1438374178335229/</a>  
+   Link:<a href="https://www.facebook.com/SOFMAG/posts/benito-mussolini-ordered-a-complete-news-blackout-on-the-ufo-that-crashed-in-mag/1438374178335229/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SOFMAG/posts/benito-mussolini-ordered-a-complete-news-blackout-on-the-ufo-that-crashed-in-mag/1438374178335229/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/387604307559872/posts/1027125743607722/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/387604307559872/posts/1027125743607722/</a>  
+   Link:<a href="https://www.facebook.com/groups/387604307559872/posts/1027125743607722/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/387604307559872/posts/1027125743607722/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/CentroUfologicoSiciliano/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/CentroUfologicoSiciliano/</a>  
+   Link:<a href="https://www.facebook.com/groups/CentroUfologicoSiciliano/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/CentroUfologicoSiciliano/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1901048616603324/posts/7033163890058412/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1901048616603324/posts/7033163890058412/</a>  
+   Link:<a href="https://www.facebook.com/groups/1901048616603324/posts/7033163890058412/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1901048616603324/posts/7033163890058412/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1cfxw8q/italian_magazine_oggi_confirms_that_mussolini/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cfxw8q/italian_magazine_oggi_confirms_that_mussolini/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1cfxw8q/italian_magazine_oggi_confirms_that_mussolini/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cfxw8q/italian_magazine_oggi_confirms_that_mussolini/</a>  

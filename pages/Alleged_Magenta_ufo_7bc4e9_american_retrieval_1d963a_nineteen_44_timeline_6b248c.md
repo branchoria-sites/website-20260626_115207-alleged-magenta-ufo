@@ -274,15 +274,15 @@ image: /assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_ninet
 
 ## Introduction
 
-Some versions of the [alleged Magenta UFO]({{ 'alleged-magenta-ufo/' | relative_url }}) story state that the United States acquired the recovered object in 1944 rather than 1945. That earlier date is considerably harder to reconcile with the known military situation in Italy. While Allied forces had liberated Rome in June 1944 and continued advancing north, they did not yet control the industrial heartland of northern Italy, where the story places the object's alleged storage near the [SIAI-Marchetti]({{ 'siai/' | relative_url }}) facilities at Vergiate or Sesto Calende. As a result, a 1944 transfer requires additional assumptions—such as a covert intelligence operation or an earlier secret evacuation—that are not supported by publicly available documentary evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalww2museum.org/war/articles/rome-taken-liberation-rome-1944" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalww2museum.org">[National WWII Museum+2National WWII Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalww2museum.org</span><span class="citation-popover-title">rome taken liberation rome 1944</span><span class="citation-popover-snippet">National WWII Museum&#x27;Rome Taken!&#x27;: The Liberation of Rome, 19444 Jun 2025 — On June 4, 1944, the US Fifth Army under Lieutenant General M...</span><span class="citation-popover-meta">Published: June 4, 1944</span></span></span>
+Some versions of the [alleged Magenta UFO]({{ 'alleged-magenta-ufo/' | relative_url }}) story state that the United States acquired the recovered object in 1944 rather than 1945. That earlier date is considerably harder to reconcile with the known military situation in Italy. While Allied forces had liberated Rome in June 1944 and continued advancing north, they did not yet control the industrial heartland of northern Italy, where the story places the object's alleged storage near the [SIAI-Marchetti]({{ 'siai/' | relative_url }}) facilities at Vergiate or Sesto Calende. As a result, a 1944 transfer requires additional assumptions—such as a covert intelligence operation or an earlier secret evacuation—that are not supported by publicly available documentary evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalww2museum.org/war/articles/rome-taken-liberation-rome-1944" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalww2museum.org">[National WWII Museum+2National WWII Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalww2museum.org</span><span class="citation-popover-title">rome taken liberation rome 1944</span><span class="citation-popover-snippet">National WWII Museum&#x27;Rome Taken!&#x27;: The Liberation of Rome, 19444 Jun 2025 — On June 4, 1944, the US Fifth Army under Lieutenant General M...</span><span class="citation-popover-meta">Published: June 4, 1944</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_nineteen_44_timeline_6b248c-Illustration-1-dark.svg" | relative_url }}" alt="1944 Problem illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_nineteen_44_timeline_6b248c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_nineteen_44_timeline_6b248c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Where Allied forces were after Rome fell
 
-The liberation of Rome on 4 June 1944 was a major Allied victory, but it did not end the Italian campaign. German forces conducted an organised withdrawal into prepared defensive positions further north, culminating in the Gothic Line across the northern Apennines. Fighting continued through the remainder of 1944, and the decisive Allied breakthrough into the Po Valley did not occur until the spring offensive of [April 1945]({{ 'april-1945/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalww2museum.org/war/articles/rome-taken-liberation-rome-1944" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalww2museum.org">[National WWII Museum+2National WWII Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalww2museum.org</span><span class="citation-popover-title">rome taken liberation rome 1944</span><span class="citation-popover-snippet">National WWII Museum&#x27;Rome Taken!&#x27;: The Liberation of Rome, 19444 Jun 2025 — On June 4, 1944, the US Fifth Army under Lieutenant General M...</span><span class="citation-popover-meta">Published: June 4, 1944</span></span></span>
+The liberation of Rome on 4 June 1944 was a major Allied victory, but it did not end the Italian campaign. German forces conducted an organised withdrawal into prepared defensive positions further north, culminating in the Gothic Line across the northern Apennines. Fighting continued through the remainder of 1944, and the decisive Allied breakthrough into the Po Valley did not occur until the spring offensive of [April 1945]({{ 'april-1945/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalww2museum.org/war/articles/rome-taken-liberation-rome-1944" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalww2museum.org">[National WWII Museum+2National WWII Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalww2museum.org</span><span class="citation-popover-title">rome taken liberation rome 1944</span><span class="citation-popover-snippet">National WWII Museum&#x27;Rome Taken!&#x27;: The Liberation of Rome, 19444 Jun 2025 — On June 4, 1944, the US Fifth Army under Lieutenant General M...</span><span class="citation-popover-meta">Published: June 4, 1944</span></span></span>
 
-This distinction is central to the chronology of the Magenta claim. The locations most commonly associated with the alleged stored craft—Vergiate and nearby Sesto Calende in [Lombardy]({{ 'lombardy/' | relative_url }})—lie well north of Rome. In mid-1944 they remained behind German-controlled front lines or within territory heavily influenced by German military authority and the Italian Social Republic, not within areas securely occupied by American forces. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Italian_campaign_%28World_War_II%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Italian campaign (World War II)May 2, 2026 — In the summer of 1944, after the Axis defeats at Cassino and Anzio, central Italy, including...</span><span class="citation-popover-meta">Published: May 2, 2026</span></span></span>
+This distinction is central to the chronology of the Magenta claim. The locations most commonly associated with the alleged stored craft—Vergiate and nearby Sesto Calende in [Lombardy]({{ 'lombardy/' | relative_url }})—lie well north of Rome. In mid-1944 they remained behind German-controlled front lines or within territory heavily influenced by German military authority and the Italian Social Republic, not within areas securely occupied by American forces.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Italian_campaign_%28World_War_II%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Italian campaign (World War II)May 2, 2026 — In the summer of 1944, after the Axis defeats at Cassino and Anzio, central Italy, including...</span><span class="citation-popover-meta">Published: May 2, 2026</span></span></span>
 
 Consequently, a straightforward military explanation for an American retrieval in 1944 is difficult to sustain. Unlike southern and central Italy, northern Lombardy was not simply an area into which Allied occupation forces could freely enter after Rome's liberation.
 
@@ -291,9 +291,9 @@ Consequently, a straightforward military explanation for an American retrieval i
 
 ## Why northern Italian access matters for the claim
 
-The geographical problem is not merely one of distance but of control. The Magenta narrative generally associates the alleged object with [aviation]({{ 'aviation/' | relative_url }})-industrial facilities operated by SIAI-Marchetti, making the story dependent upon physical access to sites deep inside German-held northern Italy. Roberto Pinotti's published account itself links the alleged American acquisition to the Allied capture of those facilities at the end of the war, specifically describing an April 1945 seizure rather than documenting a verified operation during 1944. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded by M...</span></span></span>
+The geographical problem is not merely one of distance but of control. The Magenta narrative generally associates the alleged object with [aviation]({{ 'aviation/' | relative_url }})-industrial facilities operated by SIAI-Marchetti, making the story dependent upon physical access to sites deep inside German-held northern Italy. Roberto Pinotti's published account itself links the alleged American acquisition to the Allied capture of those facilities at the end of the war, specifically describing an April 1945 seizure rather than documenting a verified operation during 1944.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded by M...</span></span></span>
 
-That timing aligns more naturally with the historical campaign. Allied forces entered Bologna in April 1945, advanced rapidly across the Po Valley, and northern Italy collapsed militarily only during the final weeks of the war. Milan and much of Lombardy were liberated during the final offensive and the simultaneous partisan uprising, creating the first clear opportunity for open Allied inspection of major industrial installations in the region. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalww2museum.org/war/articles/allied-campaign-italy-1943-45-timeline-part-three" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalww2museum.org">[National WWII Museum+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalww2museum.org</span><span class="citation-popover-title">US Army Signal Corps photo, in memory of William F. Caddell, ...Read more</span><span class="citation-popover-snippet">National WWII MuseumThe Allied Campaign in Italy, 1943-45: A Timeline, Part Three27 May 2022 — Italian troops serving with US Fifth Army...</span></span></span>
+That timing aligns more naturally with the historical campaign. Allied forces entered Bologna in April 1945, advanced rapidly across the Po Valley, and northern Italy collapsed militarily only during the final weeks of the war. Milan and much of Lombardy were liberated during the final offensive and the simultaneous partisan uprising, creating the first clear opportunity for open Allied inspection of major industrial installations in the region.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalww2museum.org/war/articles/allied-campaign-italy-1943-45-timeline-part-three" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalww2museum.org">[National WWII Museum+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalww2museum.org</span><span class="citation-popover-title">US Army Signal Corps photo, in memory of William F. Caddell, ...Read more</span><span class="citation-popover-snippet">National WWII MuseumThe Allied Campaign in Italy, 1943-45: A Timeline, Part Three27 May 2022 — Italian troops serving with US Fifth Army...</span></span></span>
 
 By contrast, placing the retrieval in 1944 introduces a logistical gap. It requires explaining how American personnel could have removed an alleged large, closely guarded object from territory that remained under German military control without generating any corroborating operational record.
 
@@ -301,7 +301,7 @@ By contrast, placing the retrieval in 1944 introduces a logistical gap. It requi
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_nineteen_44_timeline_6b248c-Illustration-2-dark.svg" | relative_url }}" alt="1944 Problem illustration 2" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_nineteen_44_timeline_6b248c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_nineteen_44_timeline_6b248c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What an intelligence-channel retrieval would need to explain
 
-Supporters of a 1944 date sometimes invoke intelligence rather than conventional military access. In more recent retellings associated with claims discussed by David Grusch, the Vatican is said to have informed American authorities about the alleged craft, implying that intelligence channels may have preceded battlefield occupation. Those accounts, however, describe a possible flow of information rather than demonstrating physical possession of the object in 1944. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">claim a ufo crashed in 1933 italy and the us recovered it.13282</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating ar...</span></span></span>
+Supporters of a 1944 date sometimes invoke intelligence rather than conventional military access. In more recent retellings associated with claims discussed by David Grusch, the Vatican is said to have informed American authorities about the alleged craft, implying that intelligence channels may have preceded battlefield occupation. Those accounts, however, describe a possible flow of information rather than demonstrating physical possession of the object in 1944.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">claim a ufo crashed in 1933 italy and the us recovered it.13282</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating ar...</span></span></span>
 
 For a 1944 retrieval to be historically plausible, several additional elements would need independent evidence, including:
 
@@ -310,7 +310,7 @@ For a 1944 retrieval to be historically plausible, several additional elements w
 * cooperation, acquiescence or failure of German occupation authorities;
 * documentary traces within American, British, Vatican or Italian wartime archives showing planning, transport or [custody]({{ 'custody/' | relative_url }}).
 
-None of those components has been substantiated by authenticated archival records released to the public. Instead, the available public narrative relies primarily on later testimony, interpretations of the alleged Fascist UFO documents, and retrospective reconstructions rather than contemporaneous military paperwork. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded by M...</span></span></span>
+None of those components has been substantiated by authenticated archival records released to the public. Instead, the available public narrative relies primarily on later testimony, interpretations of the alleged Fascist UFO documents, and retrospective reconstructions rather than contemporaneous military paperwork.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded by M...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HDJ679f_mog" title="UFO Whistleblower Calls for Release of Federal Space Alien Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HDJ679f_mog" target="_blank" rel="noopener noreferrer">UFO Whistleblower Calls for Release of Federal Space Alien Files</a></p><p class="youtube-embed-meta">Channel: C-SPAN</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HDJ679f_mog" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HDJ679f_mog">Open on YouTube</a></p></div></div></div>
@@ -320,7 +320,7 @@ None of those components has been substantiated by authenticated archival record
 
 ## Why many accounts favour 1945 instead
 
-The later date reduces several historical difficulties without resolving the larger evidentiary questions. By April 1945 the Allied armies were overrunning northern Italy, German authority was collapsing, and major aviation factories and military installations were becoming accessible to Allied technical and intelligence teams. That military context provides a credible opportunity for inspection or seizure of sensitive equipment of any kind, even though no authenticated record has emerged confirming the recovery of an anomalous craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spring_1945_offensive_in_Italy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2National WWII Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spring 1945 offensive in Italy</span><span class="citation-popover-snippet">The attack in the Lombard Plain by the 15th Allied Army Group started on 6 April 1945 and ended on 2 May with the surrender of all Axis f...</span><span class="citation-popover-meta">Published: April 1945</span></span></span>
+The later date reduces several historical difficulties without resolving the larger evidentiary questions. By April 1945 the Allied armies were overrunning northern Italy, German authority was collapsing, and major aviation factories and military installations were becoming accessible to Allied technical and intelligence teams. That military context provides a credible opportunity for inspection or seizure of sensitive equipment of any kind, even though no authenticated record has emerged confirming the recovery of an anomalous craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spring_1945_offensive_in_Italy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2National WWII Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spring 1945 offensive in Italy</span><span class="citation-popover-snippet">The attack in the Lombard Plain by the 15th Allied Army Group started on 6 April 1945 and ended on 2 May with the surrender of all Axis f...</span><span class="citation-popover-meta">Published: April 1945</span></span></span>
 
 As a result, the distinction between 1944 and 1945 is more than a minor dating discrepancy. Within the internal logic of the Magenta story, 1945 fits the established military geography far better than 1944. Moving the transfer back by a year shifts the claim from an event that could theoretically have occurred during Allied occupation of northern Italy to one that would require an undocumented clandestine operation conducted behind active German lines, substantially increasing the burden of proof.
 
@@ -328,194 +328,194 @@ As a result, the distinction between 1944 and 1945 is more than a minor dating d
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_nineteen_44_timeline_6b248c-Illustration-3-dark.svg" | relative_url }}" alt="1944 Problem illustration 3" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_nineteen_44_timeline_6b248c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_nineteen_44_timeline_6b248c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why 1944 Is the Harder Date. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why 1944 Is the Harder Date. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a documented approach to evaluating extraordinary UFO claims without relying on a single incident.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a documented approach to evaluating extraordinary UFO claims without relying on a single incident.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Offers historical methodology and documentary context useful when assessing alleged government retrieval narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers historical methodology and documentary context useful when assessing alleged government retrieval narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Liberation+Trilogy+Boxed+Set+Rick+Atkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Liberation Trilogy Boxed Set on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9032059-M.jpg" alt="Cover for The Liberation Trilogy Boxed Set" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Liberation+Trilogy+Boxed+Set+Rick+Atkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Liberation Trilogy Boxed Set">The Liberation Trilogy Boxed Set</a>
-        </h4>
-        <p class="fr-book-author">By Rick Atkinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Liberation+Trilogy+Boxed+Set+Rick+Atkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Liberation Trilogy Boxed Set on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9032059-M.jpg" alt="Cover for The Liberation Trilogy Boxed Set" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Liberation+Trilogy+Boxed+Set+Rick+Atkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Liberation Trilogy Boxed Set">The Liberation Trilogy Boxed Set</a>
+</h4>
+<p class="fr-book-author">By Rick Atkinson</p>
         
-        <p class="fr-book-desc">First published 2013. Subjects: World war, 1939-1945, campaigns, africa, Africa, history, World war, 1939-1945, historiography.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Liberation+Trilogy+Boxed+Set+Rick+Atkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2013. Subjects: World war, 1939-1945, campaigns, africa, Africa, history, World war, 1939-1945, historiography.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Liberation+Trilogy+Boxed+Set+Rick+Atkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Day+of+Battle+Rick+Atkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Day of Battle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1519859-M.jpg" alt="Cover for The Day of Battle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Day+of+Battle+Rick+Atkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day of Battle">The Day of Battle</a>
-        </h4>
-        <p class="fr-book-author">By Rick Atkinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Day+of+Battle+Rick+Atkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Day of Battle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1519859-M.jpg" alt="Cover for The Day of Battle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Day+of+Battle+Rick+Atkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day of Battle">The Day of Battle</a>
+</h4>
+<p class="fr-book-author">By Rick Atkinson</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Campaigns, Military History, World War, 1939-1945, Weltkrieg, Tweede Wereldoorlog.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Day+of+Battle+Rick+Atkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Campaigns, Military History, World War, 1939-1945, Weltkrieg, Tweede Wereldoorlog.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Day+of+Battle+Rick+Atkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Liberation+Trilogy+Boxed+Set&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Liberation Trilogy Boxed Set</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Liberation+Trilogy+Boxed+Set&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Liberation Trilogy Boxed Set</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="1944-problem-why-1944-is-the-harder-date-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -531,7 +531,7 @@ As a result, the distinction between 1944 and 1945 is more than a minor dating d
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -551,7 +551,7 @@ As a result, the distinction between 1944 and 1945 is more than a minor dating d
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -583,7 +583,7 @@ As a result, the distinction between 1944 and 1945 is more than a minor dating d
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -635,7 +635,7 @@ As a result, the distinction between 1944 and 1945 is more than a minor dating d
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -680,7 +680,7 @@ As a result, the distinction between 1944 and 1945 is more than a minor dating d
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -721,93 +721,93 @@ As a result, the distinction between 1944 and 1945 is more than a minor dating d
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Italian_campaign_%28World_War_II%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Italian_campaign_%28World_War_II%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Italian campaign (World War II)May 2, 2026 — In the summer of 1944, after the Axis defeats at Cassino and Anzio, central Italy, including...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Italian_campaign_%28World_War_II%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Italian_campaign_%28World_War_II%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Italian campaign (World War II)May 2, 2026 — In the summer of 1944, after the Axis defeats at Cassino and Anzio, central Italy, including...</p></details>
    Published: May 2, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Gothic_Line" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gothic_Line</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gothic LineThe Gothic Line was a German and Italian defensive line of the Italian Campaign of World War II. It formed Field Marshal Alber...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Gothic_Line" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gothic_Line</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gothic LineThe Gothic Line was a German and Italian defensive line of the Italian Campaign of World War II. It formed Field Marshal Alber...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Spring 1945 offensive in Italy  
-   Link: <a href="https://en.wikipedia.org/wiki/Spring_1945_offensive_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Spring_1945_offensive_in_Italy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The attack in the Lombard Plain by the 15th Allied Army Group started on 6 April 1945 and ended on 2 May with the surrender of all Axis f...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Spring_1945_offensive_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Spring_1945_offensive_in_Italy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The attack in the Lombard Plain by the 15th Allied Army Group started on 6 April 1945 and ended on 2 May with the surrender of all Axis f...</p></details>
    Published: April 1945  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: metabunk.org  
    Title: claim a ufo crashed in 1933 italy and the us recovered it.13282  
-   Link: <a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating ar...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating ar...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nationalww2museum.org  
    Title: rome taken liberation rome 1944  
-   Link: <a href="https://www.nationalww2museum.org/war/articles/rome-taken-liberation-rome-1944" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalww2museum.org/war/articles/rome-taken-liberation-rome-1944</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National WWII Museum&#x27;Rome Taken!&#x27;: The Liberation of Rome, 19444 Jun 2025 — On June 4, 1944, the US Fifth Army under Lieutenant General M...</p></details>
+   Link:<a href="https://www.nationalww2museum.org/war/articles/rome-taken-liberation-rome-1944" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalww2museum.org/war/articles/rome-taken-liberation-rome-1944</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National WWII Museum&#x27;Rome Taken!&#x27;: The Liberation of Rome, 19444 Jun 2025 — On June 4, 1944, the US Fifth Army under Lieutenant General M...</p></details>
    Published: June 4, 1944  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nationalww2museum.org  
    Title: Italy Generic 111422  
-   Link: <a href="https://www.nationalww2museum.org/sites/default/files/2022-12/Italy_Generic_111422.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalww2museum.org/sites/default/files/2022-12/Italy_Generic_111422.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National WWII MuseumItaly: 1944After capturing Rome on June 4, 1944, the Allied armies in Italy rushed north to finish the campaign in It...</p></details>
+   Link:<a href="https://www.nationalww2museum.org/sites/default/files/2022-12/Italy_Generic_111422.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalww2museum.org/sites/default/files/2022-12/Italy_Generic_111422.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National WWII MuseumItaly: 1944After capturing Rome on June 4, 1944, the Allied armies in Italy rushed north to finish the campaign in It...</p></details>
    Published: June 4, 1944  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theblackvault.com  
    Title: the ufo files of mussolini [fascist ufo files](&#123;&#123; 'fascist-files/' | relative_url &#125;&#125;) by roberto pinotti  
-   Link: <a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded by M...</p></details>
+   Link:<a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded by M...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nam.ac.uk  
    Title: italian campaign  
-   Link: <a href="https://www.nam.ac.uk/explore/italian-campaign" target="_blank" rel="noopener noreferrer nofollow">https://www.nam.ac.uk/explore/italian-campaign</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Army MuseumThe battle for ItalyOn 23 May 1944, seven Allied divisions broke out from Anzio. On 4 June, the Fifth Army entered Ro...</p></details>
+   Link:<a href="https://www.nam.ac.uk/explore/italian-campaign" target="_blank" rel="noopener noreferrer nofollow">https://www.nam.ac.uk/explore/italian-campaign</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Army MuseumThe battle for ItalyOn 23 May 1944, seven Allied divisions broke out from Anzio. On 4 June, the Fifth Army entered Ro...</p></details>
    Published: May 1944  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nationalww2museum.org  
-   Link: <a href="https://www.nationalww2museum.org/war/articles/allied-campaign-italy-1943-45-[timeline" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalww2museum.org/war/articles/allied-campaign-italy-1943-45-[timeline</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National WWII MuseumThe Allied Campaign in Italy, 1943-45: A Timeline, Part Three27 May 2022 — Italian troops serving with US Fifth Army...</p></details>
+   Link:<a href="https://www.nationalww2museum.org/war/articles/allied-campaign-italy-1943-45-[timeline" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalww2museum.org/war/articles/allied-campaign-italy-1943-45-[timeline</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National WWII MuseumThe Allied Campaign in Italy, 1943-45: A Timeline, Part Three27 May 2022 — Italian troops serving with US Fifth Army...</p></details>
    Published: May 2022  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=yc9iCEZeb2M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yc9iCEZeb2M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This NewsNation interview with David Grusch provides direct context on the alleged 1933 Magenta UFO retrieval and the subsequent claims r...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yc9iCEZeb2M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yc9iCEZeb2M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This NewsNation interview with David Grusch provides direct context on the alleged 1933 Magenta UFO retrieval and the subsequent claims r...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: UFO Whistleblower Calls for Release of Federal Space Alien Files  
-   Link: <a href="https://www.youtube.com/watch?v=HDJ679f_mog" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HDJ679f_mog</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Liberation Of Rome&quot; (1944) WW2 REEL History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HDJ679f_mog" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HDJ679f_mog</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Liberation Of Rome&quot; (1944) WW2 REEL History...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: skeptoid.com  
-   Link: <a href="https://skeptoid.com/episodes/900" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/900</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mussolini&#x27;s Aliens5 Sept 2023 — Mussolini&#x27;s Aliens. Donate How an old Italian UFO hoax became proof of alien visitation to the US Congres...</p></details>
+   Link:<a href="https://skeptoid.com/episodes/900" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/900</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mussolini&#x27;s Aliens5 Sept 2023 — Mussolini&#x27;s Aliens. Donate How an old Italian UFO hoax became proof of alien visitation to the US Congres...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=RBAISwCZ2v0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RBAISwCZ2v0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Magenta UFO case in Italy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RBAISwCZ2v0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RBAISwCZ2v0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Magenta UFO case in Italy...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: The Magenta UFO case in Italy  
-   Link: <a href="https://www.youtube.com/watch?v=OsniQnH7phU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OsniQnH7phU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Whistleblower Calls for Release of Federal Space Alien Files...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OsniQnH7phU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OsniQnH7phU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Whistleblower Calls for Release of Federal Space Alien Files...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=50naqHqDQ9Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=50naqHqDQ9Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Liberation Of Rome (1944)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=50naqHqDQ9Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=50naqHqDQ9Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Liberation Of Rome (1944)...</p></details>

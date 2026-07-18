@@ -274,7 +274,7 @@ image: /assets/images/Alleged_Magenta_ufo_7bc4e9_pinotti_documents_21e30d_ufo_pu
 
 ## Introduction
 
-The [alleged Magenta UFO]({{ 'alleged-magenta-ufo/' | relative_url }}) papers entered public awareness through the UFO community rather than through a conventional archival discovery. That publication path is significant because it shaped how the documents were evaluated from the outset. Instead of emerging from a catalogued state archive, a documented private collection or a transparent declassification process, the papers were introduced at UFO conferences, expanded in specialist magazines and later developed into books by their principal advocates. This sequence does not, by itself, prove the documents are false. It does, however, create a credibility challenge: widespread circulation within an interested community is not the same as independent historical verification, and the two are often conflated in [later retellings]({{ 'later-retellings/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">Centro Italiano Studi Ufologici Fascist UFO Files: a Professional Archivist&#x27;s Opinion</span><span class="citation-popover-snippet">CISU - Centro Italiano Studi UfologiciFascist UFO Files: a Professional Archivist&#x27;s OpinionAugust 2, 2023 — A detailed critical analysis...</span></span></span>
+The [alleged Magenta UFO]({{ 'alleged-magenta-ufo/' | relative_url }}) papers entered public awareness through the UFO community rather than through a conventional archival discovery. That publication path is significant because it shaped how the documents were evaluated from the outset. Instead of emerging from a catalogued state archive, a documented private collection or a transparent declassification process, the papers were introduced at UFO conferences, expanded in specialist magazines and later developed into books by their principal advocates. This sequence does not, by itself, prove the documents are false. It does, however, create a credibility challenge: widespread circulation within an interested community is not the same as independent historical verification, and the two are often conflated in [later retellings]({{ 'later-retellings/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">Centro Italiano Studi Ufologici Fascist UFO Files: a Professional Archivist&#x27;s Opinion</span><span class="citation-popover-snippet">CISU - Centro Italiano Studi UfologiciFascist UFO Files: a Professional Archivist&#x27;s OpinionAugust 2, 2023 — A detailed critical analysis...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_pinotti_documents_21e30d_ufo_publication_path_e45546-Illustration-1-dark.svg" | relative_url }}" alt="Publication Path illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_pinotti_documents_21e30d_ufo_publication_path_e45546-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_pinotti_documents_21e30d_ufo_publication_path_e45546-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,7 +282,7 @@ The [alleged Magenta UFO]({{ 'alleged-magenta-ufo/' | relative_url }}) papers en
 
 ### From anonymous documents to the San Marino presentation
 
-According to Roberto Pinotti's published account, the material arrived anonymously during the late 1990s and was first presented publicly at the World UFO Symposium in San Marino in 2000. Rather than introducing the papers through historians, archivists or government institutions, the first sustained audience consisted of UFO researchers already interested in reports of hidden government investigations and recovered craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">claim a ufo crashed in 1933 italy and the us recovered it.13282</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating ar...</span></span></span>
+According to Roberto Pinotti's published account, the material arrived anonymously during the late 1990s and was first presented publicly at the World UFO Symposium in San Marino in 2000. Rather than introducing the papers through historians, archivists or government institutions, the first sustained audience consisted of UFO researchers already interested in reports of hidden government investigations and recovered craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">claim a ufo crashed in 1933 italy and the us recovered it.13282</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating ar...</span></span></span>
 
 That setting influenced how the story developed. Conference presentations naturally encourage discussion, speculation and comparison with other UFO cases, but they are not designed to establish documentary authenticity. The audience evaluates claims primarily through argument and perceived consistency rather than through archival procedures such as provenance analysis, paper examination, registry matching or institutional [custody]({{ 'custody/' | relative_url }}) records.
 
@@ -293,9 +293,9 @@ As a result, the Magenta narrative gained visibility before its underlying docum
 
 ### Expansion through books and UFO publishing
 
-Following the conference presentations, Pinotti and Alfredo Lissoni expanded the case in the 2001 Italian book *Mussolini e gli UFO: gli "X-files" del Nazifascismo*. The volume reproduced and interpreted the alleged Fascist-era documents while embedding them within a broader narrative about secret Italian UFO investigations. Bibliographic records show the book was published commercially in Italy and became the principal reference for subsequent writers discussing the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nli.org.il/en/books/NNL_ALEPH990023625650205171/NLI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nli.org.il">[National Library of Israel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nli.org.il</span><span class="citation-popover-title">Contributors, Lissoni, Alfredo. Publisher, Rimini: Idea libri.Read more</span><span class="citation-popover-snippet">National Library of Israelgli &quot;X-files&quot; del Nazifascismo / Roberto Pinotti, Alfredo LissoniJune 25, 2001 — Mussolini e gli UFO: gli &quot;X-f...</span><span class="citation-popover-meta">Published: June 25, 2001</span></span></span>
+Following the conference presentations, Pinotti and Alfredo Lissoni expanded the case in the 2001 Italian book *Mussolini e gli UFO: gli "X-files" del Nazifascismo*. The volume reproduced and interpreted the alleged Fascist-era documents while embedding them within a broader narrative about secret Italian UFO investigations. Bibliographic records show the book was published commercially in Italy and became the principal reference for subsequent writers discussing the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nli.org.il/en/books/NNL_ALEPH990023625650205171/NLI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nli.org.il">[National Library of Israel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nli.org.il</span><span class="citation-popover-title">Contributors, Lissoni, Alfredo. Publisher, Rimini: Idea libri.Read more</span><span class="citation-popover-snippet">National Library of Israelgli &quot;X-files&quot; del Nazifascismo / Roberto Pinotti, Alfredo LissoniJune 25, 2001 — Mussolini e gli UFO: gli &quot;X-f...</span><span class="citation-popover-meta">Published: June 25, 2001</span></span></span>
 
-Over the following years, the story spread through specialist UFO publications, conference proceedings and later English-language summaries rather than through peer-reviewed historical journals or official archival publications. Each new publication increased awareness of the claim, but most relied heavily on the same underlying collection and on interpretations provided by its original promoters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">claim a ufo crashed in 1933 italy and the us recovered it.13282</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating ar...</span></span></span>
+Over the following years, the story spread through specialist UFO publications, conference proceedings and later English-language summaries rather than through peer-reviewed historical journals or official archival publications. Each new publication increased awareness of the claim, but most relied heavily on the same underlying collection and on interpretations provided by its original promoters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">claim a ufo crashed in 1933 italy and the us recovered it.13282</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating ar...</span></span></span>
 
 ## Advocacy publication versus archival release
 
@@ -303,7 +303,7 @@ The publication route matters because different publication channels perform dif
 
 An archival release normally allows researchers to examine original documents within an identifiable collection, compare them with neighbouring records, inspect physical characteristics and reconstruct an unbroken chain of custody. Those steps make independent verification possible even when historians disagree about interpretation.
 
-The Magenta papers followed almost the opposite sequence. The documents first became known through advocacy-oriented publications whose purpose was to argue that an extraordinary historical event had occurred. Readers therefore encountered an interpretation before they had access to independently authenticated primary material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">Centro Italiano Studi Ufologici Fascist UFO Files: a Professional Archivist&#x27;s Opinion</span><span class="citation-popover-snippet">CISU - Centro Italiano Studi UfologiciFascist UFO Files: a Professional Archivist&#x27;s OpinionAugust 2, 2023 — A detailed critical analysis...</span></span></span>
+The Magenta papers followed almost the opposite sequence. The documents first became known through advocacy-oriented publications whose purpose was to argue that an extraordinary historical event had occurred. Readers therefore encountered an interpretation before they had access to independently authenticated primary material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">Centro Italiano Studi Ufologici Fascist UFO Files: a Professional Archivist&#x27;s Opinion</span><span class="citation-popover-snippet">CISU - Centro Italiano Studi UfologiciFascist UFO Files: a Professional Archivist&#x27;s OpinionAugust 2, 2023 — A detailed critical analysis...</span></span></span>
 
 This distinction is important because publication is not itself evidence of authenticity. A widely distributed book may faithfully reproduce genuine archival material, but it may also faithfully reproduce disputed or unauthenticated documents. The publication channel alone cannot resolve that question.
 
@@ -320,7 +320,7 @@ In the Magenta case, several factors contribute to that credibility risk:
 * the documents were reportedly received anonymously;
 * the original chain of custody has not been publicly reconstructed;
 * independent researchers have had limited opportunity to authenticate original materials rather than reproductions;
-* many subsequent publications rely primarily on Pinotti's presentation of the documents rather than on separate archival discoveries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">Centro Italiano Studi Ufologici Fascist UFO Files: a Professional Archivist&#x27;s Opinion</span><span class="citation-popover-snippet">CISU - Centro Italiano Studi UfologiciFascist UFO Files: a Professional Archivist&#x27;s OpinionAugust 2, 2023 — A detailed critical analysis...</span></span></span>
+* many subsequent publications rely primarily on Pinotti's presentation of the documents rather than on separate archival discoveries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">Centro Italiano Studi Ufologici Fascist UFO Files: a Professional Archivist&#x27;s Opinion</span><span class="citation-popover-snippet">CISU - Centro Italiano Studi UfologiciFascist UFO Files: a Professional Archivist&#x27;s OpinionAugust 2, 2023 — A detailed critical analysis...</span></span></span>
 
 None of these points proves fabrication, but collectively they mean that the growth of the story in print cannot be treated as equivalent to growth in verified evidence.
 
@@ -330,209 +330,209 @@ None of these points proves fabrication, but collectively they mean that the gro
 
 [Supporters]({{ 'supporters/' | relative_url }}) generally argue that unconventional publication was inevitable if sensitive material had genuinely been suppressed. From that perspective, UFO conferences and specialist publishers simply provided the only available venue for controversial documents that mainstream institutions would have ignored.
 
-Critics reach a different conclusion. They argue that extraordinary historical documents require the strongest possible provenance precisely because they make extraordinary claims. Several Italian UFO researchers associated with the Italian Center for UFO Studies (CISU) have emphasised that publication history cannot substitute for documentary [authentication]({{ 'authentication/' | relative_url }}) and have questioned aspects of the documents' provenance, format and archival consistency. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">Centro Italiano Studi Ufologici Fascist UFO Files: a Professional Archivist&#x27;s Opinion</span><span class="citation-popover-snippet">CISU - Centro Italiano Studi UfologiciFascist UFO Files: a Professional Archivist&#x27;s OpinionAugust 2, 2023 — A detailed critical analysis...</span></span></span>
+Critics reach a different conclusion. They argue that extraordinary historical documents require the strongest possible provenance precisely because they make extraordinary claims. Several Italian UFO researchers associated with the Italian Center for UFO Studies (CISU) have emphasised that publication history cannot substitute for documentary [authentication]({{ 'authentication/' | relative_url }}) and have questioned aspects of the documents' provenance, format and archival consistency.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">Centro Italiano Studi Ufologici Fascist UFO Files: a Professional Archivist&#x27;s Opinion</span><span class="citation-popover-snippet">CISU - Centro Italiano Studi UfologiciFascist UFO Files: a Professional Archivist&#x27;s OpinionAugust 2, 2023 — A detailed critical analysis...</span></span></span>
 
-Notably, criticism has not come solely from [sceptics]({{ 'sceptics/' | relative_url }}) outside UFO research. The publication path has also been questioned by researchers within Italian ufology, making the debate less about belief in UFOs generally than about historical standards for evaluating documentary evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">Centro Italiano Studi Ufologici Fascist UFO Files: a Professional Archivist&#x27;s Opinion</span><span class="citation-popover-snippet">CISU - Centro Italiano Studi UfologiciFascist UFO Files: a Professional Archivist&#x27;s OpinionAugust 2, 2023 — A detailed critical analysis...</span></span></span>
+Notably, criticism has not come solely from [sceptics]({{ 'sceptics/' | relative_url }}) outside UFO research. The publication path has also been questioned by researchers within Italian ufology, making the debate less about belief in UFOs generally than about historical standards for evaluating documentary evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">Centro Italiano Studi Ufologici Fascist UFO Files: a Professional Archivist&#x27;s Opinion</span><span class="citation-popover-snippet">CISU - Centro Italiano Studi UfologiciFascist UFO Files: a Professional Archivist&#x27;s OpinionAugust 2, 2023 — A detailed critical analysis...</span></span></span>
 
 ## What the publication path means for assessing the Magenta papers
 
 The conference-to-book trajectory explains why the Magenta papers became influential long before they became widely scrutinised by historians. Their public identity was established as a UFO case first and an archival question second.
 
-For readers assessing the alleged 1933 Magenta crash, this distinction is crucial. The historical significance of the documents depends not on how frequently they have been presented at conferences or reproduced in books, but on whether their provenance, physical characteristics and archival context can ultimately withstand independent examination. Until that level of verification is achieved, the publication history demonstrates how a claim gained prominence rather than how its authenticity was established. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">Centro Italiano Studi Ufologici Fascist UFO Files: a Professional Archivist&#x27;s Opinion</span><span class="citation-popover-snippet">CISU - Centro Italiano Studi UfologiciFascist UFO Files: a Professional Archivist&#x27;s OpinionAugust 2, 2023 — A detailed critical analysis...</span></span></span>
+For readers assessing the alleged 1933 Magenta crash, this distinction is crucial. The historical significance of the documents depends not on how frequently they have been presented at conferences or reproduced in books, but on whether their provenance, physical characteristics and archival context can ultimately withstand independent examination. Until that level of verification is achieved, the publication history demonstrates how a claim gained prominence rather than how its authenticity was established.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">Centro Italiano Studi Ufologici Fascist UFO Files: a Professional Archivist&#x27;s Opinion</span><span class="citation-popover-snippet">CISU - Centro Italiano Studi UfologiciFascist UFO Files: a Professional Archivist&#x27;s OpinionAugust 2, 2023 — A detailed critical analysis...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LLnVXIzsFt8" title="Roberto Pinotti on the 1933 Magenta Crash and the History of UAP in Italy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LLnVXIzsFt8" target="_blank" rel="noopener noreferrer">Roberto Pinotti on the 1933 Magenta Crash and the History of UAP in Italy</a></p><p class="youtube-embed-meta">Channel: The Sol Foundation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LLnVXIzsFt8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LLnVXIzsFt8">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How the papers became a UFO story. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How the papers became a UFO story. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps readers distinguish evidence, investigation, and interpretation in UFO case assessment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers distinguish evidence, investigation, and interpretation in UFO case assessment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for how UFO claims are presented, sourced, and evaluated beyond simple circulation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how UFO claims are presented, sourced, and evaluated beyond simple circulation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Strong fit for understanding archival evidence, documentation standards, and historical claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for understanding archival evidence, documentation standards, and historical claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Extraterrestrial Encounters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2WeeBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Extraterrestrial Encounters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Extraterrestrial Encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>
-        </h4>
-        <p class="fr-book-author">By Ronald Story</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Extraterrestrial Encounters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2WeeBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Extraterrestrial Encounters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Extraterrestrial Encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>
+</h4>
+<p class="fr-book-author">By Ronald Story</p>
         
-        <p class="fr-book-desc">Places individual UFO document stories within the wider history of reported cases and their publication.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places individual UFO document stories within the wider history of reported cases and their publication.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="publication-path-how-the-papers-became-a-ufo-story-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -548,7 +548,7 @@ For readers assessing the alleged 1933 Magenta crash, this distinction is crucia
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -568,7 +568,7 @@ For readers assessing the alleged 1933 Magenta crash, this distinction is crucia
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -600,7 +600,7 @@ For readers assessing the alleged 1933 Magenta crash, this distinction is crucia
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -652,7 +652,7 @@ For readers assessing the alleged 1933 Magenta crash, this distinction is crucia
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -697,7 +697,7 @@ For readers assessing the alleged 1933 Magenta crash, this distinction is crucia
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -738,79 +738,79 @@ For readers assessing the alleged 1933 Magenta crash, this distinction is crucia
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cisu.org  
-   Link: <a href="https://www.cisu.org/[fascist-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/[fascist-ufo-files</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Centro Italiano Studi UfologiciFascist UFO Files: a Professional Archivist&#x27;s OpinionAugust 2, 2023 — A detailed critical analysis...</p></details>
+   Link:<a href="https://www.cisu.org/[fascist-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/[fascist-ufo-files</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Centro Italiano Studi UfologiciFascist UFO Files: a Professional Archivist&#x27;s OpinionAugust 2, 2023 — A detailed critical analysis...</p></details>
    Published: August 2, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: metabunk.org  
    Title: claim a ufo crashed in 1933 italy and the us recovered it.13282  
-   Link: <a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating ar...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating ar...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nli.org.il  
    Title: Contributors, Lissoni, Alfredo. Publisher, Rimini: Idea libri.Read more  
-   Link: <a href="https://www.nli.org.il/en/books/NNL_ALEPH990023625650205171/NLI" target="_blank" rel="noopener noreferrer nofollow">https://www.nli.org.il/en/books/NNL_ALEPH990023625650205171/NLI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Library of Israelgli &quot;X-files&quot; del Nazifascismo / Roberto Pinotti, Alfredo LissoniJune 25, 2001 — Mussolini e gli UFO: gli &quot;X-f...</p></details>
+   Link:<a href="https://www.nli.org.il/en/books/NNL_ALEPH990023625650205171/NLI" target="_blank" rel="noopener noreferrer nofollow">https://www.nli.org.il/en/books/NNL_ALEPH990023625650205171/NLI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Library of Israelgli &quot;X-files&quot; del Nazifascismo / Roberto Pinotti, Alfredo LissoniJune 25, 2001 — Mussolini e gli UFO: gli &quot;X-f...</p></details>
    Published: June 25, 2001  
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=KQ2znFihC6M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KQ2znFihC6M</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roberto Pinotti San Marino UFO symposium 1933 Magenta Roberto Pinotti on the 1933 Magenta Crash and the History of UAP in Italy The Sol F...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KQ2znFihC6M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KQ2znFihC6M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roberto Pinotti San Marino UFO symposium 1933 Magenta Roberto Pinotti on the 1933 Magenta Crash and the History of UAP in Italy The Sol F...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: downey-n1.cs.northwestern.edu  
    Title: edubiennials verplank tsukino biysk woode nunnery icici gavar  
-   Link: <a href="https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt" target="_blank" rel="noopener noreferrer nofollow">https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>documents barwell eucla bassoon morinda zetima mechanism hefe... criticism angelman hamat lotrionte chayanne hamar replace hamal tirico...</p></details>
+   Link:<a href="https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt" target="_blank" rel="noopener noreferrer nofollow">https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>documents barwell eucla bassoon morinda zetima mechanism hefe... criticism angelman hamat lotrionte chayanne hamar replace hamal tirico...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: iris.uniroma1.it  
    Title: it Strategia, strateghi e pop culture nella guerra fredda  
-   Link: <a href="https://iris.uniroma1.it/retrieve/e383532e-d34f-15e8-e053-a505fe0a3de9/Tesi_dottorato_Valli.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iris.uniroma1.it/retrieve/e383532e-d34f-15e8-e053-a505fe0a3de9/Tesi_dottorato_Valli.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>e Lissoni A., Gli X files del Fascismo. Mussolini e gli UFO, Idea Libri, Rimini. 2007. 422. Piretto G. P., Quando c&#x27;era l&#x27;URSS, Raffaell...</p></details>
+   Link:<a href="https://iris.uniroma1.it/retrieve/e383532e-d34f-15e8-e053-a505fe0a3de9/Tesi_dottorato_Valli.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iris.uniroma1.it/retrieve/e383532e-d34f-15e8-e053-a505fe0a3de9/Tesi_dottorato_Valli.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e Lissoni A., Gli X files del Fascismo. Mussolini e gli UFO, Idea Libri, Rimini. 2007. 422. Piretto G. P., Quando c&#x27;era l&#x27;URSS, Raffaell...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: downloads.cs.stanford.edu  
    Title: eduthan born became states including american  
-   Link: <a href="https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt" target="_blank" rel="noopener noreferrer nofollow">https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ufo neoclassical environmentally radios packing conform systematically glands whitman feather appliances boise sms boca harley wanna 5.7...</p></details>
+   Link:<a href="https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt" target="_blank" rel="noopener noreferrer nofollow">https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ufo neoclassical environmentally radios packing conform systematically glands whitman feather appliances boise sms boca harley wanna 5.7...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: s3images.coroflot.com  
    Title: original pdf 221275 cnam8fbq0ghvxozvq74jqhf9z  
-   Link: <a href="https://s3images.coroflot.com/user_files/individual_files/original_pdf_221275_cnam8fbq0ghvxozvq74jqhf9z.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3images.coroflot.com/user_files/individual_files/original_pdf_221275_cnam8fbq0ghvxozvq74jqhf9z.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[https://www.thelivingmoon.com/49ufo_files/](https://www.thelivingmoon.com/49ufo_files/). Petit, Jean-Pierre. 2002–. [http://www.jp-petit.org/new_en/news.htm.Read](http://www.jp-petit.org/new_en/news.htm.Read) more...</p></details>
+   Link:<a href="https://s3images.coroflot.com/user_files/individual_files/original_pdf_221275_cnam8fbq0ghvxozvq74jqhf9z.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3images.coroflot.com/user_files/individual_files/original_pdf_221275_cnam8fbq0ghvxozvq74jqhf9z.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[https://www.thelivingmoon.com/49ufo_files/](https://www.thelivingmoon.com/49ufo_files/). Petit, Jean-Pierre. 2002–. [http://www.jp-petit.org/new_en/news.htm.Read](http://www.jp-petit.org/new_en/news.htm.Read) more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: amazon.it  
    Title: Italy Mussolini e gli U.F.O  
-   Link: <a href="https://www.amazon.it/Mussolini-gli-U-F-Roberto-Pinotti/dp/8870827410?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.it/Mussolini-gli-U-F-Roberto-Pinotti/dp/8870827410?tag=searcht-20</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pinotti, Roberto, Lissoni, Alfredo - LibriLunghezza stampa. 272 pagine · Lingua. Italiano · Editore. Idea Libri · Data di pubblicazione...</p></details>
+   Link:<a href="https://www.amazon.it/Mussolini-gli-U-F-Roberto-Pinotti/dp/8870827410?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.it/Mussolini-gli-U-F-Roberto-Pinotti/dp/8870827410?tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pinotti, Roberto, Lissoni, Alfredo - LibriLunghezza stampa. 272 pagine · Lingua. Italiano · Editore. Idea Libri · Data di pubblicazione...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=fY6sBD_IWEs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fY6sBD_IWEs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Italy’s UFO Crash Before [Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;)? The 1933 Magenta Incident Revealed...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fY6sBD_IWEs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fY6sBD_IWEs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Italy’s UFO Crash Before [Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;)? The 1933 Magenta Incident Revealed...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=l7S8KnXePJI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l7S8KnXePJI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roberto Pinotti talks 1933 Magenta, Italy crash-retrieval at the European UAP/NHI Disclosure Summit...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=l7S8KnXePJI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l7S8KnXePJI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roberto Pinotti talks 1933 Magenta, Italy crash-retrieval at the European UAP/NHI Disclosure Summit...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: academia.edu  
    Title: DOUBLE TROUBLE VOLUME STAMPATO PAGINE SINGOLE 07 2020  
-   Link: <a href="https://www.academia.edu/88411527/DOUBLE_TROUBLE_VOLUME_STAMPATO_PAGINE_SINGOLE_07_2020" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/88411527/DOUBLE_TROUBLE_VOLUME_STAMPATO_PAGINE_SINGOLE_07_2020</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Proceedings of a 2018 meeting on the relationship between contemporary art shows and art fairs...</p></details>
+   Link:<a href="https://www.academia.edu/88411527/DOUBLE_TROUBLE_VOLUME_STAMPATO_PAGINE_SINGOLE" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/88411527/DOUBLE_TROUBLE_VOLUME_STAMPATO_PAGINE_SINGOLE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Proceedings of a 2018 meeting on the relationship between contemporary art shows and art fairs...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ntu.primo.exlibrisgroup.com  
-   Link: <a href="https://ntu.primo.exlibrisgroup.com/discovery/fulldisplay/alma990002107110206774/886UST_NTHU%3A886UST_NTHU" target="_blank" rel="noopener noreferrer nofollow">https://ntu.primo.exlibrisgroup.com/discovery/fulldisplay/alma990002107110206774/886UST_NTHU%3A886UST_NTHU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;exlibrisgroup.com[https://ntu.primo.exlibrisgroup.com/discovery/full...&quot;](https://ntu.primo.exlibrisgroup.com/discovery/full...&quot;)...</p></details>
+   Link:<a href="https://ntu.primo.exlibrisgroup.com/discovery/fulldisplay/alma990002107110206774/886UST_NTHU%3A886UST_NTHU" target="_blank" rel="noopener noreferrer nofollow">https://ntu.primo.exlibrisgroup.com/discovery/fulldisplay/alma990002107110206774/886UST_NTHU%3A886UST_NTHU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;exlibrisgroup.com[https://ntu.primo.exlibrisgroup.com/discovery/full...&quot;](https://ntu.primo.exlibrisgroup.com/discovery/full...&quot;)...</p></details>

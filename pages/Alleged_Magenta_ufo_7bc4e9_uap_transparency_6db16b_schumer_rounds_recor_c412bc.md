@@ -280,11 +280,11 @@ image: /assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b_schumer
 
 ## Introduction
 
-After former intelligence official David [Grusch]({{ 'grusch/' | relative_url }}) alleged that the US government had concealed long-running programmes involving recovered unidentified anomalous phenomena (UAP), the political debate shifted from proving extraordinary claims to determining who controlled the underlying records. The bipartisan Schumer–Rounds proposal, formally titled the UAP Disclosure Act of 2023, was designed to answer that governance question rather than validate any individual crash story. Modelled on the law governing the release of John F. Kennedy assassination records, it sought to create a structured process for identifying, reviewing and eventually releasing UAP-related government records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[Senate Democratic Leadership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-snippet">Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...14 Jul 2023 — Schumer, Rounds Introduce New Legisl...</span></span></span>
+After former intelligence official David [Grusch]({{ 'grusch/' | relative_url }}) alleged that the US government had concealed long-running programmes involving recovered unidentified anomalous phenomena (UAP), the political debate shifted from proving extraordinary claims to determining who controlled the underlying records. The bipartisan Schumer–Rounds proposal, formally titled the UAP Disclosure Act of 2023, was designed to answer that governance question rather than validate any individual crash story. Modelled on the law governing the release of John F. Kennedy assassination records, it sought to create a structured process for identifying, reviewing and eventually releasing UAP-related government records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[Senate Democratic Leadership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-snippet">Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...14 Jul 2023 — Schumer, Rounds Introduce New Legisl...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b_schumer_rounds_recor_c412bc-Illustration-1-dark.svg" | relative_url }}" alt="Records Plan illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b_schumer_rounds_recor_c412bc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b_schumer_rounds_recor_c412bc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within debates surrounding alleged historical crash cases such as the Magenta story, the proposal mattered because it treated claims of hidden crash-retrieval programmes as a records-management and congressional [oversight]({{ 'oversight/' | relative_url }}) problem. Whether such claims were ultimately substantiated or not, the legislation attempted to ensure that relevant government records could no longer remain indefinitely scattered across agencies or shielded by fragmented classification practices. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-timeline-and-process-for-agencies-to-declassify-all-uap-records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">senate panel aims to set a mandatory timeline and process for agencies to declassify all uap records</span><span class="citation-popover-snippet">government records associated with reports of unidentified anomalous</span></span></span>
+Within debates surrounding alleged historical crash cases such as the Magenta story, the proposal mattered because it treated claims of hidden crash-retrieval programmes as a records-management and congressional [oversight]({{ 'oversight/' | relative_url }}) problem. Whether such claims were ultimately substantiated or not, the legislation attempted to ensure that relevant government records could no longer remain indefinitely scattered across agencies or shielded by fragmented classification practices.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-timeline-and-process-for-agencies-to-declassify-all-uap-records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">senate panel aims to set a mandatory timeline and process for agencies to declassify all uap records</span><span class="citation-popover-snippet">government records associated with reports of unidentified anomalous</span></span></span>
 
 ## What the proposal tried to create
 
@@ -299,13 +299,13 @@ Its principal features included:
 * A legal requirement for federal agencies to identify and transfer relevant records.
 * A presumption that records should eventually be disclosed unless continued secrecy met defined standards.
 * An independent Review Board to decide disputed cases instead of leaving release decisions entirely with originating agencies.
-* Timetables for agencies to review, catalogue and justify continued withholding of records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[Senate Democratic Leadership+2DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-snippet">Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...14 Jul 2023 — Schumer, Rounds Introduce New Legisl...</span></span></span>
+* Timetables for agencies to review, catalogue and justify continued withholding of records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[Senate Democratic Leadership+2DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-snippet">Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...14 Jul 2023 — Schumer, Rounds Introduce New Legisl...</span></span></span>
 
 </div>
 
 The legislation therefore addressed an institutional question: if Congress suspected that information had become compartmentalised across intelligence agencies, military organisations or government contractors, how could lawmakers ensure those records were actually located and reviewed?
 
-[Supporters]({{ 'supporters/' | relative_url }}) argued that existing declassification procedures were poorly suited to subjects spanning multiple departments over many decades. A dedicated archive would reduce duplication, establish consistent disclosure standards and create a permanent historical record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[Senate Democratic Leadership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-snippet">Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...14 Jul 2023 — Schumer, Rounds Introduce New Legisl...</span></span></span>
+[Supporters]({{ 'supporters/' | relative_url }}) argued that existing declassification procedures were poorly suited to subjects spanning multiple departments over many decades. A dedicated archive would reduce duplication, establish consistent disclosure standards and create a permanent historical record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[Senate Democratic Leadership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-snippet">Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...14 Jul 2023 — Schumer, Rounds Introduce New Legisl...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Z8a0P617nqw" title="&#x27;Major Win For Government Transparency&#x27;: Chuck Schumer And Mike Rounds Announce UAP Disclosure Act" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Z8a0P617nqw" target="_blank" rel="noopener noreferrer">&#x27;Major Win For Government Transparency&#x27;: Chuck Schumer And Mike Rounds Announce UAP Disclosure Act</a></p><p class="youtube-embed-meta">Channel: Forbes Breaking News &middot; Views: 37.6K &middot; Uploaded: December 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Z8a0P617nqw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Z8a0P617nqw">Open on YouTube</a></p></div></div></div>
@@ -314,11 +314,11 @@ The legislation therefore addressed an institutional question: if Congress suspe
 
 Although public attention focused on alleged recovered craft and claims of "non-human intelligence", the legislative response concentrated on documentation rather than proof.
 
-Grusch's allegations suggested that records concerning alleged crash-retrieval activities might exist outside normal congressional oversight. The Schumer–Rounds proposal therefore repeatedly referred not only to UAP incidents but also to records concerning technologies of unknown origin and alleged non-human intelligence. Importantly, those references did not constitute congressional findings that such technologies actually existed. Instead, they defined categories of records that would have to be identified if they existed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[Senate Democratic Leadership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-snippet">Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...14 Jul 2023 — Schumer, Rounds Introduce New Legisl...</span></span></span>
+Grusch's allegations suggested that records concerning alleged crash-retrieval activities might exist outside normal congressional oversight. The Schumer–Rounds proposal therefore repeatedly referred not only to UAP incidents but also to records concerning technologies of unknown origin and alleged non-human intelligence. Importantly, those references did not constitute congressional findings that such technologies actually existed. Instead, they defined categories of records that would have to be identified if they existed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[Senate Democratic Leadership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-snippet">Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...14 Jul 2023 — Schumer, Rounds Introduce New Legisl...</span></span></span>
 
 For readers interested in alleged historical incidents such as the Magenta crash story, this distinction is crucial. The proposal did not endorse any specific historical case. Rather, it recognised that longstanding claims about crash recoveries had become significant enough to justify a formal archival process capable of confirming, clarifying or disproving them through documentary evidence.
 
-The proposal also contained unusually broad language addressing any recovered technologies or biological evidence allegedly held by private entities on behalf of the government. That language attracted considerable attention because it anticipated allegations that classified material, if it existed, might reside with defence contractors rather than solely within federal agencies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[Senate Democratic Leadership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-snippet">Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...14 Jul 2023 — Schumer, Rounds Introduce New Legisl...</span></span></span>
+The proposal also contained unusually broad language addressing any recovered technologies or biological evidence allegedly held by private entities on behalf of the government. That language attracted considerable attention because it anticipated allegations that classified material, if it existed, might reside with defence contractors rather than solely within federal agencies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[Senate Democratic Leadership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-snippet">Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...14 Jul 2023 — Schumer, Rounds Introduce New Legisl...</span></span></span>
 
 ## Why the fight centred on governance rather than UFOs
 
@@ -336,7 +336,7 @@ This disagreement explains why debates over the legislation often appeared to co
 * whether classification systems had become overly fragmented;
 * how Congress should supervise highly compartmentalised programmes;
 * whether historical secrecy had undermined public confidence;
-* who should decide when secrecy remained justified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nyujlpp.org/wp-content/uploads/2025/03/JLPP-27-2-Yang.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nyujlpp.org">[nyujlpp.org+2Inside Government Contracts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nyujlpp.org</span><span class="citation-popover-title">JLPP 27 2 Yang</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* who should decide when secrecy remained justified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nyujlpp.org/wp-content/uploads/2025/03/JLPP-27-2-Yang.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nyujlpp.org">[nyujlpp.org+2Inside Government Contracts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nyujlpp.org</span><span class="citation-popover-title">JLPP 27 2 Yang</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 </div>
 
@@ -353,7 +353,7 @@ Among the provisions that did survive were:
 
 * creation of a National Archives UAP Records Collection;
 * requirements for agencies to identify and organise relevant records;
-* procedures governing review and eventual public release under existing statutory standards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insidegovernmentcontracts.com">[Inside Government Contracts+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insidegovernmentcontracts.com</span><span class="citation-popover-snippet">Inside Government ContractsImplications of the Unidentified Anomalous Phenomena...9 Jan 2024 — On December 22, 2023, President Biden sig...</span><span class="citation-popover-meta">Published: December 22, 2023</span></span></span>
+* procedures governing review and eventual public release under existing statutory standards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insidegovernmentcontracts.com">[Inside Government Contracts+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insidegovernmentcontracts.com</span><span class="citation-popover-snippet">Inside Government ContractsImplications of the Unidentified Anomalous Phenomena...9 Jan 2024 — On December 22, 2023, President Biden sig...</span><span class="citation-popover-meta">Published: December 22, 2023</span></span></span>
 
 </div>
 
@@ -365,7 +365,7 @@ Several high-profile features did not survive conference negotiations, including
 * the independent UAP Review Board;
 * broader authorities relating to alleged recovered technologies;
 * stronger mechanisms intended to compel disclosure outside normal agency control;
-* some of the original language concerning eminent domain over alleged recovered materials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2Senate Democratic Leadership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The Disclosure Act had aimed to rebuild public trust by uncovering government secrets about unidentified aerial phenomena (UAPs). This in...</span></span></span>
+* some of the original language concerning eminent domain over alleged recovered materials.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2Senate Democratic Leadership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The Disclosure Act had aimed to rebuild public trust by uncovering government secrets about unidentified aerial phenomena (UAPs). This in...</span></span></span>
 
 </div>
 
@@ -378,9 +378,9 @@ As a result, responsibility for many disclosure decisions remained substantially
 
 Even in its reduced form, the enacted legislation produced concrete administrative changes.
 
-The National Archives issued implementation guidance directing federal agencies to identify, organise and transfer qualifying UAP records into the new collection. In April 2025, the National Archives publicly launched the Unidentified Anomalous Phenomena Records Collection, making newly released material available through a dedicated archive and beginning what is intended to become a central repository for government UAP documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">uap guidance</span><span class="citation-popover-snippet">National ArchivesGuidance to Federal Agencies on Unidentified Anomalous...8 May 2024 — The 2024 National Defense Authorization Act (Publ...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+The National Archives issued implementation guidance directing federal agencies to identify, organise and transfer qualifying UAP records into the new collection. In April 2025, the National Archives publicly launched the Unidentified Anomalous Phenomena Records Collection, making newly released material available through a dedicated archive and beginning what is intended to become a central repository for government UAP documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">uap guidance</span><span class="citation-popover-snippet">National ArchivesGuidance to Federal Agencies on Unidentified Anomalous...8 May 2024 — The 2024 National Defense Authorization Act (Publ...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
-That does not mean all requested records became public immediately. Like other federal records programmes, documents may still be withheld temporarily under statutory postponement standards where agencies argue that continued classification remains necessary. Nevertheless, the existence of a dedicated archive creates a more transparent pathway for future releases than previously existed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">uap guidance</span><span class="citation-popover-snippet">National ArchivesGuidance to Federal Agencies on Unidentified Anomalous...8 May 2024 — The 2024 National Defense Authorization Act (Publ...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+That does not mean all requested records became public immediately. Like other federal records programmes, documents may still be withheld temporarily under statutory postponement standards where agencies argue that continued classification remains necessary. Nevertheless, the existence of a dedicated archive creates a more transparent pathway for future releases than previously existed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">uap guidance</span><span class="citation-popover-snippet">National ArchivesGuidance to Federal Agencies on Unidentified Anomalous...8 May 2024 — The 2024 National Defense Authorization Act (Publ...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jtoFsOyNsnk" title="Sen. Schumer introducing UFO records declassification bill | Morning in America" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jtoFsOyNsnk" target="_blank" rel="noopener noreferrer">Sen. Schumer introducing UFO records declassification bill | Morning in America</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 40.9K &middot; Uploaded: July 2023</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jtoFsOyNsnk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jtoFsOyNsnk">Open on YouTube</a></p></div></div></div>
@@ -397,178 +397,178 @@ Consequently, the lasting importance of the Schumer–Rounds proposal lies less 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b_schumer_rounds_recor_c412bc-Illustration-3-dark.svg" | relative_url }}" alt="Records Plan illustration 3" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b_schumer_rounds_recor_c412bc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b_schumer_rounds_recor_c412bc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the UAP records plan mattered. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the UAP records plan mattered. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Closely connected to disclosure legislation context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Closely connected to disclosure legislation context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broader context for transparency debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for transparency debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Historical perspective on official investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Historical perspective on official investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Examines the cultural backdrop to disclosure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines the cultural backdrop to disclosure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="{{ '/assets/images/marketplace-covers/74ea261e7342b39a92bd.jpg' | relative_url }}" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="{{ '/assets/images/marketplace-covers/74ea261e7342b39a92bd.jpg' | relative_url }}" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="records-plan-why-the-uap-records-plan-mattered-alleged-magenta-ufo-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -584,7 +584,7 @@ Consequently, the lasting importance of the Schumer–Rounds proposal lies less 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -604,7 +604,7 @@ Consequently, the lasting importance of the Schumer–Rounds proposal lies less 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -636,7 +636,7 @@ Consequently, the lasting importance of the Schumer–Rounds proposal lies less 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -688,7 +688,7 @@ Consequently, the lasting importance of the Schumer–Rounds proposal lies less 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -733,7 +733,7 @@ Consequently, the lasting importance of the Schumer–Rounds proposal lies less 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -774,125 +774,125 @@ Consequently, the lasting importance of the Schumer–Rounds proposal lies less 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: democrats.senate.gov  
-   Link: <a href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...14 Jul 2023 — Schumer, Rounds Introduce New Legisl...</p></details>
+   Link:<a href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...14 Jul 2023 — Schumer, Rounds Introduce New Legisl...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: young.senate.gov  
-   Link: <a href="https://www.young.senate.gov/news/press-releases/young-colleagues-introduce-new-legislation-to-declassify-government-records-related-to-ufos-and-unidentified-anomalous-phenomena_modeled-after-jfk-assassination-records-collection-act-as-an-amendment/" target="_blank" rel="noopener noreferrer nofollow">https://www.young.senate.gov/news/press-releases/young-colleagues-introduce-new-legislation-to-declassify-government-records-related-to-ufos-and-unidentified-anomalous-phenomena_modeled-after-jfk-assassination-records-collection-act-as-an-amendment/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Senator YoungModeled After JFK Assassination Records Collection Act...Young, Colleagues Introduce New Legislation To Declassify Governme...</p></details>
+   Link:<a href="https://www.young.senate.gov/news/press-releases/young-colleagues-introduce-new-legislation-to-declassify-government-records-related-to-ufos-and-unidentified-anomalous-phenomena_modeled-after-jfk-assassination-records-collection-act-as-an-amendment/" target="_blank" rel="noopener noreferrer nofollow">https://www.young.senate.gov/news/press-releases/young-colleagues-introduce-new-legislation-to-declassify-government-records-related-to-ufos-and-unidentified-anomalous-phenomena_modeled-after-jfk-assassination-records-collection-act-as-an-amendment/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Senator YoungModeled After JFK Assassination Records Collection Act...Young, Colleagues Introduce New Legislation To Declassify Governme...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: defensescoop.com  
-   Link: <a href="https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-[timeline" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-[timeline</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>government records associated with reports of unidentified anomalous...</p></details>
+   Link:<a href="https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-[timeline" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-[timeline</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>government records associated with reports of unidentified anomalous...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nyujlpp.org  
    Title: JLPP 27 2 Yang  
-   Link: <a href="https://nyujlpp.org/wp-content/uploads/2025/03/JLPP-27-2-Yang.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nyujlpp.org/wp-content/uploads/2025/03/JLPP-27-2-Yang.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;THE UAP DISCLOSURE ACTby A Yang — 3, 2020), [https://www.wired.com/story/how-ufo-sightings-became-an-american-](https://www.wired.com/story/how-ufo-sightings-became-an-american-) obsession/ [[https://perma.c...&quot;](https://perma.c...&quot;)...</p></details>
+   Link:<a href="https://nyujlpp.org/wp-content/uploads/2025/03/JLPP-27-2-Yang.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nyujlpp.org/wp-content/uploads/2025/03/JLPP-27-2-Yang.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;THE UAP DISCLOSURE ACTby A Yang — 3, 2020), [https://www.wired.com/story/how-ufo-sightings-became-an-american-](https://www.wired.com/story/how-ufo-sightings-became-an-american-) obsession/ [[https://perma.c...&quot;](https://perma.c...&quot;)...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archives.gov  
    Title: uap guidance  
-   Link: <a href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/uap-guidance</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesGuidance to Federal Agencies on Unidentified Anomalous...8 May 2024 — The 2024 National Defense Authorization Act (Publ...</p></details>
+   Link:<a href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/uap-guidance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesGuidance to Federal Agencies on Unidentified Anomalous...8 May 2024 — The 2024 National Defense Authorization Act (Publ...</p></details>
    Published: May 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
    Title: nr25 07  
-   Link: <a href="https://www.archives.gov/press/press-releases/2025/nr25-07" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/press/press-releases/2025/nr25-07</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesNational Archives Releases UAP Records24 Apr 2025 — The National Archives and Records Administration (NARA) today releas...</p></details>
+   Link:<a href="https://www.archives.gov/press/press-releases/2025/nr25-07" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/press/press-releases/2025/nr25-07</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesNational Archives Releases UAP Records24 Apr 2025 — The National Archives and Records Administration (NARA) today releas...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: democrats.senate.gov  
-   Link: <a href="https://www.democrats.senate.gov/newsroom/press-releases/majority-leader-schumer-and-republican-senator-mike-rounds-floor-colloquy-on-unidentified-anomalous-phenomena-provisions-in-the-ndaa-and-future-legislation-on-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/newsroom/press-releases/majority-leader-schumer-and-republican-senator-mike-rounds-floor-colloquy-on-unidentified-anomalous-phenomena-provisions-in-the-ndaa-and-future-legislation-on-uaps</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Senate Democratic LeadershipMajority Leader Schumer And Republican S...13 Dec 2023 — Senate Majority Leader Chuck Schumer (D-NY) today co...</p></details>
+   Link:<a href="https://www.democrats.senate.gov/newsroom/press-releases/majority-leader-schumer-and-republican-senator-mike-rounds-floor-colloquy-on-unidentified-anomalous-phenomena-provisions-in-the-ndaa-and-future-legislation-on-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/newsroom/press-releases/majority-leader-schumer-and-republican-senator-mike-rounds-floor-colloquy-on-unidentified-anomalous-phenomena-provisions-in-the-ndaa-and-future-legislation-on-uaps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Senate Democratic LeadershipMajority Leader Schumer And Republican S...13 Dec 2023 — Senate Majority Leader Chuck Schumer (D-NY) today co...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.gov  
    Title: rfk files uap records april 2025  
-   Link: <a href="https://www.archives.gov/news/articles/rfk-files-uap-records-april-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/rfk-files-uap-records-april-2025</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRFK Files, UAP Records, and More28 Apr 2025 — On Thursday, April 24, The National Archives released Records Related to U...</p></details>
+   Link:<a href="https://www.archives.gov/news/articles/rfk-files-uap-records-april-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/rfk-files-uap-records-april-2025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRFK Files, UAP Records, and More28 Apr 2025 — On Thursday, April 24, The National Archives released Records Related to U...</p></details>
    Published: april 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has records related to unidentified flyi...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has records related to unidentified flyi...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Disclosure Act had aimed to rebuild public trust by uncovering government secrets about unidentified aerial phenomena (UAPs). This in...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Disclosure Act had aimed to rebuild public trust by uncovering government secrets about unidentified aerial phenomena (UAPs). This in...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: insidegovernmentcontracts.com  
-   Link: <a href="https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Government ContractsImplications of the Unidentified Anomalous Phenomena...9 Jan 2024 — On December 22, 2023, President Biden sig...</p></details>
+   Link:<a href="https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Government ContractsImplications of the Unidentified Anomalous Phenomena...9 Jan 2024 — On December 22, 2023, President Biden sig...</p></details>
    Published: December 22, 2023  
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: militarytimes.com  
    Title: defense bill amendments target increased ufo transparency for public  
-   Link: <a href="https://www.militarytimes.com/news/your-military/2023/07/14/defense-bill-amendments-target-increased-ufo-transparency-for-public/" target="_blank" rel="noopener noreferrer nofollow">https://www.militarytimes.com/news/your-military/2023/07/14/defense-bill-amendments-target-increased-ufo-transparency-for-public/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>thesis. He can be found on Twitter @zamoneperez. Share: Tags: Sean KirkpatrickUFOsTim BurchettPentagon transparencyNDAAChuck Schumer...R...</p></details>
+   Link:<a href="https://www.militarytimes.com/news/your-military/2023/07/14/defense-bill-amendments-target-increased-ufo-transparency-for-public/" target="_blank" rel="noopener noreferrer nofollow">https://www.militarytimes.com/news/your-military/2023/07/14/defense-bill-amendments-target-increased-ufo-transparency-for-public/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>thesis. He can be found on Twitter @zamoneperez. Share: Tags: Sean KirkpatrickUFOsTim BurchettPentagon transparencyNDAAChuck Schumer...R...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: x.com  
    Title: I'm introducing new legislation to declassify government  
-   Link: <a href="https://x.com/SenSchumer/status/1679658426165600256" target="_blank" rel="noopener noreferrer nofollow">https://x.com/SenSchumer/status/1679658426165600256</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NDAA, modeled after the JFK Assassination Records Collection Act... Bipartisan Measure Aims to Force Release of U.F.O. Records (Publishe...</p></details>
+   Link:<a href="https://x.com/SenSchumer/status/1679658426165600256" target="_blank" rel="noopener noreferrer nofollow">https://x.com/SenSchumer/status/1679658426165600256</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NDAA, modeled after the JFK Assassination Records Collection Act... Bipartisan Measure Aims to Force Release of U.F.O. Records (Publishe...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: newsweek.com  
    Title: chuck schumer declassify ufo secrets jfk records 1812978  
-   Link: <a href="https://www.newsweek.com/chuck-schumer-declassify-ufo-secrets-jfk-records-1812978" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/chuck-schumer-declassify-ufo-secrets-jfk-records-1812978</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chuck Schumer Moves to Declassify UFO Secrets Like JFK...14 Jul 2023 — U.S. · Chuck SchumerUFOSpaceJohn F. KennedyAliensSenateDemocratAl...</p></details>
+   Link:<a href="https://www.newsweek.com/chuck-schumer-declassify-ufo-secrets-jfk-records-1812978" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/chuck-schumer-declassify-ufo-secrets-jfk-records-1812978</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chuck Schumer Moves to Declassify UFO Secrets Like JFK...14 Jul 2023 — U.S. · Chuck SchumerUFOSpaceJohn F. KennedyAliensSenateDemocratAl...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: National Defense Authorization Act for Fiscal Year 2024  
-   Link: <a href="https://en.wikipedia.org/wiki/National_Defense_Authorization_Act_for_Fiscal_Year_2024" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Defense_Authorization_Act_for_Fiscal_Year_2024</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Defense Authorization Act for Fiscal Year 2024Contents · 3.1 NATO withdrawal · 3.2 Unidentified flying objects (UFOs) · 3.3 F...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/National_Defense_Authorization_Act_for_Fiscal_Year_2024" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Defense_Authorization_Act_for_Fiscal_Year_2024</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Defense Authorization Act for Fiscal Year 2024Contents · 3.1 NATO withdrawal · 3.2 Unidentified flying objects (UFOs) · 3.3 F...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aol.com  
-   Link: <a href="https://www.aol.com/trump-schumer-rare-common-ground-161734345.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/trump-schumer-rare-common-ground-161734345.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trump, Schumer find rare common ground on releasing...Trump keeps us up in the air with his hints of what&#x27;s coming in a new batch of UFO...</p></details>
+   Link:<a href="https://www.aol.com/trump-schumer-rare-common-ground-161734345.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/trump-schumer-rare-common-ground-161734345.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trump, Schumer find rare common ground on releasing...Trump keeps us up in the air with his hints of what&#x27;s coming in a new batch of UFO...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: meritalk.com  
    Title: schumer senate closing in on passage of ndaa  
-   Link: <a href="https://www.meritalk.com/articles/schumer-senate-closing-in-on-passage-of-ndaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/schumer-senate-closing-in-on-passage-of-ndaa/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Schumer: Senate Closing in on Passage of NDAA27 July 2023 — Senate Majority Leader Chuck Schumer, D-N.Y., said Wednesday that if his coll...</p></details>
+   Link:<a href="https://www.meritalk.com/articles/schumer-senate-closing-in-on-passage-of-ndaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/schumer-senate-closing-in-on-passage-of-ndaa/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Schumer: Senate Closing in on Passage of NDAA27 July 2023 — Senate Majority Leader Chuck Schumer, D-N.Y., said Wednesday that if his coll...</p></details>
    Published: July 2023  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: UAP disclosure bill: What is next after key parts stripped | News Nation Live  
-   Link: <a href="https://www.youtube.com/watch?v=rd-vzdZ5pMg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rd-vzdZ5pMg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Major Win For Government Transparency&#x27;: Chuck Schumer And Mike Rounds Announce UAP Disclosure Act...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rd-vzdZ5pMg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rd-vzdZ5pMg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Major Win For Government Transparency&#x27;: Chuck Schumer And Mike Rounds Announce UAP Disclosure Act...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Z8a0P617nqw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z8a0P617nqw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Election info changes quickly. Verify responses with official sources...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Z8a0P617nqw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z8a0P617nqw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Election info changes quickly. Verify responses with official sources...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Sen. Schumer introducing UFO records declassification bill | Morning in America  
-   Link: <a href="https://www.youtube.com/watch?v=jtoFsOyNsnk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jtoFsOyNsnk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP disclosure bill: What is next after key parts stripped | NewsNation Live...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jtoFsOyNsnk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jtoFsOyNsnk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP disclosure bill: What is next after key parts stripped | NewsNation Live...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Schumer's comments on UFO transparency 'heartening': Ross Coulthart | Cuomo  
-   Link: <a href="https://www.youtube.com/watch?v=gdpu_J2yMAc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gdpu_J2yMAc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sen. Schumer introducing UFO records declassification bill | Morning in America...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gdpu_J2yMAc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gdpu_J2yMAc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sen. Schumer introducing UFO records declassification bill | Morning in America...</p></details>

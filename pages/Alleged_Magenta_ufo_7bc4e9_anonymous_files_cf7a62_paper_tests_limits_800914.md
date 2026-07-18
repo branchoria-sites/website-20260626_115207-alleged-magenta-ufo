@@ -280,15 +280,15 @@ image: /assets/images/Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62_paper_te
 
 ## Introduction
 
-Within the [alleged Magenta UFO]({{ 'alleged-magenta-ufo/' | relative_url }}) crash story, one of the strongest arguments advanced by [supporters]({{ 'supporters/' | relative_url }}) is that at least some of the anonymously supplied documents were reportedly examined by a forensic specialist who concluded that the paper and ink were consistent with the Fascist era. Even if that account is accepted at face value, it answers only a narrow historical question: whether the physical materials appear old. It does **not** establish that the documents truthfully describe a 1933 UFO recovery, that they were created by the claimed officials, or that they remained unaltered throughout the decades. Understanding that distinction is essential when assessing the evidentiary value of the Magenta files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">claim a ufo crashed in 1933 italy and the us recovered it.13282</span><span class="citation-popover-snippet">Files by Roberto Pinotti - The Black Vault Case Files In... (Antonio) Garavaglia conducted a series of chemical tests of the paper and i...</span></span></span>
+Within the [alleged Magenta UFO]({{ 'alleged-magenta-ufo/' | relative_url }}) crash story, one of the strongest arguments advanced by [supporters]({{ 'supporters/' | relative_url }}) is that at least some of the anonymously supplied documents were reportedly examined by a forensic specialist who concluded that the paper and ink were consistent with the Fascist era. Even if that account is accepted at face value, it answers only a narrow historical question: whether the physical materials appear old. It does **not** establish that the documents truthfully describe a 1933 UFO recovery, that they were created by the claimed officials, or that they remained unaltered throughout the decades. Understanding that distinction is essential when assessing the evidentiary value of the Magenta files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">claim a ufo crashed in 1933 italy and the us recovered it.13282</span><span class="citation-popover-snippet">Files by Roberto Pinotti - The Black Vault Case Files In... (Antonio) Garavaglia conducted a series of chemical tests of the paper and i...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62_paper_tests_limits_800914-Illustration-1-dark.svg" | relative_url }}" alt="Paper Tests illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62_paper_tests_limits_800914-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62_paper_tests_limits_800914-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Garavaglia reportedly examined
 
-According to Roberto Pinotti's published account, the original documents—not merely [photocopies]({{ 'photocopies/' | relative_url }})—were examined by Antonio Garavaglia, identified as a forensic analyst associated with the Como Tribunal. Pinotti states that Garavaglia carried out chemical examinations of the paper and ink and concluded that the materials appeared genuinely to date from the Fascist period rather than being modern creations. The assessment reportedly relied on characteristics such as the ageing of the paper and ink rather than on any finding about the truth of the documents' contents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">claim a ufo crashed in 1933 italy and the us recovered it.13282</span><span class="citation-popover-snippet">Files by Roberto Pinotti - The Black Vault Case Files In... (Antonio) Garavaglia conducted a series of chemical tests of the paper and i...</span></span></span>
+According to Roberto Pinotti's published account, the original documents—not merely [photocopies]({{ 'photocopies/' | relative_url }})—were examined by Antonio Garavaglia, identified as a forensic analyst associated with the Como Tribunal. Pinotti states that Garavaglia carried out chemical examinations of the paper and ink and concluded that the materials appeared genuinely to date from the Fascist period rather than being modern creations. The assessment reportedly relied on characteristics such as the ageing of the paper and ink rather than on any finding about the truth of the documents' contents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">claim a ufo crashed in 1933 italy and the us recovered it.13282</span><span class="citation-popover-snippet">Files by Roberto Pinotti - The Black Vault Case Files In... (Antonio) Garavaglia conducted a series of chemical tests of the paper and i...</span></span></span>
 
-Within the literature supporting the Magenta story, this examination is frequently presented as an important milestone because it moves beyond visual inspection. If authentic period paper and period ink were indeed confirmed, that would make a simple modern forgery less likely than if contemporary office paper or modern printer ink had been detected. However, publicly available descriptions of the testing remain relatively general. There is no widely available laboratory report detailing the exact analytical methods, instrument settings, control samples, measurement uncertainties or peer review that would normally allow independent experts to evaluate the conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">claim a ufo crashed in 1933 italy and the us recovered it.13282</span><span class="citation-popover-snippet">Files by Roberto Pinotti - The Black Vault Case Files In... (Antonio) Garavaglia conducted a series of chemical tests of the paper and i...</span></span></span>
+Within the literature supporting the Magenta story, this examination is frequently presented as an important milestone because it moves beyond visual inspection. If authentic period paper and period ink were indeed confirmed, that would make a simple modern forgery less likely than if contemporary office paper or modern printer ink had been detected. However, publicly available descriptions of the testing remain relatively general. There is no widely available laboratory report detailing the exact analytical methods, instrument settings, control samples, measurement uncertainties or peer review that would normally allow independent experts to evaluate the conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">claim a ufo crashed in 1933 italy and the us recovered it.13282</span><span class="citation-popover-snippet">Files by Roberto Pinotti - The Black Vault Case Files In... (Antonio) Garavaglia conducted a series of chemical tests of the paper and i...</span></span></span>
 
 That absence of detailed technical documentation limits what outside researchers can independently verify.
 
@@ -309,7 +309,7 @@ A forensic examination can address questions such as:
 
 </div>
 
-Those are questions about **physical authenticity**, not **historical accuracy**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/topics/forensics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojp.gov">[National Institute of Justice+2Speckin Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojp.gov</span><span class="citation-popover-title">NIJ&#x27;s forensic science ...Read more</span><span class="citation-popover-snippet">National Institute of JusticeForensic and Investigative Sciences &#124; National Institute of JusticeForensic science is the application of sc...</span></span></span>
+Those are questions about **physical authenticity**, not **historical accuracy**.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/topics/forensics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojp.gov">[National Institute of Justice+2Speckin Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojp.gov</span><span class="citation-popover-title">NIJ&#x27;s forensic science ...Read more</span><span class="citation-popover-snippet">National Institute of JusticeForensic and Investigative Sciences &#124; National Institute of JusticeForensic science is the application of sc...</span></span></span>
 
 A document can therefore fall into several different categories:
 
@@ -324,11 +324,11 @@ Historians encounter this distinction regularly. Diaries, letters and official m
 
 Modern forensic document examination combines several complementary techniques rather than relying on a single test.
 
-Paper examination may evaluate fibre composition, fillers, coatings, manufacturing methods, watermarks and optical properties. Ink examination may use chromatography, spectroscopy or other chemical analyses to compare compositions or identify compounds associated with particular manufacturing periods. Examiners also study handwriting, typewriters, printing processes, stamps and document construction as separate lines of evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.azolifesciences.com/article/What-Factors-Affect-Forensic-Document-Examination.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: azolifesciences.com">[AZoLifeSciences+2Speckin Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">azolifesciences.com</span><span class="citation-popover-title">What Factors Affect Forensic Document Examination.aspx</span><span class="citation-popover-snippet">What Factors Affect Forensic Document Examination?1 Nov 2022 — Currently, the most intriguing topic of forensic document e...</span></span></span>
+Paper examination may evaluate fibre composition, fillers, coatings, manufacturing methods, watermarks and optical properties. Ink examination may use chromatography, spectroscopy or other chemical analyses to compare compositions or identify compounds associated with particular manufacturing periods. Examiners also study handwriting, typewriters, printing processes, stamps and document construction as separate lines of evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.azolifesciences.com/article/What-Factors-Affect-Forensic-Document-Examination.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: azolifesciences.com">[AZoLifeSciences+2Speckin Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">azolifesciences.com</span><span class="citation-popover-title">What Factors Affect Forensic Document Examination.aspx</span><span class="citation-popover-snippet">What Factors Affect Forensic Document Examination?1 Nov 2022 — Currently, the most intriguing topic of forensic document e...</span></span></span>
 
-Importantly, forensic scientists generally describe their conclusions in terms such as "consistent with", "not inconsistent with" or "incompatible with" a claimed date. They rarely claim that laboratory testing can establish the precise calendar date on which an historical document was written. Environmental conditions, storage history and natural ageing all complicate attempts at absolute dating. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ijmtlm.org/index.php/journal/article/view/7/7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijmtlm.org">[ijmtlm.org+2journal.asqde.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijmtlm.org</span><span class="citation-popover-title">View of A Systematic Review for Dating Analysis</span><span class="citation-popover-snippet">forensic analysis of ink dating is a crucial aspect of document examination. It involves the chemical and physical analysis of inks to de...</span></span></span>
+Importantly, forensic scientists generally describe their conclusions in terms such as "consistent with", "not inconsistent with" or "incompatible with" a claimed date. They rarely claim that laboratory testing can establish the precise calendar date on which an historical document was written. Environmental conditions, storage history and natural ageing all complicate attempts at absolute dating.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ijmtlm.org/index.php/journal/article/view/7/7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijmtlm.org">[ijmtlm.org+2journal.asqde.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijmtlm.org</span><span class="citation-popover-title">View of A Systematic Review for Dating Analysis</span><span class="citation-popover-snippet">forensic analysis of ink dating is a crucial aspect of document examination. It involves the chemical and physical analysis of inks to de...</span></span></span>
 
-For documents supposedly created many decades ago, those limitations become even more significant because the chemical signals used in some ink-dating methods weaken over time or were never intended to distinguish between documents separated by many decades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journal.asqde.org/articles/10.69525/jasqde.292" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journal.asqde.org">[journal.asqde.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journal.asqde.org</span><span class="citation-popover-snippet">recommended to analyze ink with a maximum age of 3–4 months (Bügler et al 2006). The feasibility of such dating techniques on ink older t...</span></span></span>
+For documents supposedly created many decades ago, those limitations become even more significant because the chemical signals used in some ink-dating methods weaken over time or were never intended to distinguish between documents separated by many decades.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journal.asqde.org/articles/10.69525/jasqde.292" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journal.asqde.org">[journal.asqde.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journal.asqde.org</span><span class="citation-popover-snippet">recommended to analyze ink with a maximum age of 3–4 months (Bügler et al 2006). The feasibility of such dating techniques on ink older t...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62_paper_tests_limits_800914-Illustration-3-dark.svg" | relative_url }}" alt="Paper Tests illustration 3" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62_paper_tests_limits_800914-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62_paper_tests_limits_800914-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -348,7 +348,7 @@ Several separate questions remain independent:
 
 A positive answer to the first question does not automatically answer the remaining four.
 
-This distinction is particularly important because the reported Magenta documents surfaced anonymously decades after the alleged events, without a documented archival chain of custody. Even if forensic testing supported their period origin, provenance would remain a separate historical issue requiring independent documentary corroboration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">claim a ufo crashed in 1933 italy and the us recovered it.13282</span><span class="citation-popover-snippet">Files by Roberto Pinotti - The Black Vault Case Files In... (Antonio) Garavaglia conducted a series of chemical tests of the paper and i...</span></span></span>
+This distinction is particularly important because the reported Magenta documents surfaced anonymously decades after the alleged events, without a documented archival chain of custody. Even if forensic testing supported their period origin, provenance would remain a separate historical issue requiring independent documentary corroboration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">claim a ufo crashed in 1933 italy and the us recovered it.13282</span><span class="citation-popover-snippet">Files by Roberto Pinotti - The Black Vault Case Files In... (Antonio) Garavaglia conducted a series of chemical tests of the paper and i...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62_paper_tests_limits_800914-Illustration-2-dark.svg" | relative_url }}" alt="Paper Tests illustration 2" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62_paper_tests_limits_800914-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62_paper_tests_limits_800914-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -362,7 +362,7 @@ Second, replication by independent forensic laboratories using modern analytical
 
 Third, archival corroboration would be especially valuable. Discovery of matching [telegrams]({{ 'telegrams/' | relative_url }}), registry entries, filing references or administrative records in established government archives would help connect the documents to a verifiable bureaucratic context rather than to an anonymous late-twentieth-century source.
 
-Finally, convergence across independent evidence streams—physical examination, archival provenance and contemporary documentation—is considerably stronger than any one category alone. That is the standard typically sought in historical authentication as well as forensic document investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/topics/forensics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojp.gov">[National Institute of Justice+2AZoLifeSciences]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojp.gov</span><span class="citation-popover-title">NIJ&#x27;s forensic science ...Read more</span><span class="citation-popover-snippet">National Institute of JusticeForensic and Investigative Sciences &#124; National Institute of JusticeForensic science is the application of sc...</span></span></span>
+Finally, convergence across independent evidence streams—physical examination, archival provenance and contemporary documentation—is considerably stronger than any one category alone. That is the standard typically sought in historical authentication as well as forensic document investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/topics/forensics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojp.gov">[National Institute of Justice+2AZoLifeSciences]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojp.gov</span><span class="citation-popover-title">NIJ&#x27;s forensic science ...Read more</span><span class="citation-popover-snippet">National Institute of JusticeForensic and Investigative Sciences &#124; National Institute of JusticeForensic science is the application of sc...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AVx2OgeQFy8" title="Analysis of Inks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AVx2OgeQFy8" target="_blank" rel="noopener noreferrer">Analysis of Inks</a></p><p class="youtube-embed-meta">Channel: DeBacco University</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AVx2OgeQFy8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AVx2OgeQFy8">Open on YouTube</a></p></div></div></div>
@@ -371,201 +371,201 @@ Finally, convergence across independent evidence streams—physical examination,
 
 The reported forensic examination associated with Antonio Garavaglia, if accurately described, would address a legitimate and important question: whether the physical documents appear compatible with the period they claim to come from. That is meaningful evidence because it bears on whether the documents could be simple modern fabrications.
 
-However, it is not evidence that a UFO crashed near Magenta in 1933, that Cabinet RS/33 existed as described, or that the documents faithfully record real historical events. Those claims require independent corroboration through provenance, archival discovery and converging historical records. The strongest reading of the reported forensic findings is therefore a limited one: they may support the possible age of the materials, but they cannot by themselves verify the extraordinary narrative written upon them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk+2Speckin Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">claim a ufo crashed in 1933 italy and the us recovered it.13282</span><span class="citation-popover-snippet">Files by Roberto Pinotti - The Black Vault Case Files In... (Antonio) Garavaglia conducted a series of chemical tests of the paper and i...</span></span></span>
+However, it is not evidence that a UFO crashed near Magenta in 1933, that Cabinet RS/33 existed as described, or that the documents faithfully record real historical events. Those claims require independent corroboration through provenance, archival discovery and converging historical records. The strongest reading of the reported forensic findings is therefore a limited one: they may support the possible age of the materials, but they cannot by themselves verify the extraordinary narrative written upon them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk+2Speckin Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">claim a ufo crashed in 1933 italy and the us recovered it.13282</span><span class="citation-popover-snippet">Files by Roberto Pinotti - The Black Vault Case Files In... (Antonio) Garavaglia conducted a series of chemical tests of the paper and i...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pD_sC8bT63E" title="Questioned Documents" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pD_sC8bT63E" target="_blank" rel="noopener noreferrer">Questioned Documents</a></p><p class="youtube-embed-meta">Channel: Michigan State Police</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pD_sC8bT63E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pD_sC8bT63E">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What old paper can and cannot prove. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What old paper can and cannot prove. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for evaluating evidence claims and distinguishes stronger from weaker forms of documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating evidence claims and distinguishes stronger from weaker forms of documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains why physical artifacts and historical documents require careful interpretation rather than assuming extraordinary conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why physical artifacts and historical documents require careful interpretation rather than assuming extraordinary conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Helps readers understand overstated evidence and common reasoning errors relevant to historical document claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand overstated evidence and common reasoning errors relevant to historical document claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
         
-        <p class="fr-book-desc">First published 2011.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="paper-tests-what-old-paper-can-and-cannot-prove-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -581,7 +581,7 @@ However, it is not evidence that a UFO crashed near Magenta in 1933, that Cabine
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -601,7 +601,7 @@ However, it is not evidence that a UFO crashed near Magenta in 1933, that Cabine
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -633,7 +633,7 @@ However, it is not evidence that a UFO crashed near Magenta in 1933, that Cabine
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -685,7 +685,7 @@ However, it is not evidence that a UFO crashed near Magenta in 1933, that Cabine
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -730,7 +730,7 @@ However, it is not evidence that a UFO crashed near Magenta in 1933, that Cabine
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -771,92 +771,92 @@ However, it is not evidence that a UFO crashed near Magenta in 1933, that Cabine
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: metabunk.org  
    Title: claim a ufo crashed in 1933 italy and the us recovered it.13282  
-   Link: <a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Files by Roberto Pinotti - The Black Vault Case Files In... (Antonio) Garavaglia conducted a series of chemical tests of the paper and i...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Files by Roberto Pinotti - The Black Vault Case Files In... (Antonio) Garavaglia conducted a series of chemical tests of the paper and i...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: azolifesciences.com  
    Title: What Factors Affect Forensic Document Examination.aspx  
-   Link: <a href="https://www.azolifesciences.com/article/What-Factors-Affect-Forensic-Document-Examination.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.azolifesciences.com/article/What-Factors-Affect-Forensic-Document-Examination.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Factors Affect Forensic Document Examination?1 Nov 2022 — Currently, the most intriguing topic of forensic document e...</p></details>
+   Link:<a href="https://www.azolifesciences.com/article/What-Factors-Affect-Forensic-Document-Examination.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.azolifesciences.com/article/What-Factors-Affect-Forensic-Document-Examination.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Factors Affect Forensic Document Examination?1 Nov 2022 — Currently, the most intriguing topic of forensic document e...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ijmtlm.org  
    Title: View of A Systematic Review for Dating Analysis  
-   Link: <a href="https://ijmtlm.org/index.php/journal/article/view/7/7" target="_blank" rel="noopener noreferrer nofollow">https://ijmtlm.org/index.php/journal/article/view/7/7</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>forensic analysis of ink dating is a crucial aspect of document examination. It involves the chemical and physical analysis of inks to de...</p></details>
+   Link:<a href="https://ijmtlm.org/index.php/journal/article/view/7/7" target="_blank" rel="noopener noreferrer nofollow">https://ijmtlm.org/index.php/journal/article/view/7/7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>forensic analysis of ink dating is a crucial aspect of document examination. It involves the chemical and physical analysis of inks to de...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: journal.asqde.org  
-   Link: <a href="https://journal.asqde.org/articles/10.69525/jasqde.292" target="_blank" rel="noopener noreferrer nofollow">https://journal.asqde.org/articles/10.69525/jasqde.292</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>recommended to analyze ink with a maximum age of 3–4 months (Bügler et al 2006). The feasibility of such dating techniques on ink older t...</p></details>
+   Link:<a href="https://journal.asqde.org/articles/10.69525/jasqde.292" target="_blank" rel="noopener noreferrer nofollow">https://journal.asqde.org/articles/10.69525/jasqde.292</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>recommended to analyze ink with a maximum age of 3–4 months (Bügler et al 2006). The feasibility of such dating techniques on ink older t...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: 4n6.com  
    Title: The third form determines how long an ink has been on a document.Read more  
-   Link: <a href="https://4n6.com/scientific-papers/forensic-document-examination/" target="_blank" rel="noopener noreferrer nofollow">https://4n6.com/scientific-papers/forensic-document-examination/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Speckin ForensicsForensic Document Examination: Unraveling the TruthThe first two forms of chemical dating indicate only when an ink was...</p></details>
+   Link:<a href="https://4n6.com/scientific-papers/forensic-document-examination/" target="_blank" rel="noopener noreferrer nofollow">https://4n6.com/scientific-papers/forensic-document-examination/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speckin ForensicsForensic Document Examination: Unraveling the TruthThe first two forms of chemical dating indicate only when an ink was...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nij.ojp.gov  
-   Link: <a href="https://nij.ojp.gov/topics/[forensics" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/topics/[forensics</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeForensic and Investigative Sciences | National Institute of JusticeForensic science is the application of sc...</p></details>
+   Link:<a href="https://nij.ojp.gov/topics/[forensics" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/topics/[forensics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeForensic and Investigative Sciences | National Institute of JusticeForensic science is the application of sc...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/forensic" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/forensic</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FORENSIC Definition &amp; Meaning5 days ago — 1. belonging to, used in, or suitable to courts of judicature or to public discussion and debat...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/forensic" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/forensic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FORENSIC Definition &amp; Meaning5 days ago — 1. belonging to, used in, or suitable to courts of judicature or to public discussion and debat...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/david-john-stanton-iac-ncp-issup-icpt-isoccs-%F0%9F%95%89%EF%B8%8F-8184392a_the-1933-magenta-italy-ufo-crash-activity-7370550864215838723-_EEL" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/david-john-stanton-iac-ncp-issup-icpt-isoccs-%F0%9F%95%89%EF%B8%8F-8184392a_the-1933-magenta-italy-ufo-crash-activity-7370550864215838723-_EEL</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Magenta Italy UFO crash retrieval: a secret story revealedItalian UFO Researcher Roberto Pinotti came into possession of official fascist...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/david-john-stanton-iac-ncp-issup-icpt-isoccs-%F0%9F%95%89%EF%B8%8F-8184392a_the-1933-magenta-italy-ufo-crash-activity-7370550864215838723-_EEL" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/david-john-stanton-iac-ncp-issup-icpt-isoccs-%F0%9F%95%89%EF%B8%8F-8184392a_the-1933-magenta-italy-ufo-crash-activity-7370550864215838723-_EEL</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Magenta Italy UFO crash retrieval: a secret story revealedItalian UFO Researcher Roberto Pinotti came into possession of official fascist...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: appliedforensics.com  
-   Link: <a href="https://www.appliedforensics.com/chemical-ink-dating" target="_blank" rel="noopener noreferrer nofollow">https://www.appliedforensics.com/chemical-ink-dating</a>  
+   Link:<a href="https://www.appliedforensics.com/chemical-ink-dating" target="_blank" rel="noopener noreferrer nofollow">https://www.appliedforensics.com/chemical-ink-dating</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: handwritingexperts.in  
-   Link: <a href="https://handwritingexperts.in/can-ink-analysis-determine-which-entry-was-written-first-forensic-ink-examination/" target="_blank" rel="noopener noreferrer nofollow">https://handwritingexperts.in/can-ink-analysis-determine-which-entry-was-written-first-forensic-ink-examination/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>For this reason, forensic opinions are often expressed as “highly probable” or “consistent...Read more...</p></details>
+   Link:<a href="https://handwritingexperts.in/can-ink-analysis-determine-which-entry-was-written-first-forensic-ink-examination/" target="_blank" rel="noopener noreferrer nofollow">https://handwritingexperts.in/can-ink-analysis-determine-which-entry-was-written-first-forensic-ink-examination/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For this reason, forensic opinions are often expressed as “highly probable” or “consistent...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
    Title: the magenta project the 1933 magenta italy ufo  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1fraqyk/the_magenta_project_the_1933_magenta_italy_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fraqyk/the_magenta_project_the_1933_magenta_italy_ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 Magenta, Italy UFO Crash-Retrieval That...r/UFOs - David [Grusch](&amp;#123;&amp;#123; &#x27;grusch/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27;s Most Overlooked Statement - The 1933 UFO Recovery from Magent...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1fraqyk/the_magenta_project_the_1933_magenta_italy_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fraqyk/the_magenta_project_the_1933_magenta_italy_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 Magenta, Italy UFO Crash-Retrieval That...r/UFOs - David [Grusch](&amp;#123;&amp;#123; &#x27;grusch/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27;s Most Overlooked Statement - The 1933 UFO Recovery from Magent...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: 4n6.com  
    Title: ink dating paper analysis forensics  
-   Link: <a href="https://4n6.com/blog/ink-dating-paper-analysis-forensics/" target="_blank" rel="noopener noreferrer nofollow">https://4n6.com/blog/ink-dating-paper-analysis-forensics/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role Of Ink Dating And Paper Analysis In Legal CasesAug 16, 2024 — By confirming that the ink and paper are consistent with the claim...</p></details>
+   Link:<a href="https://4n6.com/blog/ink-dating-paper-analysis-forensics/" target="_blank" rel="noopener noreferrer nofollow">https://4n6.com/blog/ink-dating-paper-analysis-forensics/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Role Of Ink Dating And Paper Analysis In Legal CasesAug 16, 2024 — By confirming that the ink and paper are consistent with the claim...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchomnia.blogspot.com  
    Title: the truth about ufo in 1933 italy  
-   Link: <a href="https://researchomnia.blogspot.com/2017/04/the-truth-about-ufo-in-1933-italy.html" target="_blank" rel="noopener noreferrer nofollow">https://researchomnia.blogspot.com/2017/04/the-truth-about-ufo-in-1933-italy.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE TRUTH ABOUT THE UFO IN 1933 ITALY12 Apr 2017 — After this episode, Mussolini created the secret UFO-commission &#x27;Gabinetto RS/33&#x27; (Cab...</p></details>
+   Link:<a href="https://researchomnia.blogspot.com/2017/04/the-truth-about-ufo-in-1933-italy.html" target="_blank" rel="noopener noreferrer nofollow">https://researchomnia.blogspot.com/2017/04/the-truth-about-ufo-in-1933-italy.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE TRUTH ABOUT THE UFO IN 1933 ITALY12 Apr 2017 — After this episode, Mussolini created the secret UFO-commission &#x27;Gabinetto RS/33&#x27; (Cab...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aafs.org  
-   Link: <a href="https://www.aafs.org/careers-forensic-science/what-forensic-science" target="_blank" rel="noopener noreferrer nofollow">https://www.aafs.org/careers-forensic-science/what-forensic-science</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rld to resolve civil disputes.Read more...</p></details>
+   Link:<a href="https://www.aafs.org/careers-forensic-science/what-forensic-science" target="_blank" rel="noopener noreferrer nofollow">https://www.aafs.org/careers-forensic-science/what-forensic-science</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rld to resolve civil disputes.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Forensic science  
-   Link: <a href="https://en.wikipedia.org/wiki/Forensic_science" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Forensic_science</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic scienceIt is a broad field utilizing numerous practices such as the analysis of DNA, fingerprints, bloodstain patterns, firea...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Forensic_science" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Forensic_science</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic scienceIt is a broad field utilizing numerous practices such as the analysis of DNA, fingerprints, bloodstain patterns, firea...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: robsonforensic.com  
    Title: Robson Forensic  
-   Link: <a href="https://www.robsonforensic.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.robsonforensic.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Expert WitnessesRobson Forensic is a national leader in expert witness consulting, providing technical expertise across many fie...</p></details>
+   Link:<a href="https://www.robsonforensic.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.robsonforensic.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Expert WitnessesRobson Forensic is a national leader in expert witness consulting, providing technical expertise across many fie...</p></details>

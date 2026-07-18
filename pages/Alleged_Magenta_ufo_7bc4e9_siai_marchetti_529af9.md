@@ -447,17 +447,17 @@ image: /assets/images/Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9-overview-
 
 ## Introduction
 
-In the Magenta UFO crash story, SIAI-Marchetti matters because it gives the claim a believable industrial location: an aircraft-making district near Lake Maggiore, close to Milan, with workshops, hangars, engineers, military links and a tradition of experimental [aviation]({{ 'aviation/' | relative_url }}). That setting makes the alleged storage of a strange craft sound logistically plausible. It does not, however, confirm that any such craft existed. The strongest evidence supports the ordinary historical point that SIAI/Savoia-Marchetti was a real and important aviation company in the Varese area. The weaker part is the leap from “a suitable aircraft site existed” to “wreckage from an unknown vehicle was secretly stored there”. A further complication is chronological: some sources say land for the [Vergiate]({{ 'vergiate/' | relative_url }}) airfield and new works was acquired only in 1936, after the alleged 1933 incident, which makes the precise “Vergiate hangar” claim harder to treat as straightforward fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault+2aeropolis.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
+In the Magenta UFO crash story, SIAI-Marchetti matters because it gives the claim a believable industrial location: an aircraft-making district near Lake Maggiore, close to Milan, with workshops, hangars, engineers, military links and a tradition of experimental [aviation]({{ 'aviation/' | relative_url }}). That setting makes the alleged storage of a strange craft sound logistically plausible. It does not, however, confirm that any such craft existed. The strongest evidence supports the ordinary historical point that SIAI/Savoia-Marchetti was a real and important aviation company in the Varese area. The weaker part is the leap from “a suitable aircraft site existed” to “wreckage from an unknown vehicle was secretly stored there”. A further complication is chronological: some sources say land for the [Vergiate]({{ 'vergiate/' | relative_url }}) airfield and new works was acquired only in 1936, after the alleged 1933 incident, which makes the precise “Vergiate hangar” claim harder to treat as straightforward fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault+2aeropolis.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9-overview.webp" | relative_url }}" alt="Overview image for SIAI" loading="eager" decoding="sync" fetchpriority="high">
 ## The company in the claim
 
-The alleged Magenta case usually says that wreckage from a strange aircraft or craft was taken to SIAI-Marchetti [hangars]({{ 'hangars/' | relative_url }}) at Vergiate, in the province of Varese. Roberto Pinotti’s version, republished by The Black Vault, says the object was stored in SIAI Marchetti hangars in Vergiate and that Mussolini considered it a possible French, British or German secret weapon. The same account later softens the geography slightly, describing Alfredo Lissoni’s hypothesis that the object was hidden in discreet aeronautical hangars at “Vergiate or Sesto Calende” in the Varese region. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
+The alleged Magenta case usually says that wreckage from a strange aircraft or craft was taken to SIAI-Marchetti [hangars]({{ 'hangars/' | relative_url }}) at Vergiate, in the province of Varese. Roberto Pinotti’s version, republished by The Black Vault, says the object was stored in SIAI Marchetti hangars in Vergiate and that Mussolini considered it a possible French, British or German secret weapon. The same account later softens the geography slightly, describing Alfredo Lissoni’s hypothesis that the object was hidden in discreet aeronautical hangars at “Vergiate or Sesto Calende” in the Varese region.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
 
-That second phrasing matters. Sesto Calende is not a decorative detail: it was the historic home of the company. Museo Agusta’s company history says Società Idrovolanti Alta Italia was founded in 1915 at Sesto Calende by Domenico Santoni and Luigi Capé, with its seaplane base at Sant’Anna on Lake Maggiore; the first activity there began with a flying school and licensed aircraft production. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.museoagusta.it/la-siai-marchetti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: museoagusta.it">[museoagusta.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">museoagusta.it</span><span class="citation-popover-title">La SIAI Marchetti</span><span class="citation-popover-snippet">La SIAI Marchetti</span></span></span> In other words, the Varese-Lake Maggiore setting is not invented out of nothing. It was a real aviation landscape, and SIAI was exactly the kind of firm that could plausibly possess large workshops, skilled technicians and controlled storage space.
+That second phrasing matters. Sesto Calende is not a decorative detail: it was the historic home of the company. Museo Agusta’s company history says Società Idrovolanti Alta Italia was founded in 1915 at Sesto Calende by Domenico Santoni and Luigi Capé, with its seaplane base at Sant’Anna on Lake Maggiore; the first activity there began with a flying school and licensed aircraft production.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.museoagusta.it/la-siai-marchetti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: museoagusta.it">[museoagusta.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">museoagusta.it</span><span class="citation-popover-title">La SIAI Marchetti</span><span class="citation-popover-snippet">La SIAI Marchetti</span></span></span> In other words, the Varese-Lake Maggiore setting is not invented out of nothing. It was a real aviation landscape, and SIAI was exactly the kind of firm that could plausibly possess large workshops, skilled technicians and controlled storage space.
 
-The naming is less tidy. Modern [retellings]({{ 'retellings/' | relative_url }}) often use “SIAI-Marchetti” as a familiar shorthand, but the company’s naming changed over time. Aeropolis states that after Alessandro Marchetti entered the firm in 1921 it took the name SIAI Savoia Marchetti, while a local account in Malpensa24 says the new SIAI Marchetti corporate denomination was assumed with a 1944 assembly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeropolis.it/la-siai-marchetti-festeggia-i-suoi-100-anni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeropolis.it">[aeropolis.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeropolis.it</span><span class="citation-popover-snippet">Open source on aeropolis.it.</span></span></span> That does not destroy the story, because later writers often use later company names for earlier entities. It does warn readers not to treat every modern phrase in the legend as a contemporaneous 1933 archival [wording]({{ 'wording/' | relative_url }}).
+The naming is less tidy. Modern [retellings]({{ 'retellings/' | relative_url }}) often use “SIAI-Marchetti” as a familiar shorthand, but the company’s naming changed over time. Aeropolis states that after Alessandro Marchetti entered the firm in 1921 it took the name SIAI Savoia Marchetti, while a local account in Malpensa24 says the new SIAI Marchetti corporate denomination was assumed with a 1944 assembly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeropolis.it/la-siai-marchetti-festeggia-i-suoi-100-anni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeropolis.it">[aeropolis.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeropolis.it</span><span class="citation-popover-snippet">Open source on aeropolis.it.</span></span></span> That does not destroy the story, because later writers often use later company names for earlier entities. It does warn readers not to treat every modern phrase in the legend as a contemporaneous 1933 archival [wording]({{ 'wording/' | relative_url }}).
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9-Illustration-1-dark.svg" | relative_url }}" alt="SIAI illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -467,10 +467,10 @@ The SIAI-Marchetti element gives the Magenta story a kind of practical realism t
 
 Several features make the setting plausible at the level of logistics:
 
-* **Aircraft expertise was nearby.** SIAI/Savoia-Marchetti had a long record in seaplanes, flying boats and later landplanes. Aeropolis credits the company and Alessandro Marchetti with dozens of aircraft types, major long-distance flights and many world records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeropolis.it/la-siai-marchetti-festeggia-i-suoi-100-anni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeropolis.it">[aeropolis.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeropolis.it</span><span class="citation-popover-snippet">Open source on aeropolis.it.</span></span></span>
-* **The region had suitable facilities.** The company’s roots at Sesto Calende and Sant’Anna provided an established aviation base before the alleged incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.museoagusta.it/la-siai-marchetti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: museoagusta.it">[museoagusta.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">museoagusta.it</span><span class="citation-popover-title">La SIAI Marchetti</span><span class="citation-popover-snippet">La SIAI Marchetti</span></span></span>
-* **Military secrecy would not be surprising in principle.** Pinotti’s account claims the supposed RS/33 structure was linked to Mussolini, Italo Balbo and the Regia Aeronautica; whether or not that specific secret office existed as described, Fascist Italy did have strong reasons to control news about unusual military or aviation matters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
-* **The company was technologically prestigious.** Savoia-Marchetti aircraft such as the S.55 and SM.79 became symbols of Italian aviation achievement, making the firm a natural place for later storytellers to locate an extraordinary aviation secret. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Savoia-Marchetti_S.55" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Savoia Marchetti S.55</span><span class="citation-popover-snippet">Savoia Marchetti S.55</span></span></span>
+* **Aircraft expertise was nearby.** SIAI/Savoia-Marchetti had a long record in seaplanes, flying boats and later landplanes. Aeropolis credits the company and Alessandro Marchetti with dozens of aircraft types, major long-distance flights and many world records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeropolis.it/la-siai-marchetti-festeggia-i-suoi-100-anni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeropolis.it">[aeropolis.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeropolis.it</span><span class="citation-popover-snippet">Open source on aeropolis.it.</span></span></span>
+* **The region had suitable facilities.** The company’s roots at Sesto Calende and Sant’Anna provided an established aviation base before the alleged incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.museoagusta.it/la-siai-marchetti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: museoagusta.it">[museoagusta.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">museoagusta.it</span><span class="citation-popover-title">La SIAI Marchetti</span><span class="citation-popover-snippet">La SIAI Marchetti</span></span></span>
+* **Military secrecy would not be surprising in principle.** Pinotti’s account claims the supposed RS/33 structure was linked to Mussolini, Italo Balbo and the Regia Aeronautica; whether or not that specific secret office existed as described, Fascist Italy did have strong reasons to control news about unusual military or aviation matters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
+* **The company was technologically prestigious.** Savoia-Marchetti aircraft such as the S.55 and SM.79 became symbols of Italian aviation achievement, making the firm a natural place for later storytellers to locate an extraordinary aviation secret.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Savoia-Marchetti_S.55" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Savoia Marchetti S.55</span><span class="citation-popover-snippet">Savoia Marchetti S.55</span></span></span>
 
 This is the key distinction: SIAI/Savoia-Marchetti makes the alleged storage scenario more plausible as a story-world setting, but plausibility is [not proof]({{ 'not-proof/' | relative_url }}). A real hangar, a real aircraft company and a real political culture of secrecy can make a claim easier to imagine without making the central event true.
 
@@ -479,9 +479,9 @@ This is the key distinction: SIAI/Savoia-Marchetti makes the alleged storage sce
 
 ## The Vergiate problem
 
-The most important pressure point is the date. The Magenta incident is usually placed on 13 June 1933, though Pinotti’s published account also mentions 11 April 1933 in one passage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span> Yet Aeropolis says that in 1936 Marchetti bought land at Vergiate for the construction of an airport and a new works. Malpensa24 likewise says that, on SIAI’s initiative, an airport was built at Vergiate in the mid-1930s and later became an operating base for the 23rd group of the Italian Air Force. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeropolis.it/la-siai-marchetti-festeggia-i-suoi-100-anni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeropolis.it">[aeropolis.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeropolis.it</span><span class="citation-popover-snippet">Open source on aeropolis.it.</span></span></span>
+The most important pressure point is the date. The Magenta incident is usually placed on 13 June 1933, though Pinotti’s published account also mentions 11 April 1933 in one passage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span> Yet Aeropolis says that in 1936 Marchetti bought land at Vergiate for the construction of an airport and a new works. Malpensa24 likewise says that, on SIAI’s initiative, an airport was built at Vergiate in the mid-1930s and later became an operating base for the 23rd group of the Italian Air Force.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeropolis.it/la-siai-marchetti-festeggia-i-suoi-100-anni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeropolis.it">[aeropolis.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeropolis.it</span><span class="citation-popover-snippet">Open source on aeropolis.it.</span></span></span>
 
-That creates a practical question: if the claim is specifically that wreckage was taken to SIAI-Marchetti hangars at Vergiate in 1933, what exactly existed there at that moment? The available public sources found here support Sesto Calende as the earlier established company base, while pointing to Vergiate’s major development later in the decade. A flight-simulation aerodrome description, not a primary historical source but consistent with the local-history accounts, also places the construction of Vergiate airport in the mid-1930s for SIAI’s test needs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://flightsim.to/addon/54709/airport-vergiate-lilg-aircraft-and-helicopters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsim.to">[Flightsim.to]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsim.to</span><span class="citation-popover-title">Airport Vergiate</span><span class="citation-popover-snippet">Airport Vergiate</span></span></span>
+That creates a practical question: if the claim is specifically that wreckage was taken to SIAI-Marchetti hangars at Vergiate in 1933, what exactly existed there at that moment? The available public sources found here support Sesto Calende as the earlier established company base, while pointing to Vergiate’s major development later in the decade. A flight-simulation aerodrome description, not a primary historical source but consistent with the local-history accounts, also places the construction of Vergiate airport in the mid-1930s for SIAI’s test needs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://flightsim.to/addon/54709/airport-vergiate-lilg-aircraft-and-helicopters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsim.to">[Flightsim.to]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsim.to</span><span class="citation-popover-title">Airport Vergiate</span><span class="citation-popover-snippet">Airport Vergiate</span></span></span>
 
 There are three possible readings:
 
@@ -502,9 +502,9 @@ For evidence assessment, the first two readings are more cautious. The precise V
 
 Aviation sites are magnets for UFO narratives because they sit at the boundary between secrecy and visibility. People near airfields see unusual lights, prototypes, military activity, test flights and restricted areas; they also know that some matters are genuinely kept confidential. That combination creates fertile ground for stories in which ordinary secrecy is upgraded into extraordinary concealment.
 
-Modern UAP research shows why this pattern is not unique to Magenta. RAND’s 2023 analysis of more than 100,000 public UAP reports in the United States found that the most consistent and statistically significant association was with areas near military operations zones, where routine military training occurs. RAND also cautioned that such public reports should not be treated as automatically accurate; the point is that aviation activity and reporting patterns can reinforce each other. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">RRA2475 1</span><span class="citation-popover-snippet">RRA2475 1</span></span></span>
+Modern UAP research shows why this pattern is not unique to Magenta. RAND’s 2023 analysis of more than 100,000 public UAP reports in the United States found that the most consistent and statistically significant association was with areas near military operations zones, where routine military training occurs. RAND also cautioned that such public reports should not be treated as automatically accurate; the point is that aviation activity and reporting patterns can reinforce each other.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">RRA2475 1</span><span class="citation-popover-snippet">RRA2475 1</span></span></span>
 
-Older official investigations show the same caution from another angle. The US National Archives summary of Project [Blue Book]({{ 'blue-book/' | relative_url }}) says the US Air Force collected 12,618 UFO reports between 1947 and 1969, of which 701 remained unidentified, with the programme based at Wright-Patterson Air Force Base. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> The existence of unidentified reports did not mean all reports were exotic craft; it meant many sightings required careful sorting from aircraft, balloons, natural phenomena and insufficient data.
+Older official investigations show the same caution from another angle. The US National Archives summary of Project [Blue Book]({{ 'blue-book/' | relative_url }}) says the US Air Force collected 12,618 UFO reports between 1947 and 1969, of which 701 remained unidentified, with the programme based at Wright-Patterson Air Force Base.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> The existence of unidentified reports did not mean all reports were exotic craft; it meant many sightings required careful sorting from aircraft, balloons, natural phenomena and insufficient data.
 
 This helps explain the SIAI-Marchetti appeal. A famous aircraft firm gives the Magenta legend a credible place where unusual wreckage could be hidden, studied or misdescribed. But the same features also offer a non-extraordinary mechanism for myth-making: real aviation secrecy, local pride, wartime rumours and later UFO interpretation can combine into a durable legend.
 
@@ -524,7 +524,7 @@ The most relevant record types would include:
 * **Military control records:** Regia Aeronautica orders, guard assignments, requisitions, transport instructions and any file linking the company to a classified recovery.
 * **Municipal and land records:** documents showing what facilities existed at Vergiate in 1933, before the mid-1930s airport development described in local histories.
 * **Photographic evidence:** aerial photographs, factory images, hangar photographs or wartime damage reports that show the layout and use of the relevant buildings.
-* **Archive catalogues:** the Leonardo historical archive is especially relevant because its SIAI-Marchetti holdings are described as including more than 50,000 technical drawings, historic photographs, books, manuals and periodicals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lia.fondazioneleonardo.com/archivi/s/lia/item-set/20067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lia.fondazioneleonardo.com">[Fondazione Leonardo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lia.fondazioneleonardo.com</span><span class="citation-popover-snippet">Open source on fondazioneleonardo.com.</span></span></span>
+* **Archive catalogues:** the Leonardo historical archive is especially relevant because its SIAI-Marchetti holdings are described as including more than 50,000 technical drawings, historic photographs, books, manuals and periodicals.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lia.fondazioneleonardo.com/archivi/s/lia/item-set/20067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lia.fondazioneleonardo.com">[Fondazione Leonardo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lia.fondazioneleonardo.com</span><span class="citation-popover-snippet">Open source on fondazioneleonardo.com.</span></span></span>
 
 </div>
 
@@ -534,9 +534,9 @@ That archive fact is important but often misunderstood. The existence of a rich 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9-Illustration-3-dark.svg" | relative_url }}" alt="SIAI illustration 3" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the setting can and cannot prove
 
-The SIAI-Marchetti setting strengthens the Magenta story only in a limited sense. It makes the alleged storage location historically intelligible. Northern Italy had the aviation industry, the skilled labour and the political secrecy required for a sensitive aircraft recovery. Pinotti’s and Lissoni’s versions are therefore not choosing a random backdrop; they are choosing one of the few Italian industrial environments that could make such a claim sound operationally possible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
+The SIAI-Marchetti setting strengthens the Magenta story only in a limited sense. It makes the alleged storage location historically intelligible. Northern Italy had the aviation industry, the skilled labour and the political secrecy required for a sensitive aircraft recovery. Pinotti’s and Lissoni’s versions are therefore not choosing a random backdrop; they are choosing one of the few Italian industrial environments that could make such a claim sound operationally possible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
 
-But the same setting also exposes the claim to verification problems. If the story depends on Vergiate in 1933, the chronology needs clarification because public local histories place the main Vergiate airfield and new works development in the mid-1930s, with one account specifying Marchetti’s 1936 land purchase. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeropolis.it/la-siai-marchetti-festeggia-i-suoi-100-anni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeropolis.it">[aeropolis.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeropolis.it</span><span class="citation-popover-snippet">Open source on aeropolis.it.</span></span></span> If the intended site was instead Sesto Calende or Sant’Anna, the story should say so precisely and show why later retellings shifted towards Vergiate.
+But the same setting also exposes the claim to verification problems. If the story depends on Vergiate in 1933, the chronology needs clarification because public local histories place the main Vergiate airfield and new works development in the mid-1930s, with one account specifying Marchetti’s 1936 land purchase.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeropolis.it/la-siai-marchetti-festeggia-i-suoi-100-anni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeropolis.it">[aeropolis.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeropolis.it</span><span class="citation-popover-snippet">Open source on aeropolis.it.</span></span></span> If the intended site was instead Sesto Calende or Sant’Anna, the story should say so precisely and show why later retellings shifted towards Vergiate.
 
 The fairest conclusion is that SIAI-Marchetti provides industrial plausibility, not event confirmation. It is a credible place for a Fascist-era aviation secret to be imagined, and perhaps for a classified aircraft matter to have been handled. It is not, on the currently public evidence, a verified storage site for non-human technology or a confirmed Magenta crash retrieval. The decisive evidence would not be another colourful retelling, but period industrial and military records tying a specific 1933 recovery to a specific SIAI/Savoia-Marchetti facility.
 
@@ -545,194 +545,194 @@ The fairest conclusion is that SIAI-Marchetti provides industrial plausibility, 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why SIAI Marchetti Matters to the Story. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why SIAI Marchetti Matters to the Story. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for evaluating UFO crash claims alongside documented military and aviation cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating UFO crash claims alongside documented military and aviation cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Black+Swan+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Black Swan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=R79HVyegzoQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Black Swan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Black+Swan+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Swan">The Black Swan</a>
-        </h4>
-        <p class="fr-book-author">By Nassim Nicholas Taleb</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Black+Swan+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Black Swan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=R79HVyegzoQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Black Swan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Black+Swan+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Swan">The Black Swan</a>
+</h4>
+<p class="fr-book-author">By Nassim Nicholas Taleb</p>
         
-        <p class="fr-book-desc">Encourages careful reasoning about rare claims, evidence, and plausible versus unsupported inferences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Black+Swan+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages careful reasoning about rare claims, evidence, and plausible versus unsupported inferences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Black+Swan+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
         
-        <p class="fr-book-desc">First published 2011.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Kevin D. Randle</p>
         
-        <p class="fr-book-desc">Helps readers compare the Magenta story with the most famous alleged crash-retrieval narrative.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers compare the Magenta story with the most famous alleged crash-retrieval narrative.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Black+Swan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Black Swan</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Black+Swan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Black Swan</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="siai-why-siai-marchetti-matters-to-the-story-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -748,7 +748,7 @@ The fairest conclusion is that SIAI-Marchetti provides industrial plausibility, 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -768,7 +768,7 @@ The fairest conclusion is that SIAI-Marchetti provides industrial plausibility, 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -800,7 +800,7 @@ The fairest conclusion is that SIAI-Marchetti provides industrial plausibility, 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -852,7 +852,7 @@ The fairest conclusion is that SIAI-Marchetti provides industrial plausibility, 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -897,7 +897,7 @@ The fairest conclusion is that SIAI-Marchetti provides industrial plausibility, 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -938,268 +938,268 @@ The fairest conclusion is that SIAI-Marchetti provides industrial plausibility, 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aeropolis.it  
-   Link: <a href="https://www.aeropolis.it/la-siai-marchetti-festeggia-i-suoi-100-anni/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeropolis.it/la-siai-marchetti-festeggia-i-suoi-100-anni/</a>  
+   Link:<a href="https://www.aeropolis.it/la-siai-marchetti-festeggia-i-suoi-100-anni/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeropolis.it/la-siai-marchetti-festeggia-i-suoi-100-anni/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: malpensa24.it  
-   Link: <a href="https://www.malpensa24.it/vergiate-siai-marchetti-alessandro-intitolazione/" target="_blank" rel="noopener noreferrer nofollow">https://www.malpensa24.it/vergiate-siai-marchetti-alessandro-intitolazione/</a>  
+   Link:<a href="https://www.malpensa24.it/vergiate-siai-marchetti-alessandro-intitolazione/" target="_blank" rel="noopener noreferrer nofollow">https://www.malpensa24.it/vergiate-siai-marchetti-alessandro-intitolazione/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: museoagusta.it  
    Title: La SIAI Marchetti  
-   Link: <a href="https://www.museoagusta.it/la-siai-marchetti/" target="_blank" rel="noopener noreferrer nofollow">https://www.museoagusta.it/la-siai-marchetti/</a>  
+   Link:<a href="https://www.museoagusta.it/la-siai-marchetti/" target="_blank" rel="noopener noreferrer nofollow">https://www.museoagusta.it/la-siai-marchetti/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Savoia Marchetti S.55  
-   Link: <a href="https://en.wikipedia.org/wiki/Savoia-Marchetti_S.55" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Savoia-Marchetti_S.55</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Savoia-Marchetti_S.55" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Savoia-Marchetti_S.55</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Savoia Marchetti SM.79 Sparviero  
-   Link: <a href="https://en.wikipedia.org/wiki/Savoia-Marchetti_SM.79_Sparviero" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Savoia-Marchetti_SM.79_Sparviero</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Savoia-Marchetti_SM.79_Sparviero" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Savoia-Marchetti_SM.79_Sparviero</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: flightsim.to  
    Title: Airport Vergiate  
-   Link: <a href="https://flightsim.to/addon/54709/airport-vergiate-lilg-aircraft-and-helicopters" target="_blank" rel="noopener noreferrer nofollow">https://flightsim.to/addon/54709/airport-vergiate-lilg-aircraft-and-helicopters</a>  
+   Link:<a href="https://flightsim.to/addon/54709/airport-vergiate-lilg-aircraft-and-helicopters" target="_blank" rel="noopener noreferrer nofollow">https://flightsim.to/addon/54709/airport-vergiate-lilg-aircraft-and-helicopters</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: rand.org  
    Title: RRA2475 1  
-   Link: <a href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/research_reports/RRA2475-1.html</a>  
+   Link:<a href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/research_reports/RRA2475-1.html</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: UFO sightings in Italy  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: SIAI Marchetti  
-   Link: <a href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/SIAI-Marchetti</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/SIAI-Marchetti</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Flugplatz Vergiate  
-   Link: <a href="https://de.wikipedia.org/wiki/Flugplatz_Vergiate" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Flugplatz_Vergiate</a>  
+   Link:<a href="https://de.wikipedia.org/wiki/Flugplatz_Vergiate" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Flugplatz_Vergiate</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: SIAI Marchetti SF.260  
-   Link: <a href="https://en.wikipedia.org/wiki/SIAI-Marchetti_SF.260" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/SIAI-Marchetti_SF.260</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/SIAI-Marchetti_SF.260" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/SIAI-Marchetti_SF.260</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: SIAI Marchetti  
-   Link: <a href="https://it.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/SIAI-Marchetti</a>  
+   Link:<a href="https://it.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/SIAI-Marchetti</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Incidente di Magenta  
-   Link: <a href="https://it.wikipedia.org/wiki/Incidente_di_Magenta" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Incidente_di_Magenta</a>  
+   Link:<a href="https://it.wikipedia.org/wiki/Incidente_di_Magenta" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Incidente_di_Magenta</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: UFO reports and atomic sites  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: UFO reports and disinformation  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: museoagusta.it  
    Title: pieghevole Museo  
-   Link: <a href="https://www.museoagusta.it/wp-content/uploads/2015/10/pieghevole_Museo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.museoagusta.it/wp-content/uploads/2015/10/pieghevole_Museo.pdf</a>  
+   Link:<a href="https://www.museoagusta.it/wp-content/uploads/2015/10/pieghevole_Museo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.museoagusta.it/wp-content/uploads/2015/10/pieghevole_Museo.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: museoagusta.it  
-   Link: <a href="https://www.museoagusta.it/wp-content/uploads/2015/10/pieghevole_centenario.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.museoagusta.it/wp-content/uploads/2015/10/pieghevole_centenario.pdf</a>  
+   Link:<a href="https://www.museoagusta.it/wp-content/uploads/2015/10/pieghevole_centenario.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.museoagusta.it/wp-content/uploads/2015/10/pieghevole_centenario.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: rand.org  
    Title: RAND RRA2475 1  
-   Link: <a href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf</a>  
+   Link:<a href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: rand.org  
    Title: not the x files  
-   Link: <a href="https://www.rand.org/nsrd/news/nsrd-upfront/2023/12/not-the-x-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/nsrd/news/nsrd-upfront/2023/12/not-the-x-files.html</a>  
+   Link:<a href="https://www.rand.org/nsrd/news/nsrd-upfront/2023/12/not-the-x-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/nsrd/news/nsrd-upfront/2023/12/not-the-x-files.html</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: rand.org  
    Title: ufos are not the only potential threat in american  
-   Link: <a href="https://www.rand.org/pubs/commentary/2023/07/ufos-are-not-the-only-potential-threat-in-american.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/commentary/2023/07/ufos-are-not-the-only-potential-threat-in-american.html</a>  
+   Link:<a href="https://www.rand.org/pubs/commentary/2023/07/ufos-are-not-the-only-potential-threat-in-american.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/commentary/2023/07/ufos-are-not-the-only-potential-threat-in-american.html</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: rand.org  
    Title: CPA682 19  
-   Link: <a href="https://www.rand.org/content/dam/rand/pubs/corporate_pubs/CPA600/CPA682-19/RAND_CPA682-19.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/corporate_pubs/CPA600/CPA682-19/RAND_CPA682-19.pdf</a>  
+   Link:<a href="https://www.rand.org/content/dam/rand/pubs/corporate_pubs/CPA600/CPA682-19/RAND_CPA682-19.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/corporate_pubs/CPA600/CPA682-19/RAND_CPA682-19.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: leonardo.com  
-   Link: <a href="https://www.leonardo.com/en/focus-detail/-/detail/leonardo_centenario_am_1" target="_blank" rel="noopener noreferrer nofollow">https://www.leonardo.com/en/focus-detail/-/detail/leonardo_centenario_am_1</a>  
+   Link:<a href="https://www.leonardo.com/en/focus-detail/-/detail/leonardo_centenario_am_1" target="_blank" rel="noopener noreferrer nofollow">https://www.leonardo.com/en/focus-detail/-/detail/leonardo_centenario_am_1</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: leonardo.com  
-   Link: <a href="https://www.leonardo.com/en/global/italy" target="_blank" rel="noopener noreferrer nofollow">https://www.leonardo.com/en/global/italy</a>  
+   Link:<a href="https://www.leonardo.com/en/global/italy" target="_blank" rel="noopener noreferrer nofollow">https://www.leonardo.com/en/global/italy</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: leonardo.com  
-   Link: <a href="https://www.leonardo.com/en/global" target="_blank" rel="noopener noreferrer nofollow">https://www.leonardo.com/en/global</a>  
+   Link:<a href="https://www.leonardo.com/en/global" target="_blank" rel="noopener noreferrer nofollow">https://www.leonardo.com/en/global</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: leonardo.com  
    Title: museo agusta  
-   Link: <a href="https://www.leonardo.com/en/about/foundations/museums/museo-agusta" target="_blank" rel="noopener noreferrer nofollow">https://www.leonardo.com/en/about/foundations/museums/museo-agusta</a>  
+   Link:<a href="https://www.leonardo.com/en/about/foundations/museums/museo-agusta" target="_blank" rel="noopener noreferrer nofollow">https://www.leonardo.com/en/about/foundations/museums/museo-agusta</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: prologue.blogs.archives.gov  
    Title: ufos natural explanations  
-   Link: <a href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/</a>  
+   Link:<a href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: prologue.blogs.archives.gov  
    Title: saucers over washington the history of project blue book  
-   Link: <a href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/</a>  
+   Link:<a href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: siai-marchetti.nl  
    Title: S F.260 military customers  
-   Link: <a href="https://www.siai-marchetti.nl/sf260mil.html" target="_blank" rel="noopener noreferrer nofollow">https://www.siai-marchetti.nl/sf260mil.html</a>  
+   Link:<a href="https://www.siai-marchetti.nl/sf260mil.html" target="_blank" rel="noopener noreferrer nofollow">https://www.siai-marchetti.nl/sf260mil.html</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: flightsim.to  
    Title: MSFSita.STUD I O  
-   Link: <a href="https://flightsim.to/profile/MSFSita.STUDIO" target="_blank" rel="noopener noreferrer nofollow">https://flightsim.to/profile/MSFSita.STUDIO</a>  
+   Link:<a href="https://flightsim.to/profile/MSFSita.STUDIO" target="_blank" rel="noopener noreferrer nofollow">https://flightsim.to/profile/MSFSita.STUDIO</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: theblackvault.com  
    Title: The Black Vault THE UFO FILES OF MUSSOLINI: [Fascist UFO Files](&#123;&#123; 'fascist-files/' | relative_url &#125;&#125;) by Roberto Pinotti  
-   Link: <a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
+   Link:<a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: lia.fondazioneleonardo.com  
-   Link: <a href="https://lia.fondazioneleonardo.com/archivi/s/lia/item-set/20067" target="_blank" rel="noopener noreferrer nofollow">https://lia.fondazioneleonardo.com/archivi/s/lia/item-set/20067</a>  
+   Link:<a href="https://lia.fondazioneleonardo.com/archivi/s/lia/item-set/20067" target="_blank" rel="noopener noreferrer nofollow">https://lia.fondazioneleonardo.com/archivi/s/lia/item-set/20067</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: airhistory.net  
    Title: SIAI Marchetti  
-   Link: <a href="https://www.airhistory.net/basic-operator/4445/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow">https://www.airhistory.net/basic-operator/4445/SIAI-Marchetti</a>  
+   Link:<a href="https://www.airhistory.net/basic-operator/4445/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow">https://www.airhistory.net/basic-operator/4445/SIAI-Marchetti</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: ufo.fandom.com  
-   Link: <a href="https://ufo.fandom.com/wiki/Italy" target="_blank" rel="noopener noreferrer nofollow">https://ufo.fandom.com/wiki/Italy</a>  
+   Link:<a href="https://ufo.fandom.com/wiki/Italy" target="_blank" rel="noopener noreferrer nofollow">https://ufo.fandom.com/wiki/Italy</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: asimusei.it  
    Title: Museo Agusta  
-   Link: <a href="https://asimusei.it/museo/museo-agusta/" target="_blank" rel="noopener noreferrer nofollow">https://asimusei.it/museo/museo-agusta/</a>  
+   Link:<a href="https://asimusei.it/museo/museo-agusta/" target="_blank" rel="noopener noreferrer nofollow">https://asimusei.it/museo/museo-agusta/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: fondazioneleonardo.com  
-   Link: <a href="https://www.fondazioneleonardo.com/heritage/siai-marchetti" target="_blank" rel="noopener noreferrer nofollow">https://www.fondazioneleonardo.com/heritage/siai-marchetti</a>  
+   Link:<a href="https://www.fondazioneleonardo.com/heritage/siai-marchetti" target="_blank" rel="noopener noreferrer nofollow">https://www.fondazioneleonardo.com/heritage/siai-marchetti</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: lia.fondazioneleonardo.com  
-   Link: <a href="https://lia.fondazioneleonardo.com/archivi/s/lia/item/20204" target="_blank" rel="noopener noreferrer nofollow">https://lia.fondazioneleonardo.com/archivi/s/lia/item/20204</a>  
+   Link:<a href="https://lia.fondazioneleonardo.com/archivi/s/lia/item/20204" target="_blank" rel="noopener noreferrer nofollow">https://lia.fondazioneleonardo.com/archivi/s/lia/item/20204</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: upel.va.it  
    Title: museo agusta  
-   Link: <a href="https://upel.va.it/it/news/museo-agusta/" target="_blank" rel="noopener noreferrer nofollow">https://upel.va.it/it/news/museo-agusta/</a>  
+   Link:<a href="https://upel.va.it/it/news/museo-agusta/" target="_blank" rel="noopener noreferrer nofollow">https://upel.va.it/it/news/museo-agusta/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: panssarivaunut.blogspot.com  
    Title: savoia marchetti s55  
-   Link: <a href="https://panssarivaunut.blogspot.com/2016/08/savoia-marchetti-s55.html" target="_blank" rel="noopener noreferrer nofollow">https://panssarivaunut.blogspot.com/2016/08/savoia-marchetti-s55.html</a>  
+   Link:<a href="https://panssarivaunut.blogspot.com/2016/08/savoia-marchetti-s55.html" target="_blank" rel="noopener noreferrer nofollow">https://panssarivaunut.blogspot.com/2016/08/savoia-marchetti-s55.html</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: fondoambiente.it  
    Title: MUSE O AGUSTA | I Luoghi del Cuore  
-   Link: <a href="https://fondoambiente.it/luoghi/museo-agusta?ldc=" target="_blank" rel="noopener noreferrer nofollow">https://fondoambiente.it/luoghi/museo-agusta?ldc=</a>  
+   Link:<a href="https://fondoambiente.it/luoghi/museo-agusta?ldc=" target="_blank" rel="noopener noreferrer nofollow">https://fondoambiente.it/luoghi/museo-agusta?ldc=</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: militaryfactory.com  
-   Link: <a href="https://www.militaryfactory.com/aircraft/detail.php?aircraft_id=811" target="_blank" rel="noopener noreferrer nofollow">https://www.militaryfactory.com/aircraft/detail.php?aircraft_id=811</a>  
+   Link:<a href="https://www.militaryfactory.com/aircraft/detail.php?aircraft_id=811" target="_blank" rel="noopener noreferrer nofollow">https://www.militaryfactory.com/aircraft/detail.php?aircraft_id=811</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 ### Additional References
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: youtube.com  
    Title: The Racing Plane That Became Italy's Best Bomber | Savoia-Marchetti SM.79  
-   Link: <a href="https://www.youtube.com/watch?v=ZXScEN1OeeI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZXScEN1OeeI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ross Coulthart Q&amp;A: Secret military tunnels and phantom pregnancies | Reality Check...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZXScEN1OeeI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZXScEN1OeeI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ross Coulthart Q&amp;A: Secret military tunnels and phantom pregnancies | Reality Check...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=V5SqWLl7NSQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V5SqWLl7NSQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Savoia-Marchetti SM.79 &#x27;Sparviero&#x27; - Italy&#x27;s Workhorse of WW2...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=V5SqWLl7NSQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V5SqWLl7NSQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Savoia-Marchetti SM.79 &#x27;Sparviero&#x27; - Italy&#x27;s Workhorse of WW2...</p></details>
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: youtube.com  
    Title: Road to Disclosure FULL SHOW | Reality Check with Ross Coulthart  
-   Link: <a href="https://www.youtube.com/watch?v=wAur0awdEjw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wAur0awdEjw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SIAI-Marchetti: Pioneers of Italian Aviation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wAur0awdEjw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wAur0awdEjw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SIAI-Marchetti: Pioneers of Italian Aviation...</p></details>
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: youtube.com  
    Title: SIAI-Marchetti: Pioneers of Italian Aviation  
-   Link: <a href="https://www.youtube.com/watch?v=QpNTwh1Q0_E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QpNTwh1Q0_E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Racing Plane That Became Italy&#x27;s Best Bomber | Savoia-Marchetti SM.79...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QpNTwh1Q0_E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QpNTwh1Q0_E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Racing Plane That Became Italy&#x27;s Best Bomber | Savoia-Marchetti SM.79...</p></details>
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: airhistory.net  
-   Link: <a href="https://www.airhistory.net/operators/26607/Aero-Club-Vergiate" target="_blank" rel="noopener noreferrer nofollow">https://www.airhistory.net/operators/26607/Aero-Club-Vergiate</a>  
+   Link:<a href="https://www.airhistory.net/operators/26607/Aero-Club-Vergiate" target="_blank" rel="noopener noreferrer nofollow">https://www.airhistory.net/operators/26607/Aero-Club-Vergiate</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/infoHAG.Italy/posts/9333886733334701/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/infoHAG.Italy/posts/9333886733334701/</a>  
+   Link:<a href="https://www.facebook.com/groups/infoHAG.Italy/posts/9333886733334701/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/infoHAG.Italy/posts/9333886733334701/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SOFMAG/posts/benito-mussolini-ordered-a-complete-news-blackout-on-the-ufo-that-crashed-in-mag/1438374178335229/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SOFMAG/posts/benito-mussolini-ordered-a-complete-news-blackout-on-the-ufo-that-crashed-in-mag/1438374178335229/</a>  
+   Link:<a href="https://www.facebook.com/SOFMAG/posts/benito-mussolini-ordered-a-complete-news-blackout-on-the-ufo-that-crashed-in-mag/1438374178335229/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SOFMAG/posts/benito-mussolini-ordered-a-complete-news-blackout-on-the-ufo-that-crashed-in-mag/1438374178335229/</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/432444196798322/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/432444196798322/</a>  
+   Link:<a href="https://www.facebook.com/groups/432444196798322/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/432444196798322/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>  
+   Link:<a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: flyajetfighter.com  
-   Link: <a href="https://www.flyajetfighter.com/leonardo-siai-marchetti-sf-260/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyajetfighter.com/leonardo-siai-marchetti-sf-260/</a>  
+   Link:<a href="https://www.flyajetfighter.com/leonardo-siai-marchetti-sf-260/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyajetfighter.com/leonardo-siai-marchetti-sf-260/</a>  

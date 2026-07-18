@@ -278,7 +278,7 @@ The alleged Agenzia Stefani telegram is the single document most often cited to 
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62_stefani_telegram_sec_70b246-Illustration-1-dark.svg" | relative_url }}" alt="Stefani Telegram illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62_stefani_telegram_sec_70b246-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62_stefani_telegram_sec_70b246-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The difficulty is that the telegram has never been traced to a publicly accessible Italian state archive with a documented [chain of custody]({{ 'custody/' | relative_url }}). Instead, it entered the public record through copies said to have been received anonymously by Italian UFO researcher Roberto Pinotti in the 1990s, making questions of provenance as important as the [wording]({{ 'wording/' | relative_url }}) itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...August 10, 2020 — 10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded b...</span><span class="citation-popover-meta">Published: August 10, 2020</span></span></span>
+The difficulty is that the telegram has never been traced to a publicly accessible Italian state archive with a documented [chain of custody]({{ 'custody/' | relative_url }}). Instead, it entered the public record through copies said to have been received anonymously by Italian UFO researcher Roberto Pinotti in the 1990s, making questions of provenance as important as the [wording]({{ 'wording/' | relative_url }}) itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...August 10, 2020 — 10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded b...</span><span class="citation-popover-meta">Published: August 10, 2020</span></span></span>
 
 ## What the telegram allegedly orders
 
@@ -296,7 +296,7 @@ The most frequently quoted elements include instructions that:
 
 </div>
 
-The language is significant because it does not describe an extraterrestrial vehicle. Instead, it repeatedly refers to an "unknown aircraft" or similar wording. This distinction is often overlooked. Even proponents of the Magenta story generally acknowledge that the telegram itself does not identify the object as non-human technology. The leap from "unknown aircraft" to "alien craft" depends on other alleged documents rather than this telegram alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...August 10, 2020 — 10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded b...</span><span class="citation-popover-meta">Published: August 10, 2020</span></span></span>
+The language is significant because it does not describe an extraterrestrial vehicle. Instead, it repeatedly refers to an "unknown aircraft" or similar wording. This distinction is often overlooked. Even proponents of the Magenta story generally acknowledge that the telegram itself does not identify the object as non-human technology. The leap from "unknown aircraft" to "alien craft" depends on other alleged documents rather than this telegram alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...August 10, 2020 — 10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded b...</span><span class="citation-popover-meta">Published: August 10, 2020</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FuHl3oc1PX0" title="UFO FILES di TRUMP: ho analizzato i 162 DOCUMENTI SEGRETI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FuHl3oc1PX0" target="_blank" rel="noopener noreferrer">UFO FILES di TRUMP: ho analizzato i 162 DOCUMENTI SEGRETI</a></p><p class="youtube-embed-meta">Channel: AstroViktor</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FuHl3oc1PX0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FuHl3oc1PX0">Open on YouTube</a></p></div></div></div>
@@ -321,7 +321,7 @@ Several characteristics contribute to its apparent authenticity:
 
 This restrained tone is one reason the document has remained influential within UFO literature. A fabricated document claiming "aliens landed" would be comparatively easy to dismiss. A document speaking only of an unidentified aircraft appears more historically plausible because governments often restrict information during military or security incidents.
 
-At the same time, historians caution that convincing bureaucratic style is not itself evidence of authenticity. Forged historical documents frequently succeed by reproducing authentic administrative conventions while introducing unverified events. Without an independently verified archival origin, persuasive formatting cannot establish that a document is genuine. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...August 10, 2020 — 10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded b...</span><span class="citation-popover-meta">Published: August 10, 2020</span></span></span>
+At the same time, historians caution that convincing bureaucratic style is not itself evidence of authenticity. Forged historical documents frequently succeed by reproducing authentic administrative conventions while introducing unverified events. Without an independently verified archival origin, persuasive formatting cannot establish that a document is genuine.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...August 10, 2020 — 10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded b...</span><span class="citation-popover-meta">Published: August 10, 2020</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62_stefani_telegram_sec_70b246-Illustration-2-dark.svg" | relative_url }}" alt="Stefani Telegram illustration 2" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62_stefani_telegram_sec_70b246-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62_stefani_telegram_sec_70b246-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -345,7 +345,7 @@ Other possible readings include:
 
 None of these alternatives requires an extraterrestrial explanation.
 
-Consequently, the telegram cannot by itself establish the existence of a recovered UFO. At most, if authentic, it would indicate official secrecy concerning something described only as an unidentified aircraft. The stronger claims associated with the Magenta story depend on additional alleged documents and later testimony rather than on this telegram alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...August 10, 2020 — 10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded b...</span><span class="citation-popover-meta">Published: August 10, 2020</span></span></span>
+Consequently, the telegram cannot by itself establish the existence of a recovered UFO. At most, if authentic, it would indicate official secrecy concerning something described only as an unidentified aircraft. The stronger claims associated with the Magenta story depend on additional alleged documents and later testimony rather than on this telegram alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...August 10, 2020 — 10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded b...</span><span class="citation-popover-meta">Published: August 10, 2020</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eKZ2U3lkJ9o" title="Secret UFO Files of Fascist Italy | Mussolini&#x27;s UFO Cabinet RS/33 Revealed | Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eKZ2U3lkJ9o" target="_blank" rel="noopener noreferrer">Secret UFO Files of Fascist Italy | Mussolini&#x27;s UFO Cabinet RS/33 Revealed | Full Documentary</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eKZ2U3lkJ9o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eKZ2U3lkJ9o">Open on YouTube</a></p></div></div></div>
@@ -354,7 +354,7 @@ Consequently, the telegram cannot by itself establish the existence of a recover
 
 The greatest challenge facing the Stefani telegram is not linguistic but documentary.
 
-According to Pinotti's published account, copies of the so-called [Fascist UFO files]({{ 'fascist-files/' | relative_url }}) were received anonymously beginning in the 1990s from an unidentified source claiming family connections to the alleged secret organisation known as [Cabinet]({{ 'rs-33/' | relative_url }}) RS/33. The original documents have not been publicly demonstrated within a recognised archival collection, and no continuous custody from 1933 to their modern appearance has been established. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...August 10, 2020 — 10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded b...</span><span class="citation-popover-meta">Published: August 10, 2020</span></span></span>
+According to Pinotti's published account, copies of the so-called [Fascist UFO files]({{ 'fascist-files/' | relative_url }}) were received anonymously beginning in the 1990s from an unidentified source claiming family connections to the alleged secret organisation known as [Cabinet]({{ 'rs-33/' | relative_url }}) RS/33. The original documents have not been publicly demonstrated within a recognised archival collection, and no continuous custody from 1933 to their modern appearance has been established.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...August 10, 2020 — 10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded b...</span><span class="citation-popover-meta">Published: August 10, 2020</span></span></span>
 
 From a historical perspective, several questions therefore remain unanswered:
 
@@ -390,201 +390,201 @@ Its limitations are equally important. The telegram:
 
 </div>
 
-As a result, historians and sceptical investigators generally regard it as an intriguing but unverified document whose authenticity remains unresolved, while supporters view it as the strongest surviving indication that Fascist authorities attempted to suppress information about an unidentified aircraft. The document therefore remains the pivotal—but also the most contested—piece of documentary evidence in the secrecy aspect of the [alleged Magenta UFO]({{ 'alleged-magenta-ufo/' | relative_url }}) case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com+2Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...August 10, 2020 — 10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded b...</span><span class="citation-popover-meta">Published: August 10, 2020</span></span></span>
+As a result, historians and sceptical investigators generally regard it as an intriguing but unverified document whose authenticity remains unresolved, while supporters view it as the strongest surviving indication that Fascist authorities attempted to suppress information about an unidentified aircraft. The document therefore remains the pivotal—but also the most contested—piece of documentary evidence in the secrecy aspect of the [alleged Magenta UFO]({{ 'alleged-magenta-ufo/' | relative_url }}) case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com+2Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...August 10, 2020 — 10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded b...</span><span class="citation-popover-meta">Published: August 10, 2020</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ojvSWFiJiec" title="Fascist UFOs - Italian Mass Sightings | Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ojvSWFiJiec" target="_blank" rel="noopener noreferrer">Fascist UFOs - Italian Mass Sightings | Full Documentary</a></p><p class="youtube-embed-meta">Channel: Mediatime Network</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ojvSWFiJiec" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ojvSWFiJiec">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The telegram that carries the cover up claim. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The telegram that carries the cover up claim. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Covers documentary evidence, official records, and government handling of UFO claims, matching the page&#x27;s focus on an alleged cover-up do...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers documentary evidence, official records, and government handling of UFO claims, matching the page&#x27;s focus on an alleged cover-up do...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides historical context for official investigations and how documentary claims should be evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for official investigations and how documentary claims should be evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines modern claims of secrecy, government records, and the credibility of alleged evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines modern claims of secrecy, government records, and the credibility of alleged evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Helps readers assess extraordinary documentary claims, provenance, and competing interpretations of disputed evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers assess extraordinary documentary claims, provenance, and competing interpretations of disputed evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift"><img src="{{ '/assets/images/marketplace-covers/e3822e61b859bc0e7376.jpg' | relative_url }}" alt="Listing image for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift"><img src="{{ '/assets/images/marketplace-covers/e3822e61b859bc0e7376.jpg' | relative_url }}" alt="Listing image for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model"><img src="{{ '/assets/images/marketplace-covers/b626ecf0eef6236661c6.jpg' | relative_url }}" alt="Listing image for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model"><img src="{{ '/assets/images/marketplace-covers/b626ecf0eef6236661c6.jpg' | relative_url }}" alt="Listing image for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="stefani-telegram-the-telegram-that-carries-the-cover-up-claim-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -600,7 +600,7 @@ As a result, historians and sceptical investigators generally regard it as an in
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -620,7 +620,7 @@ As a result, historians and sceptical investigators generally regard it as an in
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -652,7 +652,7 @@ As a result, historians and sceptical investigators generally regard it as an in
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -704,7 +704,7 @@ As a result, historians and sceptical investigators generally regard it as an in
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -749,7 +749,7 @@ As a result, historians and sceptical investigators generally regard it as an in
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -790,80 +790,80 @@ As a result, historians and sceptical investigators generally regard it as an in
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: theblackvault.com  
    Title: TH E UFO FILES OF MUSSOLINI: Fascist  
-   Link: <a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE UFO FILES OF MUSSOLINI: Fascist...August 10, 2020 — 10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded b...</p></details>
+   Link:<a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE UFO FILES OF MUSSOLINI: Fascist...August 10, 2020 — 10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded b...</p></details>
    Published: August 10, 2020  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: metabunk.org  
    Title: claim a ufo crashed in 1933 italy and the us recovered it.13282  
-   Link: <a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating around UFO...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating around UFO...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: firstmonday.org  
-   Link: <a href="https://firstmonday.org/ojs/index.php/fm/article/view/12533" target="_blank" rel="noopener noreferrer nofollow">https://firstmonday.org/ojs/index.php/fm/article/view/12533</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation networks: A quali-quantitative investigation...by T Willaert · 2022 · Cited by 46 — The present paper contributes to this...</p></details>
+   Link:<a href="https://firstmonday.org/ojs/index.php/fm/article/view/12533" target="_blank" rel="noopener noreferrer nofollow">https://firstmonday.org/ojs/index.php/fm/article/view/12533</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation networks: A quali-quantitative investigation...by T Willaert · 2022 · Cited by 46 — The present paper contributes to this...</p></details>
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/entry-210.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/entry-210.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>June 1944 – January 1945, ca. 30 pp... Intercepted message regarding Mussolini&#x27;s speech in the Chamber of Fascist.Read more...</p></details>
+   Link:<a href="https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/entry-210.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/entry-210.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 1944 – January 1945, ca. 30 pp... Intercepted message regarding Mussolini&#x27;s speech in the Chamber of Fascist.Read more...</p></details>
    Published: June 1944  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AlternativeHistory/comments/1bjoqce/fascinating_dive_rich_in_history_back_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AlternativeHistory/comments/1bjoqce/fascinating_dive_rich_in_history_back_to/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>late 90s that go deep..Magenta, Mussolini, Pope Pius XXII… r/aliens -...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/AlternativeHistory/comments/1bjoqce/fascinating_dive_rich_in_history_back_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AlternativeHistory/comments/1bjoqce/fascinating_dive_rich_in_history_back_to/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>late 90s that go deep..Magenta, Mussolini, Pope Pius XXII… r/aliens -...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1t6g3va/if_[grusch" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1t6g3va/if_[grusch</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>If Grusch was briefed on Magenta 1933, why is the UFO...I’ve been digging into the Magenta 1933 case recently, and I think it raises an...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1t6g3va/if_[grusch" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1t6g3va/if_[grusch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If Grusch was briefed on Magenta 1933, why is the UFO...I’ve been digging into the Magenta 1933 case recently, and I think it raises an...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: history.blog.gov.uk  
    Title: the zimmermann telegram and room 40  
-   Link: <a href="https://history.blog.gov.uk/2017/01/16/the-zimmermann-telegram-and-room-40/" target="_blank" rel="noopener noreferrer nofollow">https://history.blog.gov.uk/2017/01/16/the-zimmermann-telegram-and-room-40/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Zimmermann telegram and Room 4016 Jan 2017 — A 100 hundred years ago today the German Foreign Minister, Arthur Zimmermann, sent a telegra...</p></details>
+   Link:<a href="https://history.blog.gov.uk/2017/01/16/the-zimmermann-telegram-and-room-40/" target="_blank" rel="noopener noreferrer nofollow">https://history.blog.gov.uk/2017/01/16/the-zimmermann-telegram-and-room-40/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Zimmermann telegram and Room 4016 Jan 2017 — A 100 hundred years ago today the German Foreign Minister, Arthur Zimmermann, sent a telegra...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sofmag.com  
-   Link: <a href="https://sofmag.com/ufo-crash-magenta-italy-1933/" target="_blank" rel="noopener noreferrer nofollow">https://sofmag.com/ufo-crash-magenta-italy-1933/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mussolini&#x27;s UFO file: The 1933 Magenta Crash Declassified9 Nov 2025 — National Archives&#x27; OSS files, riddled with redactions, offer tantal...</p></details>
+   Link:<a href="https://sofmag.com/ufo-crash-magenta-italy-1933/" target="_blank" rel="noopener noreferrer nofollow">https://sofmag.com/ufo-crash-magenta-italy-1933/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mussolini&#x27;s UFO file: The 1933 Magenta Crash Declassified9 Nov 2025 — National Archives&#x27; OSS files, riddled with redactions, offer tantal...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ufoinsight.com  
    Title: the 1933 [lombardy](&#123;&#123; 'lombardy/' | relative_url &#125;&#125;) ufo crash  
-   Link: <a href="https://www.ufoinsight.com/conspiracy/government/the-1933-lombardy-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/conspiracy/government/the-1933-lombardy-ufo-crash</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The True Origins Of The...7 May 2024 — Many people point to 1947 as being the start of the Modern UFO Era, the beginning of UFO and alie...</p></details>
+   Link:<a href="https://www.ufoinsight.com/conspiracy/government/the-1933-lombardy-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/conspiracy/government/the-1933-lombardy-ufo-crash</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The True Origins Of The...7 May 2024 — Many people point to 1947 as being the start of the Modern UFO Era, the beginning of UFO and alie...</p></details>
    Published: May 2024  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: academia.edu  
    Title: THE 1933 MAGENTA UFO CRASH A NUKES PERSPECTIVE  
-   Link: <a href="https://www.academia.edu/110409871/THE_1933_MAGENTA_UFO_CRASH_A_NUKES_PERSPECTIVE" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/110409871/THE_1933_MAGENTA_UFO_CRASH_A_NUKES_PERSPECTIVE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the 1933 magenta ufo crash: a nukes perspectiveA discussion of the symbolic aspects of the Magenta UFO (1933)...</p></details>
+   Link:<a href="https://www.academia.edu/110409871/THE_1933_MAGENTA_UFO_CRASH_A_NUKES_PERSPECTIVE" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/110409871/THE_1933_MAGENTA_UFO_CRASH_A_NUKES_PERSPECTIVE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the 1933 magenta ufo crash: a nukes perspectiveA discussion of the symbolic aspects of the Magenta UFO (1933)...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
    Title: fascinating dive into paper trail of magenta  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1bi66kf/fascinating_dive_into_paper_trail_of_magenta/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1bi66kf/fascinating_dive_into_paper_trail_of_magenta/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Italian UFO... r/aliens - Serious US Department of War releases UFO and potential alien life...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1bi66kf/fascinating_dive_into_paper_trail_of_magenta/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1bi66kf/fascinating_dive_into_paper_trail_of_magenta/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Italian UFO... r/aliens - Serious US Department of War releases UFO and potential alien life...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: istories.media  
    Title: independent review confirms critical telegram vulnerability  
-   Link: <a href="https://istories.media/en/stories/2026/05/18/independent-review-confirms-critical-telegram-vulnerability/" target="_blank" rel="noopener noreferrer nofollow">https://istories.media/en/stories/2026/05/18/independent-review-confirms-critical-telegram-vulnerability/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IStories has obtained an expert report from...Read more...</p></details>
+   Link:<a href="https://istories.media/en/stories/2026/05/18/independent-review-confirms-critical-telegram-vulnerability/" target="_blank" rel="noopener noreferrer nofollow">https://istories.media/en/stories/2026/05/18/independent-review-confirms-critical-telegram-vulnerability/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IStories has obtained an expert report from...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Secret UFO Files of Fascist Italy | Mussolini's UFO Cabinet RS/33 Revealed  
-   Link: <a href="https://www.youtube.com/watch?v=eKZ2U3lkJ9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eKZ2U3lkJ9o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fascist UFOs - Italian Mass Sightings | Full Documentary...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eKZ2U3lkJ9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eKZ2U3lkJ9o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fascist UFOs - Italian Mass Sightings | Full Documentary...</p></details>

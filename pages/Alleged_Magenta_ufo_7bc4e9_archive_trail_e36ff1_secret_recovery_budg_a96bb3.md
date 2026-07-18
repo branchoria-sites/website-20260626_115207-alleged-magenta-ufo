@@ -274,7 +274,7 @@ image: /assets/images/Alleged_Magenta_ufo_7bc4e9_archive_trail_e36ff1_secret_rec
 
 ## Introduction
 
-If the alleged 1933 Magenta recovery had developed into a long-running secret programme, one of the strongest tests would not be an extraordinary document but ordinary accounting. Even highly classified operations consume resources: vehicles, fuel, guards, secure buildings, technical staff, travel, communications and administration all cost money. Those costs do not necessarily appear under an obvious description, but they usually leave indirect financial and administrative traces. For the Magenta story, the question is therefore not whether a budget labelled “UFO recovery” should exist, but whether the kinds of spending required by the narrative can be detected in surviving government, military or industrial records. The public evidence currently available does not demonstrate such a financial trail, making budgetary expectations an important way to assess the claim rather than simply repeat it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — The following is reproduced, with permission, from the book UFO CONTA...</span></span></span>
+If the alleged 1933 Magenta recovery had developed into a long-running secret programme, one of the strongest tests would not be an extraordinary document but ordinary accounting. Even highly classified operations consume resources: vehicles, fuel, guards, secure buildings, technical staff, travel, communications and administration all cost money. Those costs do not necessarily appear under an obvious description, but they usually leave indirect financial and administrative traces. For the Magenta story, the question is therefore not whether a budget labelled “UFO recovery” should exist, but whether the kinds of spending required by the narrative can be detected in surviving government, military or industrial records. The public evidence currently available does not demonstrate such a financial trail, making budgetary expectations an important way to assess the claim rather than simply repeat it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — The following is reproduced, with permission, from the book UFO CONTA...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_archive_trail_e36ff1_secret_recovery_budg_a96bb3-Illustration-1-dark.svg" | relative_url }}" alt="Budget Clues illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_archive_trail_e36ff1_secret_recovery_budg_a96bb3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_archive_trail_e36ff1_secret_recovery_budg_a96bb3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -301,7 +301,7 @@ A concealed programme would typically require funding for:
 
 None of these items would necessarily identify the recovered object. They could instead appear as routine military logistics, [aviation]({{ 'aviation/' | relative_url }}) research or security expenses. However, when combined with matching personnel records, transport orders or correspondence, they could form a coherent administrative pattern.
 
-This is especially relevant because the published Magenta documents describe storage at the [SIAI-Marchetti]({{ 'siai/' | relative_url }}) facilities in [Vergiate]({{ 'vergiate/' | relative_url }}) and the involvement of a purported Cabinet RS/33. Those claims imply continuing operational costs rather than a brief emergency response. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — The following is reproduced, with permission, from the book UFO CONTA...</span></span></span>
+This is especially relevant because the published Magenta documents describe storage at the [SIAI-Marchetti]({{ 'siai/' | relative_url }}) facilities in [Vergiate]({{ 'vergiate/' | relative_url }}) and the involvement of a purported Cabinet RS/33. Those claims imply continuing operational costs rather than a brief emergency response.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — The following is reproduced, with permission, from the book UFO CONTA...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ecEY2xNFzPw" title="UFO Reverse Engineering, Crash Retrievals, and the Pentagon’s New Files | UAP Gerb" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ecEY2xNFzPw" target="_blank" rel="noopener noreferrer">UFO Reverse Engineering, Crash Retrievals, and the Pentagon’s New Files | UAP Gerb</a></p><p class="youtube-embed-meta">Channel: Event Horizon</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ecEY2xNFzPw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ecEY2xNFzPw">Open on YouTube</a></p></div></div></div>
@@ -349,7 +349,7 @@ Every additional year increases the likelihood of records involving:
 
 </div>
 
-This cumulative effect is important when evaluating the Magenta story. The narrative often implies that the recovered object remained under Italian control until the Second World War, potentially for more than a decade before allegedly passing into Allied hands. Sustaining such an effort would require repeated administrative decisions rather than a single allocation of funds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — The following is reproduced, with permission, from the book UFO CONTA...</span></span></span>
+This cumulative effect is important when evaluating the Magenta story. The narrative often implies that the recovered object remained under Italian control until the Second World War, potentially for more than a decade before allegedly passing into Allied hands. Sustaining such an effort would require repeated administrative decisions rather than a single allocation of funds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — The following is reproduced, with permission, from the book UFO CONTA...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_archive_trail_e36ff1_secret_recovery_budg_a96bb3-Illustration-3-dark.svg" | relative_url }}" alt="Budget Clues illustration 3" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_archive_trail_e36ff1_secret_recovery_budg_a96bb3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_archive_trail_e36ff1_secret_recovery_budg_a96bb3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -378,9 +378,9 @@ The strength of such evidence would depend on corroboration across several archi
 
 ## What the current evidence shows
 
-The publicly discussed Magenta material centres primarily on alleged [telegrams]({{ 'telegrams/' | relative_url }}), memoranda and administrative communications rather than financial documentation. [Supporters]({{ 'supporters/' | relative_url }}) argue that these documents demonstrate the existence of a concealed recovery effort, but they have not produced a corresponding body of authenticated budgetary records showing sustained expenditure for transport, storage or scientific work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — The following is reproduced, with permission, from the book UFO CONTA...</span></span></span>
+The publicly discussed Magenta material centres primarily on alleged [telegrams]({{ 'telegrams/' | relative_url }}), memoranda and administrative communications rather than financial documentation. [Supporters]({{ 'supporters/' | relative_url }}) argue that these documents demonstrate the existence of a concealed recovery effort, but they have not produced a corresponding body of authenticated budgetary records showing sustained expenditure for transport, storage or scientific work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — The following is reproduced, with permission, from the book UFO CONTA...</span></span></span>
 
-Critics note that this absence does not automatically disprove the story. Records may have been destroyed during the Second World War, remain undiscovered, have been misfiled or have been concealed under unrelated accounting categories. Italy's archival history is also complex, with varying rules governing classified material and archival access over time. Nevertheless, the lack of independently verified financial documentation remains one reason historians and archivists regard the Magenta claim as unproven rather than established. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/319188260_Secrets_and_Files_Access_to_Archives_in_Italy_from_WWII_to_the_Present" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Access to Archives in Italy from WWII to the Present</span><span class="citation-popover-snippet">Archival Supervision Agencies exercise jurisdiction over the records of public bodies... fascist period in Italy. The laws on access to...</span></span></span>
+Critics note that this absence does not automatically disprove the story. Records may have been destroyed during the Second World War, remain undiscovered, have been misfiled or have been concealed under unrelated accounting categories. Italy's archival history is also complex, with varying rules governing classified material and archival access over time. Nevertheless, the lack of independently verified financial documentation remains one reason historians and archivists regard the Magenta claim as unproven rather than established.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/319188260_Secrets_and_Files_Access_to_Archives_in_Italy_from_WWII_to_the_Present" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Access to Archives in Italy from WWII to the Present</span><span class="citation-popover-snippet">Archival Supervision Agencies exercise jurisdiction over the records of public bodies... fascist period in Italy. The laws on access to...</span></span></span>
 
 ## Following the money as a historical test
 
@@ -389,194 +389,194 @@ Budget evidence is valuable because it is difficult to fabricate retrospectively
 For the Magenta case, the most persuasive future discoveries would therefore not necessarily be dramatic new UFO files. They could instead be modest accounting records, procurement files, construction approvals or personnel budgets that independently confirm the sustained activities the narrative requires. Until such evidence emerges, the expected financial footprint of the alleged programme remains largely hypothetical rather than demonstrated.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Follow the Money in the Magenta Story. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Follow the Money in the Magenta Story. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Provides context for evaluating claims about long-term classified projects, funding, and secrecy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating claims about long-term classified projects, funding, and secrecy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines government-related UFO claims using documentary evidence and official sources.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines government-related UFO claims using documentary evidence and official sources.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Helps readers understand how large secret programs are organized, funded, and managed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how large secret programs are organized, funded, and managed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NyU3EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Leo Janos, Ben R. Rich</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NyU3EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Leo Janos, Ben R. Rich</p>
         
-        <p class="fr-book-desc">Illustrates the practical realities of highly classified projects, procurement, and administration.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates the practical realities of highly classified projects, procurement, and administration.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro NEW MEXICO UFO Travel Poster, ROSWELL Desert Alien Poster, Sci-Fi Santa Fe"><img src="{{ '/assets/images/marketplace-covers/2b78ede972258550fbe8.jpg' | relative_url }}" alt="Listing image for Retro NEW MEXICO UFO Travel Poster, ROSWELL Desert Alien Poster, Sci-Fi Santa Fe" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro NEW MEXICO UFO Travel Poster, ROSWELL Desert Alien Poster, Sci-Fi Santa Fe</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro NEW MEXICO UFO Travel Poster, ROSWELL Desert Alien Poster, Sci-Fi Santa Fe"><img src="{{ '/assets/images/marketplace-covers/2b78ede972258550fbe8.jpg' | relative_url }}" alt="Listing image for Retro NEW MEXICO UFO Travel Poster, ROSWELL Desert Alien Poster, Sci-Fi Santa Fe" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro NEW MEXICO UFO Travel Poster, ROSWELL Desert Alien Poster, Sci-Fi Santa Fe</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b8e82448c5ac8c1c5d76.jpg' | relative_url }}" alt="Listing image for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b8e82448c5ac8c1c5d76.jpg' | relative_url }}" alt="Listing image for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Photo Vintage Iconic Collection History"><img src="{{ '/assets/images/marketplace-covers/6582200b0891198acf67.jpg' | relative_url }}" alt="Listing image for Roswell UFO Photo Vintage Iconic Collection History" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Photo Vintage Iconic Collection History</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Photo Vintage Iconic Collection History"><img src="{{ '/assets/images/marketplace-covers/6582200b0891198acf67.jpg' | relative_url }}" alt="Listing image for Roswell UFO Photo Vintage Iconic Collection History" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Photo Vintage Iconic Collection History</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Festival 2009 Posters"><img src="{{ '/assets/images/marketplace-covers/e11455c51dee68e7b691.jpg' | relative_url }}" alt="Listing image for Roswell UFO Festival 2009 Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Festival 2009 Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Festival 2009 Posters"><img src="{{ '/assets/images/marketplace-covers/e11455c51dee68e7b691.jpg' | relative_url }}" alt="Listing image for Roswell UFO Festival 2009 Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Festival 2009 Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="budget-clues-follow-the-money-in-the-magenta-story-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -592,7 +592,7 @@ For the Magenta case, the most persuasive future discoveries would therefore not
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -612,7 +612,7 @@ For the Magenta case, the most persuasive future discoveries would therefore not
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -644,7 +644,7 @@ For the Magenta case, the most persuasive future discoveries would therefore not
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -696,7 +696,7 @@ For the Magenta case, the most persuasive future discoveries would therefore not
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -741,7 +741,7 @@ For the Magenta case, the most persuasive future discoveries would therefore not
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -782,81 +782,81 @@ For the Magenta case, the most persuasive future discoveries would therefore not
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
    Title: Research Gate Access to Archives in Italy from WWII to the Present  
-   Link: <a href="https://www.researchgate.net/publication/319188260_Secrets_and_Files_Access_to_Archives_in_Italy_from_WWII_to_the_Present" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/319188260_Secrets_and_Files_Access_to_Archives_in_Italy_from_WWII_to_the_Present</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Archival Supervision Agencies exercise jurisdiction over the records of public bodies... fascist period in Italy. The laws on access to...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/319188260_Secrets_and_Files_Access_to_Archives_in_Italy_from_WWII_to_the_Present" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/319188260_Secrets_and_Files_Access_to_Archives_in_Italy_from_WWII_to_the_Present</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Archival Supervision Agencies exercise jurisdiction over the records of public bodies... fascist period in Italy. The laws on access to...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/guide-fed-records/groups/331.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/groups/331.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>f the U.S. National Archives and Records Administration...</p></details>
+   Link:<a href="https://www.archives.gov/research/guide-fed-records/groups/331.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/groups/331.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>f the U.S. National Archives and Records Administration...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: theblackvault.com  
    Title: the ufo files of mussolini [fascist ufo files](&#123;&#123; 'fascist-files/' | relative_url &#125;&#125;) by roberto pinotti  
-   Link: <a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — The following is reproduced, with permission, from the book UFO CONTA...</p></details>
+   Link:<a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — The following is reproduced, with permission, from the book UFO CONTA...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: Fascist UFO Files by Roberto Pinotti  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/142o1cp/the_ufo_files_of_mussolini_fascist_ufo_files_by/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/142o1cp/the_ufo_files_of_mussolini_fascist_ufo_files_by/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault...THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files. Classic Case · r/UFOs...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/142o1cp/the_ufo_files_of_mussolini_fascist_ufo_files_by/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/142o1cp/the_ufo_files_of_mussolini_fascist_ufo_files_by/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault...THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files. Classic Case · r/UFOs...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/r/C14434" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/r/C14434</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Office: Allied Forces, Mediterranean Theatre: Military...This series contains microfilm copies of documents originating with the Headqua...</p></details>
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/r/C14434" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/r/C14434</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office: Allied Forces, Mediterranean Theatre: Military...This series contains microfilm copies of documents originating with the Headqua...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40EscapeVelocity1/phil-schneider-casually-referenced-the-1933-magenta-italy-ufo-crash-retrieval-in-a-1995-interview-fa0d38dbf8f5" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40EscapeVelocity1/phil-schneider-casually-referenced-the-1933-magenta-italy-ufo-crash-retrieval-in-a-1995-interview-fa0d38dbf8f5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Phil Schneider casually referenced the 1933 Magenta, Italy...Phil Schneider casually referenced the 1933 Magenta, Italy UFO crash-retrie...</p></details>
+   Link:<a href="https://medium.com/%40EscapeVelocity1/phil-schneider-casually-referenced-the-1933-magenta-italy-ufo-crash-retrieval-in-a-1995-interview-fa0d38dbf8f5" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40EscapeVelocity1/phil-schneider-casually-referenced-the-1933-magenta-italy-ufo-crash-retrieval-in-a-1995-interview-fa0d38dbf8f5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phil Schneider casually referenced the 1933 Magenta, Italy...Phil Schneider casually referenced the 1933 Magenta, Italy UFO crash-retrie...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cisu.org  
-   Link: <a href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fascist UFO Files: a Professional Archivist&#x27;s OpinionThe readers of UFO – Rivista di Informazione Ufologica are likely to have seen that...</p></details>
+   Link:<a href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fascist UFO Files: a Professional Archivist&#x27;s OpinionThe readers of UFO – Rivista di Informazione Ufologica are likely to have seen that...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
    Title: THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti  
-   Link: <a href="https://www.facebook.com/TheBlackVault/posts/the-files-of-benito-mussolini-about-a-ufo-crash-in-[lombardy" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheBlackVault/posts/the-files-of-benito-mussolini-about-a-ufo-crash-in-[lombardy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The files of Benito Mussolini about a UFO crash in Lombardy...The files of Benito Mussolini about a UFO crash in Lombardy, Italy, April...</p></details>
+   Link:<a href="https://www.facebook.com/TheBlackVault/posts/the-files-of-benito-mussolini-about-a-ufo-crash-in-[lombardy" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheBlackVault/posts/the-files-of-benito-mussolini-about-a-ufo-crash-in-[lombardy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The files of Benito Mussolini about a UFO crash in Lombardy...The files of Benito Mussolini about a UFO crash in Lombardy, Italy, April...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: metabunk.org  
    Title: claim a ufo crashed in 1933 italy and the us recovered it.13282  
-   Link: <a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating around UFO...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating around UFO...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aol.com  
-   Link: <a href="https://www.aol.com/researcher-says-first-ufo-really-191900682.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/researcher-says-first-ufo-really-191900682.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Dave [Grusch] claims that the US has &#x27;quite a few&#x27; alien craft that...Read more...</p></details>
+   Link:<a href="https://www.aol.com/researcher-says-first-ufo-really-191900682.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/researcher-says-first-ufo-really-191900682.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Dave [Grusch] claims that the US has &#x27;quite a few&#x27; alien craft that...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_grusch_and_the_italian_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_grusch_and_the_italian_ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lation that Mussolini&#x27;s government retrieved a crashed UFO/UAP in 1933.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_grusch_and_the_italian_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_grusch_and_the_italian_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lation that Mussolini&#x27;s government retrieved a crashed UFO/UAP in 1933.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: wantedinrome.com  
-   Link: <a href="https://www.wantedinrome.com/news/the-crash-that-predated-[roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.wantedinrome.com/news/the-crash-that-predated-[roswell</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...2 Mar 2026 — Italy&#x27;s Secret UFO Files: The Crash That Predated Roswell by 14 Y...</p></details>
+   Link:<a href="https://www.wantedinrome.com/news/the-crash-that-predated-[roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.wantedinrome.com/news/the-crash-that-predated-[roswell</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...2 Mar 2026 — Italy&#x27;s Secret UFO Files: The Crash That Predated Roswell by 14 Y...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
    Title: the magenta project the 1933 magenta italy ufo  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1fraqyk/the_magenta_project_the_1933_magenta_italy_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fraqyk/the_magenta_project_the_1933_magenta_italy_ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 Magenta, Italy UFO Crash-Retrieval That...280 votes, 60 comments. THE MAGENTA PROJECT The 1933 Italy UFO/UAP Crash-Retrieval Th...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1fraqyk/the_magenta_project_the_1933_magenta_italy_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fraqyk/the_magenta_project_the_1933_magenta_italy_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 Magenta, Italy UFO Crash-Retrieval That...280 votes, 60 comments. THE MAGENTA PROJECT The 1933 Italy UFO/UAP Crash-Retrieval Th...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: interestingengineering.com  
    Title: worlds first ufo crash happened in italy claim  
-   Link: <a href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow">https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>World&#x27;s first UFO crash happened in Italy, 14 years before...10 Jul 2023 — The world&#x27;s first crash of an unidentified flying object (UFO...</p></details>
+   Link:<a href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow">https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World&#x27;s first UFO crash happened in Italy, 14 years before...10 Jul 2023 — The world&#x27;s first crash of an unidentified flying object (UFO...</p></details>

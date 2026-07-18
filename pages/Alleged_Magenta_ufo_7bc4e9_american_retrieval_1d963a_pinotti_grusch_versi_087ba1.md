@@ -280,27 +280,27 @@ image: /assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_pinot
 
 ## Introduction
 
-The two best-known public accounts of how the alleged 1933 Magenta craft reached the United States share a common core but are not the same story. Roberto Pinotti's version, developed through Italian UFO literature beginning in the late 1990s and early 2000s, centres on an alleged wartime seizure of a craft or debris from the [SIAI Marchetti]({{ 'siai/' | relative_url }}) [aviation]({{ 'aviation/' | relative_url }}) complex in northern Italy. David Grusch's later account, first made public in 2023, accepts the broad premise of an Italian recovery but adds a new element: that Pope Pius XII secretly informed the United States, enabling American acquisition of the object in 1944 or 1945. These similarities have sometimes led the two narratives to be treated as interchangeable, yet they differ in chronology, mechanism, evidentiary basis and what each actually claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded by Mussolini along...</span></span></span>
+The two best-known public accounts of how the alleged 1933 Magenta craft reached the United States share a common core but are not the same story. Roberto Pinotti's version, developed through Italian UFO literature beginning in the late 1990s and early 2000s, centres on an alleged wartime seizure of a craft or debris from the [SIAI Marchetti]({{ 'siai/' | relative_url }}) [aviation]({{ 'aviation/' | relative_url }}) complex in northern Italy. David Grusch's later account, first made public in 2023, accepts the broad premise of an Italian recovery but adds a new element: that Pope Pius XII secretly informed the United States, enabling American acquisition of the object in 1944 or 1945. These similarities have sometimes led the two narratives to be treated as interchangeable, yet they differ in chronology, mechanism, evidentiary basis and what each actually claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded by Mussolini along...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_pinotti_grusch_versi_087ba1-Illustration-1-dark.svg" | relative_url }}" alt="Two Versions illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_pinotti_grusch_versi_087ba1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_pinotti_grusch_versi_087ba1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Pinotti's account says about the industrial site
 
-Roberto Pinotti's published version is rooted in the alleged "[Fascist UFO Files]({{ 'fascist-files/' | relative_url }})" that he and collaborator Alfredo Lissoni said they received during the 1990s. Their reconstruction argues that after the reported 1933 recovery near Magenta, the object was stored at facilities belonging to SIAI Marchetti, particularly around Vergiate and nearby Sesto Calende in [Lombardy]({{ 'lombardy/' | relative_url }}). According to this account, the location was chosen because it was an established aircraft manufacturing complex capable of handling unusual aeronautical material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded by Mussolini along...</span></span></span>
+Roberto Pinotti's published version is rooted in the alleged "[Fascist UFO Files]({{ 'fascist-files/' | relative_url }})" that he and collaborator Alfredo Lissoni said they received during the 1990s. Their reconstruction argues that after the reported 1933 recovery near Magenta, the object was stored at facilities belonging to SIAI Marchetti, particularly around Vergiate and nearby Sesto Calende in [Lombardy]({{ 'lombardy/' | relative_url }}). According to this account, the location was chosen because it was an established aircraft manufacturing complex capable of handling unusual aeronautical material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded by Mussolini along...</span></span></span>
 
-In Pinotti's reconstruction, the decisive moment comes during the Allied advance into northern Italy in April 1945. His English-language account states that the American First Armored Division captured the SIAI Marchetti installation where the UFO or its remains were "probably" being kept and that the material was subsequently transported to the United States. The wording is significant because the account itself presents part of the [custody chain]({{ 'custody-chain/' | relative_url }}) as an inference rather than documenting it through surviving American transport records, military inventories or intelligence files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded by Mussolini along...</span></span></span>
+In Pinotti's reconstruction, the decisive moment comes during the Allied advance into northern Italy in April 1945. His English-language account states that the American First Armored Division captured the SIAI Marchetti installation where the UFO or its remains were "probably" being kept and that the material was subsequently transported to the United States. The wording is significant because the account itself presents part of the [custody chain]({{ 'custody-chain/' | relative_url }}) as an inference rather than documenting it through surviving American transport records, military inventories or intelligence files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded by Mussolini along...</span></span></span>
 
-Another feature of Pinotti's narrative is its emphasis on the industrial location itself. The focus remains on aircraft factories, wartime military operations and the possibility that Allied technical teams encountered unusual material while occupying strategic aviation facilities. The mechanism is therefore primarily military: American forces allegedly obtained the object because they physically captured the site at the end of the war. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded by Mussolini along...</span></span></span>
+Another feature of Pinotti's narrative is its emphasis on the industrial location itself. The focus remains on aircraft factories, wartime military operations and the possibility that Allied technical teams encountered unusual material while occupying strategic aviation facilities. The mechanism is therefore primarily military: American forces allegedly obtained the object because they physically captured the site at the end of the war.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded by Mussolini along...</span></span></span>
 
 ## What Grusch adds about Vatican assistance
 
-David [Grusch]({{ 'grusch/' | relative_url }}) did not present his account as an extension of Pinotti's published work, but his public description overlaps with it in important respects. During interviews preceding his 2023 congressional testimony, Grusch stated that Mussolini's government had recovered a non-human craft in 1933 and that the United States ultimately acquired it in 1944 or 1945. The distinctive addition was his claim that Pope Pius XII secretly informed American officials about the existence and location of the craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">vatican pressure archives ufo cover david grusch 1816908</span><span class="citation-popover-snippet">alien life, Grusch responded: &quot;Certainly.&quot; NewsNation reported on...Read more...</span></span></span>
+David [Grusch]({{ 'grusch/' | relative_url }}) did not present his account as an extension of Pinotti's published work, but his public description overlaps with it in important respects. During interviews preceding his 2023 congressional testimony, Grusch stated that Mussolini's government had recovered a non-human craft in 1933 and that the United States ultimately acquired it in 1944 or 1945. The distinctive addition was his claim that Pope Pius XII secretly informed American officials about the existence and location of the craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">vatican pressure archives ufo cover david grusch 1816908</span><span class="citation-popover-snippet">alien life, Grusch responded: &quot;Certainly.&quot; NewsNation reported on...Read more...</span></span></span>
 
-This Vatican element fundamentally changes the proposed transfer mechanism. Rather than American forces simply discovering the object while overrunning northern Italy, Grusch describes an intelligence back-channel in which the Pope allegedly communicated with the United States, allowing American authorities to "scoop" the craft after the collapse of Fascist control. The Vatican therefore becomes an active intermediary rather than merely part of the historical backdrop. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">vatican pressure archives ufo cover david grusch 1816908</span><span class="citation-popover-snippet">alien life, Grusch responded: &quot;Certainly.&quot; NewsNation reported on...Read more...</span></span></span>
+This Vatican element fundamentally changes the proposed transfer mechanism. Rather than American forces simply discovering the object while overrunning northern Italy, Grusch describes an intelligence back-channel in which the Pope allegedly communicated with the United States, allowing American authorities to "scoop" the craft after the collapse of Fascist control. The Vatican therefore becomes an active intermediary rather than merely part of the historical backdrop.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">vatican pressure archives ufo cover david grusch 1816908</span><span class="citation-popover-snippet">alien life, Grusch responded: &quot;Certainly.&quot; NewsNation reported on...Read more...</span></span></span>
 
-Grusch also embeds the Italian episode within a much broader allegation. Instead of presenting Magenta as an isolated historical curiosity, he characterises it as the earliest known example of a long-running American crash-retrieval programme. In that framing, the Italian recovery is important because it allegedly marks the beginning of a continuing classified effort extending into the modern era. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claimsDavid Grusch UFO whistleblower claims... Grusch further claims to have viewed documents reporting a...</span></span></span>
+Grusch also embeds the Italian episode within a much broader allegation. Instead of presenting Magenta as an isolated historical curiosity, he characterises it as the earliest known example of a long-running American crash-retrieval programme. In that framing, the Italian recovery is important because it allegedly marks the beginning of a continuing classified effort extending into the modern era.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claimsDavid Grusch UFO whistleblower claims... Grusch further claims to have viewed documents reporting a...</span></span></span>
 
-Unlike Pinotti, Grusch did not publicly release documentary evidence supporting the Vatican channel or identifying the records on which he based that assertion. His statements were presented as information obtained during his work within the U.S. intelligence community rather than through publicly available archival documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claimsDavid Grusch UFO whistleblower claims... Grusch further claims to have viewed documents reporting a...</span></span></span>
+Unlike Pinotti, Grusch did not publicly release documentary evidence supporting the Vatican channel or identifying the records on which he based that assertion. His statements were presented as information obtained during his work within the U.S. intelligence community rather than through publicly available archival documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claimsDavid Grusch UFO whistleblower claims... Grusch further claims to have viewed documents reporting a...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_pinotti_grusch_versi_087ba1-Illustration-2-dark.svg" | relative_url }}" alt="Two Versions illustration 2" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_pinotti_grusch_versi_087ba1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_pinotti_grusch_versi_087ba1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -313,15 +313,15 @@ Although often discussed together, the two narratives are better understood as o
 * Both place an alleged crash or recovery in northern Italy during 1933.
 * Both maintain that the object remained under Fascist control until the final phase of the Second World War.
 * Both conclude that the United States ultimately acquired the material in approximately 1944 or 1945.
-* Neither public version is accompanied by authenticated American government records documenting the alleged transfer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded by Mussolini along...</span></span></span>
+* Neither public version is accompanied by authenticated American government records documenting the alleged transfer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded by Mussolini along...</span></span></span>
 
 **Major differences**
 
-* **Route of acquisition:** Pinotti's account relies primarily on Allied military occupation of the SIAI Marchetti facilities, whereas Grusch introduces Vatican mediation as the critical enabling factor. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded by Mussolini along...</span></span></span>
-* **Narrative purpose:** Pinotti's work seeks to reconstruct a specific Italian historical episode. Grusch presents the incident as one example within an alleged global crash-retrieval programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded by Mussolini along...</span></span></span>
-* **Evidence presented publicly:** Pinotti's narrative is tied to disputed Italian documents and later historical interpretation. Grusch's public account relies on his reported access to classified information rather than publicly released records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded by Mussolini along...</span></span></span>
+* **Route of acquisition:** Pinotti's account relies primarily on Allied military occupation of the SIAI Marchetti facilities, whereas Grusch introduces Vatican mediation as the critical enabling factor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded by Mussolini along...</span></span></span>
+* **Narrative purpose:** Pinotti's work seeks to reconstruct a specific Italian historical episode. Grusch presents the incident as one example within an alleged global crash-retrieval programme.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded by Mussolini along...</span></span></span>
+* **Evidence presented publicly:** Pinotti's narrative is tied to disputed Italian documents and later historical interpretation. Grusch's public account relies on his reported access to classified information rather than publicly released records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded by Mussolini along...</span></span></span>
 
-The evidentiary framing therefore differs almost as much as the storyline itself. Pinotti's version invites readers to evaluate the authenticity and provenance of alleged Fascist-era documents and their interpretation. Grusch asks audiences to assess the credibility of a whistleblower describing information that remains largely unavailable for independent public examination. These are different kinds of claims, even when they describe a similar historical sequence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded by Mussolini along...</span></span></span>
+The evidentiary framing therefore differs almost as much as the storyline itself. Pinotti's version invites readers to evaluate the authenticity and provenance of alleged Fascist-era documents and their interpretation. Grusch asks audiences to assess the credibility of a whistleblower describing information that remains largely unavailable for independent public examination. These are different kinds of claims, even when they describe a similar historical sequence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded by Mussolini along...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/INzyIzoxq5A" title="Ep.6 – UFO: i segreti del Pentagono con Roberto Pinotti | Cine Ciclope Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=INzyIzoxq5A" target="_blank" rel="noopener noreferrer">Ep.6 – UFO: i segreti del Pentagono con Roberto Pinotti | Cine Ciclope Podcast</a></p><p class="youtube-embed-meta">Channel: Ciclope film</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=INzyIzoxq5A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=INzyIzoxq5A">Open on YouTube</a></p></div></div></div>
@@ -330,202 +330,202 @@ The evidentiary framing therefore differs almost as much as the storyline itself
 
 Treating the two versions as identical can obscure what each actually contributes to the Magenta narrative.
 
-If Pinotti's account stands alone, the American acquisition is primarily explained by the military conquest of northern Italy in 1945 and remains dependent on disputed archival material and inference about events at SIAI Marchetti facilities. If Grusch's account is considered separately, the central innovation is not the existence of an Italian recovery but the allegation of a Vatican intelligence channel that directed American attention to the craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com+2Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded by Mussolini along...</span></span></span>
+If Pinotti's account stands alone, the American acquisition is primarily explained by the military conquest of northern Italy in 1945 and remains dependent on disputed archival material and inference about events at SIAI Marchetti facilities. If Grusch's account is considered separately, the central innovation is not the existence of an Italian recovery but the allegation of a Vatican intelligence channel that directed American attention to the craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com+2Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded by Mussolini along...</span></span></span>
 
-Neither version has been corroborated by authenticated wartime transport manifests, intelligence files, diplomatic correspondence or technical [custody]({{ 'custody/' | relative_url }}) records demonstrating that an anomalous craft was transferred from Italy to the United States. Consequently, the overlap between the two stories should not be mistaken for independent documentary confirmation. Instead, they represent two related public narratives that share a destination while proposing different routes—and different evidentiary foundations—for how that destination was supposedly reached. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com+2Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded by Mussolini along...</span></span></span>
+Neither version has been corroborated by authenticated wartime transport manifests, intelligence files, diplomatic correspondence or technical [custody]({{ 'custody/' | relative_url }}) records demonstrating that an anomalous craft was transferred from Italy to the United States. Consequently, the overlap between the two stories should not be mistaken for independent documentary confirmation. Instead, they represent two related public narratives that share a destination while proposing different routes—and different evidentiary foundations—for how that destination was supposedly reached.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com+2Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded by Mussolini along...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_pinotti_grusch_versi_087ba1-Illustration-3-dark.svg" | relative_url }}" alt="Two Versions illustration 3" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_pinotti_grusch_versi_087ba1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_pinotti_grusch_versi_087ba1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Two Transfer Stories Differ. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Two Transfer Stories Differ. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides balanced coverage of government UFO claims and evidentiary standards relevant to comparing competing recovery narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides balanced coverage of government UFO claims and evidentiary standards relevant to comparing competing recovery narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Discusses contemporary whistleblower claims, including the broader context surrounding David Grusch.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses contemporary whistleblower claims, including the broader context surrounding David Grusch.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Emphasizes documentary evidence and historical case evaluation, useful for assessing differing accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes documentary evidence and historical case evaluation, useful for assessing differing accounts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Offers historical perspective on official UFO investigations and how narratives evolve.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers historical perspective on official UFO investigations and how narratives evolve.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="two-versions-why-the-two-transfer-stories-differ-alleged-magenta-ufo-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -541,7 +541,7 @@ Neither version has been corroborated by authenticated wartime transport manifes
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -561,7 +561,7 @@ Neither version has been corroborated by authenticated wartime transport manifes
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -593,7 +593,7 @@ Neither version has been corroborated by authenticated wartime transport manifes
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -645,7 +645,7 @@ Neither version has been corroborated by authenticated wartime transport manifes
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -690,7 +690,7 @@ Neither version has been corroborated by authenticated wartime transport manifes
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -731,99 +731,99 @@ Neither version has been corroborated by authenticated wartime transport manifes
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: theblackvault.com  
    Title: the ufo files of mussolini fascist ufo files by roberto pinotti  
-   Link: <a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded by Mussolini along...</p></details>
+   Link:<a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded by Mussolini along...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch UFO whistleblower claimsDavid Grusch UFO whistleblower claims... Grusch further claims to have viewed documents reporting a...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch UFO whistleblower claimsDavid Grusch UFO whistleblower claims... Grusch further claims to have viewed documents reporting a...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: UFO sightings in Italy  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in ItalyIn 2000, Roberto Pinotti published material regarding the so-called &quot;Fascist UFO Files&quot;, which dealt with a flyi...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in ItalyIn 2000, Roberto Pinotti published material regarding the so-called &quot;Fascist UFO Files&quot;, which dealt with a flyi...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: newsweek.com  
    Title: vatican pressure archives ufo cover david grusch 1816908  
-   Link: <a href="https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>alien life, Grusch responded: &quot;Certainly.&quot; NewsNation reported on...Read more...</p></details>
+   Link:<a href="https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>alien life, Grusch responded: &quot;Certainly.&quot; NewsNation reported on...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/The" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The - WikipediaThe is a grammatical article in English, denoting nouns that are already or about to be mentioned, under discussion, im...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/The" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The - WikipediaThe is a grammatical article in English, denoting nouns that are already or about to be mentioned, under discussion, im...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: catholic.org  
-   Link: <a href="https://www.catholic.org/news/technology/story.php?id=86465" target="_blank" rel="noopener noreferrer nofollow">https://www.catholic.org/news/technology/story.php?id=86465</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is the Vatican Hiding Evidence of an Alien Crash from 1933?4 Aug 2023 — The alleged retrieval of a UFO from Italy in the 1930s adds a new...</p></details>
+   Link:<a href="https://www.catholic.org/news/technology/story.php?id=86465" target="_blank" rel="noopener noreferrer nofollow">https://www.catholic.org/news/technology/story.php?id=86465</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is the Vatican Hiding Evidence of an Alien Crash from 1933?4 Aug 2023 — The alleged retrieval of a UFO from Italy in the 1930s adds a new...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/the" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/the</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; MeaningFeb 24, 2026 — The meaning of THE is —used as a function word to indicate that a following noun or noun equivalent is...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/the" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/the</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; MeaningFeb 24, 2026 — The meaning of THE is —used as a function word to indicate that a following noun or noun equivalent is...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cisu.org  
-   Link: <a href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/</a>  
+   Link:<a href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: in this special edition of reality check newsnation special correspondent ross c  
-   Link: <a href="https://www.facebook.com/NewsNationNow/videos/in-this-special-edition-of-reality-check-newsnation-special-correspondent-ross-c/1312978300995466/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/videos/in-this-special-edition-of-reality-check-newsnation-special-correspondent-ross-c/1312978300995466/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In this special edition of “Reality Check,” NewsNation...He also revisits his 2023 interview with former intelligence officer David Grus...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/videos/in-this-special-edition-of-reality-check-newsnation-special-correspondent-ross-c/1312978300995466/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/videos/in-this-special-edition-of-reality-check-newsnation-special-correspondent-ross-c/1312978300995466/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In this special edition of “Reality Check,” NewsNation...He also revisits his 2023 interview with former intelligence officer David Grus...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: metabunk.org  
    Title: claim a ufo crashed in 1933 italy and the us recovered it.13282  
-   Link: <a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating around UFO...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating around UFO...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: osvnews.com  
    Title: catholic filmmaker investigates ufo mysteries at the vatican  
-   Link: <a href="https://www.osvnews.com/catholic-filmmaker-investigates-ufo-mysteries-at-the-vatican/" target="_blank" rel="noopener noreferrer nofollow">https://www.osvnews.com/catholic-filmmaker-investigates-ufo-mysteries-at-the-vatican/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>25 Nov 2025 — As detailed by former intelligence official David Grusch in 2023 congressional testimony, the allegation holds that Pope Pi...</p></details>
+   Link:<a href="https://www.osvnews.com/catholic-filmmaker-investigates-ufo-mysteries-at-the-vatican/" target="_blank" rel="noopener noreferrer nofollow">https://www.osvnews.com/catholic-filmmaker-investigates-ufo-mysteries-at-the-vatican/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>25 Nov 2025 — As detailed by former intelligence official David Grusch in 2023 congressional testimony, the allegation holds that Pope Pi...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_grusch_and_the_italian_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_grusch_and_the_italian_ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lation that Mussolini&#x27;s government retrieved a crashed UFO/UAP in 1933.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_grusch_and_the_italian_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_grusch_and_the_italian_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lation that Mussolini&#x27;s government retrieved a crashed UFO/UAP in 1933.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
    Title: david grusch the vatican knows about nhi and back  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/147e38m/david_grusch_the_vatican_knows_about_nhi_and_back/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/147e38m/david_grusch_the_vatican_knows_about_nhi_and_back/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch: the Vatican knows about NHI and back...According to Grusch, Mussolini&#x27;s government recovered a non-human craft in 1933 whi...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/147e38m/david_grusch_the_vatican_knows_about_nhi_and_back/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/147e38m/david_grusch_the_vatican_knows_about_nhi_and_back/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch: the Vatican knows about NHI and back...According to Grusch, Mussolini&#x27;s government recovered a non-human craft in 1933 whi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: david grusch gave us a hint 1933 italy ufo crash  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/15j8k3t/david_grusch_gave_us_a_hint_1933_italy_ufo_crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15j8k3t/david_grusch_gave_us_a_hint_1933_italy_ufo_crash/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David grusch gave us a hint, 1933 Italy UFO crashIn 1933, near [Vergiate](&amp;#123;&amp;#123; &#x27;vergiate/&#x27; | relative_url &amp;#125;&amp;#125;), Italy, an alien ship belonging to the race KALENIA crashed killi...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/15j8k3t/david_grusch_gave_us_a_hint_1933_italy_ufo_crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15j8k3t/david_grusch_gave_us_a_hint_1933_italy_ufo_crash/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David grusch gave us a hint, 1933 Italy UFO crashIn 1933, near [Vergiate](&amp;#123;&amp;#123; &#x27;vergiate/&#x27; | relative_url &amp;#125;&amp;#125;), Italy, an alien ship belonging to the race KALENIA crashed killi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: the magenta project the 1933 magenta italy ufo  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1fraqyk/the_magenta_project_the_1933_magenta_italy_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fraqyk/the_magenta_project_the_1933_magenta_italy_ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The 1933 Magenta, Italy UFO Crash-Retrieval That...[https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files...&quot;](https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files...&quot;)...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1fraqyk/the_magenta_project_the_1933_magenta_italy_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fraqyk/the_magenta_project_the_1933_magenta_italy_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The 1933 Magenta, Italy UFO Crash-Retrieval That...[https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files...&quot;](https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files...&quot;)...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
    Title: new and recent interviews on the 1933 magenta  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/1owsgpr/new_and_recent_interviews_on_the_1933_magenta/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1owsgpr/new_and_recent_interviews_on_the_1933_magenta/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch&#x27;s testimony at the congressional hearing in 2023. When reading about it afterwards I think I saw that Roberto Pinotti had fi...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/1owsgpr/new_and_recent_interviews_on_the_1933_magenta/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1owsgpr/new_and_recent_interviews_on_the_1933_magenta/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch&#x27;s testimony at the congressional hearing in 2023. When reading about it afterwards I think I saw that Roberto Pinotti had fi...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nli.org.il  
    Title: Contributors, Lissoni, Alfredo. Publisher, Rimini: Idea libri.Read more  
-   Link: <a href="https://www.nli.org.il/en/books/NNL_ALEPH990023625650205171/NLI" target="_blank" rel="noopener noreferrer nofollow">https://www.nli.org.il/en/books/NNL_ALEPH990023625650205171/NLI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>gli &quot;X-files&quot; del Nazifascismo / Roberto Pinotti, Alfredo LissoniMussolini e gli UFO: gli &quot;X-files&quot; del Nazifascismo / Roberto Pinotti...</p></details>
+   Link:<a href="https://www.nli.org.il/en/books/NNL_ALEPH990023625650205171/NLI" target="_blank" rel="noopener noreferrer nofollow">https://www.nli.org.il/en/books/NNL_ALEPH990023625650205171/NLI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>gli &quot;X-files&quot; del Nazifascismo / Roberto Pinotti, Alfredo LissoniMussolini e gli UFO: gli &quot;X-files&quot; del Nazifascismo / Roberto Pinotti...</p></details>

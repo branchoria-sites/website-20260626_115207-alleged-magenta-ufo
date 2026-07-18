@@ -447,7 +447,7 @@ image: /assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b-overvie
 
 ## Introduction
 
-The [alleged Magenta UFO]({{ 'alleged-magenta-ufo/' | relative_url }}) crash became a UAP disclosure issue after former US intelligence official David Grusch placed old crash-retrieval stories inside a modern governance dispute: who gets to know what, who decides what remains classified, and whether Congress has been denied access to programmes it is supposed to oversee. Magenta matters in this debate less because public evidence proves the 1933 Italy story — it does not — and more because Grusch’s claims turned a decades-old ufological narrative into a test case for transparency politics. His July 2023 House testimony framed alleged UAP recoveries as a constitutional [oversight]({{ 'oversight/' | relative_url }}) problem, not simply a mystery about objects in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Opening Statement</span><span class="citation-popover-snippet">I was an intelligence officer for 14 years, both in the US Air. Force (USAF) at the rank of Major and most...Read more...</span></span></span>
+The [alleged Magenta UFO]({{ 'alleged-magenta-ufo/' | relative_url }}) crash became a UAP disclosure issue after former US intelligence official David Grusch placed old crash-retrieval stories inside a modern governance dispute: who gets to know what, who decides what remains classified, and whether Congress has been denied access to programmes it is supposed to oversee. Magenta matters in this debate less because public evidence proves the 1933 Italy story — it does not — and more because Grusch’s claims turned a decades-old ufological narrative into a test case for transparency politics. His July 2023 House testimony framed alleged UAP recoveries as a constitutional [oversight]({{ 'oversight/' | relative_url }}) problem, not simply a mystery about objects in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Opening Statement</span><span class="citation-popover-snippet">I was an intelligence officer for 14 years, both in the US Air. Force (USAF) at the rank of Major and most...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b-overview.webp" | relative_url }}" alt="Overview image for Transparency" loading="eager" decoding="sync" fetchpriority="high">
@@ -457,11 +457,11 @@ That shift explains why Magenta now sits awkwardly between folklore, intelligenc
 
 Before [Grusch]({{ 'grusch/' | relative_url }}), the Magenta story mainly belonged to UFO literature: an alleged 1933 recovery under Mussolini, later said to have been taken by the United States near the end of the Second World War. After Grusch, it became part of a congressional question about whether executive agencies, contractors or intelligence compartments had kept UAP material outside normal oversight.
 
-Grusch’s prepared statement to the House Oversight Committee said he had served in UAP-related intelligence roles and had filed an urgent concern complaint after receiving reports from “current and former military and Intelligence Community individuals” alleging secrecy “above Congressional oversight”. He also stated that he had been told of a “multi-decade UAP crash retrieval and [reverse engineering]({{ 'reverse-engineering/' | relative_url }}) programme” to which he was denied access. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Opening Statement</span><span class="citation-popover-snippet">I was an intelligence officer for 14 years, both in the US Air. Force (USAF) at the rank of Major and most...Read more...</span></span></span>
+Grusch’s prepared statement to the House Oversight Committee said he had served in UAP-related intelligence roles and had filed an urgent concern complaint after receiving reports from “current and former military and Intelligence Community individuals” alleging secrecy “above Congressional oversight”. He also stated that he had been told of a “multi-decade UAP crash retrieval and [reverse engineering]({{ 'reverse-engineering/' | relative_url }}) programme” to which he was denied access.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Opening Statement</span><span class="citation-popover-snippet">I was an intelligence officer for 14 years, both in the US Air. Force (USAF) at the rank of Major and most...Read more...</span></span></span>
 
-That language mattered politically because it moved the issue from “are UFO stories true?” to “has Congress been blocked from seeing records, programmes or spending?” The House hearing itself was titled around national security, public safety and government transparency, and paired Grusch with Ryan Graves and David Fravor, whose testimony focused more on pilot reporting, sensor data and military encounters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">Open source on house.gov.</span></span></span>
+That language mattered politically because it moved the issue from “are UFO stories true?” to “has Congress been blocked from seeing records, programmes or spending?” The House hearing itself was titled around national security, public safety and government transparency, and paired Grusch with Ryan Graves and David Fravor, whose testimony focused more on pilot reporting, sensor data and military encounters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">Open source on house.gov.</span></span></span>
 
-For Magenta, the effect was dramatic. A story previously sustained by late-surfacing documents, proponent research and retellings was reintroduced to a mass audience through the voice of a former intelligence officer speaking in a congressional setting. Grusch’s separate public claims reportedly included the assertion that Mussolini’s government recovered a craft in 1933 and that the United States obtained it in 1944 or 1945 with Vatican help. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
+For Magenta, the effect was dramatic. A story previously sustained by late-surfacing documents, proponent research and retellings was reintroduced to a mass audience through the voice of a former intelligence officer speaking in a congressional setting. Grusch’s separate public claims reportedly included the assertion that Mussolini’s government recovered a craft in 1933 and that the United States obtained it in 1944 or 1945 with Vatican help.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b-Illustration-1-dark.svg" | relative_url }}" alt="Transparency illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -469,9 +469,9 @@ For Magenta, the effect was dramatic. A story previously sustained by late-surfa
 
 The most important political development after Grusch was not a public confirmation of Magenta. It was the acceleration of UAP disclosure proposals in Congress, especially efforts to centralise government UAP records and create a more formal release process.
 
-In July 2023, Senators Chuck Schumer and Mike Rounds introduced legislation modelled on the JFK Assassination Records Collection Act. Their proposal would have directed the National Archives and Records Administration to create a UAP Records Collection and required government offices to identify relevant records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[Senate Democratic Leadership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-title">Democratic Leadership Schumer, Rounds Introduce New Legislation To Declassify</span><span class="citation-popover-snippet">Democratic Leadership Schumer, Rounds Introduce New Legislation To Declassify</span></span></span> The original political idea was bigger than a library exercise: it sought a structured route for declassification, review and public access, rather than leaving disclosure to the same agencies accused by witnesses and advocates of withholding information.
+In July 2023, Senators Chuck Schumer and Mike Rounds introduced legislation modelled on the JFK Assassination Records Collection Act. Their proposal would have directed the National Archives and Records Administration to create a UAP Records Collection and required government offices to identify relevant records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[Senate Democratic Leadership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-title">Democratic Leadership Schumer, Rounds Introduce New Legislation To Declassify</span><span class="citation-popover-snippet">Democratic Leadership Schumer, Rounds Introduce New Legislation To Declassify</span></span></span> The original political idea was bigger than a library exercise: it sought a structured route for declassification, review and public access, rather than leaving disclosure to the same agencies accused by witnesses and advocates of withholding information.
 
-The final 2024 National Defence Authorisation Act included UAP records provisions, but the strongest proposed mechanisms were narrowed. The National Archives now says the law requires federal agencies to transfer digital copies of UAP records to NARA and that agencies have begun transferring material on a rolling basis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/topics/uaps/rg-615" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Record Group 615: Unidentified Anomalous Phenomena</span><span class="citation-popover-snippet">National Archives Record Group 615: Unidentified Anomalous Phenomena</span></span></span> NARA’s public guidance says the UAP Records Collection covers government, government-provided or government-funded records relating to UAP, technologies of unknown origin and non-human intelligence, with exclusions for temporarily non-attributed objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Unidentified Anomalous Phenomena Records Collection</span><span class="citation-popover-snippet">National Archives Unidentified Anomalous Phenomena Records Collection</span></span></span>
+The final 2024 National Defence Authorisation Act included UAP records provisions, but the strongest proposed mechanisms were narrowed. The National Archives now says the law requires federal agencies to transfer digital copies of UAP records to NARA and that agencies have begun transferring material on a rolling basis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/topics/uaps/rg-615" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Record Group 615: Unidentified Anomalous Phenomena</span><span class="citation-popover-snippet">National Archives Record Group 615: Unidentified Anomalous Phenomena</span></span></span> NARA’s public guidance says the UAP Records Collection covers government, government-provided or government-funded records relating to UAP, technologies of unknown origin and non-human intelligence, with exclusions for temporarily non-attributed objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Unidentified Anomalous Phenomena Records Collection</span><span class="citation-popover-snippet">National Archives Unidentified Anomalous Phenomena Records Collection</span></span></span>
 
 That legal language is why old cases such as Magenta became politically useful. Even if a specific claim remains unproven, it supplies a concrete demand: search the records, identify custody chains, release what can be released and explain what cannot be released. Magenta is no longer just a question of whether an Italian crash happened in 1933; in the disclosure debate, it is an example of the type of alleged legacy case that a records regime is supposed to test.
 
@@ -480,13 +480,13 @@ That legal language is why old cases such as Magenta became politically useful. 
 
 ## Closed Evidence Versus Public Proof
 
-The central tension after Grusch is the gap between closed evidence and public proof. Grusch said his claims were based on information from people with credentials and access, including evidence he described as official documentation, photography and classified oral testimony. But the public has not seen material that verifies the alleged Magenta craft, a US recovery from Italy, or a continuing reverse-engineering chain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Opening Statement</span><span class="citation-popover-snippet">I was an intelligence officer for 14 years, both in the US Air. Force (USAF) at the rank of Major and most...Read more...</span></span></span>
+The central tension after Grusch is the gap between closed evidence and public proof. Grusch said his claims were based on information from people with credentials and access, including evidence he described as official documentation, photography and classified oral testimony. But the public has not seen material that verifies the alleged Magenta craft, a US recovery from Italy, or a continuing reverse-engineering chain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Opening Statement</span><span class="citation-popover-snippet">I was an intelligence officer for 14 years, both in the US Air. Force (USAF) at the rank of Major and most...Read more...</span></span></span>
 
 That gap produces two very different readings of the same situation. Disclosure advocates argue that classified systems are precisely why the public cannot yet see the evidence. They point to the need for secure congressional access, whistleblower protections and independent review boards. Sceptics argue that extraordinary claims cannot be validated by institutional status, closed briefings or claims of unseen documents. For them, Magenta illustrates the danger of converting rumour into policy pressure before the historical record is demonstrated.
 
-The Pentagon’s All-domain Anomaly Resolution Office, or [AARO]({{ 'aaro/' | relative_url }}), has taken the sceptical institutional position. Its 2024 historical report said it had found no evidence that US companies possessed off-world technology, and the Department of Defence separately summarised AARO’s position as finding no verifiable evidence that any UAP sighting represented extraterrestrial activity, that the US government or private industry had access to extraterrestrial technology, or that information had been illegally withheld from Congress. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of war releases unidentified anomalous phenomena files in historic t</span><span class="citation-popover-snippet">department of war releases unidentified anomalous phenomena files in historic t</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
+The Pentagon’s All-domain Anomaly Resolution Office, or [AARO]({{ 'aaro/' | relative_url }}), has taken the sceptical institutional position. Its 2024 historical report said it had found no evidence that US companies possessed off-world technology, and the Department of Defence separately summarised AARO’s position as finding no verifiable evidence that any UAP sighting represented extraterrestrial activity, that the US government or private industry had access to extraterrestrial technology, or that information had been illegally withheld from Congress.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of war releases unidentified anomalous phenomena files in historic t</span><span class="citation-popover-snippet">department of war releases unidentified anomalous phenomena files in historic t</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
 
-That did not end the politics. In fact, it sharpened them. Critics of AARO argue that an office within the defence-intelligence structure cannot fully resolve claims about hidden defence-intelligence programmes. A 2024 House Oversight hearing continued to feature witnesses and commentators alleging secrecy, while press coverage noted that the hearing produced striking claims but little direct public evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Written Testimony Shellenberger</span><span class="citation-popover-snippet">Written Testimony Shellenberger</span></span></span>
+That did not end the politics. In fact, it sharpened them. Critics of AARO argue that an office within the defence-intelligence structure cannot fully resolve claims about hidden defence-intelligence programmes. A 2024 House Oversight hearing continued to feature witnesses and commentators alleging secrecy, while press coverage noted that the hearing produced striking claims but little direct public evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Written Testimony Shellenberger</span><span class="citation-popover-snippet">Written Testimony Shellenberger</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b-Illustration-2-dark.svg" | relative_url }}" alt="Transparency illustration 2" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -496,7 +496,7 @@ Magenta has become useful in transparency politics because it is old, internatio
 
 The case involves several possible record trails: Fascist-era Italian files, wartime Allied intelligence, Vatican communications, post-war US custody claims and later UAP programme references. If even one of those trails produced a clear, authentic document showing recovery, transfer or technical exploitation of anomalous material, the public debate would change. If searches instead produce nothing beyond secondary retellings and unauthenticated papers, that would also matter.
 
-The Vatican angle shows how political pressure can spill beyond Washington. After Grusch-linked claims drew attention to Pope Pius XII and alleged Vatican backchannels, Marco Grilli of the Vatican Apostolic Archive told Catholic News Service in June 2024 that he did not know where Grusch had obtained the information. Grilli also said the archive had received enquiries about the claims and stated that scholars seeking documents on extraterrestrial life should be dissuaded from “futile and unproductive” searches there. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usccb.org">[USCCB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usccb.org</span><span class="citation-popover-title">Angels or aliens? Some researchers say Vatican archives</span><span class="citation-popover-snippet">Angels or aliens? Some researchers say Vatican archives</span></span></span>
+The Vatican angle shows how political pressure can spill beyond Washington. After Grusch-linked claims drew attention to Pope Pius XII and alleged Vatican backchannels, Marco Grilli of the Vatican Apostolic Archive told Catholic News Service in June 2024 that he did not know where Grusch had obtained the information. Grilli also said the archive had received enquiries about the claims and stated that scholars seeking documents on extraterrestrial life should be dissuaded from “futile and unproductive” searches there.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usccb.org">[USCCB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usccb.org</span><span class="citation-popover-title">Angels or aliens? Some researchers say Vatican archives</span><span class="citation-popover-snippet">Angels or aliens? Some researchers say Vatican archives</span></span></span>
 
 That response is important because it demonstrates the difference between disclosure politics and evidentiary confirmation. Political attention can force institutions to answer questions, but an institutional answer is not automatically proof either way. A denial may be incomplete, defensive or narrowly worded; it may also be accurate. What matters for public evaluation is whether claims can be tied to named records, provenance, custody and independent access.
 
@@ -507,7 +507,7 @@ That response is important because it demonstrates the difference between disclo
 
 Old crash-retrieval stories shape UAP disclosure politics because they imply long-term institutional memory. A recent pilot report can be handled as a safety or sensor-analysis issue. A 1933 recovery claim, by contrast, implies decades of records, transfers, classification decisions, contractor relationships and possible concealment from elected oversight.
 
-That is why Magenta sits close to the logic of the proposed UAP Disclosure Act. The Schumer-Rounds approach was not merely to ask agencies for a fresh statement; it was to create a record-collection model in which agencies would identify, preserve and transfer UAP-related material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[Senate Democratic Leadership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-title">Democratic Leadership Schumer, Rounds Introduce New Legislation To Declassify</span><span class="citation-popover-snippet">Democratic Leadership Schumer, Rounds Introduce New Legislation To Declassify</span></span></span> This matters because public trust is not restored by saying “nothing is there” if the public cannot see how the search was conducted.
+That is why Magenta sits close to the logic of the proposed UAP Disclosure Act. The Schumer-Rounds approach was not merely to ask agencies for a fresh statement; it was to create a record-collection model in which agencies would identify, preserve and transfer UAP-related material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[Senate Democratic Leadership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-title">Democratic Leadership Schumer, Rounds Introduce New Legislation To Declassify</span><span class="citation-popover-snippet">Democratic Leadership Schumer, Rounds Introduce New Legislation To Declassify</span></span></span> This matters because public trust is not restored by saying “nothing is there” if the public cannot see how the search was conducted.
 
 Old cases also complicate the evidentiary burden. Records may have been destroyed, misfiled, translated, classified under unrelated programme names, or never existed in the first place. That gives disclosure advocates and sceptics different failure modes to watch for:
 
@@ -529,9 +529,9 @@ This is where Magenta’s weakness as a proven historical case becomes its stren
 
 The post-Grusch debate is often described as a fight between believers and debunkers, but the governance issue is broader. A democratic system needs ways to handle claims involving classified programmes, national security sensors, contractor secrecy and whistleblower allegations without requiring the public to accept unsupported claims on trust.
 
-The 2024 ODNI and DOD annual UAP report said AARO received 757 reports covering the period from 1 May 2023 to 1 June 2024 and earlier reports not previously included. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of war releases unidentified anomalous phenomena files in historic t</span><span class="citation-popover-snippet">department of war releases unidentified anomalous phenomena files in historic t</span></span></span>(https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF) That kind of reporting does not validate Magenta, but it shows that UAP governance now includes a continuing bureaucratic pipeline: reports, triage, analysis, congressional reporting and public summaries.
+The 2024 ODNI and DOD annual UAP report said AARO received 757 reports covering the period from 1 May 2023 to 1 June 2024 and earlier reports not previously included.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of war releases unidentified anomalous phenomena files in historic t</span><span class="citation-popover-snippet">department of war releases unidentified anomalous phenomena files in historic t</span></span></span>(https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF) That kind of reporting does not validate Magenta, but it shows that UAP governance now includes a continuing bureaucratic pipeline: reports, triage, analysis, congressional reporting and public summaries.
 
-Scientific and technical researchers have also argued that the field suffers from an information gap. Recent UAP research papers emphasise the need for curated data, calibrated instruments and methods that can separate unusual events from aircraft, satellites, balloons, drones and sensor artefacts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.15368" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> That point matters for Magenta because archival claims and modern sensor claims face different versions of the same problem: the public needs enough underlying data to distinguish mystery from misidentification, secrecy from absence, and allegation from evidence.
+Scientific and technical researchers have also argued that the field suffers from an information gap. Recent UAP research papers emphasise the need for curated data, calibrated instruments and methods that can separate unusual events from aircraft, satellites, balloons, drones and sensor artefacts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.15368" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> That point matters for Magenta because archival claims and modern sensor claims face different versions of the same problem: the public needs enough underlying data to distinguish mystery from misidentification, secrecy from absence, and allegation from evidence.
 
 The best transparency politics would not require the public to choose between total credulity and blanket dismissal. It would create a process in which claims can be tested: records searched, exemptions justified, [whistleblowers]({{ 'whistleblowers/' | relative_url }}) protected, classified material reviewed by cleared representatives, and public releases made with enough context to be meaningful.
 
@@ -540,201 +540,201 @@ The best transparency politics would not require the public to choose between to
 
 ## Where the Magenta Disclosure Debate Stands
 
-Magenta has not been publicly proven by the post-Grusch disclosure process. No released US, Italian or Vatican record has confirmed that a non-human craft crashed near Magenta in 1933, was held by Mussolini’s regime, and later transferred to the United States. The strongest official US position remains that AARO has found no verifiable evidence of extraterrestrial technology or hidden reverse-engineering programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of war releases unidentified anomalous phenomena files in historic t</span><span class="citation-popover-snippet">department of war releases unidentified anomalous phenomena files in historic t</span></span></span>(https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)
+Magenta has not been publicly proven by the post-Grusch disclosure process. No released US, Italian or Vatican record has confirmed that a non-human craft crashed near Magenta in 1933, was held by Mussolini’s regime, and later transferred to the United States. The strongest official US position remains that AARO has found no verifiable evidence of extraterrestrial technology or hidden reverse-engineering programmes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of war releases unidentified anomalous phenomena files in historic t</span><span class="citation-popover-snippet">department of war releases unidentified anomalous phenomena files in historic t</span></span></span>(https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)
 
 Yet the case has still changed status. It is no longer only a specialist UFO claim; it is now part of the public argument over how governments should handle extraordinary allegations involving classified history. Grusch’s intervention gave Magenta a new political function: it became a named example of the kind of legacy claim that disclosure advocates want Congress, archives and oversight bodies to test rather than ignore.
 
 The lasting issue is therefore not whether Magenta should be treated as established fact. It should not. The lasting issue is whether the mechanisms created after Grusch can produce a better answer than belief, denial or repetition. For readers following the alleged Magenta crash, that is the real transparency question: not simply “did it happen?”, but “what would a credible public process need to show before anyone could responsibly say so?”
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Magenta Became a UAP Disclosure Issue. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Magenta Became a UAP Disclosure Issue. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Historical context for UAP debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Historical context for UAP debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Focuses on alleged cover-ups and UAP transparency.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on alleged cover-ups and UAP transparency.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Strong fit for disclosure and transparency discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for disclosure and transparency discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Examines modern UAP culture and institutions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines modern UAP culture and institutions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display"><img src="{{ '/assets/images/marketplace-covers/3ccfc0d32b189563b8e0.jpg' | relative_url }}" alt="Listing image for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display"><img src="{{ '/assets/images/marketplace-covers/3ccfc0d32b189563b8e0.jpg' | relative_url }}" alt="Listing image for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model"><img src="{{ '/assets/images/marketplace-covers/b626ecf0eef6236661c6.jpg' | relative_url }}" alt="Listing image for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model"><img src="{{ '/assets/images/marketplace-covers/b626ecf0eef6236661c6.jpg' | relative_url }}" alt="Listing image for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="transparency-why-magenta-became-a-uap-disclosure-issue-alleged-magenta-ufo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -750,7 +750,7 @@ The lasting issue is therefore not whether Magenta should be treated as establis
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -770,7 +770,7 @@ The lasting issue is therefore not whether Magenta should be treated as establis
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -802,7 +802,7 @@ The lasting issue is therefore not whether Magenta should be treated as establis
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -854,7 +854,7 @@ The lasting issue is therefore not whether Magenta should be treated as establis
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -899,7 +899,7 @@ The lasting issue is therefore not whether Magenta should be treated as establis
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -940,190 +940,190 @@ The lasting issue is therefore not whether Magenta should be treated as establis
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: oversight.house.gov  
    Title: Oversight Committee Opening Statement  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I was an intelligence officer for 14 years, both in the US Air. Force (USAF) at the rank of Major and most...Read more...</p></details>
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I was an intelligence officer for 14 years, both in the US Air. Force (USAF) at the rank of Major and most...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: oversight.house.gov  
-   Link: <a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
+   Link:<a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: oversight.house.gov  
    Title: David Fravor Statement for House Oversight Committee  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf</a>  
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: David Grusch UFO whistleblower claims  
-   Link: <a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: democrats.senate.gov  
    Title: Democratic Leadership Schumer, Rounds Introduce New Legislation To Declassify  
-   Link: <a href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa</a>  
+   Link:<a href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
    Title: National Archives Record Group 615: Unidentified Anomalous Phenomena  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-615" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-615</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/rg-615" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-615</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archives.gov  
    Title: National Archives Unidentified Anomalous Phenomena Records Collection  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/faqs</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/faqs</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: oversight.house.gov  
    Title: Written Testimony Shellenberger  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf</a>  
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: usccb.org  
    Title: Angels or aliens? Some researchers say Vatican archives  
-   Link: <a href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow">https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets</a>  
+   Link:<a href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow">https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.15368" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.15368</a>  
+   Link:<a href="https://arxiv.org/abs/2403.15368" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.15368</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.07956</a>  
+   Link:<a href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.07956</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aaro.mil  
    Title: UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
+   Link:<a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: war.gov  
    Title: department of war releases unidentified anomalous phenomena files in historic t  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: archives.gov  
    Title: uap guidance  
-   Link: <a href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/uap-guidance</a>  
+   Link:<a href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/uap-guidance</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: amendments-rules.house.gov  
    Title: GARCRO 115 xml240529153551283  
-   Link: <a href="https://amendments-rules.house.gov/amendments/GARCRO_115_xml240529153551283.pdf" target="_blank" rel="noopener noreferrer nofollow">https://amendments-rules.house.gov/amendments/GARCRO_115_xml240529153551283.pdf</a>  
+   Link:<a href="https://amendments-rules.house.gov/amendments/GARCRO_115_xml240529153551283.pdf" target="_blank" rel="noopener noreferrer nofollow">https://amendments-rules.house.gov/amendments/GARCRO_115_xml240529153551283.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: All domain Anomaly Resolution Office  
-   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: catholic.org  
-   Link: <a href="https://www.catholic.org/news/technology/story.php?id=86465" target="_blank" rel="noopener noreferrer nofollow">https://www.catholic.org/news/technology/story.php?id=86465</a>  
+   Link:<a href="https://www.catholic.org/news/technology/story.php?id=86465" target="_blank" rel="noopener noreferrer nofollow">https://www.catholic.org/news/technology/story.php?id=86465</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: democrats.senate.gov  
    Title: uap amendment  
-   Link: <a href="https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf</a>  
+   Link:<a href="https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: uapledger.com  
    Title: AAR O Historical Record Report, Volume 1  
-   Link: <a href="https://uapledger.com/documents/aaro-historical-record-volume-1" target="_blank" rel="noopener noreferrer nofollow">https://uapledger.com/documents/aaro-historical-record-volume-1</a>  
+   Link:<a href="https://uapledger.com/documents/aaro-historical-record-volume-1" target="_blank" rel="noopener noreferrer nofollow">https://uapledger.com/documents/aaro-historical-record-volume-1</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=RBAISwCZ2v0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RBAISwCZ2v0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=RBAISwCZ2v0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RBAISwCZ2v0</a>  
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: LIVE: House hearing on transparency for unidentified anomalous phenomena  
-   Link: <a href="https://www.youtube.com/watch?v=4y5EqOyNww4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4y5EqOyNww4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch Speaks Out as Lawmakers Push UAP Disclosure, Declassification of UFO Records...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4y5EqOyNww4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4y5EqOyNww4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch Speaks Out as Lawmakers Push UAP Disclosure, Declassification of UFO Records...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: Americans deserve more than vague denials regarding UAP disclosure: David Grusch  
-   Link: <a href="https://www.youtube.com/watch?v=75fRQfUzZV8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=75fRQfUzZV8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LIVE: House hearing on transparency for unidentified anomalous phenomena...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=75fRQfUzZV8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=75fRQfUzZV8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LIVE: House hearing on transparency for unidentified anomalous phenomena...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: David Grusch Opening Statement at Unidentified Anomalous Phenomena (UAP) Hearing  
-   Link: <a href="https://www.youtube.com/watch?v=lcrCMLVk614" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lcrCMLVk614</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Investigate these claims&#x27;: UFO transparency at center of House hearing...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lcrCMLVk614" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lcrCMLVk614</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Investigate these claims&#x27;: UFO transparency at center of House hearing...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: 'Investigate these claims': UFO transparency at center of House hearing  
-   Link: <a href="https://www.youtube.com/watch?v=7KzM1uePVpE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7KzM1uePVpE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Americans deserve more than vague denials regarding UAP disclosure: David Grusch...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7KzM1uePVpE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7KzM1uePVpE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Americans deserve more than vague denials regarding UAP disclosure: David Grusch...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/wikipedia/comments/1dwxnux/a_former_united_states_intelligence_officer_david/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/wikipedia/comments/1dwxnux/a_former_united_states_intelligence_officer_david/</a>  
+   Link:<a href="https://www.reddit.com/r/wikipedia/comments/1dwxnux/a_former_united_states_intelligence_officer_david/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/wikipedia/comments/1dwxnux/a_former_united_states_intelligence_officer_david/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SkyNewsAustralia/posts/a-second-batch-of-unidentified-anomalous-phenomena-uap-files-is-expected-to-be-r/1433343908823203/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SkyNewsAustralia/posts/a-second-batch-of-unidentified-anomalous-phenomena-uap-files-is-expected-to-be-r/1433343908823203/</a>  
+   Link:<a href="https://www.facebook.com/SkyNewsAustralia/posts/a-second-batch-of-unidentified-anomalous-phenomena-uap-files-is-expected-to-be-r/1433343908823203/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SkyNewsAustralia/posts/a-second-batch-of-unidentified-anomalous-phenomena-uap-files-is-expected-to-be-r/1433343908823203/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1dk739i/angels_or_aliens_scientists_and_researchers_are/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dk739i/angels_or_aliens_scientists_and_researchers_are/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1dk739i/angels_or_aliens_scientists_and_researchers_are/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dk739i/angels_or_aliens_scientists_and_researchers_are/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SOFMAG/posts/benito-mussolini-ordered-a-complete-news-blackout-on-the-ufo-that-crashed-in-mag/1438374178335229/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SOFMAG/posts/benito-mussolini-ordered-a-complete-news-blackout-on-the-ufo-that-crashed-in-mag/1438374178335229/</a>  
+   Link:<a href="https://www.facebook.com/SOFMAG/posts/benito-mussolini-ordered-a-complete-news-blackout-on-the-ufo-that-crashed-in-mag/1438374178335229/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SOFMAG/posts/benito-mussolini-ordered-a-complete-news-blackout-on-the-ufo-that-crashed-in-mag/1438374178335229/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1rfmsvl/descendant_of_a_direct_witness_of_ufo_magenta/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1rfmsvl/descendant_of_a_direct_witness_of_ufo_magenta/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1rfmsvl/descendant_of_a_direct_witness_of_ufo_magenta/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1rfmsvl/descendant_of_a_direct_witness_of_ufo_magenta/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/videos/in-this-special-edition-of-reality-check-newsnation-special-correspondent-ross-c/1312978300995466/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/videos/in-this-special-edition-of-reality-check-newsnation-special-correspondent-ross-c/1312978300995466/</a>  
+   Link:<a href="https://www.facebook.com/NewsNationNow/videos/in-this-special-edition-of-reality-check-newsnation-special-correspondent-ross-c/1312978300995466/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/videos/in-this-special-edition-of-reality-check-newsnation-special-correspondent-ross-c/1312978300995466/</a>  

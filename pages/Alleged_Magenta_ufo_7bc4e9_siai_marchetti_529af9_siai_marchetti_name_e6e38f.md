@@ -280,7 +280,7 @@ image: /assets/images/Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9_siai_marc
 
 ## Introduction
 
-One of the easiest ways to make the alleged 1933 Magenta UFO crash story appear more historically precise than it really is is to use the modern name “[SIAI-Marchetti]({{ 'siai/' | relative_url }})” without regard to chronology. The aviation company associated with the legend did exist, but it operated under different names across different periods of its history. When modern [retellings]({{ 'retellings/' | relative_url }}) refer to a 1933 event occurring at “SIAI-Marchetti,” they often apply a later corporate name to an earlier period. That does not automatically invalidate the story, because historians frequently use later names as convenient shorthand. It does, however, mean that the wording should not be mistaken for evidence that contemporary 1933 documents used the same terminology. Understanding the company's evolving identity helps separate genuine historical facts from the way later narratives have been simplified or modernised. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+One of the easiest ways to make the alleged 1933 Magenta UFO crash story appear more historically precise than it really is is to use the modern name “[SIAI-Marchetti]({{ 'siai/' | relative_url }})” without regard to chronology. The aviation company associated with the legend did exist, but it operated under different names across different periods of its history. When modern [retellings]({{ 'retellings/' | relative_url }}) refer to a 1933 event occurring at “SIAI-Marchetti,” they often apply a later corporate name to an earlier period. That does not automatically invalidate the story, because historians frequently use later names as convenient shorthand. It does, however, mean that the wording should not be mistaken for evidence that contemporary 1933 documents used the same terminology. Understanding the company's evolving identity helps separate genuine historical facts from the way later narratives have been simplified or modernised.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9_siai_marchetti_name_e6e38f-Illustration-1-dark.svg" | relative_url }}" alt="Name Problem illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9_siai_marchetti_name_e6e38f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9_siai_marchetti_name_e6e38f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ One of the easiest ways to make the alleged 1933 Magenta UFO crash story appear 
 
 The company's history is more complicated than many Magenta retellings suggest.
 
-It began in 1915 as **Società Idrovolanti Alta Italia (SIAI)**, literally the "Seaplane Company of Upper Italy." After the First World War it absorbed the Savoia aircraft business, leading to the growing use of the Savoia name. When engineer Alessandro Marchetti became the firm's chief designer in the early 1920s, his surname was incorporated into the company's identity, giving rise to forms such as **Savoia-Marchetti** or **SIAI-Savoia Marchetti** depending on the period and source. Only during the Second World War was the shorter **SIAI-Marchetti** designation adopted as the formal corporate name after dropping the royal "Savoia" element. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2hef.ru.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+It began in 1915 as **Società Idrovolanti Alta Italia (SIAI)**, literally the "Seaplane Company of Upper Italy." After the First World War it absorbed the Savoia aircraft business, leading to the growing use of the Savoia name. When engineer Alessandro Marchetti became the firm's chief designer in the early 1920s, his surname was incorporated into the company's identity, giving rise to forms such as **Savoia-Marchetti** or **SIAI-Savoia Marchetti** depending on the period and source. Only during the Second World War was the shorter **SIAI-Marchetti** designation adopted as the formal corporate name after dropping the royal "Savoia" element.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2hef.ru.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 For someone reading a modern article, this evolution is easy to miss. A sentence such as "the object was taken to SIAI-Marchetti [hangars]({{ 'hangars/' | relative_url }}) in 1933" sounds entirely natural today, yet it blends a later company name into an earlier historical setting.
 
@@ -304,14 +304,14 @@ Broadly speaking, the sequence is:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* **1915:** SIAI (Società Idrovolanti Alta Italia). <span class="citation-chip-wrap"><a class="citation-chip" href="https://simanaitissays.com/2021/04/28/the-siai-marchetti-nardi-fn-333-for-pirates-of-the-riviera-part-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simanaitissays.com">[simanaitissays.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simanaitissays.com</span><span class="citation-popover-title">the siai marchetti nardi fn 333 for pirates of the riviera part 1</span><span class="citation-popover-snippet">THE SIAI-MARCHETTI-NARDI FN-333—FOR PIRATES OF...28 Apr 2021 — It stands for Società Idrovolanti Alta Italia, Seaplane company of Northe...</span></span></span>
+* **1915:** SIAI (Società Idrovolanti Alta Italia).<span class="citation-chip-wrap"><a class="citation-chip" href="https://simanaitissays.com/2021/04/28/the-siai-marchetti-nardi-fn-333-for-pirates-of-the-riviera-part-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simanaitissays.com">[simanaitissays.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simanaitissays.com</span><span class="citation-popover-title">the siai marchetti nardi fn 333 for pirates of the riviera part 1</span><span class="citation-popover-snippet">THE SIAI-MARCHETTI-NARDI FN-333—FOR PIRATES OF...28 Apr 2021 — It stands for Società Idrovolanti Alta Italia, Seaplane company of Northe...</span></span></span>
 * **After the First World War:** incorporation of the Savoia name following corporate restructuring.
 * **Early 1920s:** Alessandro Marchetti's arrival leads to the widespread use of **Savoia-Marchetti** or **SIAI-Savoia Marchetti**.
-* **1943–1944 wartime rebranding:** the shorter **SIAI-Marchetti** becomes the official corporate designation after removal of "Savoia." <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2hef.ru.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+* **1943–1944 wartime rebranding:** the shorter **SIAI-Marchetti** becomes the official corporate designation after removal of "Savoia."<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2hef.ru.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 </div>
 
-Not every historical source presents identical dates or [wording]({{ 'wording/' | relative_url }}) for these changes. Some [aviation]({{ 'aviation/' | relative_url }}) historians describe the transition as occurring during 1943, while local historical accounts refer to a 1944 corporate assembly confirming the new designation. The important point for the Magenta story is that neither interpretation places the formal "SIAI-Marchetti" name in ordinary use before the alleged 1933 incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Not every historical source presents identical dates or [wording]({{ 'wording/' | relative_url }}) for these changes. Some [aviation]({{ 'aviation/' | relative_url }}) historians describe the transition as occurring during 1943, while local historical accounts refer to a 1944 corporate assembly confirming the new designation. The important point for the Magenta story is that neither interpretation places the formal "SIAI-Marchetti" name in ordinary use before the alleged 1933 incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ehIYnh4jbxY" title="The 1933 Magenta UFO Crash in Italy – Mussolini’s Secret Recovery?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ehIYnh4jbxY" target="_blank" rel="noopener noreferrer">The 1933 Magenta UFO Crash in Italy – Mussolini’s Secret Recovery?</a></p><p class="youtube-embed-meta">Channel: The Black Sheep Files</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ehIYnh4jbxY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ehIYnh4jbxY">Open on YouTube</a></p></div></div></div>
@@ -339,7 +339,7 @@ Historians routinely modernise names for convenience—for example, referring to
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9_siai_marchetti_name_e6e38f-Illustration-2-dark.svg" | relative_url }}" alt="Name Problem illustration 2" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9_siai_marchetti_name_e6e38f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9_siai_marchetti_name_e6e38f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A recurring pattern in Magenta retellings
 
-Many English-language summaries simply refer to "SIAI-Marchetti hangars at [Vergiate]({{ 'vergiate/' | relative_url }})" without explaining that this is modern terminology. Some versions also shift between Vergiate and nearby Sesto Calende, reflecting the company's long association with both locations rather than a single uncontested storage site. The result is a smoother narrative than the historical record actually provides. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Vergiate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Many English-language summaries simply refer to "SIAI-Marchetti hangars at [Vergiate]({{ 'vergiate/' | relative_url }})" without explaining that this is modern terminology. Some versions also shift between Vergiate and nearby Sesto Calende, reflecting the company's long association with both locations rather than a single uncontested storage site. The result is a smoother narrative than the historical record actually provides.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Vergiate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 This pattern illustrates a broader feature of UFO folklore. As stories are repeatedly retold, historical complexities are often compressed:
 
@@ -380,194 +380,194 @@ The naming issue therefore does not disprove the Magenta story. It serves instea
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9_siai_marchetti_name_e6e38f-Illustration-3-dark.svg" | relative_url }}" alt="Name Problem illustration 3" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9_siai_marchetti_name_e6e38f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9_siai_marchetti_name_e6e38f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Later Names Distort Older Claims. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Later Names Distort Older Claims. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Encourages readers to distinguish documented evidence from later retellings and interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages readers to distinguish documented evidence from later retellings and interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explains how narratives and assumptions can shape interpretations of historical evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how narratives and assumptions can shape interpretations of historical evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides historical context for evaluating UFO claims using evidence rather than terminology alone.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for evaluating UFO claims using evidence rather than terminology alone.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
+</h4>
+<p class="fr-book-author">By Nick Cook</p>
         
-        <p class="fr-book-desc">Explores the intersection of aviation history, secrecy, and extraordinary technological claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the intersection of aviation history, secrecy, and extraordinary technological claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="name-problem-when-later-names-distort-older-claims-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -583,7 +583,7 @@ The naming issue therefore does not disprove the Magenta story. It serves instea
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -603,7 +603,7 @@ The naming issue therefore does not disprove the Magenta story. It serves instea
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -635,7 +635,7 @@ The naming issue therefore does not disprove the Magenta story. It serves instea
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -687,7 +687,7 @@ The naming issue therefore does not disprove the Magenta story. It serves instea
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -732,7 +732,7 @@ The naming issue therefore does not disprove the Magenta story. It serves instea
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -773,73 +773,73 @@ The naming issue therefore does not disprove the Magenta story. It serves instea
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/SIAI-Marchetti</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/SIAI-Marchetti</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: hef.ru.nl  
    Title: Aircraft Manufacturers  
-   Link: <a href="https://www.hef.ru.nl/~pfk/aircraft/manufacturer-SIAIMarchetti.php" target="_blank" rel="noopener noreferrer nofollow">https://www.hef.ru.nl/~pfk/aircraft/manufacturer-SIAIMarchetti.php</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SIAI-Marchetti galleryAfter World War I it gained the name Savoia, when it acquired the Società Anonima Costruzioni Aeronautiche Savoia...</p></details>
+   Link:<a href="https://www.hef.ru.nl/~pfk/aircraft/manufacturer-SIAIMarchetti.php" target="_blank" rel="noopener noreferrer nofollow">https://www.hef.ru.nl/~pfk/aircraft/manufacturer-SIAIMarchetti.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SIAI-Marchetti galleryAfter World War I it gained the name Savoia, when it acquired the Società Anonima Costruzioni Aeronautiche Savoia...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Vergiate" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Vergiate</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Vergiate" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Vergiate</a>  
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: safesmartaviation.com  
-   Link: <a href="https://www.safesmartaviation.com/manufacturer/siai-marchetti/" target="_blank" rel="noopener noreferrer nofollow">https://www.safesmartaviation.com/manufacturer/siai-marchetti/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SIAI Marchetti Access SolutionsSIAI Marchetti was an Italian aircraft manufacturer. Originally named Savoia, it became Savoia-Marchetti w...</p></details>
+   Link:<a href="https://www.safesmartaviation.com/manufacturer/siai-marchetti/" target="_blank" rel="noopener noreferrer nofollow">https://www.safesmartaviation.com/manufacturer/siai-marchetti/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SIAI Marchetti Access SolutionsSIAI Marchetti was an Italian aircraft manufacturer. Originally named Savoia, it became Savoia-Marchetti w...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=QpNTwh1Q0_E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QpNTwh1Q0_E</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SIAI-Marchetti: Pioneers of Italian AviationItaly is one of the pioneering nations in military aviation. During the World Wars, it introd...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QpNTwh1Q0_E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QpNTwh1Q0_E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SIAI-Marchetti: Pioneers of Italian AviationItaly is one of the pioneering nations in military aviation. During the World Wars, it introd...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: simanaitissays.com  
    Title: the siai marchetti nardi fn 333 for pirates of the riviera part 1  
-   Link: <a href="https://simanaitissays.com/2021/04/28/the-siai-marchetti-nardi-fn-333-for-pirates-of-the-riviera-part-1/" target="_blank" rel="noopener noreferrer nofollow">https://simanaitissays.com/2021/04/28/the-siai-marchetti-nardi-fn-333-for-pirates-of-the-riviera-part-1/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE SIAI-MARCHETTI-NARDI FN-333—FOR PIRATES OF...28 Apr 2021 — It stands for Società Idrovolanti Alta Italia, Seaplane company of Northe...</p></details>
+   Link:<a href="https://simanaitissays.com/2021/04/28/the-siai-marchetti-nardi-fn-333-for-pirates-of-the-riviera-part-1/" target="_blank" rel="noopener noreferrer nofollow">https://simanaitissays.com/2021/04/28/the-siai-marchetti-nardi-fn-333-for-pirates-of-the-riviera-part-1/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE SIAI-MARCHETTI-NARDI FN-333—FOR PIRATES OF...28 Apr 2021 — It stands for Società Idrovolanti Alta Italia, Seaplane company of Northe...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/infoHAG.Italy/posts/3062742367115867/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/infoHAG.Italy/posts/3062742367115867/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>medium Italian bomber of World War II. This three-engine, solid...</p></details>
+   Link:<a href="https://www.facebook.com/groups/infoHAG.Italy/posts/3062742367115867/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/infoHAG.Italy/posts/3062742367115867/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>medium Italian bomber of World War II. This three-engine, solid...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aviationtrivia.blogspot.com  
    Title: the last savoia marchetti airliner  
-   Link: <a href="https://aviationtrivia.blogspot.com/2015/04/the-last-savoia-marchetti-airliner.html" target="_blank" rel="noopener noreferrer nofollow">https://aviationtrivia.blogspot.com/2015/04/the-last-savoia-marchetti-airliner.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Last Savoia-Marchetti Airliner17 Apr 2015 — The company became Savoia-Marchetti (sometimes also referred to as SIAI-Marchetti) when t...</p></details>
+   Link:<a href="https://aviationtrivia.blogspot.com/2015/04/the-last-savoia-marchetti-airliner.html" target="_blank" rel="noopener noreferrer nofollow">https://aviationtrivia.blogspot.com/2015/04/the-last-savoia-marchetti-airliner.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Last Savoia-Marchetti Airliner17 Apr 2015 — The company became Savoia-Marchetti (sometimes also referred to as SIAI-Marchetti) when t...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: vintageaviationnews.com  
    Title: rebuilding savoia marchetti s 55  
-   Link: <a href="https://vintageaviationnews.com/vintage-aviation/rebuilding-savoia-marchetti-s-55.html" target="_blank" rel="noopener noreferrer nofollow">https://vintageaviationnews.com/vintage-aviation/rebuilding-savoia-marchetti-s-55.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rebuilding the Savoia-Marchetti S.55 X Flying Boat18 May 2016 — As the name suggests, the society aims to promote and preserve the histor...</p></details>
+   Link:<a href="https://vintageaviationnews.com/vintage-aviation/rebuilding-savoia-marchetti-s-55.html" target="_blank" rel="noopener noreferrer nofollow">https://vintageaviationnews.com/vintage-aviation/rebuilding-savoia-marchetti-s-55.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rebuilding the Savoia-Marchetti S.55 X Flying Boat18 May 2016 — As the name suggests, the society aims to promote and preserve the histor...</p></details>
    Published: May 2016  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=fY6sBD_IWEs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fY6sBD_IWEs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Italy’s UFO Crash Before [Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;)? The 1933 Magenta Incident Revealed...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fY6sBD_IWEs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fY6sBD_IWEs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Italy’s UFO Crash Before [Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;)? The 1933 Magenta Incident Revealed...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: secretprojects.co.uk  
    Title: savoia designations.9746  
-   Link: <a href="https://www.secretprojects.co.uk/threads/savoia-designations.9746/" target="_blank" rel="noopener noreferrer nofollow">https://www.secretprojects.co.uk/threads/savoia-designations.9746/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Savoia designations7 Apr 2010 — The designation style begins with a simple S.xx form (with the &#x27;S&#x27; presumably standing for Savoia). In 19...</p></details>
+   Link:<a href="https://www.secretprojects.co.uk/threads/savoia-designations.9746/" target="_blank" rel="noopener noreferrer nofollow">https://www.secretprojects.co.uk/threads/savoia-designations.9746/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Savoia designations7 Apr 2010 — The designation style begins with a simple S.xx form (with the &#x27;S&#x27; presumably standing for Savoia). In 19...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ehIYnh4jbxY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ehIYnh4jbxY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Magenta Project: The 1933 Magenta, Italy UFO Crash-Retrieval That Changed the World Updated Supercut...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ehIYnh4jbxY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ehIYnh4jbxY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Magenta Project: The 1933 Magenta, Italy UFO Crash-Retrieval That Changed the World Updated Supercut...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=l7S8KnXePJI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l7S8KnXePJI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mussolini’s Hidden UFO Crash EXPOSED | The Roswell of Italy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=l7S8KnXePJI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l7S8KnXePJI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mussolini’s Hidden UFO Crash EXPOSED | The Roswell of Italy...</p></details>

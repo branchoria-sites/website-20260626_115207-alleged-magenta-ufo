@@ -280,13 +280,13 @@ image: /assets/images/Alleged_Magenta_ufo_7bc4e9_marconi_claim_304998_marconi_bu
 
 ## Introduction
 
-The claim that Guglielmo Marconi secretly directed the alleged Fascist-era [RS/33 cabinet]({{ 'rs-33-cabinet/' | relative_url }}) investigating the supposed 1933 Magenta UFO crash is unusual because Marconi was not an obscure official whose activities vanished from history. He was one of the world's best-known scientists, an internationally celebrated inventor, a senator, president of Italy's National Research Council, and a prominent public figure whose professional and political life generated extensive archival records. That prominence does not make the claim impossible. It does, however, raise the evidential standard. The more visible and thoroughly documented a person's life is, the stronger the expectation that a major, sustained secret role will leave at least some independent trace beyond anonymous documents that surfaced decades later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fgm.it/en/archive-en/database.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fgm.it">[fgm.it+2theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fgm.it</span><span class="citation-popover-snippet">For a Marconian digital archival biographyThis file contains, for example, reports on the CNR&#x27;s activities and relative problems, which M...</span></span></span>
+The claim that Guglielmo Marconi secretly directed the alleged Fascist-era [RS/33 cabinet]({{ 'rs-33-cabinet/' | relative_url }}) investigating the supposed 1933 Magenta UFO crash is unusual because Marconi was not an obscure official whose activities vanished from history. He was one of the world's best-known scientists, an internationally celebrated inventor, a senator, president of Italy's National Research Council, and a prominent public figure whose professional and political life generated extensive archival records. That prominence does not make the claim impossible. It does, however, raise the evidential standard. The more visible and thoroughly documented a person's life is, the stronger the expectation that a major, sustained secret role will leave at least some independent trace beyond anonymous documents that surfaced decades later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fgm.it/en/archive-en/database.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fgm.it">[fgm.it+2theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fgm.it</span><span class="citation-popover-snippet">For a Marconian digital archival biographyThis file contains, for example, reports on the CNR&#x27;s activities and relative problems, which M...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_marconi_claim_304998_marconi_burden_of_pr_92fc69-Illustration-1-dark.svg" | relative_url }}" alt="Proof Burden illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_marconi_claim_304998_marconi_burden_of_pr_92fc69-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_marconi_claim_304998_marconi_burden_of_pr_92fc69-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Fame as narrative authority
 
-Marconi's name gives the Magenta story immediate credibility in the eyes of many readers. Unlike a fictional or little-known engineer, he was unquestionably qualified to advise the Italian state on advanced communications, military technology and scientific research. His genuine relationship with the Fascist government makes his appearance in the narrative superficially plausible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fgm.it/en/archive-en/database.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fgm.it">[fgm.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fgm.it</span><span class="citation-popover-snippet">For a Marconian digital archival biographyThis file contains, for example, reports on the CNR&#x27;s activities and relative problems, which M...</span></span></span>
+Marconi's name gives the Magenta story immediate credibility in the eyes of many readers. Unlike a fictional or little-known engineer, he was unquestionably qualified to advise the Italian state on advanced communications, military technology and scientific research. His genuine relationship with the Fascist government makes his appearance in the narrative superficially plausible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fgm.it/en/archive-en/database.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fgm.it">[fgm.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fgm.it</span><span class="citation-popover-snippet">For a Marconian digital archival biographyThis file contains, for example, reports on the CNR&#x27;s activities and relative problems, which M...</span></span></span>
 
 That plausibility, however, should not be confused with evidence. Historians distinguish between a story that is *consistent* with known facts and one that is *demonstrated* by independent documentation. Marconi's established status means he is an attractive figure to place at the centre of a dramatic historical narrative, but it also means claims about his actions can often be tested against a substantial documentary record.
 
@@ -306,7 +306,7 @@ Marconi's career is particularly well documented through:
 * papers relating to the National Research Council (CNR);
 * Senate and governmental records;
 * archives connected with the Fascist period;
-* records held by the Fondazione Guglielmo Marconi and the Bodleian Libraries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fgm.it/en/archive-en/database.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fgm.it">[fgm.it+2Bodleian Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fgm.it</span><span class="citation-popover-snippet">For a Marconian digital archival biographyThis file contains, for example, reports on the CNR&#x27;s activities and relative problems, which M...</span></span></span>
+* records held by the Fondazione Guglielmo Marconi and the Bodleian Libraries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fgm.it/en/archive-en/database.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fgm.it">[fgm.it+2Bodleian Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fgm.it</span><span class="citation-popover-snippet">For a Marconian digital archival biographyThis file contains, for example, reports on the CNR&#x27;s activities and relative problems, which M...</span></span></span>
 
 </div>
 
@@ -333,7 +333,7 @@ The absence of such corroboration does not logically disprove the claim, but it 
 
 ## Anonymous papers face a higher evidential hurdle
 
-The Magenta story is largely based on documents said to have been supplied anonymously to Italian UFO researcher Roberto Pinotti beginning in the late 1990s. Pinotti has consistently presented these papers as evidence for [Cabinet]({{ 'rs-33/' | relative_url }}) RS/33 and Marconi's leadership, while acknowledging that the original source remained unidentified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti... U...</span></span></span>
+The Magenta story is largely based on documents said to have been supplied anonymously to Italian UFO researcher Roberto Pinotti beginning in the late 1990s. Pinotti has consistently presented these papers as evidence for [Cabinet]({{ 'rs-33/' | relative_url }}) RS/33 and Marconi's leadership, while acknowledging that the original source remained unidentified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti... U...</span></span></span>
 
 Anonymous provenance creates two related problems.
 
@@ -347,7 +347,7 @@ Because Marconi's life has been studied extensively, the expectation for indepen
 
 One reason historians treat famous individuals differently is that famous people interact with many institutions simultaneously.
 
-Marconi was connected with scientific organisations, government bodies, industry, international conferences and political leadership. His archival footprint extends across multiple repositories rather than a single private collection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fgm.it/en/archive-en/database.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fgm.it">[fgm.it+2Bodleian Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fgm.it</span><span class="citation-popover-snippet">For a Marconian digital archival biographyThis file contains, for example, reports on the CNR&#x27;s activities and relative problems, which M...</span></span></span>
+Marconi was connected with scientific organisations, government bodies, industry, international conferences and political leadership. His archival footprint extends across multiple repositories rather than a single private collection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fgm.it/en/archive-en/database.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fgm.it">[fgm.it+2Bodleian Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fgm.it</span><span class="citation-popover-snippet">For a Marconian digital archival biographyThis file contains, for example, reports on the CNR&#x27;s activities and relative problems, which M...</span></span></span>
 
 That broad documentary network allows claims to be tested in several ways.
 
@@ -387,194 +387,194 @@ Marconi's prominence is therefore a double-edged feature of the Magenta narrativ
 Rather than lowering the standard of proof because a famous scientist is involved, historians generally raise it. When a claim assigns a central secret role to one of the best-documented scientific figures of the twentieth century, [anonymous papers]({{ 'anonymous-papers/' | relative_url }}) alone carry less persuasive weight than they might for an otherwise obscure individual. Until independent archival corroboration emerges, Marconi's fame functions less as supporting evidence than as a reason to demand more rigorous documentation before accepting the claim.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Marconi&#x27;s Fame Makes the Claim Harder. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Marconi&#x27;s Fame Makes the Claim Harder. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains why famous names and plausible stories are not substitutes for evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why famous names and plausible stories are not substitutes for evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for assessing documentary and witness evidence in UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for assessing documentary and witness evidence in UFO claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explores how compelling narratives and reputation can influence belief beyond the available evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Explores how compelling narratives and reputation can influence belief beyond the available evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invention+That+Changed+the+World+by+Robert+Buderi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invention That Changed the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6UmSE6FKkA4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invention That Changed the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invention+That+Changed+the+World+by+Robert+Buderi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invention That Changed the World">The Invention That Changed the World</a>
-        </h4>
-        <p class="fr-book-author">By Robert Buderi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invention+That+Changed+the+World+by+Robert+Buderi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invention That Changed the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6UmSE6FKkA4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invention That Changed the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invention+That+Changed+the+World+by+Robert+Buderi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invention That Changed the World">The Invention That Changed the World</a>
+</h4>
+<p class="fr-book-author">By Robert Buderi</p>
         
-        <p class="fr-book-desc">Places Marconi&#x27;s documented achievements into broader historical context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invention+That+Changed+the+World+by+Robert+Buderi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places Marconi&#x27;s documented achievements into broader historical context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invention+That+Changed+the+World+by+Robert+Buderi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MARCONI OCTOPUS 1913 Leonard Raven-Hill PUNCH CARTOON PAGE"><img src="{{ '/assets/images/marketplace-covers/a53a06a04f5729b0da28.jpg' | relative_url }}" alt="Listing image for MARCONI OCTOPUS 1913 Leonard Raven-Hill PUNCH CARTOON PAGE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer">MARCONI OCTOPUS 1913 Leonard Raven-Hill PUNCH CARTOON PAGE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Marconi portrait print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Marconi portrait print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MARCONI OCTOPUS 1913 Leonard Raven-Hill PUNCH CARTOON PAGE"><img src="{{ '/assets/images/marketplace-covers/a53a06a04f5729b0da28.jpg' | relative_url }}" alt="Listing image for MARCONI OCTOPUS 1913 Leonard Raven-Hill PUNCH CARTOON PAGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer">MARCONI OCTOPUS 1913 Leonard Raven-Hill PUNCH CARTOON PAGE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Marconi portrait print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Marconi portrait print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo:Guglielmo Marconi Portrait in White Uniform 1917"><img src="{{ '/assets/images/marketplace-covers/70408712dd22f1850318.jpg' | relative_url }}" alt="Listing image for Photo:Guglielmo Marconi Portrait in White Uniform 1917" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer">Photo:Guglielmo Marconi Portrait in White Uniform 1917</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Marconi portrait print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Marconi portrait print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo:Guglielmo Marconi Portrait in White Uniform 1917"><img src="{{ '/assets/images/marketplace-covers/70408712dd22f1850318.jpg' | relative_url }}" alt="Listing image for Photo:Guglielmo Marconi Portrait in White Uniform 1917" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer">Photo:Guglielmo Marconi Portrait in White Uniform 1917</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Marconi portrait print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Marconi portrait print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LATEST SCANDAL 1913 John Bernard Partridge Marconi Committee PUNCH CARTOON PAGE"><img src="{{ '/assets/images/marketplace-covers/a117aed990d0f5053e9f.jpg' | relative_url }}" alt="Listing image for LATEST SCANDAL 1913 John Bernard Partridge Marconi Committee PUNCH CARTOON PAGE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer">LATEST SCANDAL 1913 John Bernard Partridge Marconi Committee PUNCH CARTOON PAGE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Marconi portrait print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Marconi portrait print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LATEST SCANDAL 1913 John Bernard Partridge Marconi Committee PUNCH CARTOON PAGE"><img src="{{ '/assets/images/marketplace-covers/a117aed990d0f5053e9f.jpg' | relative_url }}" alt="Listing image for LATEST SCANDAL 1913 John Bernard Partridge Marconi Committee PUNCH CARTOON PAGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer">LATEST SCANDAL 1913 John Bernard Partridge Marconi Committee PUNCH CARTOON PAGE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Marconi portrait print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Marconi portrait print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for INVENTOR GUGLIELMO MARCONI PORTRAIT 11x14 GLOSSY PHOTO PRINT"><img src="{{ '/assets/images/marketplace-covers/e18db74bffb9825e4711.jpg' | relative_url }}" alt="Listing image for INVENTOR GUGLIELMO MARCONI PORTRAIT 11x14 GLOSSY PHOTO PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer">INVENTOR GUGLIELMO MARCONI PORTRAIT 11x14 GLOSSY PHOTO PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Marconi portrait print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Marconi portrait print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for INVENTOR GUGLIELMO MARCONI PORTRAIT 11x14 GLOSSY PHOTO PRINT"><img src="{{ '/assets/images/marketplace-covers/e18db74bffb9825e4711.jpg' | relative_url }}" alt="Listing image for INVENTOR GUGLIELMO MARCONI PORTRAIT 11x14 GLOSSY PHOTO PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer">INVENTOR GUGLIELMO MARCONI PORTRAIT 11x14 GLOSSY PHOTO PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Marconi portrait print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Marconi portrait print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+portrait+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi portrait print" data-ebay-reference="proof-burden-why-marconi-s-fame-makes-the-claim-harder-alleged-magenta-ufo-marconi-portrait-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -590,7 +590,7 @@ Rather than lowering the standard of proof because a famous scientist is involve
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -610,7 +610,7 @@ Rather than lowering the standard of proof because a famous scientist is involve
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -642,7 +642,7 @@ Rather than lowering the standard of proof because a famous scientist is involve
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -694,7 +694,7 @@ Rather than lowering the standard of proof because a famous scientist is involve
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -739,7 +739,7 @@ Rather than lowering the standard of proof because a famous scientist is involve
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -780,87 +780,87 @@ Rather than lowering the standard of proof because a famous scientist is involve
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: fgm.it  
-   Link: <a href="https://www.fgm.it/en/archive-en/database.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fgm.it/en/archive-en/database.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>For a Marconian digital archival biographyThis file contains, for example, reports on the CNR&#x27;s activities and relative problems, which M...</p></details>
+   Link:<a href="https://www.fgm.it/en/archive-en/database.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fgm.it/en/archive-en/database.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For a Marconian digital archival biographyThis file contains, for example, reports on the CNR&#x27;s activities and relative problems, which M...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: theblackvault.com  
    Title: the ufo files of mussolini [fascist ufo files](&#123;&#123; 'fascist-files/' | relative_url &#125;&#125;) by roberto pinotti  
-   Link: <a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti... U...</p></details>
+   Link:<a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti... U...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: fgm.it  
    Title: archive en  
-   Link: <a href="https://www.fgm.it/en/archive-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fgm.it/en/archive-en.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical ArchiveThe impressive Marconi Archives, that include over 4400 archival units, encompass documentation beginning from Marconi&#x27;...</p></details>
+   Link:<a href="https://www.fgm.it/en/archive-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fgm.it/en/archive-en.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Historical ArchiveThe impressive Marconi Archives, that include over 4400 archival units, encompass documentation beginning from Marconi&#x27;...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.bodleian.ox.ac.uk  
-   Link: <a href="https://archives.bodleian.ox.ac.uk/repositories/2/resources/14438" target="_blank" rel="noopener noreferrer nofollow">https://archives.bodleian.ox.ac.uk/repositories/2/resources/14438</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bodleian ArchivesCollection: The Marconi ArchivesThe Marconi Archives comprise A. Papers relating to Marconi and the development of wirel...</p></details>
+   Link:<a href="https://archives.bodleian.ox.ac.uk/repositories/2/resources/14438" target="_blank" rel="noopener noreferrer nofollow">https://archives.bodleian.ox.ac.uk/repositories/2/resources/14438</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bodleian ArchivesCollection: The Marconi ArchivesThe Marconi Archives comprise A. Papers relating to Marconi and the development of wirel...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: marilenafabbri.it  
    Title: Guglielmo Marconi  
-   Link: <a href="https://www.marilenafabbri.it/wp-content/uploads/2013/09/Salvan-Marconi.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.marilenafabbri.it/wp-content/uploads/2013/09/Salvan-Marconi.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Marilena FabbriThis allowed Marconia and. Cristina to marry, according to the Catholic rite, on June 15. 1927, with Benito Mussolini (18...</p></details>
+   Link:<a href="https://www.marilenafabbri.it/wp-content/uploads/2013/09/Salvan-Marconi.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.marilenafabbri.it/wp-content/uploads/2013/09/Salvan-Marconi.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marilena FabbriThis allowed Marconia and. Cristina to marry, according to the Catholic rite, on June 15. 1927, with Benito Mussolini (18...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: coercioncode.com  
-   Link: <a href="https://coercioncode.com/2023/07/04/exclusive-italian-researcher-shares-extraordinary-evidence-files-of-worlds-first-ufo-crash-14-years-before-[roswell" target="_blank" rel="noopener noreferrer nofollow">https://coercioncode.com/2023/07/04/exclusive-italian-researcher-shares-extraordinary-evidence-files-of-worlds-first-ufo-crash-14-years-before-[roswell</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EXCLUSIVE: Italian researcher shares extraordinary evidence...4 Jul 2023 — Guizzardi says he wants San Marino to be the headquarters for...</p></details>
+   Link:<a href="https://coercioncode.com/2023/07/04/exclusive-italian-researcher-shares-extraordinary-evidence-files-of-worlds-first-ufo-crash-14-years-before-[roswell" target="_blank" rel="noopener noreferrer nofollow">https://coercioncode.com/2023/07/04/exclusive-italian-researcher-shares-extraordinary-evidence-files-of-worlds-first-ufo-crash-14-years-before-[roswell</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EXCLUSIVE: Italian researcher shares extraordinary evidence...4 Jul 2023 — Guizzardi says he wants San Marino to be the headquarters for...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: edizionicafoscari.unive.it  
-   Link: <a href="https://edizionicafoscari.unive.it/media/pdf/books/978-88-6969-923-8/978-88-6969-923-8-ch-06.pdf" target="_blank" rel="noopener noreferrer nofollow">https://edizionicafoscari.unive.it/media/pdf/books/978-88-6969-923-8/978-88-6969-923-8-ch-06.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>document, preserved in the MUST historical archive...by G Pietrangeli — Guglielmo Marconi concerns the organisation of the business net...</p></details>
+   Link:<a href="https://edizionicafoscari.unive.it/media/pdf/books/978-88-6969-923-8/978-88-6969-923-8-ch-06.pdf" target="_blank" rel="noopener noreferrer nofollow">https://edizionicafoscari.unive.it/media/pdf/books/978-88-6969-923-8/978-88-6969-923-8-ch-06.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>document, preserved in the MUST historical archive...by G Pietrangeli — Guglielmo Marconi concerns the organisation of the business net...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/335485434_The_UME_Archives_-_Debates_in_the_Italian_Mathematical_Community_1922-1938" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/335485434_The_UME_Archives_-_Debates_in_the_Italian_Mathematical_Community_1922-1938</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debates in the Italian Mathematical Community, 1922–1938This paper focuses on the historical part containing two sections: a first sectio...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/335485434_The_UME_Archives_-_Debates_in_the_Italian_Mathematical_Community" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/335485434_The_UME_Archives_-_Debates_in_the_Italian_Mathematical_Community</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debates in the Italian Mathematical Community, 1922–1938This paper focuses on the historical part containing two sections: a first sectio...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: library.si.edu  
    Title: This content is in the public domain his father, dated London, 1 April  
-   Link: <a href="https://library.si.edu/digital-library/book/guglielmomarcon00marcb" target="_blank" rel="noopener noreferrer nofollow">https://library.si.edu/digital-library/book/guglielmomarcon00marcb</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Marconi letter to Giuseppe Marconi, his father...Guglielmo Marconi letter to Giuseppe Marconi, his father, dated London, 1 April 1896...</p></details>
+   Link:<a href="https://library.si.edu/digital-library/book/guglielmomarcon00marcb" target="_blank" rel="noopener noreferrer nofollow">https://library.si.edu/digital-library/book/guglielmomarcon00marcb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marconi letter to Giuseppe Marconi, his father...Guglielmo Marconi letter to Giuseppe Marconi, his father, dated London, 1 April 1896...</p></details>
    Published: April 1896  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: metabunk.org  
    Title: claim a ufo crashed in 1933 italy and the us recovered it.13282  
-   Link: <a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating around UFO...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating around UFO...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AlternativeHistory/comments/1bjoqce/fascinating_dive_rich_in_history_back_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AlternativeHistory/comments/1bjoqce/fascinating_dive_rich_in_history_back_to/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fascinating dive into paper trail of Magenta Italy 1933 UFO crash retrieval. youtube.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/AlternativeHistory/comments/1bjoqce/fascinating_dive_rich_in_history_back_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AlternativeHistory/comments/1bjoqce/fascinating_dive_rich_in_history_back_to/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fascinating dive into paper trail of Magenta Italy 1933 UFO crash retrieval. youtube.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: scientificinstrumentsociety.org  
-   Link: <a href="https://scientificinstrumentsociety.org/BulletinArticles_public/SIS_Bulletin_161_Spada%2CR.%2CGuglielmoMarconisMagneticDetector%2C2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scientificinstrumentsociety.org/BulletinArticles_public/SIS_Bulletin_161_Spada%2CR.%2CGuglielmoMarconisMagneticDetector%2C2024.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eve and Earl. Baldwin. Rutherford: Being The Life And Letters. Of Lord Rutherford. Cambridge...</p></details>
+   Link:<a href="https://scientificinstrumentsociety.org/BulletinArticles_public/SIS_Bulletin_161_Spada%2CR.%2CGuglielmoMarconisMagneticDetector%2C2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scientificinstrumentsociety.org/BulletinArticles_public/SIS_Bulletin_161_Spada%2CR.%2CGuglielmoMarconisMagneticDetector%2C2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eve and Earl. Baldwin. Rutherford: Being The Life And Letters. Of Lord Rutherford. Cambridge...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1d88nwr/paolo_guizzardi_as_promised_here_are_copies_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1d88nwr/paolo_guizzardi_as_promised_here_are_copies_of/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>et up in the wake of a UFO crash in the [Lombardy](&amp;#123;&amp;#123; &#x27;lombardy/&#x27; | relative_url &amp;#125;&amp;#125;) region of Italy in...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1d88nwr/paolo_guizzardi_as_promised_here_are_copies_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1d88nwr/paolo_guizzardi_as_promised_here_are_copies_of/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>et up in the wake of a UFO crash in the [Lombardy](&amp;#123;&amp;#123; &#x27;lombardy/&#x27; | relative_url &amp;#125;&amp;#125;) region of Italy in...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: david gruschs most overlooked statement the 1933  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1fi5qwu/david_gruschs_most_overlooked_statement_the_1933/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fi5qwu/david_gruschs_most_overlooked_statement_the_1933/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 UFO Recovery from Magenta Italy Was Not...Italian UFO Researcher Roberto Pinotti had official fascist gov&#x27;t docs in late 90s th...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1fi5qwu/david_gruschs_most_overlooked_statement_the_1933/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fi5qwu/david_gruschs_most_overlooked_statement_the_1933/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 UFO Recovery from Magenta Italy Was Not...Italian UFO Researcher Roberto Pinotti had official fascist gov&#x27;t docs in late 90s th...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: the magenta project the 1933 magenta italy ufo  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1fraqyk/the_magenta_project_the_1933_magenta_italy_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fraqyk/the_magenta_project_the_1933_magenta_italy_ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 Magenta, Italy UFO Crash-Retrieval That...r/UFOs - David [Grusch](&amp;#123;&amp;#123; &#x27;grusch/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27;s Most Overlooked Statement - The 1933 UFO Recovery from Magent...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1fraqyk/the_magenta_project_the_1933_magenta_italy_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fraqyk/the_magenta_project_the_1933_magenta_italy_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 Magenta, Italy UFO Crash-Retrieval That...r/UFOs - David [Grusch](&amp;#123;&amp;#123; &#x27;grusch/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27;s Most Overlooked Statement - The 1933 UFO Recovery from Magent...</p></details>

@@ -278,13 +278,13 @@ The [alleged Magenta UFO]({{ 'alleged-magenta-ufo/' | relative_url }}) crash dos
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_ufo_files_e2e7f2_fascist_censorship_c_87c34c-Illustration-1-dark.svg" | relative_url }}" alt="Censorship illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_ufo_files_e2e7f2_fascist_censorship_c_87c34c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_ufo_files_e2e7f2_fascist_censorship_c_87c34c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction is central to evaluating the dossier. The documents ask readers to accept not only that a mysterious event occurred, but also that Fascist censorship successfully erased it from public knowledge for decades. The historical reality of censorship strengthens the story's atmosphere, yet historians judge individual claims by documentary evidence, provenance and independent corroboration rather than by whether the surrounding political environment seems believable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/history/history-censorship-italy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">History of Censorship in Italy &#124; History &#124; Research StartersThe history of censorship in Italy has deep roots, tracing back to the R...</span></span></span>
+This distinction is central to evaluating the dossier. The documents ask readers to accept not only that a mysterious event occurred, but also that Fascist censorship successfully erased it from public knowledge for decades. The historical reality of censorship strengthens the story's atmosphere, yet historians judge individual claims by documentary evidence, provenance and independent corroboration rather than by whether the surrounding political environment seems believable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/history/history-censorship-italy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">History of Censorship in Italy &#124; History &#124; Research StartersThe history of censorship in Italy has deep roots, tracing back to the R...</span></span></span>
 
 ## Why Fascist secrecy fits the story
 
-The Fascist regime under Benito Mussolini exercised extensive control over newspapers, publishing, broadcasting and public discourse. Editors received official guidance on what could be printed, politically inconvenient reporting was suppressed, and state security agencies monitored both journalists and political opponents. Military and [aviation]({{ 'aviation/' | relative_url }}) matters were especially sensitive during a period when the regime promoted technological achievement as part of its national image. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/history/history-censorship-italy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">History of Censorship in Italy &#124; History &#124; Research StartersThe history of censorship in Italy has deep roots, tracing back to the R...</span></span></span>
+The Fascist regime under Benito Mussolini exercised extensive control over newspapers, publishing, broadcasting and public discourse. Editors received official guidance on what could be printed, politically inconvenient reporting was suppressed, and state security agencies monitored both journalists and political opponents. Military and [aviation]({{ 'aviation/' | relative_url }}) matters were especially sensitive during a period when the regime promoted technological achievement as part of its national image.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/history/history-censorship-italy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">History of Censorship in Italy &#124; History &#124; Research StartersThe history of censorship in Italy has deep roots, tracing back to the R...</span></span></span>
 
-Against that backdrop, the Magenta dossier presents alleged orders requiring silence after the reported recovery of an unidentified craft. In versions published by Roberto Pinotti and later reproduced in English, the documents describe instructions to prevent discussion of the incident and to route information through official channels while an alleged Cabinet RS/33 examined the object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded by M...</span></span></span>
+Against that backdrop, the Magenta dossier presents alleged orders requiring silence after the reported recovery of an unidentified craft. In versions published by Roberto Pinotti and later reproduced in English, the documents describe instructions to prevent discussion of the incident and to route information through official channels while an alleged Cabinet RS/33 examined the object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded by M...</span></span></span>
 
 For many readers, this feels historically coherent because it resembles genuine patterns of authoritarian governance:
 
@@ -307,9 +307,9 @@ None of these features is inherently inconsistent with how Fascist Italy operate
 
 The crucial analytical mistake is to confuse historical plausibility with historical proof.
 
-Historians regularly distinguish between events that *could* have happened within a known political system and events that can actually be demonstrated through surviving evidence. Fascist censorship unquestionably existed, but that fact alone cannot verify that any specific document describing censorship is authentic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/history/history-censorship-italy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">History of Censorship in Italy &#124; History &#124; Research StartersThe history of censorship in Italy has deep roots, tracing back to the R...</span></span></span>
+Historians regularly distinguish between events that *could* have happened within a known political system and events that can actually be demonstrated through surviving evidence. Fascist censorship unquestionably existed, but that fact alone cannot verify that any specific document describing censorship is authentic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/history/history-censorship-italy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">History of Censorship in Italy &#124; History &#124; Research StartersThe history of censorship in Italy has deep roots, tracing back to the R...</span></span></span>
 
-This distinction becomes especially important because the alleged UFO papers surfaced through anonymous channels rather than through an established archival collection. Critics have argued that the dossier lacks the secure [chain of custody]({{ 'custody/' | relative_url }}) normally expected for significant historical discoveries. Without a documented archival history, the existence of censorship becomes a possible explanation for missing records, but it can also become an unfalsifiable explanation for why corroborating evidence cannot be produced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded by M...</span></span></span>
+This distinction becomes especially important because the alleged UFO papers surfaced through anonymous channels rather than through an established archival collection. Critics have argued that the dossier lacks the secure [chain of custody]({{ 'custody/' | relative_url }}) normally expected for significant historical discoveries. Without a documented archival history, the existence of censorship becomes a possible explanation for missing records, but it can also become an unfalsifiable explanation for why corroborating evidence cannot be produced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded by M...</span></span></span>
 
 In other words, the argument risks becoming circular:
 
@@ -340,7 +340,7 @@ Independent corroboration could include surviving administrative records that de
 
 Such material would not prove that an extraterrestrial craft crashed, but it would strengthen the narrower claim that authorities deliberately concealed an unusual incident.
 
-To date, publicly available discussion has centred primarily on the alleged dossier itself rather than on independently verified censorship records recovered from recognised state archives. That absence does not disprove the claim, but it limits the historical weight that can presently be assigned to the censorship narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault+2Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded by M...</span></span></span>
+To date, publicly available discussion has centred primarily on the alleged dossier itself rather than on independently verified censorship records recovered from recognised state archives. That absence does not disprove the claim, but it limits the historical weight that can presently be assigned to the censorship narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault+2Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded by M...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ri8BHxcJYfw" title="The 1933 UFO Crash in Magenta, Italy w/ Michael Armentor | XK Podcast Ep. 013" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ri8BHxcJYfw" target="_blank" rel="noopener noreferrer">The 1933 UFO Crash in Magenta, Italy w/ Michael Armentor | XK Podcast Ep. 013</a></p><p class="youtube-embed-meta">Channel: Xpanded Knowledge &middot; Views: 261 &middot; Uploaded: October 2025 &middot; Length: 1 hour 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ri8BHxcJYfw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ri8BHxcJYfw">Open on YouTube</a></p></div></div></div>
@@ -349,7 +349,7 @@ To date, publicly available discussion has centred primarily on the alleged doss
 
 The strongest version of the Magenta story depends on two separate propositions.
 
-First, Fascist Italy possessed both the ability and the motivation to suppress sensitive information. This proposition is well supported by mainstream historical scholarship on the regime's control of the press and political life. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/history/history-censorship-italy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">History of Censorship in Italy &#124; History &#124; Research StartersThe history of censorship in Italy has deep roots, tracing back to the R...</span></span></span>
+First, Fascist Italy possessed both the ability and the motivation to suppress sensitive information. This proposition is well supported by mainstream historical scholarship on the regime's control of the press and political life.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/history/history-censorship-italy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">History of Censorship in Italy &#124; History &#124; Research StartersThe history of censorship in Italy has deep roots, tracing back to the R...</span></span></span>
 
 Second, the specific documents describing the Magenta incident genuinely originated within that system. This proposition requires [authentication]({{ 'authentication/' | relative_url }}) through provenance, forensic examination, archival consistency and independent documentary support.
 
@@ -365,201 +365,201 @@ Within the alleged Fascist UFO files, censorship serves an important structural 
 
 As storytelling, this is internally coherent. As historical evidence, however, it remains a hypothesis requiring external verification.
 
-The historical reality of Fascist censorship therefore makes the Magenta dossier more understandable, but not more conclusively authentic. The regime's documented secrecy provides a plausible backdrop for the narrative, while the authenticity of the dossier itself still depends on the quality of its provenance and the existence of independent corroborating records rather than on the existence of censorship alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/history/history-censorship-italy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO+2The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">History of Censorship in Italy &#124; History &#124; Research StartersThe history of censorship in Italy has deep roots, tracing back to the R...</span></span></span>
+The historical reality of Fascist censorship therefore makes the Magenta dossier more understandable, but not more conclusively authentic. The regime's documented secrecy provides a plausible backdrop for the narrative, while the authenticity of the dossier itself still depends on the quality of its provenance and the existence of independent corroborating records rather than on the existence of censorship alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/history/history-censorship-italy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO+2The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">History of Censorship in Italy &#124; History &#124; Research StartersThe history of censorship in Italy has deep roots, tracing back to the R...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eKZ2U3lkJ9o" title="Secret UFO Files of Fascist Italy | Mussolini&#x27;s UFO Cabinet RS/33 Revealed | Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eKZ2U3lkJ9o" target="_blank" rel="noopener noreferrer">Secret UFO Files of Fascist Italy | Mussolini&#x27;s UFO Cabinet RS/33 Revealed | Full Documentary</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eKZ2U3lkJ9o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eKZ2U3lkJ9o">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Fascist secrecy make the files believable?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Fascist secrecy make the files believable?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides a framework for assessing extraordinary historical claims using evidence rather than plausibility alone.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for assessing extraordinary historical claims using evidence rather than plausibility alone.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Illustrates how investigators distinguish documented evidence from speculation and secrecy claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates how investigators distinguish documented evidence from speculation and secrecy claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rise+and+Fall+of+the+Third+Reich+William+L.+Shirer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rise and Fall of the Third Reich on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6558536-M.jpg" alt="Cover for The Rise and Fall of the Third Reich" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Rise+and+Fall+of+the+Third+Reich+William+L.+Shirer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rise and Fall of the Third Reich">The Rise and Fall of the Third Reich</a>
-        </h4>
-        <p class="fr-book-author">By William L. Shirer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rise+and+Fall+of+the+Third+Reich+William+L.+Shirer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rise and Fall of the Third Reich on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6558536-M.jpg" alt="Cover for The Rise and Fall of the Third Reich" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Rise+and+Fall+of+the+Third+Reich+William+L.+Shirer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rise and Fall of the Third Reich">The Rise and Fall of the Third Reich</a>
+</h4>
+<p class="fr-book-author">By William L. Shirer</p>
         
-        <p class="fr-book-desc">First published 1901. Subjects: National Book Award Winner, Third Reich, National socialism, History, World War, 1939-1945.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Rise+and+Fall+of+the+Third+Reich+William+L.+Shirer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1901. Subjects: National Book Award Winner, Third Reich, National socialism, History, World War, 1939-1945.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Rise+and+Fall+of+the+Third+Reich+William+L.+Shirer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mussolini%27s+Italy+R.+J.+B.+Bosworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mussolini&#x27;s Italy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/452475-M.jpg" alt="Cover for Mussolini&#x27;s Italy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mussolini%27s+Italy+R.+J.+B.+Bosworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mussolini&#x27;s Italy">Mussolini&#x27;s Italy</a>
-        </h4>
-        <p class="fr-book-author">By R. J. B. Bosworth</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mussolini%27s+Italy+R.+J.+B.+Bosworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mussolini&#x27;s Italy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/452475-M.jpg" alt="Cover for Mussolini&#x27;s Italy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mussolini%27s+Italy+R.+J.+B.+Bosworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mussolini&#x27;s Italy">Mussolini&#x27;s Italy</a>
+</h4>
+<p class="fr-book-author">By R. J. B. Bosworth</p>
         
-        <p class="fr-book-desc">First published 2005. Subjects: Fascism, History, Nonfiction, Politics, Mussolini, Benito, 1883-1945.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mussolini%27s+Italy+R.+J.+B.+Bosworth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2005. Subjects: Fascism, History, Nonfiction, Politics, Mussolini, Benito, 1883-1945.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mussolini%27s+Italy+R.+J.+B.+Bosworth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Rise+and+Fall+of+the+Third+Reich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Rise and Fall of the Third Reich</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Rise+and+Fall+of+the+Third+Reich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Rise and Fall of the Third Reich</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="censorship-did-fascist-secrecy-make-the-files-believable-alleged-magenta-ufo-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -575,7 +575,7 @@ The historical reality of Fascist censorship therefore makes the Magenta dossier
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -595,7 +595,7 @@ The historical reality of Fascist censorship therefore makes the Magenta dossier
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -627,7 +627,7 @@ The historical reality of Fascist censorship therefore makes the Magenta dossier
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -679,7 +679,7 @@ The historical reality of Fascist censorship therefore makes the Magenta dossier
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -724,7 +724,7 @@ The historical reality of Fascist censorship therefore makes the Magenta dossier
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -765,89 +765,89 @@ The historical reality of Fascist censorship therefore makes the Magenta dossier
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/history/history-censorship-italy" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/history-censorship-italy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>History of Censorship in Italy | History | Research StartersThe history of censorship in Italy has deep roots, tracing back to the R...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/history/history-censorship-italy" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/history-censorship-italy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History of Censorship in Italy | History | Research StartersThe history of censorship in Italy has deep roots, tracing back to the R...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: metabunk.org  
    Title: claim a ufo crashed in 1933 italy and the us recovered it.13282  
-   Link: <a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating around UFO...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating around UFO...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: history.state.gov  
-   Link: <a href="https://history.state.gov/historicaldocuments/frus1933v01/ch20" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1933v01/ch20</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(Documents 728–737)... (Documents 801–807) · Representations by foreign governments regarding Congressional bills for the deportation of...</p></details>
+   Link:<a href="https://history.state.gov/historicaldocuments/frus1933v01/ch20" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1933v01/ch20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(Documents 728–737)... (Documents 801–807) · Representations by foreign governments regarding Congressional bills for the deportation of...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/entry-210.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/entry-210.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>June 1944 – January 1945, ca. 30 pp... Intercepted message regarding Mussolini&#x27;s speech in the Chamber of Fascist.Read more...</p></details>
+   Link:<a href="https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/entry-210.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/entry-210.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 1944 – January 1945, ca. 30 pp... Intercepted message regarding Mussolini&#x27;s speech in the Chamber of Fascist.Read more...</p></details>
    Published: June 1944  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: theblackvault.com  
    Title: the ufo files of mussolini fascist ufo files by roberto pinotti  
-   Link: <a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded by M...</p></details>
+   Link:<a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — According to the “Fascist UFO Files” we received, it was founded by M...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AlternativeHistory/comments/1bjoqce/fascinating_dive_rich_in_history_back_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AlternativeHistory/comments/1bjoqce/fascinating_dive_rich_in_history_back_to/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>late 90s that go deep..Magenta, Mussolini, Pope Pius XXII… r/aliens -...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/AlternativeHistory/comments/1bjoqce/fascinating_dive_rich_in_history_back_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AlternativeHistory/comments/1bjoqce/fascinating_dive_rich_in_history_back_to/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>late 90s that go deep..Magenta, Mussolini, Pope Pius XXII… r/aliens -...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_[grusch" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_[grusch</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>lation that Mussolini&#x27;s government retrieved a crashed UFO/UAP in 1933.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_[grusch" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_[grusch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lation that Mussolini&#x27;s government retrieved a crashed UFO/UAP in 1933.Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
    Title: david grusch gave us a hint 1933 italy ufo crash  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/15j8k3t/david_grusch_gave_us_a_hint_1933_italy_ufo_crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15j8k3t/david_grusch_gave_us_a_hint_1933_italy_ufo_crash/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;David grusch gave us a hint, 1933 Italy UFO crash... this in great detail. [https://www.theblackvault.com/casefiles/the-ufo-files-of-musso...&quot;](https://www.theblackvault.com/casefiles/the-ufo-files-of-musso...&quot;)...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/15j8k3t/david_grusch_gave_us_a_hint_1933_italy_ufo_crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15j8k3t/david_grusch_gave_us_a_hint_1933_italy_ufo_crash/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;David grusch gave us a hint, 1933 Italy UFO crash... this in great detail. [https://www.theblackvault.com/casefiles/the-ufo-files-of-musso...&quot;](https://www.theblackvault.com/casefiles/the-ufo-files-of-musso...&quot;)...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: interestingengineering.com  
    Title: worlds first ufo crash happened in italy claim  
-   Link: <a href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow">https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World&#x27;s first UFO crash happened in Italy, 14 years before...10 Jul 2023 — The world&#x27;s first crash of an unidentified flying object (UFO...</p></details>
+   Link:<a href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow">https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World&#x27;s first UFO crash happened in Italy, 14 years before...10 Jul 2023 — The world&#x27;s first crash of an unidentified flying object (UFO...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: news.yahoo.com  
    Title: researcher says first ufo really 191900523  
-   Link: <a href="https://news.yahoo.com/researcher-says-first-ufo-really-191900523.html" target="_blank" rel="noopener noreferrer nofollow">https://news.yahoo.com/researcher-says-first-ufo-really-191900523.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Yahoo NewsA Researcher Says the First UFO Really Crashed in Italy...6 Jul 2023 — &quot;I and my colleague Alfredo Lissoni began investigating...</p></details>
+   Link:<a href="https://news.yahoo.com/researcher-says-first-ufo-really-191900523.html" target="_blank" rel="noopener noreferrer nofollow">https://news.yahoo.com/researcher-says-first-ufo-really-191900523.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Yahoo NewsA Researcher Says the First UFO Really Crashed in Italy...6 Jul 2023 — &quot;I and my colleague Alfredo Lissoni began investigating...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DVYMSf-CJ0F/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVYMSf-CJ0F/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e 13. Transcript. Grusch is not the only one to reference the...</p></details>
+   Link:<a href="https://www.instagram.com/p/DVYMSf-CJ0F/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVYMSf-CJ0F/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e 13. Transcript. Grusch is not the only one to reference the...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: the-residium.com  
    Title: dr roberto pinotti on the 1933 magenta  
-   Link: <a href="https://www.the-residium.com/p/dr-roberto-pinotti-on-the-1933-magenta" target="_blank" rel="noopener noreferrer nofollow">https://www.the-residium.com/p/dr-roberto-pinotti-on-the-1933-magenta</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roberto Pinotti on the 1933 Magenta UFO Crash29 Nov 2025 — Roberto Pinotti, PhD, is an accredited sociologist, a former officer in the It...</p></details>
+   Link:<a href="https://www.the-residium.com/p/dr-roberto-pinotti-on-the-1933-magenta" target="_blank" rel="noopener noreferrer nofollow">https://www.the-residium.com/p/dr-roberto-pinotti-on-the-1933-magenta</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roberto Pinotti on the 1933 Magenta UFO Crash29 Nov 2025 — Roberto Pinotti, PhD, is an accredited sociologist, a former officer in the It...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: wantedinrome.com  
    Title: the crash that predated [roswell](&#123;&#123; 'roswell/' | relative_url &#125;&#125;) mussolinis secret ufo files  
-   Link: <a href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Between 1933 and 1940, there were many different Italian UFO sightings. In one instance, an...Read more...</p></details>
+   Link:<a href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Between 1933 and 1940, there were many different Italian UFO sightings. In one instance, an...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DVYMSf-CJ0F/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVYMSf-CJ0F/?hl=en-gb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>about flying disks and flying disc...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DVYMSf-CJ0F/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVYMSf-CJ0F/?hl=en-gb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>about flying disks and flying disc...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ufoinsight.com  
    Title: the 1933 lombardy ufo crash  
-   Link: <a href="https://www.ufoinsight.com/conspiracy/government/the-1933-lombardy-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/conspiracy/government/the-1933-lombardy-ufo-crash</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The True Origins Of The...7 May 2024 — Many people point to 1947 as being the start of the Modern UFO Era, the beginning of UFO and alie...</p></details>
+   Link:<a href="https://www.ufoinsight.com/conspiracy/government/the-1933-lombardy-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/conspiracy/government/the-1933-lombardy-ufo-crash</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The True Origins Of The...7 May 2024 — Many people point to 1947 as being the start of the Modern UFO Era, the beginning of UFO and alie...</p></details>
    Published: May 2024  

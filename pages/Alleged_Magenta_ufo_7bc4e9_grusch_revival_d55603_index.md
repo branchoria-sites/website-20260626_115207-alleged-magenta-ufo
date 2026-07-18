@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /alleged-magenta-ufo-7bc4e9-grusch/
 description: Focused pages that expand on Grusch.
-date: '2026-06-26'
+date: '2026'
 layout: default
 parent_basename: Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603
 parent_title: Grusch
@@ -16,7 +16,7 @@ parent_permalink: /grusch/
 
 # Explore Topics in Grusch
 
-The following pages expand on the main **[Grusch]({{ '/grusch/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Grusch]({{ '/grusch/' | relative_url }})** page and cover its key branches in.
 
 - [AARO Clash]({{ '/aaro-clash/' | relative_url }})
 - [Oversight]({{ '/oversight/' | relative_url }})

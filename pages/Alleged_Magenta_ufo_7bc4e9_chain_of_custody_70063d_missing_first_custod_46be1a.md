@@ -284,7 +284,7 @@ The weakest point in the alleged 1933 Magenta UFO crash narrative is not the cla
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_missing_first_custod_46be1a-Illustration-1-dark.svg" | relative_url }}" alt="First Custodian illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_missing_first_custod_46be1a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_missing_first_custod_46be1a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In the Magenta story, no publicly verifiable record identifies who first secured the alleged craft, who authorised its collection, how it was transported from the site, or where it was initially logged. Instead, published accounts begin much later with anonymously supplied documents describing a supposed Fascist-era recovery programme. That distinction is crucial: documents discussing an event are not the same as documented custody of a physical object. Even [supporters]({{ 'supporters/' | relative_url }}) of the case generally describe the recovery sequence in broad terms rather than through named, contemporaneous custodians, while critics identify this gap as one of the principal reasons the alleged wreckage cannot be independently tested. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Robert...</span></span></span>
+In the Magenta story, no publicly verifiable record identifies who first secured the alleged craft, who authorised its collection, how it was transported from the site, or where it was initially logged. Instead, published accounts begin much later with anonymously supplied documents describing a supposed Fascist-era recovery programme. That distinction is crucial: documents discussing an event are not the same as documented custody of a physical object. Even [supporters]({{ 'supporters/' | relative_url }}) of the case generally describe the recovery sequence in broad terms rather than through named, contemporaneous custodians, while critics identify this gap as one of the principal reasons the alleged wreckage cannot be independently tested.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Robert...</span></span></span>
 
 ## Why the first custodian determines the evidence value
 
@@ -303,7 +303,7 @@ In forensic practice, the first custodian performs several essential functions s
 
 Without that first documented possession, every subsequent claim becomes detached from the original event. Even if later storage records existed, they could not demonstrate that the stored object was actually the one recovered near Magenta rather than another item introduced later.
 
-This is why the Magenta case differs from a simple historical mystery. The central question is not merely whether officials discussed an unusual incident in 1933, but whether any physical object can be traced continuously from the reported recovery to later examination. No publicly available documentation currently provides that trace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Robert...</span></span></span>
+This is why the Magenta case differs from a simple historical mystery. The central question is not merely whether officials discussed an unusual incident in 1933, but whether any physical object can be traced continuously from the reported recovery to later examination. No publicly available documentation currently provides that trace.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Robert...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FuHl3oc1PX0" title="UFO FILES di TRUMP: ho analizzato i 162 DOCUMENTI SEGRETI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FuHl3oc1PX0" target="_blank" rel="noopener noreferrer">UFO FILES di TRUMP: ho analizzato i 162 DOCUMENTI SEGRETI</a></p><p class="youtube-embed-meta">Channel: AstroViktor</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FuHl3oc1PX0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FuHl3oc1PX0">Open on YouTube</a></p></div></div></div>
@@ -330,13 +330,13 @@ Second, the recovery itself should be documented through routine administrative 
 
 Third, the object itself would need an identifiable description recorded before later transfers. Even a simple inventory describing dimensions, visible damage or distinguishing characteristics would allow later records to be compared against the original recovery.
 
-None of these elements has been publicly demonstrated for the alleged Magenta wreckage. Instead, the published narrative moves from an alleged crash to later discussions of secret government activity without identifying the individual or unit that first exercised physical control over the purported craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Robert...</span></span></span>
+None of these elements has been publicly demonstrated for the alleged Magenta wreckage. Instead, the published narrative moves from an alleged crash to later discussions of secret government activity without identifying the individual or unit that first exercised physical control over the purported craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Robert...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_missing_first_custod_46be1a-Illustration-2-dark.svg" | relative_url }}" alt="First Custodian illustration 2" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_missing_first_custod_46be1a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_missing_first_custod_46be1a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the published Magenta narrative actually identifies
 
-Roberto Pinotti's published account states that he and Alfredo Lissoni received anonymous documents during the 1990s describing a secret Fascist investigation into an alleged 1933 crash. Those documents refer to government communications, secrecy measures and the purported [Cabinet]({{ 'rs-33/' | relative_url }}) RS/33, but they do not publicly establish the identity of the first recovery team responsible for taking custody of the object itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Robert...</span></span></span>
+Roberto Pinotti's published account states that he and Alfredo Lissoni received anonymous documents during the 1990s describing a secret Fascist investigation into an alleged 1933 crash. Those documents refer to government communications, secrecy measures and the purported [Cabinet]({{ 'rs-33/' | relative_url }}) RS/33, but they do not publicly establish the identity of the first recovery team responsible for taking custody of the object itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Robert...</span></span></span>
 
 [Later retellings]({{ 'later-retellings/' | relative_url }}) often state that the craft was supposedly transported to SIAI-Marchetti facilities at Vergiate for examination. However, this is already a later stage in the alleged custody sequence. It presupposes that someone recovered, secured, packaged and transported the object beforehand.
 
@@ -354,13 +354,13 @@ That earlier stage remains largely undescribed. There is no publicly verifiable 
 
 </div>
 
-Consequently, the transition from crash site to alleged storage remains an evidential gap rather than a documented sequence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault+2Il Fatto Quotidiano]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Robert...</span></span></span>
+Consequently, the transition from crash site to alleged storage remains an evidential gap rather than a documented sequence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault+2Il Fatto Quotidiano]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Robert...</span></span></span>
 
 ## Why anonymity leaves the alleged wreckage untestable
 
 [Anonymous sources]({{ 'anonymous-source/' | relative_url }}) can be valuable starting points for historical research, particularly when they point investigators towards previously unknown archives. However, anonymity cannot substitute for documented custody of a physical artefact.
 
-The Magenta documents themselves originated from an anonymous sender, according to Pinotti's account. Even assuming those papers were authentic historical documents, they would establish at most that someone reported or discussed an unusual event. They would not identify the continuous possession of a particular object recovered in 1933. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Robert...</span></span></span>
+The Magenta documents themselves originated from an anonymous sender, according to Pinotti's account. Even assuming those papers were authentic historical documents, they would establish at most that someone reported or discussed an unusual event. They would not identify the continuous possession of a particular object recovered in 1933.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Robert...</span></span></span>
 
 The distinction matters because three separate evidential questions are often merged together:
 
@@ -381,9 +381,9 @@ The missing first custodian affects only the third question, but it is the decis
 
 Because the first custodian has never been publicly identified, several later claims cannot presently be verified.
 
-For example, accounts asserting that the wreckage remained at SIAI-Marchetti until the end of the Second World War depend upon accepting an undocumented transfer into storage. Likewise, later assertions that American forces removed the craft after Italy's liberation assume an earlier [custody chain]({{ 'custody-chain/' | relative_url }}) that has never been independently established. The absence of the original recovery record therefore affects every later stage of the narrative, regardless of whether those later claims are considered plausible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault+2Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Robert...</span></span></span>
+For example, accounts asserting that the wreckage remained at SIAI-Marchetti until the end of the Second World War depend upon accepting an undocumented transfer into storage. Likewise, later assertions that American forces removed the craft after Italy's liberation assume an earlier [custody chain]({{ 'custody-chain/' | relative_url }}) that has never been independently established. The absence of the original recovery record therefore affects every later stage of the narrative, regardless of whether those later claims are considered plausible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault+2Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Robert...</span></span></span>
 
-This is one reason sceptical historians and investigators argue that the Magenta case remains fundamentally unverified. They point not simply to questions about the authenticity of the documents themselves, but to the complete absence of a publicly demonstrable custody trail beginning at the alleged recovery scene. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://it.wikipedia.org/wiki/Incidente_di_Magenta" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente di Magenta</span><span class="citation-popover-snippet">Incidente di Magenta</span></span></span>
+This is one reason sceptical historians and investigators argue that the Magenta case remains fundamentally unverified. They point not simply to questions about the authenticity of the documents themselves, but to the complete absence of a publicly demonstrable custody trail beginning at the alleged recovery scene.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://it.wikipedia.org/wiki/Incidente_di_Magenta" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente di Magenta</span><span class="citation-popover-snippet">Incidente di Magenta</span></span></span>
 
 ## What evidence could close the gap
 
@@ -402,185 +402,185 @@ Evidence that would materially strengthen the custody chain would include:
 
 </div>
 
-Until documentation of that kind becomes available, the identity of the first custodian remains unknown in the public record. That missing first link prevents the alleged Magenta wreckage from meeting the standard of a traceable chain of custody and leaves the physical-object claim untestable, regardless of continuing debate over the accompanying documents or broader historical narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Robert...</span></span></span>
+Until documentation of that kind becomes available, the identity of the first custodian remains unknown in the public record. That missing first link prevents the alleged Magenta wreckage from meeting the standard of a traceable chain of custody and leaves the physical-object claim untestable, regardless of continuing debate over the accompanying documents or broader historical narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Robert...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eKZ2U3lkJ9o" title="Secret UFO Files of Fascist Italy | Mussolini&#x27;s UFO Cabinet RS/33 Revealed | Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eKZ2U3lkJ9o" target="_blank" rel="noopener noreferrer">Secret UFO Files of Fascist Italy | Mussolini&#x27;s UFO Cabinet RS/33 Revealed | Full Documentary</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eKZ2U3lkJ9o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eKZ2U3lkJ9o">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who First Held the Alleged Magenta Wreckage?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who First Held the Alleged Magenta Wreckage?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Highlights the value of documented sources and verifiable testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights the value of documented sources and verifiable testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Examines how physical artifacts and narratives are treated in UFO discourse.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how physical artifacts and narratives are treated in UFO discourse.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Emphasizes careful investigation rather than unsupported assertion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes careful investigation rather than unsupported assertion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Forensic+Science+%3A+from+the+Crime+Scene+to+the+Crime+Lab+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensic Science : from the Crime Scene to the Crime Lab on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Forensic+Science+%3A+from+the+Crime+Scene+to+the+Crime+Lab+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic Science : from the Crime Scene to the Crime Lab">Forensic Science : from the Crime Scene to the Crime Lab</a>
-        </h4>
-        <p class="fr-book-author">By Richard Saferstein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Forensic+Science+%3A+from+the+Crime+Scene+to+the+Crime+Lab+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensic Science : from the Crime Scene to the Crime Lab on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Forensic+Science+%3A+from+the+Crime+Scene+to+the+Crime+Lab+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic Science : from the Crime Scene to the Crime Lab">Forensic Science : from the Crime Scene to the Crime Lab</a>
+</h4>
+<p class="fr-book-author">By Richard Saferstein</p>
         
-        <p class="fr-book-desc">First published 2013.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Forensic+Science+%3A+from+the+Crime+Scene+to+the+Crime+Lab+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2013.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Forensic+Science+%3A+from+the+Crime+Scene+to+the+Crime+Lab+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="first-custodian-who-first-held-the-alleged-magenta-wreckage-alleged-magenta-ufo-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -596,7 +596,7 @@ Until documentation of that kind becomes available, the identity of the first cu
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -616,7 +616,7 @@ Until documentation of that kind becomes available, the identity of the first cu
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -648,7 +648,7 @@ Until documentation of that kind becomes available, the identity of the first cu
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -700,7 +700,7 @@ Until documentation of that kind becomes available, the identity of the first cu
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -745,7 +745,7 @@ Until documentation of that kind becomes available, the identity of the first cu
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -786,94 +786,94 @@ Until documentation of that kind becomes available, the identity of the first cu
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Incidente di Magenta  
-   Link: <a href="https://it.wikipedia.org/wiki/Incidente_di_Magenta" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Incidente_di_Magenta</a>  
+   Link:<a href="https://it.wikipedia.org/wiki/Incidente_di_Magenta" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Incidente_di_Magenta</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: UFO sightings in Italy  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in ItalyIn 2000, Roberto Pinotti published material regarding the so-called &quot;Fascist UFO... One witness said the UFOs w...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in ItalyIn 2000, Roberto Pinotti published material regarding the so-called &quot;Fascist UFO... One witness said the UFOs w...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: UFO crash  
-   Link: <a href="https://it.wikipedia.org/wiki/UFO_crash" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/UFO_crash</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO crashTuttavia, tra il grande pubblico, il termine &quot;UFO&quot; è ormai spesso associato all&#x27;origine aliena; di conseguenza, anche l&#x27;espre...</p></details>
+   Link:<a href="https://it.wikipedia.org/wiki/UFO_crash" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/UFO_crash</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO crashTuttavia, tra il grande pubblico, il termine &quot;UFO&quot; è ormai spesso associato all&#x27;origine aliena; di conseguenza, anche l&#x27;espre...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: theblackvault.com  
    Title: the ufo files of mussolini [fascist ufo files](&#123;&#123; 'fascist-files/' | relative_url &#125;&#125;) by roberto pinotti  
-   Link: <a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Robert...</p></details>
+   Link:<a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Robert...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: popularmechanics.com  
-   Link: <a href="https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Popular MechanicsResearcher Says He Has Evidence of a 1933 UFO Crash...6 Jul 2023 — Is Italy—not Roswell, New Mexico—the actual site of...</p></details>
+   Link:<a href="https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Popular MechanicsResearcher Says He Has Evidence of a 1933 UFO Crash...6 Jul 2023 — Is Italy—not Roswell, New Mexico—the actual site of...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ilfattoquotidiano.it  
    Title: ufo in italia loggetto volante secretato da mussolini lenigma dei piloti alieni  
-   Link: <a href="https://www.ilfattoquotidiano.it/2017/03/21/ufo-in-italia-loggetto-volante-secretato-da-mussolini-lenigma-dei-piloti-alieni/3465633/" target="_blank" rel="noopener noreferrer nofollow">https://www.ilfattoquotidiano.it/2017/03/21/ufo-in-italia-loggetto-volante-secretato-da-mussolini-lenigma-dei-piloti-alieni/3465633/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufo in Italia, l&#x27;oggetto volante secretato da Benito Mussolini...21 Mar 2017 — L&#x27;ultima “strana” storia che riguarda gli Ufo l&#x27;ha raccon...</p></details>
+   Link:<a href="https://www.ilfattoquotidiano.it/2017/03/21/ufo-in-italia-loggetto-volante-secretato-da-mussolini-lenigma-dei-piloti-alieni/3465633/" target="_blank" rel="noopener noreferrer nofollow">https://www.ilfattoquotidiano.it/2017/03/21/ufo-in-italia-loggetto-volante-secretato-da-mussolini-lenigma-dei-piloti-alieni/3465633/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ufo in Italia, l&#x27;oggetto volante secretato da Benito Mussolini...21 Mar 2017 — L&#x27;ultima “strana” storia che riguarda gli Ufo l&#x27;ha raccon...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
    Title: david [grusch](&#123;&#123; 'grusch/' | relative_url &#125;&#125;) 1933 was the first ufo crash recovery in europe in magenta italy th  
-   Link: <a href="https://www.facebook.com/Interstellaruap/posts/david-grusch-1933-was-the-first-ufo-crash-recovery-in-europe-in-magenta-italy-th/122117462811272336/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Interstellaruap/posts/david-grusch-1933-was-the-first-ufo-crash-recovery-in-europe-in-magenta-italy-th/122117462811272336/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch: &quot;1933 was the first UFO Crash recovery...Translated article: [https://tinyurl.com/LAP1933](https://tinyurl.com/LAP1933) 1933 case on the Black Vault: htt...</p></details>
+   Link:<a href="https://www.facebook.com/Interstellaruap/posts/david-grusch-1933-was-the-first-ufo-crash-recovery-in-europe-in-magenta-italy-th/122117462811272336/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Interstellaruap/posts/david-grusch-1933-was-the-first-ufo-crash-recovery-in-europe-in-magenta-italy-th/122117462811272336/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch: &quot;1933 was the first UFO Crash recovery...Translated article: [https://tinyurl.com/LAP1933](https://tinyurl.com/LAP1933) 1933 case on the Black Vault: htt...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: wantedinrome.com  
-   Link: <a href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...2 Mar 2026 — The Secret Crash That Predated Roswell: Mussolini&#x27;s UFO Files...</p></details>
+   Link:<a href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...2 Mar 2026 — The Secret Crash That Predated Roswell: Mussolini&#x27;s UFO Files...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_grusch_and_the_italian_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_grusch_and_the_italian_ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch&#x27;s Most Overlooked Statement - The 1933 UFO Recovery from Magenta. 1:00. 824.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_grusch_and_the_italian_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_grusch_and_the_italian_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch&#x27;s Most Overlooked Statement - The 1933 UFO Recovery from Magenta. 1:00. 824.Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: the-residium.com  
    Title: dr roberto pinotti on the 1933 magenta  
-   Link: <a href="https://www.the-residium.com/p/dr-roberto-pinotti-on-the-1933-magenta" target="_blank" rel="noopener noreferrer nofollow">https://www.the-residium.com/p/dr-roberto-pinotti-on-the-1933-magenta</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roberto Pinotti on the 1933 Magenta UFO Crash29 Nov 2025 — Dr. Roberto Pinotti on the 1933 Magenta UFO Crash · Leading ufologist details...</p></details>
+   Link:<a href="https://www.the-residium.com/p/dr-roberto-pinotti-on-the-1933-magenta" target="_blank" rel="noopener noreferrer nofollow">https://www.the-residium.com/p/dr-roberto-pinotti-on-the-1933-magenta</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roberto Pinotti on the 1933 Magenta UFO Crash29 Nov 2025 — Dr. Roberto Pinotti on the 1933 Magenta UFO Crash · Leading ufologist details...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchomnia.blogspot.com  
-   Link: <a href="https://researchomnia.blogspot.com/2017/04/the-truth-about-ufo-in-1933-italy.html" target="_blank" rel="noopener noreferrer nofollow">https://researchomnia.blogspot.com/2017/04/the-truth-about-ufo-in-1933-italy.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE TRUTH ABOUT THE UFO IN 1933 ITALY12 Apr 2017 — The UFO problem was created after WW2, mainly after the famous Roswell crash....but in...</p></details>
+   Link:<a href="https://researchomnia.blogspot.com/2017/04/the-truth-about-ufo-in-1933-italy.html" target="_blank" rel="noopener noreferrer nofollow">https://researchomnia.blogspot.com/2017/04/the-truth-about-ufo-in-1933-italy.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE TRUTH ABOUT THE UFO IN 1933 ITALY12 Apr 2017 — The UFO problem was created after WW2, mainly after the famous Roswell crash....but in...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Secret UFO Files of Fascist Italy | Mussolini's UFO Cabinet RS/33 Revealed  
-   Link: <a href="https://www.youtube.com/watch?v=eKZ2U3lkJ9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eKZ2U3lkJ9o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trump&#x27;s UFO Files: I analyzed the 162 secret documents...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eKZ2U3lkJ9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eKZ2U3lkJ9o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trump&#x27;s UFO Files: I analyzed the 162 secret documents...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aol.com  
    Title: researcher says first ufo really 130000038  
-   Link: <a href="https://www.aol.com/researcher-says-first-ufo-really-130000038.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/researcher-says-first-ufo-really-130000038.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>But the alien craft, Pinotti said, was captured by American...Read more...</p></details>
+   Link:<a href="https://www.aol.com/researcher-says-first-ufo-really-130000038.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/researcher-says-first-ufo-really-130000038.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>But the alien craft, Pinotti said, was captured by American...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sofmag.com  
    Title: ufo crash magenta italy 1933  
-   Link: <a href="https://sofmag.com/ufo-crash-magenta-italy-1933/" target="_blank" rel="noopener noreferrer nofollow">https://sofmag.com/ufo-crash-magenta-italy-1933/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Austin Lee... The RS/33 reports noted DNA-like structures in the Magenta occupants.Read more...</p></details>
+   Link:<a href="https://sofmag.com/ufo-crash-magenta-italy-1933/" target="_blank" rel="noopener noreferrer nofollow">https://sofmag.com/ufo-crash-magenta-italy-1933/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Austin Lee... The RS/33 reports noted DNA-like structures in the Magenta occupants.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Trump's UFO Files: I analyzed the 162 secret documents  
-   Link: <a href="https://www.youtube.com/watch?v=FuHl3oc1PX0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FuHl3oc1PX0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Road to Disclosure FULL SHOW | Reality Check with Ross Coulthart...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FuHl3oc1PX0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FuHl3oc1PX0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Road to Disclosure FULL SHOW | Reality Check with Ross Coulthart...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: skeptoid.com  
-   Link: <a href="https://skeptoid.com/episodes/900" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/900</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mussolini&#x27;s Aliens5 Sept 2023 — Mussolini&#x27;s Aliens. Donate How an old Italian UFO hoax became proof of alien visitation to the US Congres...</p></details>
+   Link:<a href="https://skeptoid.com/episodes/900" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/900</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mussolini&#x27;s Aliens5 Sept 2023 — Mussolini&#x27;s Aliens. Donate How an old Italian UFO hoax became proof of alien visitation to the US Congres...</p></details>

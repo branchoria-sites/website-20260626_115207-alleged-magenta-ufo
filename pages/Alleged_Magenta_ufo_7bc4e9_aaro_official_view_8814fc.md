@@ -441,7 +441,7 @@ image: /assets/images/Alleged_Magenta_ufo_7bc4e9_aaro_official_view_8814fc-overv
 
 ## Introduction
 
-AARO’s findings matter for the [alleged Magenta UFO]({{ 'alleged-magenta-ufo/' | relative_url }}) crash because they set the official United States baseline against which the claim is now judged. The Magenta story says that a craft recovered in Fascist Italy in 1933 was later obtained by the United States during the final phase of the Second World War. AARO, the Pentagon’s All-domain Anomaly Resolution Office, did not publicly authenticate that story, and its 2024 historical review found no verified evidence that any US government investigation had confirmed extraterrestrial technology, recovered off-world craft, alien bodies, or a hidden [reverse-engineering]({{ 'reverse-engineering/' | relative_url }}) programme. That does not prove that no unusual event happened near Magenta. It does mean that, under current official review standards, the claim remains unverified and sits outside the evidence threshold used by US investigators. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report</span></span></span>
+AARO’s findings matter for the [alleged Magenta UFO]({{ 'alleged-magenta-ufo/' | relative_url }}) crash because they set the official United States baseline against which the claim is now judged. The Magenta story says that a craft recovered in Fascist Italy in 1933 was later obtained by the United States during the final phase of the Second World War. AARO, the Pentagon’s All-domain Anomaly Resolution Office, did not publicly authenticate that story, and its 2024 historical review found no verified evidence that any US government investigation had confirmed extraterrestrial technology, recovered off-world craft, alien bodies, or a hidden [reverse-engineering]({{ 'reverse-engineering/' | relative_url }}) programme. That does not prove that no unusual event happened near Magenta. It does mean that, under current official review standards, the claim remains unverified and sits outside the evidence threshold used by US investigators.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_aaro_official_view_8814fc-overview.webp" | relative_url }}" alt="Overview image for AARO" loading="eager" decoding="sync" fetchpriority="high">
@@ -449,9 +449,9 @@ AARO’s findings matter for the [alleged Magenta UFO]({{ 'alleged-magenta-ufo/'
 
 AARO’s March 2024 historical report reviewed US government involvement with unidentified anomalous phenomena, or UAP, from 1945 onwards. That date is important for Magenta: the alleged Italian incident is said to have happened in 1933, before the period AARO formally reviewed, but the wider claim usually includes a later US acquisition of the object in 1944 or 1945. If such a handover had generated a US crash-retrieval or reverse-engineering programme, it would be the kind of claim AARO’s review was designed to test.
 
-AARO said it reviewed official US investigatory efforts since 1945, searched classified and unclassified archives, conducted roughly thirty interviews, and worked with officials responsible for controlled and special access programme [oversight]({{ 'oversight/' | relative_url }}). Its executive summary found no evidence that a US government investigation, academic-sponsored study, or official review panel had confirmed any UAP sighting as extraterrestrial technology. It also said most cases investigated by official programmes were ultimately ordinary objects or phenomena, often left unresolved because the data were poor rather than because the object was extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report</span></span></span>
+AARO said it reviewed official US investigatory efforts since 1945, searched classified and unclassified archives, conducted roughly thirty interviews, and worked with officials responsible for controlled and special access programme [oversight]({{ 'oversight/' | relative_url }}). Its executive summary found no evidence that a US government investigation, academic-sponsored study, or official review panel had confirmed any UAP sighting as extraterrestrial technology. It also said most cases investigated by official programmes were ultimately ordinary objects or phenomena, often left unresolved because the data were poor rather than because the object was extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report</span></span></span>
 
-The office also addressed the most relevant category for Magenta: claims of recovered craft and reverse engineering. AARO reported “no empirical evidence” that the US government or private companies had been reverse-engineering extraterrestrial technology. It said it had checked named people, locations, documents, companies and alleged technical tests supplied by interviewees, and found the specific claims it could test to be inaccurate or based on misread real programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report</span></span></span>
+The office also addressed the most relevant category for Magenta: claims of recovered craft and reverse engineering. AARO reported “no empirical evidence” that the US government or private companies had been reverse-engineering extraterrestrial technology. It said it had checked named people, locations, documents, companies and alleged technical tests supplied by interviewees, and found the specific claims it could test to be inaccurate or based on misread real programmes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report</span></span></span>
 
 That conclusion does not name Magenta as a solved historical case. Instead, it weakens the broader architecture on which the Magenta claim now depends: the idea that the United States inherited or incorporated an Italian recovery into a continuing classified possession-and-exploitation programme.
 
@@ -461,9 +461,9 @@ That conclusion does not name Magenta as a solved historical case. Instead, it w
 
 The Magenta claim has two different evidential layers. The first is Italian and historical: anonymous or late-surfacing documents, claims about [Cabinet]({{ 'rs-33/' | relative_url }}) RS/33, and allegations involving Fascist-era secrecy. The second is American and institutional: the assertion that US authorities later acquired the object and folded it into a secret crash-retrieval system. AARO’s findings mainly bear on the second layer.
 
-This distinction matters because the strongest modern public boost to the Magenta story came not from Italian archives but from the US whistleblower debate. David [Grusch]({{ 'grusch/' | relative_url }})’s official written statement to Congress said he had been informed, in the course of his duties, of a “multi-decade UAP crash retrieval and reverse engineering programme” to which he was denied access. His statement said his information came from individuals he considered credible, but also made clear that he was speaking to “facts as I have been told them” rather than presenting publicly testable material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Microsoft Word</span><span class="citation-popover-snippet">Oversight Committee Microsoft Word</span></span></span>
+This distinction matters because the strongest modern public boost to the Magenta story came not from Italian archives but from the US whistleblower debate. David [Grusch]({{ 'grusch/' | relative_url }})’s official written statement to Congress said he had been informed, in the course of his duties, of a “multi-decade UAP crash retrieval and reverse engineering programme” to which he was denied access. His statement said his information came from individuals he considered credible, but also made clear that he was speaking to “facts as I have been told them” rather than presenting publicly testable material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Microsoft Word</span><span class="citation-popover-snippet">Oversight Committee Microsoft Word</span></span></span>
 
-AARO’s answer to that general class of allegation was sceptical. It found that some interviewees had named real classified programmes, but had wrongly associated them with alien or extraterrestrial activity. It also concluded that several modern claims about hidden reverse-engineering efforts came from overlapping networks of people involved in earlier UAP-related efforts, which AARO characterised as a pattern of circular reporting: people repeating or reinforcing the same claims without providing empirical evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report</span></span></span>
+AARO’s answer to that general class of allegation was sceptical. It found that some interviewees had named real classified programmes, but had wrongly associated them with alien or extraterrestrial activity. It also concluded that several modern claims about hidden reverse-engineering efforts came from overlapping networks of people involved in earlier UAP-related efforts, which AARO characterised as a pattern of circular reporting: people repeating or reinforcing the same claims without providing empirical evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report</span></span></span>
 
 For Magenta, that creates a governance problem rather than merely a historical one. If the alleged Italian craft entered US [custody]({{ 'custody/' | relative_url }}), there should, in principle, be a trail somewhere in programme authorisations, contractor access, special access oversight, materials analysis, budgetary channels, oral histories, or archival fragments. AARO says it looked across the relevant US structures and did not find verifiable support for that category of claim.
 
@@ -472,11 +472,11 @@ For Magenta, that creates a governance problem rather than merely a historical o
 
 ## The “Kona Blue” example shows how belief can become policy pressure
 
-One of AARO’s most useful examples for understanding official scepticism is [Kona Blue]({{ 'kona-blue/' | relative_url }}), a proposed Department of Homeland Security special access programme. According to AARO, Kona Blue was promoted by people who believed the US government was hiding UAP technologies and wanted a structure into which recovered off-world material could be moved. The proposal gained some administrative traction, but AARO says it was rejected for lack of merit and that no extraterrestrial craft or bodies were ever collected under it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report</span></span></span>
+One of AARO’s most useful examples for understanding official scepticism is [Kona Blue]({{ 'kona-blue/' | relative_url }}), a proposed Department of Homeland Security special access programme. According to AARO, Kona Blue was promoted by people who believed the US government was hiding UAP technologies and wanted a structure into which recovered off-world material could be moved. The proposal gained some administrative traction, but AARO says it was rejected for lack of merit and that no extraterrestrial craft or bodies were ever collected under it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report</span></span></span>
 
 This example matters for Magenta because it shows how a retrieval narrative can influence government processes without proving the underlying event. A claim can be serious enough to generate briefings, proposals, compartment requests or congressional interest, yet still fail when investigators ask whether any physical material, authenticated documentation or legally established programme actually exists.
 
-AARO also reported that one intelligence-community controlled access programme was expanded in 2021 to include a UAP reverse-engineering mission without sufficient justification, and that the programme never recovered or reverse-engineered UAP technology, let alone off-world spacecraft. That is a concrete example of official scepticism aimed not at [witnesses]({{ 'witnesses/' | relative_url }})’ sincerity, but at the gap between belief, programme language and evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report</span></span></span>
+AARO also reported that one intelligence-community controlled access programme was expanded in 2021 to include a UAP reverse-engineering mission without sufficient justification, and that the programme never recovered or reverse-engineered UAP technology, let alone off-world spacecraft. That is a concrete example of official scepticism aimed not at [witnesses]({{ 'witnesses/' | relative_url }})’ sincerity, but at the gap between belief, programme language and evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report</span></span></span>
 
 Applied to Magenta, the lesson is direct: the existence of rumours, briefings, proposed compartments or classified-sounding names does not by itself establish a recovered craft. It may instead show how a claim circulates through institutions, especially when access restrictions prevent outsiders from easily distinguishing real secrets from mistaken inferences about real secrets.
 
@@ -484,11 +484,11 @@ Applied to Magenta, the lesson is direct: the existence of rumours, briefings, p
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_aaro_official_view_8814fc-Illustration-2-dark.svg" | relative_url }}" alt="AARO illustration 2" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_aaro_official_view_8814fc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_aaro_official_view_8814fc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## NASA’s scientific caution reinforces the same standard
 
-AARO is not the only official body to resist jumping from “unidentified” to “extraterrestrial”. NASA’s independent UAP study team published its final report in September 2023 and framed the issue as a data problem: eyewitness reports may be interesting, but they are usually not reproducible and often lack the information needed to determine an object’s origin. The report said there was no conclusive evidence in peer-reviewed scientific literature suggesting an extraterrestrial origin for UAP, and that extraterrestrial life should be treated as a hypothesis of last resort after other explanations have been ruled out. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+AARO is not the only official body to resist jumping from “unidentified” to “extraterrestrial”. NASA’s independent UAP study team published its final report in September 2023 and framed the issue as a data problem: eyewitness reports may be interesting, but they are usually not reproducible and often lack the information needed to determine an object’s origin. The report said there was no conclusive evidence in peer-reviewed scientific literature suggesting an extraterrestrial origin for UAP, and that extraterrestrial life should be treated as a hypothesis of last resort after other explanations have been ruled out.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
 NASA’s position is especially relevant to Magenta because the case depends heavily on historical testimony, alleged documents and later interpretation rather than a publicly available object, chain of custody, laboratory result or authenticated official file. A scientifically cautious approach would not dismiss the claim merely because it sounds strange. It would ask what data exist, whether the documents can be traced, whether the material can be tested, and whether the story produces independent, converging evidence.
 
-NASA’s public UAP page also stresses open scientific inquiry, better data collection and methods for improving future analysis. That is a different kind of scepticism from ridicule. It leaves room for unknown aerial phenomena to be studied while resisting the unsupported leap to alien technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">Science UAP</span></span></span>
+NASA’s public UAP page also stresses open scientific inquiry, better data collection and methods for improving future analysis. That is a different kind of scepticism from ridicule. It leaves room for unknown aerial phenomena to be studied while resisting the unsupported leap to alien technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">Science UAP</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bR0PaotZxD0" title="NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer">NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL</a></p><p class="youtube-embed-meta">Channel: Global News &middot; Views: 37.7K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bR0PaotZxD0">Open on YouTube</a></p></div></div></div>
@@ -497,7 +497,7 @@ NASA’s public UAP page also stresses open scientific inquiry, better data coll
 
 The strongest fair reading of AARO is not “Magenta definitely did not happen”. It is narrower and more defensible: AARO has not verified the official US-retrieval and reverse-engineering framework that would make Magenta part of a known hidden programme. That distinction matters because absence of verification is not identical to proof of absence.
 
-There are several reasons a real historical event might fail to appear cleanly in modern records: wartime transfers could be poorly documented, classified records may be incomplete, archives may be misfiled, and oral histories can decay. AARO itself acknowledges that many UAP reports remain unresolved or unidentified, and that better data would probably allow more cases to be resolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report</span></span></span>
+There are several reasons a real historical event might fail to appear cleanly in modern records: wartime transfers could be poorly documented, classified records may be incomplete, archives may be misfiled, and oral histories can decay. AARO itself acknowledges that many UAP reports remain unresolved or unidentified, and that better data would probably allow more cases to be resolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report</span></span></span>
 
 But the same caution cuts both ways. Poor records do not turn a claim into evidence. A missing file can be consistent with secrecy, but it can also be consistent with error, embellishment, hoax, mistaken identity, folklore, or a story built from fragments of unrelated real events. For the Magenta claim to move beyond allegation, it would need something that survives independent testing: authenticated Italian or US archival records, a reliable chain of custody, named first-hand witnesses with corroborating documentation, or physical material whose provenance and properties can be examined openly.
 
@@ -522,201 +522,201 @@ The practical assessment is:
 
 </div>
 
-Sean Kirkpatrick, AARO’s former director, later argued in Scientific American that UAP should be investigated without being captured by conspiracy narratives about extraterrestrials. That is a useful summary of the official sceptical stance: investigate unknowns, improve data, protect legitimate reporting, but do not treat a retrieval legend as established history before the evidence meets the claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/we-need-to-investigate-ufos-but-without-the-distraction-of-conspiracy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[scientificamerican.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-snippet">Open source on scientificamerican.com.</span></span></span>
+Sean Kirkpatrick, AARO’s former director, later argued in Scientific American that UAP should be investigated without being captured by conspiracy narratives about extraterrestrials. That is a useful summary of the official sceptical stance: investigate unknowns, improve data, protect legitimate reporting, but do not treat a retrieval legend as established history before the evidence meets the claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/we-need-to-investigate-ufos-but-without-the-distraction-of-conspiracy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[scientificamerican.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-snippet">Open source on scientificamerican.com.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Rn39Hhyk7WE" title="Pentagon UFO files show no alien evidence, analyst says" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Rn39Hhyk7WE" target="_blank" rel="noopener noreferrer">Pentagon UFO files show no alien evidence, analyst says</a></p><p class="youtube-embed-meta">Channel: Reuters &middot; Views: 21.3K &middot; Uploaded: May 2026 &middot; Length: 1 minute 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Rn39Hhyk7WE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Rn39Hhyk7WE">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Official UAP Reviews Mean for Magenta. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Official UAP Reviews Mean for Magenta. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Explores modern US government UAP investigations and the policy context surrounding official reviews.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores modern US government UAP investigations and the policy context surrounding official reviews.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a cautious investigative framework useful for understanding evidence standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a cautious investigative framework useful for understanding evidence standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on documented military and government reporting, matching the page&#x27;s emphasis on official evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on documented military and government reporting, matching the page&#x27;s emphasis on official evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Examines how extraordinary claims interact with institutions, evidence, and belief.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how extraordinary claims interact with institutions, evidence, and belief.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aaro-what-official-uap-reviews-mean-for-magenta-alleged-magenta-ufo-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -732,7 +732,7 @@ Sean Kirkpatrick, AARO’s former director, later argued in Scientific American 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -752,7 +752,7 @@ Sean Kirkpatrick, AARO’s former director, later argued in Scientific American 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -784,7 +784,7 @@ Sean Kirkpatrick, AARO’s former director, later argued in Scientific American 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -836,7 +836,7 @@ Sean Kirkpatrick, AARO’s former director, later argued in Scientific American 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -881,7 +881,7 @@ Sean Kirkpatrick, AARO’s former director, later argued in Scientific American 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -922,111 +922,111 @@ Sean Kirkpatrick, AARO’s former director, later argued in Scientific American 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aaro.mil  
    Title: Unclassified Final DSD AARO Historical Report  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: oversight.house.gov  
    Title: Oversight Committee Microsoft Word  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.nasa.gov  
    Title: Science UAP  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: scientificamerican.com  
-   Link: <a href="https://www.scientificamerican.com/article/we-need-to-investigate-ufos-but-without-the-distraction-of-conspiracy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/we-need-to-investigate-ufos-but-without-the-distraction-of-conspiracy/</a>  
+   Link:<a href="https://www.scientificamerican.com/article/we-need-to-investigate-ufos-but-without-the-distraction-of-conspiracy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/we-need-to-investigate-ufos-but-without-the-distraction-of-conspiracy/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: oversight.house.gov  
    Title: Written Testimony Shellenberger  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf</a>  
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
    Title: EFOIA Reading Room  
-   Link: <a href="https://www.aaro.mil/EFOIA-Reading-Room/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/EFOIA-Reading-Room/</a>  
+   Link:<a href="https://www.aaro.mil/EFOIA-Reading-Room/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/EFOIA-Reading-Room/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: scientificamerican.com  
-   Link: <a href="https://www.scientificamerican.com/author/sean-kirkpatrick/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/author/sean-kirkpatrick/</a>  
+   Link:<a href="https://www.scientificamerican.com/author/sean-kirkpatrick/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/author/sean-kirkpatrick/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: war.gov  
    Title: aaro director dr sean kirkpatrick holds an off camera media roundtable  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/</a>  
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/historical" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/historical</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/historical" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/historical</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/History" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/History</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/History" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/History</a>  
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: govinfo.gov  
-   Link: <a href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm</a>  
+   Link:<a href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Pentagon UFO files show no alien evidence, analyst says  
-   Link: <a href="https://www.youtube.com/watch?v=Rn39Hhyk7WE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Rn39Hhyk7WE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s new UFO files show no evidence of aliens found...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Rn39Hhyk7WE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Rn39Hhyk7WE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s new UFO files show no evidence of aliens found...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Pentagon's new UFO files show no evidence of aliens found  
-   Link: <a href="https://www.youtube.com/watch?v=yY-iebpKygk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yY-iebpKygk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Pentagon UFO files: 6 videos worth watching...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yY-iebpKygk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yY-iebpKygk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Pentagon UFO files: 6 videos worth watching...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: New Pentagon UFO files: 6 videos worth watching  
-   Link: <a href="https://www.youtube.com/watch?v=E2mbrMlVN5A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E2mbrMlVN5A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Third batch of Pentagon UFO files released: See all 6 videos...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=E2mbrMlVN5A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E2mbrMlVN5A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Third batch of Pentagon UFO files released: See all 6 videos...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Pentagon report says no evidence of UFOs, aliens  
-   Link: <a href="https://www.youtube.com/watch?v=_CeM5zsaCIc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_CeM5zsaCIc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO files show no alien evidence, analyst says...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_CeM5zsaCIc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_CeM5zsaCIc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO files show no alien evidence, analyst says...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: uapledger.com  
-   Link: <a href="https://uapledger.com/documents/aaro-historical-record-volume-1" target="_blank" rel="noopener noreferrer nofollow">https://uapledger.com/documents/aaro-historical-record-volume-1</a>  
+   Link:<a href="https://uapledger.com/documents/aaro-historical-record-volume-1" target="_blank" rel="noopener noreferrer nofollow">https://uapledger.com/documents/aaro-historical-record-volume-1</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/thesaurus/historical" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/thesaurus/historical</a>  
+   Link:<a href="https://www.merriam-webster.com/thesaurus/historical" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/thesaurus/historical</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/videos/in-this-special-edition-of-reality-check-newsnation-special-correspondent-ross-c/1312978300995466/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/videos/in-this-special-edition-of-reality-check-newsnation-special-correspondent-ross-c/1312978300995466/</a>  
+   Link:<a href="https://www.facebook.com/NewsNationNow/videos/in-this-special-edition-of-reality-check-newsnation-special-correspondent-ross-c/1312978300995466/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/videos/in-this-special-edition-of-reality-check-newsnation-special-correspondent-ross-c/1312978300995466/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1cfxw8q/italian_magazine_oggi_confirms_that_mussolini/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cfxw8q/italian_magazine_oggi_confirms_that_mussolini/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1cfxw8q/italian_magazine_oggi_confirms_that_mussolini/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cfxw8q/italian_magazine_oggi_confirms_that_mussolini/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DVYMSf-CJ0F/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVYMSf-CJ0F/?hl=en-gb</a>  
+   Link:<a href="https://www.instagram.com/p/DVYMSf-CJ0F/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVYMSf-CJ0F/?hl=en-gb</a>  

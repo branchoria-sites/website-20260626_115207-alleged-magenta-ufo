@@ -451,11 +451,11 @@ The “Fascist UFO Files” are the document bundle that keeps the [alleged Mage
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_ufo_files_e2e7f2-overview.webp" | relative_url }}" alt="Overview image for Fascist Files" loading="eager" decoding="sync" fetchpriority="high">
-As a case study, the files are useful because the central dispute is not simply “UFO or no UFO”. It is about provenance, access, [chain of custody]({{ 'custody/' | relative_url }}), internal consistency and independent corroboration. Roberto Pinotti and Alfredo Lissoni presented the papers as a major discovery in Italian ufology, while critics have argued that anonymous [photocopies]({{ 'photocopies/' | relative_url }}) with limited access cannot carry the historical weight placed on them. The Magenta story therefore turns on a basic archival question: do these papers behave like recoverable state records, or like a modern dossier assembled to look as though they do? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files...</span></span></span>
+As a case study, the files are useful because the central dispute is not simply “UFO or no UFO”. It is about provenance, access, [chain of custody]({{ 'custody/' | relative_url }}), internal consistency and independent corroboration. Roberto Pinotti and Alfredo Lissoni presented the papers as a major discovery in Italian ufology, while critics have argued that anonymous [photocopies]({{ 'photocopies/' | relative_url }}) with limited access cannot carry the historical weight placed on them. The Magenta story therefore turns on a basic archival question: do these papers behave like recoverable state records, or like a modern dossier assembled to look as though they do?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files...</span></span></span>
 
 ## What the files are said to contain
 
-In the proponent account, the Fascist UFO Files began surfacing around 2000, when Pinotti and Lissoni described having received anonymous material on several occasions. The papers, as summarised in Pinotti’s English-language account reproduced by The Black Vault, allegedly concern a flying saucer that “crashed or landed” near Magenta in [Lombardy]({{ 'lombardy/' | relative_url }}) on 11 April 1933, followed by investigation by a wartime intelligence group called “Gabinetto RS/33”, with “RS” explained as “Ricerche Speciali” or “Special Researches”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files...</span></span></span>
+In the proponent account, the Fascist UFO Files began surfacing around 2000, when Pinotti and Lissoni described having received anonymous material on several occasions. The papers, as summarised in Pinotti’s English-language account reproduced by The Black Vault, allegedly concern a flying saucer that “crashed or landed” near Magenta in [Lombardy]({{ 'lombardy/' | relative_url }}) on 11 April 1933, followed by investigation by a wartime intelligence group called “Gabinetto RS/33”, with “RS” explained as “Ricerche Speciali” or “Special Researches”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files...</span></span></span>
 
 The claimed contents matter because they do more than report a sighting. They appear to build an administrative setting around the alleged event. The story usually includes:
 
@@ -478,13 +478,13 @@ There is, however, a major difference between “documents that describe a state
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_ufo_files_e2e7f2-Illustration-1-dark.svg" | relative_url }}" alt="Fascist Files illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_ufo_files_e2e7f2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_ufo_files_e2e7f2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why they attracted attention
 
-The Fascist UFO Files attracted attention because they seemed to move the origin point of official UFO history. If authentic in the strong sense claimed by proponents, they would place an official UFO recovery investigation in Italy in 1933, fourteen years before [Roswell]({{ 'roswell/' | relative_url }}) and well before the post-1947 American flying-saucer wave. Pinotti’s framing is explicit: if the files are authentic, the first country to deal officially with the UFO problem was not the United States but Italy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files...</span></span></span>
+The Fascist UFO Files attracted attention because they seemed to move the origin point of official UFO history. If authentic in the strong sense claimed by proponents, they would place an official UFO recovery investigation in Italy in 1933, fourteen years before [Roswell]({{ 'roswell/' | relative_url }}) and well before the post-1947 American flying-saucer wave. Pinotti’s framing is explicit: if the files are authentic, the first country to deal officially with the UFO problem was not the United States but Italy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files...</span></span></span>
 
 They also arrived with a compelling historical setting. Fascist Italy was a real authoritarian state with censorship, political policing, military secrecy and aviation ambition. The idea that such a regime might classify unusual aerial incidents does not feel inherently absurd to a casual reader. The papers exploit that plausibility: they do not have to prove aliens immediately; they first persuade the reader that a secret state file could exist.
 
 A second reason for the appeal is the presence of famous names and institutions. The alleged Cabinet RS/33 is often associated with Guglielmo Marconi, whose real scientific reputation gives the story a prestige anchor. In UFO culture, such anchors matter. A claim attached to a Nobel laureate, a dictator, a secret cabinet and wartime intelligence sounds more historically substantial than an isolated crash legend.
 
-The files also gained renewed attention after former US intelligence official David Grusch made public claims about a 1933 Italian recovery and alleged Vatican involvement. Catholic News Service reported that Grusch claimed Pope Pius XII had “backchanneled” information to the United States about a crashed UFO recovered under Mussolini; Marco Grilli, secretary to the prefect of the Vatican archives, responded that he did not know where Grusch had obtained that information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usccb.org">[USCCB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usccb.org</span><span class="citation-popover-title">Angels or aliens? Some researchers say Vatican archives hold UFO secrets &#124; USCCB</span><span class="citation-popover-snippet">Angels or aliens? Some researchers say Vatican archives hold UFO secrets &#124; USCCB...</span></span></span>
+The files also gained renewed attention after former US intelligence official David Grusch made public claims about a 1933 Italian recovery and alleged Vatican involvement. Catholic News Service reported that Grusch claimed Pope Pius XII had “backchanneled” information to the United States about a crashed UFO recovered under Mussolini; Marco Grilli, secretary to the prefect of the Vatican archives, responded that he did not know where Grusch had obtained that information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usccb.org">[USCCB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usccb.org</span><span class="citation-popover-title">Angels or aliens? Some researchers say Vatican archives hold UFO secrets &#124; USCCB</span><span class="citation-popover-snippet">Angels or aliens? Some researchers say Vatican archives hold UFO secrets &#124; USCCB...</span></span></span>
 
 That later revival shows the central lesson of the document case. Once an archival-looking story enters the public record, later speakers can repeat, compress or reframe it, and the repetition can make it seem more corroborated than it is. The same dossier can become “Italian documents”, then “historical files”, then part of a broader crash-retrieval narrative, even if the underlying evidential status has not improved.
 
@@ -495,13 +495,13 @@ That later revival shows the central lesson of the document case. Once an archiv
 
 The strongest criticism of the Fascist UFO Files is not that Fascist Italy could never have hidden unusual records. It is that these particular papers have not met the ordinary standards by which historical records become reliable evidence.
 
-CISU, the Italian Centre for UFO Studies, published an archival critique based on discussion with Paola Carucci, a former senior figure in the Italian National Archives and a professor of archival studies. That critique states that the papers came from an unknown sender and were not easily accessible to researchers who did not already share the proponents’ general views. It argues that this lack of known source and open critical access “essentially nullifies” their archival and historical value as scientific support for a thesis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-snippet">Centro Italiano Studi UfologiciFascist UFO Files: a Professional Archivist&#x27;s Opinion - CISU - Centro Italiano Studi Ufologici...</span></span></span>
+CISU, the Italian Centre for UFO Studies, published an archival critique based on discussion with Paola Carucci, a former senior figure in the Italian National Archives and a professor of archival studies. That critique states that the papers came from an unknown sender and were not easily accessible to researchers who did not already share the proponents’ general views. It argues that this lack of known source and open critical access “essentially nullifies” their archival and historical value as scientific support for a thesis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-snippet">Centro Italiano Studi UfologiciFascist UFO Files: a Professional Archivist&#x27;s Opinion - CISU - Centro Italiano Studi Ufologici...</span></span></span>
 
-This is not a minor technical objection. In archives, provenance means knowing who created a record and how custody of it can be traced. King’s College Cambridge’s archival guidance explains that provenance and original order help preserve context, assess authenticity and reliability, and find related records; ideally, the ownership and custody of an archive should be traceable from creation onward. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kings.cam.ac.uk/section-2-key-principles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kings.cam.ac.uk">[King&#x27;s College Cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kings.cam.ac.uk</span><span class="citation-popover-title">King&#x27;s College Cambridge Section 2: Key Principles &#124; King&#x27;s College Cambridge</span><span class="citation-popover-snippet">King&#x27;s College Cambridge Section 2: Key Principles &#124; King&#x27;s College Cambridge</span></span></span>
+This is not a minor technical objection. In archives, provenance means knowing who created a record and how custody of it can be traced. King’s College Cambridge’s archival guidance explains that provenance and original order help preserve context, assess authenticity and reliability, and find related records; ideally, the ownership and custody of an archive should be traceable from creation onward.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kings.cam.ac.uk/section-2-key-principles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kings.cam.ac.uk">[King&#x27;s College Cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kings.cam.ac.uk</span><span class="citation-popover-title">King&#x27;s College Cambridge Section 2: Key Principles &#124; King&#x27;s College Cambridge</span><span class="citation-popover-snippet">King&#x27;s College Cambridge Section 2: Key Principles &#124; King&#x27;s College Cambridge</span></span></span>
 
 Applied to the Fascist UFO Files, the question becomes simple but difficult: where did these papers sit between 1933 and their modern appearance? A state archive, ministry file, private collection, court record, police collection or family papers might each provide a different kind of answer. Anonymous delivery provides almost none.
 
-The CISU critique also undercuts some of the surface features that make the papers feel old or official. It notes that a “Senate of the Reign” envelope, traces of seals and pen marks do not by themselves establish evidential value, because such items or effects can be reproduced or may survive separately from the documents they are later associated with. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-snippet">Centro Italiano Studi UfologiciFascist UFO Files: a Professional Archivist&#x27;s Opinion - CISU - Centro Italiano Studi Ufologici...</span></span></span>
+The CISU critique also undercuts some of the surface features that make the papers feel old or official. It notes that a “Senate of the Reign” envelope, traces of seals and pen marks do not by themselves establish evidential value, because such items or effects can be reproduced or may survive separately from the documents they are later associated with.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-snippet">Centro Italiano Studi UfologiciFascist UFO Files: a Professional Archivist&#x27;s Opinion - CISU - Centro Italiano Studi Ufologici...</span></span></span>
 
 That point is crucial for readers. Old-looking paper is not the same as a verified old record. A document can be printed on old paper, copied from an old form, placed in an old envelope, or mixed with authentic period material. Conversely, a genuine record can survive in copy form. The task is not to be impressed or unimpressed by appearance, but to ask whether the full documentary path can be reconstructed.
 
@@ -519,7 +519,7 @@ Second, there is the administrative claim: the papers were genuinely produced by
 
 Third, there is the event claim: the documents accurately record a non-human or extraordinary craft recovered near Magenta. This is much harder. Even authentic government documents can contain rumours, mistaken reports, deliberate disinformation, speculative language or misidentified aircraft.
 
-The [AARO]({{ 'aaro/' | relative_url }}) Historical Record Report is useful here not because it directly adjudicates the Magenta papers, but because it sets a modern benchmark for crash-retrieval claims. AARO reported that it found no evidence that any US government investigation, academic-sponsored research or official review had confirmed a UAP sighting as extraterrestrial technology, and no empirical evidence that the US government or private companies had reverse-engineered extraterrestrial technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
+The [AARO]({{ 'aaro/' | relative_url }}) Historical Record Report is useful here not because it directly adjudicates the Magenta papers, but because it sets a modern benchmark for crash-retrieval claims. AARO reported that it found no evidence that any US government investigation, academic-sponsored research or official review had confirmed a UAP sighting as extraterrestrial technology, and no empirical evidence that the US government or private companies had reverse-engineered extraterrestrial technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
 
 That does not disprove every historical allegation. It does show why document cases need more than suggestive paperwork. A claim involving recovered craft needs recoverable records, corroborating archive trails, named custody, physical evidence or independent official confirmation. Without those, the evidential burden remains unmet.
 
@@ -544,7 +544,7 @@ A strong test would include several linked checks:
 
 </div>
 
-The CISU archival critique is especially relevant on access. It argues that without transparent circulation of examination details and openness to review by the wider community of scholars, the work cannot fairly be called historical or scientific research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-snippet">Centro Italiano Studi UfologiciFascist UFO Files: a Professional Archivist&#x27;s Opinion - CISU - Centro Italiano Studi Ufologici...</span></span></span>
+The CISU archival critique is especially relevant on access. It argues that without transparent circulation of examination details and openness to review by the wider community of scholars, the work cannot fairly be called historical or scientific research.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-snippet">Centro Italiano Studi UfologiciFascist UFO Files: a Professional Archivist&#x27;s Opinion - CISU - Centro Italiano Studi Ufologici...</span></span></span>
 
 That standard protects both sides. It prevents sceptics from dismissing material simply because it concerns UFOs, but it also prevents proponents from turning restricted, [anonymous papers]({{ 'anonymous-papers/' | relative_url }}) into proof by assertion. The same rules that would apply to a disputed wartime order, intelligence memorandum or political police file should apply here.
 
@@ -565,194 +565,194 @@ This is why the Fascist UFO Files remain important even if one is sceptical of t
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Are the Fascist UFO Files?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Are the Fascist UFO Files?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps readers place historical UFO case claims into a broader investigative framework.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers place historical UFO case claims into a broader investigative framework.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a benchmark for evaluating government-related UFO claims and documentary evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a benchmark for evaluating government-related UFO claims and documentary evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Maps+by+Mark+Monmonier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Maps on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MwdRDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Maps" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Maps+by+Mark+Monmonier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Maps">How to Lie with Maps</a>
-        </h4>
-        <p class="fr-book-author">By Mark Monmonier</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Maps+by+Mark+Monmonier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Maps on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MwdRDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Maps" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Maps+by+Mark+Monmonier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Maps">How to Lie with Maps</a>
+</h4>
+<p class="fr-book-author">By Mark Monmonier</p>
         
-        <p class="fr-book-desc">Encourages careful evaluation of evidence and documentary claims through critical analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Maps+by+Mark+Monmonier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages careful evaluation of evidence and documentary claims through critical analysis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Maps+by+Mark+Monmonier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">First published 1972.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1972.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Maps&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Maps</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Maps&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Maps</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="fascist-files-what-are-the-fascist-ufo-files-alleged-magenta-ufo-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -768,7 +768,7 @@ This is why the Fascist UFO Files remain important even if one is sceptical of t
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -788,7 +788,7 @@ This is why the Fascist UFO Files remain important even if one is sceptical of t
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -820,7 +820,7 @@ This is why the Fascist UFO Files remain important even if one is sceptical of t
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -872,7 +872,7 @@ This is why the Fascist UFO Files remain important even if one is sceptical of t
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -917,7 +917,7 @@ This is why the Fascist UFO Files remain important even if one is sceptical of t
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -958,119 +958,119 @@ This is why the Fascist UFO Files remain important even if one is sceptical of t
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cisu.org  
-   Link: <a href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Centro Italiano Studi UfologiciFascist UFO Files: a Professional Archivist&#x27;s Opinion - CISU - Centro Italiano Studi Ufologici...</p></details>
+   Link:<a href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Centro Italiano Studi UfologiciFascist UFO Files: a Professional Archivist&#x27;s Opinion - CISU - Centro Italiano Studi Ufologici...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: usccb.org  
    Title: Angels or aliens? Some researchers say Vatican archives hold UFO secrets | USCCB  
-   Link: <a href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow">https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Angels or aliens? Some researchers say Vatican archives hold UFO secrets | USCCB...</p></details>
+   Link:<a href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow">https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Angels or aliens? Some researchers say Vatican archives hold UFO secrets | USCCB...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cisu.org  
-   Link: <a href="https://www.cisu.org/fascist-ufo-files-no-thank-you/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/fascist-ufo-files-no-thank-you/</a>  
+   Link:<a href="https://www.cisu.org/fascist-ufo-files-no-thank-you/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/fascist-ufo-files-no-thank-you/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/imanoscrittiital03bart/imanoscrittiital03bart.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/imanoscrittiital03bart/imanoscrittiital03bart.pdf</a>  
+   Link:<a href="https://archive.org/download/imanoscrittiital03bart/imanoscrittiital03bart.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/imanoscrittiital03bart/imanoscrittiital03bart.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/holocaust/international-resources/italy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/holocaust/international-resources/italy.html</a>  
+   Link:<a href="https://www.archives.gov/research/holocaust/international-resources/italy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/holocaust/international-resources/italy.html</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: history.state.gov  
-   Link: <a href="https://history.state.gov/historicaldocuments/frus1933v01/ch20" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1933v01/ch20</a>  
+   Link:<a href="https://history.state.gov/historicaldocuments/frus1933v01/ch20" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1933v01/ch20</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theblackvault.com  
    Title: The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti  
-   Link: <a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files...</p></details>
+   Link:<a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: kings.cam.ac.uk  
    Title: King's College Cambridge Section 2: Key Principles | King's College Cambridge  
-   Link: <a href="https://www.kings.cam.ac.uk/section-2-key-principles" target="_blank" rel="noopener noreferrer nofollow">https://www.kings.cam.ac.uk/section-2-key-principles</a>  
+   Link:<a href="https://www.kings.cam.ac.uk/section-2-key-principles" target="_blank" rel="noopener noreferrer nofollow">https://www.kings.cam.ac.uk/section-2-key-principles</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Provenance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Provenance</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Provenance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Provenance</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nationalarchives.gov.uk  
    Title: german foreign ministry and italian documents 1867 1945 captured by british  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/german-foreign-ministry-and-italian-documents-1867-1945-captured-by-british/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/german-foreign-ministry-and-italian-documents-1867-1945-captured-by-british/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/german-foreign-ministry-and-italian-documents-1867-1945-captured-by-british/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/german-foreign-ministry-and-italian-documents-1867-1945-captured-by-british/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: backlog-archivists.com  
    Title: provenance and original order  
-   Link: <a href="https://www.backlog-archivists.com/blog/provenance-and-original-order" target="_blank" rel="noopener noreferrer nofollow">https://www.backlog-archivists.com/blog/provenance-and-original-order</a>  
+   Link:<a href="https://www.backlog-archivists.com/blog/provenance-and-original-order" target="_blank" rel="noopener noreferrer nofollow">https://www.backlog-archivists.com/blog/provenance-and-original-order</a>  
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Italy's Fascist UFO Files  
-   Link: <a href="https://www.youtube.com/watch?v=VAk7eqP_GE8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VAk7eqP_GE8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 Magenta UFO Crash: Mussolini’s Alien Cover-Up in Italy | Secret Files &amp; Fascist Era Mystery...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VAk7eqP_GE8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VAk7eqP_GE8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 Magenta UFO Crash: Mussolini’s Alien Cover-Up in Italy | Secret Files &amp; Fascist Era Mystery...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=19oMz_WJZXs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=19oMz_WJZXs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Magenta Project: The 1933 Magenta, Italy UFO Crash-Retrieval That Changed the World Updated Supercut...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=19oMz_WJZXs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=19oMz_WJZXs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Magenta Project: The 1933 Magenta, Italy UFO Crash-Retrieval That Changed the World Updated Supercut...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=fY6sBD_IWEs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fY6sBD_IWEs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Italy’s UFO Crash Before Roswell? The 1933 Magenta Incident Revealed...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fY6sBD_IWEs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fY6sBD_IWEs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Italy’s UFO Crash Before Roswell? The 1933 Magenta Incident Revealed...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=FGiwgyLY7Aw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FGiwgyLY7Aw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Italy&#x27;s Fascist UFO Files - Your Need to Know - OpenMindsTV -- The 1933 Magenta, Italy UFO/UAP...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FGiwgyLY7Aw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FGiwgyLY7Aw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Italy&#x27;s Fascist UFO Files - Your Need to Know - OpenMindsTV -- The 1933 Magenta, Italy UFO/UAP...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: aol.com  
-   Link: <a href="https://www.aol.com/researcher-says-first-ufo-really-191900682.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/researcher-says-first-ufo-really-191900682.html</a>  
+   Link:<a href="https://www.aol.com/researcher-says-first-ufo-really-191900682.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/researcher-says-first-ufo-really-191900682.html</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/319188260_Secrets_and_Files_Access_to_Archives_in_Italy_from_WWII_to_the_Present" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/319188260_Secrets_and_Files_Access_to_Archives_in_Italy_from_WWII_to_the_Present</a>  
+   Link:<a href="https://www.researchgate.net/publication/319188260_Secrets_and_Files_Access_to_Archives_in_Italy_from_WWII_to_the_Present" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/319188260_Secrets_and_Files_Access_to_Archives_in_Italy_from_WWII_to_the_Present</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DVYMSf-CJ0F/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVYMSf-CJ0F/?hl=en-gb</a>  
+   Link:<a href="https://www.instagram.com/p/DVYMSf-CJ0F/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVYMSf-CJ0F/?hl=en-gb</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt28955081/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt28955081/</a>  
+   Link:<a href="https://www.imdb.com/title/tt28955081/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt28955081/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1d88nwr/paolo_guizzardi_as_promised_here_are_copies_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1d88nwr/paolo_guizzardi_as_promised_here_are_copies_of/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1d88nwr/paolo_guizzardi_as_promised_here_are_copies_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1d88nwr/paolo_guizzardi_as_promised_here_are_copies_of/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/</a>  
+   Link:<a href="https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/</a>  

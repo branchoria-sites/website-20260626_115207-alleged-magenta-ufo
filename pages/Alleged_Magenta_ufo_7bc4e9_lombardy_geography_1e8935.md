@@ -453,11 +453,11 @@ Magenta fits the alleged 1933 UFO crash tale because it sits in the right kind o
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935-overview.webp" | relative_url }}" alt="Overview image for Lombardy" loading="eager" decoding="sync" fetchpriority="high">
 ## Magenta, Milan and Vergiate
 
-The core geographical appeal of the Magenta story is its compact triangle: Magenta, Milan and [Vergiate]({{ 'vergiate/' | relative_url }}). Magenta is a town in Lombardy, just west of Milan, and is remembered historically for the Battle of Magenta in 1859. Britannica places it in northern Italy “just west of Milan”, while modern mapping and local sources put it roughly 25 kilometres from the city. That matters because the alleged crash story requires a place close enough to Fascist administrative and industrial power to be rapidly controlled, but far enough from central Milan to allow a rural or semi-rural recovery narrative to feel possible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Magenta-Italy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Italian Alps, Lombardy, Battle of Magenta</span><span class="citation-popover-snippet">Encyclopedia Britannica Italian Alps, Lombardy, Battle of Magenta</span></span></span>
+The core geographical appeal of the Magenta story is its compact triangle: Magenta, Milan and [Vergiate]({{ 'vergiate/' | relative_url }}). Magenta is a town in Lombardy, just west of Milan, and is remembered historically for the Battle of Magenta in 1859. Britannica places it in northern Italy “just west of Milan”, while modern mapping and local sources put it roughly 25 kilometres from the city. That matters because the alleged crash story requires a place close enough to Fascist administrative and industrial power to be rapidly controlled, but far enough from central Milan to allow a rural or semi-rural recovery narrative to feel possible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Magenta-Italy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Italian Alps, Lombardy, Battle of Magenta</span><span class="citation-popover-snippet">Encyclopedia Britannica Italian Alps, Lombardy, Battle of Magenta</span></span></span>
 
-Magenta also sits near the Ticino river environment, a zone that helps the tale feel less urban than a Milan-centred crash would. The whole municipality falls within the regional Ticino Park according to Magenta’s own planning documentation, and the park’s official seat is at Pontevecchio di Magenta. This gives the town a distinctive edge-of-metropolis character: it belongs to the Milan area, but it is also tied to a river valley, farmland, woods and old crossing routes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://storico.comune.magenta.mi.it/wp-content/uploads/2023/05/DDP.QRC_Quadro-ricognitivo-conoscitivo-Maggio2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: storico.comune.magenta.mi.it">[storico.comune.magenta.mi.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">storico.comune.magenta.mi.it</span><span class="citation-popover-title">Comune di Magenta Quadro conoscitivo e ricognitivo Piano di</span><span class="citation-popover-snippet">Comune di Magenta Quadro conoscitivo e ricognitivo Piano di</span></span></span>
+Magenta also sits near the Ticino river environment, a zone that helps the tale feel less urban than a Milan-centred crash would. The whole municipality falls within the regional Ticino Park according to Magenta’s own planning documentation, and the park’s official seat is at Pontevecchio di Magenta. This gives the town a distinctive edge-of-metropolis character: it belongs to the Milan area, but it is also tied to a river valley, farmland, woods and old crossing routes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://storico.comune.magenta.mi.it/wp-content/uploads/2023/05/DDP.QRC_Quadro-ricognitivo-conoscitivo-Maggio2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: storico.comune.magenta.mi.it">[storico.comune.magenta.mi.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">storico.comune.magenta.mi.it</span><span class="citation-popover-title">Comune di Magenta Quadro conoscitivo e ricognitivo Piano di</span><span class="citation-popover-snippet">Comune di Magenta Quadro conoscitivo e ricognitivo Piano di</span></span></span>
 
-Vergiate, the alleged storage location in several versions of the tale, lies north-west of Milan in the province of Varese. The claim often says that recovered material was moved to [SIAI-Marchetti]({{ 'siai/' | relative_url }}) hangars in the Vergiate or Sesto Calende area. The Black Vault’s reproduction of Roberto Pinotti’s account says the object was later stored in SIAI-Marchetti hangars at Vergiate, and that Alfredo Lissoni considered such hangars among the nearest discreet aeronautical establishments in the region. This is a claim from UFO literature, [not proof]({{ 'not-proof/' | relative_url }}) of a recovered craft, but the geography is not random: Vergiate is in the same north-western Lombardy aviation corridor as Malpensa, Sesto Calende and Varese. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist</span></span></span>
+Vergiate, the alleged storage location in several versions of the tale, lies north-west of Milan in the province of Varese. The claim often says that recovered material was moved to [SIAI-Marchetti]({{ 'siai/' | relative_url }}) hangars in the Vergiate or Sesto Calende area. The Black Vault’s reproduction of Roberto Pinotti’s account says the object was later stored in SIAI-Marchetti hangars at Vergiate, and that Alfredo Lissoni considered such hangars among the nearest discreet aeronautical establishments in the region. This is a claim from UFO literature, [not proof]({{ 'not-proof/' | relative_url }}) of a recovered craft, but the geography is not random: Vergiate is in the same north-western Lombardy aviation corridor as Malpensa, Sesto Calende and Varese.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist</span></span></span>
 
 The distance also works narratively. A transfer from Magenta to the Varese [aviation]({{ 'aviation/' | relative_url }}) district would not require crossing half of Italy. It would mean moving west and north through a region already tied to aircraft production, military infrastructure and Milan’s transport network. That is why the Magenta setting feels more plausible than a remote crash site would: the story can imagine secrecy, transport and technical examination without needing an implausibly long or conspicuous journey.
 
@@ -465,11 +465,11 @@ The distance also works narratively. A transfer from Magenta to the Varese [avia
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935-Illustration-1-dark.svg" | relative_url }}" alt="Lombardy illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A real aviation belt gives the legend useful scenery
 
-The strongest geographical reason Magenta “fits” the tale is that north-western Lombardy genuinely was, and remains, one of Italy’s aviation landscapes. Leonardo’s history of Italian aeronautics lists SIAI-Marchetti among the companies of national importance founded during the First World War industrialisation of Italian aviation, alongside Caproni and Macchi. Volandia, the aviation museum near Malpensa, presents the area’s aviation heritage through companies including Agusta, Aermacchi, SIAI-Marchetti and Caproni. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.leonardo.com/en/focus-detail/-/detail/leonardo_centenario_am_1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonardo.com">[Leonardo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonardo.com</span><span class="citation-popover-snippet">Open source on leonardo.com.</span></span></span>
+The strongest geographical reason Magenta “fits” the tale is that north-western Lombardy genuinely was, and remains, one of Italy’s aviation landscapes. Leonardo’s history of Italian aeronautics lists SIAI-Marchetti among the companies of national importance founded during the First World War industrialisation of Italian aviation, alongside Caproni and Macchi. Volandia, the aviation museum near Malpensa, presents the area’s aviation heritage through companies including Agusta, Aermacchi, SIAI-Marchetti and Caproni.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.leonardo.com/en/focus-detail/-/detail/leonardo_centenario_am_1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonardo.com">[Leonardo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonardo.com</span><span class="citation-popover-snippet">Open source on leonardo.com.</span></span></span>
 
-That regional texture matters because the Magenta tale is not simply “something fell in a field”. It also says the object was treated as a possible advanced aircraft or secret weapon and moved to an aeronautical facility. In the proponent version, Mussolini supposedly feared that the object might be a French, British or German secret weapon; Pinotti’s account then connects the alleged recovery to SIAI-Marchetti hangars near Vergiate. Whether or not the documents are authentic, the choice of storage site is geographically and thematically convenient: the alleged crash site is near one of the few Italian regions where aircraft factories, testing grounds and military expertise could plausibly be woven into the story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist</span></span></span>
+That regional texture matters because the Magenta tale is not simply “something fell in a field”. It also says the object was treated as a possible advanced aircraft or secret weapon and moved to an aeronautical facility. In the proponent version, Mussolini supposedly feared that the object might be a French, British or German secret weapon; Pinotti’s account then connects the alleged recovery to SIAI-Marchetti hangars near Vergiate. Whether or not the documents are authentic, the choice of storage site is geographically and thematically convenient: the alleged crash site is near one of the few Italian regions where aircraft factories, testing grounds and military expertise could plausibly be woven into the story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist</span></span></span>
 
-Malpensa reinforces the point. Today it is Milan’s intercontinental airport, located in the municipalities of Somma Lombardo and Ferno in Varese province. Its aviation history is older than its post-war civil airport role: the SEA Milan Airports history page notes that, in 1948, the former military runway at Malpensa was being adapted to include Milan and Lombardy in international air routes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.milanomalpensa-airport.com/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: milanomalpensa-airport.com">[milanomalpensa-airport.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">milanomalpensa-airport.com</span><span class="citation-popover-snippet">Open source on milanomalpensa-airport.com.</span></span></span>
+Malpensa reinforces the point. Today it is Milan’s intercontinental airport, located in the municipalities of Somma Lombardo and Ferno in Varese province. Its aviation history is older than its post-war civil airport role: the SEA Milan Airports history page notes that, in 1948, the former military runway at Malpensa was being adapted to include Milan and Lombardy in international air routes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.milanomalpensa-airport.com/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: milanomalpensa-airport.com">[milanomalpensa-airport.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">milanomalpensa-airport.com</span><span class="citation-popover-snippet">Open source on milanomalpensa-airport.com.</span></span></span>
 
 This does not prove a hidden craft was ever stored there or nearby. It shows why the setting gives later retellings a persuasive historical atmosphere. Lombardy offers the ingredients a crash-retrieval legend needs: nearby factories, hangars, trained engineers, state interest in aviation, and a transport system capable of moving sensitive material under military control.
 
@@ -478,11 +478,11 @@ This does not prove a hidden craft was ever stored there or nearby. It shows why
 
 ## Military geography in northern Italy
 
-Lombardy’s broader military geography also helps explain why the tale’s later wartime handover element feels narratively possible. Milan was and is the major northern Italian hub. Britannica describes Milan as the hub of northern Italy’s rail network, with direct rail links through Alpine passes and tunnels towards Switzerland, France and Germany, and says Lombardy is linked to other Italian regions by railways, highways and expressways. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Lombardy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Lombardy &#124; Italy Region, Culture, Map, &amp; Cuisine</span><span class="citation-popover-snippet">Encyclopedia Britannica Lombardy &#124; Italy Region, Culture, Map, &amp; Cuisine</span></span></span>
+Lombardy’s broader military geography also helps explain why the tale’s later wartime handover element feels narratively possible. Milan was and is the major northern Italian hub. Britannica describes Milan as the hub of northern Italy’s rail network, with direct rail links through Alpine passes and tunnels towards Switzerland, France and Germany, and says Lombardy is linked to other Italian regions by railways, highways and expressways.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Lombardy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Lombardy &#124; Italy Region, Culture, Map, &amp; Cuisine</span><span class="citation-popover-snippet">Encyclopedia Britannica Lombardy &#124; Italy Region, Culture, Map, &amp; Cuisine</span></span></span>
 
 For a story involving Fascist secrecy and late-war movement, that matters. A hidden object allegedly kept in northern Italy could be imagined as reachable by road, rail or military convoy. It could be tied to Milan’s administrative and industrial world while also connected to routes towards Switzerland, Germany and the western Alpine approaches. This is precisely the kind of geography that allows a legend to bridge local incident, state secrecy and international wartime transfer.
 
-The Second World War setting adds another layer. The final Allied offensive in Italy, Operation Grapeshot, moved into the Lombard Plain in April 1945 and ended with the surrender of Axis forces in Italy on 2 May 1945. That does not verify the Magenta claim, but it explains why stories about late-war seizures, abandoned facilities, hurried transfers and intelligence exploitation can attach themselves to northern Italy. In spring 1945, the region was not a quiet backwater; it was part of the collapsing military and political geography of Fascist and German-held northern Italy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spring_1945_offensive_in_Italy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spring 1945 offensive in Italy</span><span class="citation-popover-snippet">Spring 1945 offensive in Italy</span></span></span>
+The Second World War setting adds another layer. The final Allied offensive in Italy, Operation Grapeshot, moved into the Lombard Plain in April 1945 and ended with the surrender of Axis forces in Italy on 2 May 1945. That does not verify the Magenta claim, but it explains why stories about late-war seizures, abandoned facilities, hurried transfers and intelligence exploitation can attach themselves to northern Italy. In spring 1945, the region was not a quiet backwater; it was part of the collapsing military and political geography of Fascist and German-held northern Italy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spring_1945_offensive_in_Italy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spring 1945 offensive in Italy</span><span class="citation-popover-snippet">Spring 1945 offensive in Italy</span></span></span>
 
 The tale also benefits from the geography of proximity to borders and lakes. North-western Lombardy points towards Switzerland, Piedmont, Lake Maggiore and the Alpine routes. A story about sensitive material moving through or out of Italy can therefore draw on real corridors of movement without needing to invent a completely implausible route. The problem is evidential, not geographical: plausible movement routes do not prove that anything extraordinary moved along them.
 
@@ -490,7 +490,7 @@ The tale also benefits from the geography of proximity to borders and lakes. Nor
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935-Illustration-2-dark.svg" | relative_url }}" alt="Lombardy illustration 2" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the exact place remains slippery
 
-Magenta’s usefulness to the story is partly geographical and partly symbolic. It is specific enough to be memorable, close enough to Milan to feel politically significant, and near enough to the aviation belt to support the alleged Vergiate storage claim. Yet the public versions of the story are often imprecise about the exact crash location. Some accounts say near Magenta; others widen the frame to Lombardy, Milan, Vergiate or the Varese area. The Italian Wikipedia summary of the “Magenta incident” notes discordance in the exact geographical location in proponent accounts, while Pinotti-linked [retellings]({{ 'retellings/' | relative_url }}) commonly move from “near Magenta” to SIAI-Marchetti facilities at Vergiate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://it.wikipedia.org/wiki/Incidente_di_Magenta" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente di Magenta</span><span class="citation-popover-snippet">Incidente di Magenta</span></span></span>
+Magenta’s usefulness to the story is partly geographical and partly symbolic. It is specific enough to be memorable, close enough to Milan to feel politically significant, and near enough to the aviation belt to support the alleged Vergiate storage claim. Yet the public versions of the story are often imprecise about the exact crash location. Some accounts say near Magenta; others widen the frame to Lombardy, Milan, Vergiate or the Varese area. The Italian Wikipedia summary of the “Magenta incident” notes discordance in the exact geographical location in proponent accounts, while Pinotti-linked [retellings]({{ 'retellings/' | relative_url }}) commonly move from “near Magenta” to SIAI-Marchetti facilities at Vergiate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://it.wikipedia.org/wiki/Incidente_di_Magenta" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente di Magenta</span><span class="citation-popover-snippet">Incidente di Magenta</span></span></span>
 
 That looseness is important. In a well-documented crash case, geography usually tightens over time: investigators identify a field, road, property, impact pattern, police jurisdiction, recovery route, witnesses and archival traces. In the Magenta case, geography often does the opposite. It creates a convincing regional atmosphere, but not a securely pinned site. A reader can map Magenta, Milan and Vergiate; they cannot map a verified debris field.
 
@@ -504,11 +504,11 @@ The same issue applies to distance. “Near Milan” is true enough for broad or
 
 ## Plausible geography is not proof
 
-The Magenta setting has real strengths as a backdrop. It sits close to Milan, near the Ticino valley, within reach of major rail and road connections, and not far from a historically important aviation district. The region genuinely had aircraft firms, airfields and military-industrial relevance. Those facts explain why the story can sound historically grounded rather than purely fantastical. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.leonardo.com/en/focus-detail/-/detail/leonardo_centenario_am_1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonardo.com">[Leonardo+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonardo.com</span><span class="citation-popover-snippet">Open source on leonardo.com.</span></span></span>
+The Magenta setting has real strengths as a backdrop. It sits close to Milan, near the Ticino valley, within reach of major rail and road connections, and not far from a historically important aviation district. The region genuinely had aircraft firms, airfields and military-industrial relevance. Those facts explain why the story can sound historically grounded rather than purely fantastical.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.leonardo.com/en/focus-detail/-/detail/leonardo_centenario_am_1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonardo.com">[Leonardo+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonardo.com</span><span class="citation-popover-snippet">Open source on leonardo.com.</span></span></span>
 
-But geography can only answer one question: “Could this location support the logistics described in the tale?” It cannot answer the harder question: “Did the event happen?” For that, the case would need authenticated primary records, traceable provenance for the alleged documents, corroborating local archives, named witnesses, physical material or independent official confirmation. The public case still relies heavily on late-surfacing papers and proponent interpretation, while sceptical summaries point to inconsistencies and lack of proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interestingengineering.com">[Interesting Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interestingengineering.com</span><span class="citation-popover-title">worlds first ufo crash happened in italy claim</span><span class="citation-popover-snippet">worlds first ufo crash happened in italy claim</span></span></span>
+But geography can only answer one question: “Could this location support the logistics described in the tale?” It cannot answer the harder question: “Did the event happen?” For that, the case would need authenticated primary records, traceable provenance for the alleged documents, corroborating local archives, named witnesses, physical material or independent official confirmation. The public case still relies heavily on late-surfacing papers and proponent interpretation, while sceptical summaries point to inconsistencies and lack of proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interestingengineering.com">[Interesting Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interestingengineering.com</span><span class="citation-popover-title">worlds first ufo crash happened in italy claim</span><span class="citation-popover-snippet">worlds first ufo crash happened in italy claim</span></span></span>
 
-The wider official UAP picture also cautions against treating geographical plausibility as confirmation. The US All-domain Anomaly Resolution Office reported in 2024 that it had found no verifiable evidence that any UAP sighting represented extraterrestrial activity, and no verifiable evidence that the US government or private industry ever had access to extraterrestrial technology. That finding does not specifically disprove every claim about 1933 Lombardy, but it does set a high evidential bar for crash-retrieval stories that depend on secret transfers and hidden technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod report discounts sightings of extraterrestrial technology</span><span class="citation-popover-snippet">dod report discounts sightings of extraterrestrial technology</span></span></span>
+The wider official UAP picture also cautions against treating geographical plausibility as confirmation. The US All-domain Anomaly Resolution Office reported in 2024 that it had found no verifiable evidence that any UAP sighting represented extraterrestrial activity, and no verifiable evidence that the US government or private industry ever had access to extraterrestrial technology. That finding does not specifically disprove every claim about 1933 Lombardy, but it does set a high evidential bar for crash-retrieval stories that depend on secret transfers and hidden technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod report discounts sightings of extraterrestrial technology</span><span class="citation-popover-snippet">dod report discounts sightings of extraterrestrial technology</span></span></span>
 
 Magenta therefore fits the tale in a limited but meaningful way. It is a geographically intelligent setting for a story about Fascist secrecy, aviation anxiety and wartime movement. It gives the legend a believable map. What it does not give is the missing bridge from believable map to verified event.
 
@@ -516,194 +516,194 @@ Magenta therefore fits the tale in a limited but meaningful way. It is a geograp
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935-Illustration-3-dark.svg" | relative_url }}" alt="Lombardy illustration 3" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Magenta Setting Feels Plausible. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Magenta Setting Feels Plausible. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Offers historical perspective on official UFO investigations following the era in which the Magenta story is set.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers historical perspective on official UFO investigations following the era in which the Magenta story is set.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rough+Guide+to+Italy+8+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rough Guide to Italy 8 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2025836-M.jpg" alt="Cover for The Rough Guide to Italy 8" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Italy+8+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rough Guide to Italy 8">The Rough Guide to Italy 8</a>
-        </h4>
-        <p class="fr-book-author">By Rough Guides</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rough+Guide+to+Italy+8+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rough Guide to Italy 8 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2025836-M.jpg" alt="Cover for The Rough Guide to Italy 8" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Italy+8+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rough Guide to Italy 8">The Rough Guide to Italy 8</a>
+</h4>
+<p class="fr-book-author">By Rough Guides</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Nonfiction, Travel.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Italy+8+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Nonfiction, Travel.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Italy+8+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lonely+Planet+Italy+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lonely Planet Italy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12431776-M.jpg" alt="Cover for Lonely Planet Italy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lonely+Planet+Italy+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lonely Planet Italy">Lonely Planet Italy</a>
-        </h4>
-        <p class="fr-book-author">By Lonely Planet</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lonely+Planet+Italy+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lonely Planet Italy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12431776-M.jpg" alt="Cover for Lonely Planet Italy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lonely+Planet+Italy+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lonely Planet Italy">Lonely Planet Italy</a>
+</h4>
+<p class="fr-book-author">By Lonely Planet</p>
         
-        <p class="fr-book-desc">First published 2020. Subjects: Italy, history, Italy, guidebooks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lonely+Planet+Italy+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2020. Subjects: Italy, history, Italy, guidebooks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lonely+Planet+Italy+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Covers historical terminology, cases, and changing language used before and after the modern UFO era.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers historical terminology, cases, and changing language used before and after the modern UFO era.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Rough+to+Italy+8+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Rough to Italy 8 books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lonely+Planet+Italy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lonely Planet Italy</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Rough+to+Italy+8+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Rough to Italy 8 books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Lonely+Planet+Italy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lonely Planet Italy</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Roswell Alien New Mexico Guide Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c91e1b43f32f3d0bcde6.jpg' | relative_url }}" alt="Listing image for UFO Roswell Alien New Mexico Guide Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Roswell Alien New Mexico Guide Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Roswell Alien New Mexico Guide Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c91e1b43f32f3d0bcde6.jpg' | relative_url }}" alt="Listing image for UFO Roswell Alien New Mexico Guide Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Roswell Alien New Mexico Guide Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Festival 2009 Posters"><img src="{{ '/assets/images/marketplace-covers/e11455c51dee68e7b691.jpg' | relative_url }}" alt="Listing image for Roswell UFO Festival 2009 Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Festival 2009 Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Festival 2009 Posters"><img src="{{ '/assets/images/marketplace-covers/e11455c51dee68e7b691.jpg' | relative_url }}" alt="Listing image for Roswell UFO Festival 2009 Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Festival 2009 Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b8e82448c5ac8c1c5d76.jpg' | relative_url }}" alt="Listing image for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b8e82448c5ac8c1c5d76.jpg' | relative_url }}" alt="Listing image for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="lombardy-why-the-magenta-setting-feels-plausible-alleged-magenta-ufo-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -719,7 +719,7 @@ Magenta therefore fits the tale in a limited but meaningful way. It is a geograp
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -739,7 +739,7 @@ Magenta therefore fits the tale in a limited but meaningful way. It is a geograp
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -771,7 +771,7 @@ Magenta therefore fits the tale in a limited but meaningful way. It is a geograp
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -823,7 +823,7 @@ Magenta therefore fits the tale in a limited but meaningful way. It is a geograp
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -868,7 +868,7 @@ Magenta therefore fits the tale in a limited but meaningful way. It is a geograp
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -909,259 +909,259 @@ Magenta therefore fits the tale in a limited but meaningful way. It is a geograp
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Italian Alps, Lombardy, Battle of Magenta  
-   Link: <a href="https://www.britannica.com/place/Magenta-Italy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Magenta-Italy</a>  
+   Link:<a href="https://www.britannica.com/place/Magenta-Italy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Magenta-Italy</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: storico.comune.magenta.mi.it  
    Title: Comune di Magenta Quadro conoscitivo e ricognitivo Piano di  
-   Link: <a href="https://storico.comune.magenta.mi.it/wp-content/uploads/2023/05/DDP.QRC_Quadro-ricognitivo-conoscitivo-Maggio2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storico.comune.magenta.mi.it/wp-content/uploads/2023/05/DDP.QRC_Quadro-ricognitivo-conoscitivo-Maggio2023.pdf</a>  
+   Link:<a href="https://storico.comune.magenta.mi.it/wp-content/uploads/2023/05/DDP.QRC_Quadro-ricognitivo-conoscitivo-Maggio2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storico.comune.magenta.mi.it/wp-content/uploads/2023/05/DDP.QRC_Quadro-ricognitivo-conoscitivo-Maggio2023.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: UFO sightings in Italy  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: leonardo.com  
-   Link: <a href="https://www.leonardo.com/en/focus-detail/-/detail/leonardo_centenario_am_1" target="_blank" rel="noopener noreferrer nofollow">https://www.leonardo.com/en/focus-detail/-/detail/leonardo_centenario_am_1</a>  
+   Link:<a href="https://www.leonardo.com/en/focus-detail/-/detail/leonardo_centenario_am_1" target="_blank" rel="noopener noreferrer nofollow">https://www.leonardo.com/en/focus-detail/-/detail/leonardo_centenario_am_1</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: milanomalpensa-airport.com  
-   Link: <a href="https://www.milanomalpensa-airport.com/en" target="_blank" rel="noopener noreferrer nofollow">https://www.milanomalpensa-airport.com/en</a>  
+   Link:<a href="https://www.milanomalpensa-airport.com/en" target="_blank" rel="noopener noreferrer nofollow">https://www.milanomalpensa-airport.com/en</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Lombardy | Italy Region, Culture, Map, & Cuisine  
-   Link: <a href="https://www.britannica.com/place/Lombardy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Lombardy</a>  
+   Link:<a href="https://www.britannica.com/place/Lombardy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Lombardy</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Spring 1945 offensive in Italy  
-   Link: <a href="https://en.wikipedia.org/wiki/Spring_1945_offensive_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Spring_1945_offensive_in_Italy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Spring_1945_offensive_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Spring_1945_offensive_in_Italy</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Incidente di Magenta  
-   Link: <a href="https://it.wikipedia.org/wiki/Incidente_di_Magenta" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Incidente_di_Magenta</a>  
+   Link:<a href="https://it.wikipedia.org/wiki/Incidente_di_Magenta" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Incidente_di_Magenta</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Lombardy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lombardy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Lombardy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lombardy</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Savoia Marchetti SM.79 Sparviero  
-   Link: <a href="https://en.wikipedia.org/wiki/Savoia-Marchetti_SM.79_Sparviero" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Savoia-Marchetti_SM.79_Sparviero</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Savoia-Marchetti_SM.79_Sparviero" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Savoia-Marchetti_SM.79_Sparviero</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: SIAI Marchetti  
-   Link: <a href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/SIAI-Marchetti</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/SIAI-Marchetti</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Vergiate" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Vergiate</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Vergiate" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Vergiate</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Magenta (Italia)  
-   Link: <a href="https://it.wikipedia.org/wiki/Magenta_%28Italia%29" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Magenta_%28Italia%29</a>  
+   Link:<a href="https://it.wikipedia.org/wiki/Magenta_%28Italia%29" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Magenta_%28Italia%29</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Parco naturale lombardo della Valle del Ticino  
-   Link: <a href="https://it.wikipedia.org/wiki/Parco_naturale_lombardo_della_Valle_del_Ticino" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Parco_naturale_lombardo_della_Valle_del_Ticino</a>  
+   Link:<a href="https://it.wikipedia.org/wiki/Parco_naturale_lombardo_della_Valle_del_Ticino" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Parco_naturale_lombardo_della_Valle_del_Ticino</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Magenta, Lombardy  
-   Link: <a href="https://en.wikipedia.org/wiki/Magenta%2C_Lombardy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Magenta%2C_Lombardy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Magenta%2C_Lombardy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Magenta%2C_Lombardy</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Milan" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Milan</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Milan" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Milan</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Milan Malpensa Airport  
-   Link: <a href="https://en.wikipedia.org/wiki/Milan_Malpensa_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Milan_Malpensa_Airport</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Milan_Malpensa_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Milan_Malpensa_Airport</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Leonardo (company)  
-   Link: <a href="https://en.wikipedia.org/wiki/Leonardo_%28company%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Leonardo_%28company%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Leonardo_%28company%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Leonardo_%28company%29</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Volandia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Volandia</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Volandia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Volandia</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: storico.comune.magenta.mi.it  
    Title: magenta.mi.itma enta  
-   Link: <a href="https://storico.comune.magenta.mi.it/wp-content/uploads/2023/09/Opuscolo-Magenta-e-il-suo-colore.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storico.comune.magenta.mi.it/wp-content/uploads/2023/09/Opuscolo-Magenta-e-il-suo-colore.pdf</a>  
+   Link:<a href="https://storico.comune.magenta.mi.it/wp-content/uploads/2023/09/Opuscolo-Magenta-e-il-suo-colore.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storico.comune.magenta.mi.it/wp-content/uploads/2023/09/Opuscolo-Magenta-e-il-suo-colore.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: storico.comune.magenta.mi.it  
    Title: magenta.mi.it PIAN O DELLE REGOLE  
-   Link: <a href="https://storico.comune.magenta.mi.it/wp-content/uploads/2019/03/2012_pdr_EvoluzioneStoricaDiMangenta_1_var.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storico.comune.magenta.mi.it/wp-content/uploads/2019/03/2012_pdr_EvoluzioneStoricaDiMangenta_1_var.pdf</a>  
+   Link:<a href="https://storico.comune.magenta.mi.it/wp-content/uploads/2019/03/2012_pdr_EvoluzioneStoricaDiMangenta_1_var.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storico.comune.magenta.mi.it/wp-content/uploads/2019/03/2012_pdr_EvoluzioneStoricaDiMangenta_1_var.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: storico.comune.magenta.mi.it  
-   Link: <a href="https://storico.comune.magenta.mi.it/wp-content/uploads/2019/03/5382%5Edocumento-programmatico-13.06.2014-prot.21042.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storico.comune.magenta.mi.it/wp-content/uploads/2019/03/5382%5Edocumento-programmatico-13.06.2014-prot.21042.pdf</a>  
+   Link:<a href="https://storico.comune.magenta.mi.it/wp-content/uploads/2019/03/5382%5Edocumento-programmatico-13.06.2014-prot.21042.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storico.comune.magenta.mi.it/wp-content/uploads/2019/03/5382%5Edocumento-programmatico-13.06.2014-prot.21042.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: storico.comune.magenta.mi.it  
    Title: magenta.mi.it DOCUMENT O DI PIANO  
-   Link: <a href="https://storico.comune.magenta.mi.it/wp-content/uploads/2019/03/2010_DDP_RELAZIONE.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storico.comune.magenta.mi.it/wp-content/uploads/2019/03/2010_DDP_RELAZIONE.pdf</a>  
+   Link:<a href="https://storico.comune.magenta.mi.it/wp-content/uploads/2019/03/2010_DDP_RELAZIONE.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storico.comune.magenta.mi.it/wp-content/uploads/2019/03/2010_DDP_RELAZIONE.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: storico.comune.magenta.mi.it  
    Title: magenta.mi.it BOLLETTIN O UFFICIALE  
-   Link: <a href="https://storico.comune.magenta.mi.it/wp-content/uploads/2019/03/14156%5EBURL_28_12-decreto-9-3671.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storico.comune.magenta.mi.it/wp-content/uploads/2019/03/14156%5EBURL_28_12-decreto-9-3671.pdf</a>  
+   Link:<a href="https://storico.comune.magenta.mi.it/wp-content/uploads/2019/03/14156%5EBURL_28_12-decreto-9-3671.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storico.comune.magenta.mi.it/wp-content/uploads/2019/03/14156%5EBURL_28_12-decreto-9-3671.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: storico.comune.magenta.mi.it  
    Title: Relazione generale  
-   Link: <a href="https://storico.comune.magenta.mi.it/wp-content/uploads/2019/03/Relazione-generale.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storico.comune.magenta.mi.it/wp-content/uploads/2019/03/Relazione-generale.pdf</a>  
+   Link:<a href="https://storico.comune.magenta.mi.it/wp-content/uploads/2019/03/Relazione-generale.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storico.comune.magenta.mi.it/wp-content/uploads/2019/03/Relazione-generale.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: storico.comune.magenta.mi.it  
    Title: PIAO MAGENTA 2023 2025 aggiornamento  
-   Link: <a href="https://storico.comune.magenta.mi.it/wp-content/uploads/2022/12/PIAO-MAGENTA-2023-2025_aggiornamento.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storico.comune.magenta.mi.it/wp-content/uploads/2022/12/PIAO-MAGENTA-2023-2025_aggiornamento.pdf</a>  
+   Link:<a href="https://storico.comune.magenta.mi.it/wp-content/uploads/2022/12/PIAO-MAGENTA-2023-2025_aggiornamento.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storico.comune.magenta.mi.it/wp-content/uploads/2022/12/PIAO-MAGENTA-2023-2025_aggiornamento.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: storico.comune.magenta.mi.it  
    Title: Giugno Magentino opuscolo 2019  
-   Link: <a href="https://storico.comune.magenta.mi.it/wp-content/uploads/2019/06/Giugno-Magentino-opuscolo-2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storico.comune.magenta.mi.it/wp-content/uploads/2019/06/Giugno-Magentino-opuscolo-2019.pdf</a>  
+   Link:<a href="https://storico.comune.magenta.mi.it/wp-content/uploads/2019/06/Giugno-Magentino-opuscolo-2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storico.comune.magenta.mi.it/wp-content/uploads/2019/06/Giugno-Magentino-opuscolo-2019.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: britannica.com  
    Title: Desio, Lombardy & Milan  
-   Link: <a href="https://www.britannica.com/place/Desio" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Desio</a>  
+   Link:<a href="https://www.britannica.com/place/Desio" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Desio</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Milan-Italy/Milan-since-1915" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Milan-Italy/Milan-since-1915</a>  
+   Link:<a href="https://www.britannica.com/place/Milan-Italy/Milan-since-1915" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Milan-Italy/Milan-since-1915</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Bergamo-Italy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Bergamo-Italy</a>  
+   Link:<a href="https://www.britannica.com/place/Bergamo-Italy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Bergamo-Italy</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: britannica.com  
    Title: Cisalpine Republic  
-   Link: <a href="https://www.britannica.com/place/Cisalpine-Republic" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Cisalpine-Republic</a>  
+   Link:<a href="https://www.britannica.com/place/Cisalpine-Republic" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Cisalpine-Republic</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/summary/Lombardy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/summary/Lombardy</a>  
+   Link:<a href="https://www.britannica.com/summary/Lombardy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/summary/Lombardy</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: leonardo.com  
-   Link: <a href="https://www.leonardo.com/en/global/italy" target="_blank" rel="noopener noreferrer nofollow">https://www.leonardo.com/en/global/italy</a>  
+   Link:<a href="https://www.leonardo.com/en/global/italy" target="_blank" rel="noopener noreferrer nofollow">https://www.leonardo.com/en/global/italy</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: milanomalpensa-airport.com  
-   Link: <a href="https://www.milanomalpensa-airport.com/en/assistance/airport-map" target="_blank" rel="noopener noreferrer nofollow">https://www.milanomalpensa-airport.com/en/assistance/airport-map</a>  
+   Link:<a href="https://www.milanomalpensa-airport.com/en/assistance/airport-map" target="_blank" rel="noopener noreferrer nofollow">https://www.milanomalpensa-airport.com/en/assistance/airport-map</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: theblackvault.com  
    Title: The Black Vault THE UFO FILES OF MUSSOLINI: Fascist  
-   Link: <a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-[fascist-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-[fascist-ufo-files</a>  
+   Link:<a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-[fascist-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-[fascist-ufo-files</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: interestingengineering.com  
    Title: worlds first ufo crash happened in italy claim  
-   Link: <a href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow">https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim</a>  
+   Link:<a href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow">https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: milanairports.com  
-   Link: <a href="https://milanairports.com/en/group/sea-group/history" target="_blank" rel="noopener noreferrer nofollow">https://milanairports.com/en/group/sea-group/history</a>  
+   Link:<a href="https://milanairports.com/en/group/sea-group/history" target="_blank" rel="noopener noreferrer nofollow">https://milanairports.com/en/group/sea-group/history</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: cittametropolitana.mi.it  
-   Link: <a href="https://www.cittametropolitana.mi.it/Parchi/aree_protette/parchi_regionali/ticino.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cittametropolitana.mi.it/Parchi/aree_protette/parchi_regionali/ticino.html</a>  
+   Link:<a href="https://www.cittametropolitana.mi.it/Parchi/aree_protette/parchi_regionali/ticino.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cittametropolitana.mi.it/Parchi/aree_protette/parchi_regionali/ticino.html</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: cittametropolitana.mi.it  
-   Link: <a href="https://www.cittametropolitana.mi.it/export/sites/default/portale/territorio/comuni/Magenta/" target="_blank" rel="noopener noreferrer nofollow">https://www.cittametropolitana.mi.it/export/sites/default/portale/territorio/comuni/Magenta/</a>  
+   Link:<a href="https://www.cittametropolitana.mi.it/export/sites/default/portale/territorio/comuni/Magenta/" target="_blank" rel="noopener noreferrer nofollow">https://www.cittametropolitana.mi.it/export/sites/default/portale/territorio/comuni/Magenta/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: bjtonline.com  
-   Link: <a href="https://www.bjtonline.com/company/leonardo" target="_blank" rel="noopener noreferrer nofollow">https://www.bjtonline.com/company/leonardo</a>  
+   Link:<a href="https://www.bjtonline.com/company/leonardo" target="_blank" rel="noopener noreferrer nofollow">https://www.bjtonline.com/company/leonardo</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: theswissbay.ch  
    Title: ENCYCLOPEDIA BRITANNICA VOLUME 9 25  
-   Link: <a href="https://theswissbay.ch/pdf/Books/Collections/Encyclopedia%20Britannica/Volume%209/ENCYCLOPEDIA%20BRITANNICA%20VOLUME%209-%2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theswissbay.ch/pdf/Books/Collections/Encyclopedia%20Britannica/Volume%209/ENCYCLOPEDIA%20BRITANNICA%20VOLUME%209-%2025.pdf</a>  
+   Link:<a href="https://theswissbay.ch/pdf/Books/Collections/Encyclopedia%20Britannica/Volume%209/ENCYCLOPEDIA%20BRITANNICA%20VOLUME%209-%2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theswissbay.ch/pdf/Books/Collections/Encyclopedia%20Britannica/Volume%209/ENCYCLOPEDIA%20BRITANNICA%20VOLUME%209-%2025.pdf</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: understandingitaly.com  
-   Link: <a href="https://www.understandingitaly.com/leonardo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.understandingitaly.com/leonardo.html</a>  
+   Link:<a href="https://www.understandingitaly.com/leonardo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.understandingitaly.com/leonardo.html</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: theaviationist.com  
-   Link: <a href="https://theaviationist.com/2020/12/30/leonardo-deep-dive-into-the-main-programs-of-one-of-the-largest-defense-contractors-in-the-world/" target="_blank" rel="noopener noreferrer nofollow">https://theaviationist.com/2020/12/30/leonardo-deep-dive-into-the-main-programs-of-one-of-the-largest-defense-contractors-in-the-world/</a>  
+   Link:<a href="https://theaviationist.com/2020/12/30/leonardo-deep-dive-into-the-main-programs-of-one-of-the-largest-defense-contractors-in-the-world/" target="_blank" rel="noopener noreferrer nofollow">https://theaviationist.com/2020/12/30/leonardo-deep-dive-into-the-main-programs-of-one-of-the-largest-defense-contractors-in-the-world/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: history-maps.com  
    Title: spring 1945 offensive in italy  
-   Link: <a href="https://history-maps.com/warmap/world-war-ii/event/spring-1945-offensive-in-italy" target="_blank" rel="noopener noreferrer nofollow">https://history-maps.com/warmap/world-war-ii/event/spring-1945-offensive-in-italy</a>  
+   Link:<a href="https://history-maps.com/warmap/world-war-ii/event/spring-1945-offensive-in-italy" target="_blank" rel="noopener noreferrer nofollow">https://history-maps.com/warmap/world-war-ii/event/spring-1945-offensive-in-italy</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: iala.int  
-   Link: <a href="https://www.iala.int/organisation/selex-es/" target="_blank" rel="noopener noreferrer nofollow">https://www.iala.int/organisation/selex-es/</a>  
+   Link:<a href="https://www.iala.int/organisation/selex-es/" target="_blank" rel="noopener noreferrer nofollow">https://www.iala.int/organisation/selex-es/</a>  
 
 ### Additional References
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: youtube.com  
    Title: Pivotal Moment in the War: Battle of Magenta and March on Milan  
-   Link: <a href="https://www.youtube.com/watch?v=jJIl-ulyhAY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jJIl-ulyhAY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ticino river, Lombardy/Piedmont border, Italy, Europe...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jJIl-ulyhAY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jJIl-ulyhAY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ticino river, Lombardy/Piedmont border, Italy, Europe...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: youtube.com  
    Title: Ticino river, Lombardy/Piedmont border, Italy, Europe  
-   Link: <a href="https://www.youtube.com/watch?v=36SwYuUpa5M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=36SwYuUpa5M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Visit Milan: The Naviglio Grande - Italia Slow Tour...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=36SwYuUpa5M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=36SwYuUpa5M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visit Milan: The Naviglio Grande - Italia Slow Tour...</p></details>
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: danflyingsolo.com  
-   Link: <a href="https://www.danflyingsolo.com/7-day-lombardy-north-italy-itinerary/" target="_blank" rel="noopener noreferrer nofollow">https://www.danflyingsolo.com/7-day-lombardy-north-italy-itinerary/</a>  
+   Link:<a href="https://www.danflyingsolo.com/7-day-lombardy-north-italy-itinerary/" target="_blank" rel="noopener noreferrer nofollow">https://www.danflyingsolo.com/7-day-lombardy-north-italy-itinerary/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: aol.com  
-   Link: <a href="https://www.aol.com/researcher-says-first-ufo-really-191900682.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/researcher-says-first-ufo-really-191900682.html</a>  
+   Link:<a href="https://www.aol.com/researcher-says-first-ufo-really-191900682.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/researcher-says-first-ufo-really-191900682.html</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/RickStevesEurope/posts/1899192994129648/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/RickStevesEurope/posts/1899192994129648/</a>  
+   Link:<a href="https://www.facebook.com/groups/RickStevesEurope/posts/1899192994129648/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/RickStevesEurope/posts/1899192994129648/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cittadimagenta/videos/citt%C3%A0-di-magenta-porta-verde-di-milano/530764880660448/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cittadimagenta/videos/citt%C3%A0-di-magenta-porta-verde-di-milano/530764880660448/</a>  
+   Link:<a href="https://www.facebook.com/cittadimagenta/videos/citt%C3%A0-di-magenta-porta-verde-di-milano/530764880660448/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cittadimagenta/videos/citt%C3%A0-di-magenta-porta-verde-di-milano/530764880660448/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: in-lombardia.it  
-   Link: <a href="https://www.in-lombardia.it/en" target="_blank" rel="noopener noreferrer nofollow">https://www.in-lombardia.it/en</a>  
+   Link:<a href="https://www.in-lombardia.it/en" target="_blank" rel="noopener noreferrer nofollow">https://www.in-lombardia.it/en</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/514737341068607/posts/908789931663344/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/514737341068607/posts/908789931663344/</a>  
+   Link:<a href="https://www.facebook.com/groups/514737341068607/posts/908789931663344/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/514737341068607/posts/908789931663344/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: lakesnorthernitalybiketours.com  
-   Link: <a href="https://www.lakesnorthernitalybiketours.com/blog/travel-information-northern-italian-lakes-blog-LNIBT.php?srsltid=AfmBOor9NHH00BHcC7PVOTldoThOUYBiGz7SJTxvvjjPaUFx43gomcHq" target="_blank" rel="noopener noreferrer nofollow">https://www.lakesnorthernitalybiketours.com/blog/travel-information-northern-italian-lakes-blog-LNIBT.php?srsltid=AfmBOor9NHH00BHcC7PVOTldoThOUYBiGz7SJTxvvjjPaUFx43gomcHq</a>  
+   Link:<a href="https://www.lakesnorthernitalybiketours.com/blog/travel-information-northern-italian-lakes-blog-LNIBT.php?srsltid=AfmBOor9NHH00BHcC7PVOTldoThOUYBiGz7SJTxvvjjPaUFx43gomcHq" target="_blank" rel="noopener noreferrer nofollow">https://www.lakesnorthernitalybiketours.com/blog/travel-information-northern-italian-lakes-blog-LNIBT.php?srsltid=AfmBOor9NHH00BHcC7PVOTldoThOUYBiGz7SJTxvvjjPaUFx43gomcHq</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: mapy.com  
-   Link: <a href="https://mapy.com/it/?id=39820&amp;source=osm" target="_blank" rel="noopener noreferrer nofollow">https://mapy.com/it/?id=39820&amp;source=osm</a>  
+   Link:<a href="https://mapy.com/it/?id=39820&amp;source=osm" target="_blank" rel="noopener noreferrer nofollow">https://mapy.com/it/?id=39820&amp;source=osm</a>  

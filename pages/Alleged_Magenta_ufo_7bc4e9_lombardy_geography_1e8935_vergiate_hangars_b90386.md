@@ -280,9 +280,9 @@ One of the most persistent details in the alleged 1933 Magenta UFO crash story i
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935_vergiate_hangars_b90386-Illustration-1-dark.svg" | relative_url }}" alt="Vergiate Hangars illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935_vergiate_hangars_b90386-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935_vergiate_hangars_b90386-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Vergiate became the alleged storage site
 
-The storage claim appears in accounts published by Italian UFO researchers, especially Roberto Pinotti, whose work reproduced and expanded the alleged Fascist-era UFO documents that surfaced during the late 1990s. In these [retellings]({{ 'retellings/' | relative_url }}), the recovered object was moved from the Magenta area to the hangars of [SIAI-Marchetti]({{ 'siai/' | relative_url }}) at Vergiate, where it could supposedly be examined under military secrecy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Robert...</span></span></span>
+The storage claim appears in accounts published by Italian UFO researchers, especially Roberto Pinotti, whose work reproduced and expanded the alleged Fascist-era UFO documents that surfaced during the late 1990s. In these [retellings]({{ 'retellings/' | relative_url }}), the recovered object was moved from the Magenta area to the hangars of [SIAI-Marchetti]({{ 'siai/' | relative_url }}) at Vergiate, where it could supposedly be examined under military secrecy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Robert...</span></span></span>
 
-The choice of Vergiate was not arbitrary. By the 1930s the town formed part of one of Italy's principal aviation districts, alongside nearby Sesto Calende, Varese and what later became the Malpensa airport area. SIAI-Marchetti was already an established aircraft manufacturer producing military and civil aircraft for the Fascist state. A transfer to an aeronautical facility therefore sounds operationally plausible within the geography of Lombardy, even if no evidence confirms that such a transfer actually occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+The choice of Vergiate was not arbitrary. By the 1930s the town formed part of one of Italy's principal aviation districts, alongside nearby Sesto Calende, Varese and what later became the Malpensa airport area. SIAI-Marchetti was already an established aircraft manufacturer producing military and civil aircraft for the Fascist state. A transfer to an aeronautical facility therefore sounds operationally plausible within the geography of Lombardy, even if no evidence confirms that such a transfer actually occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 In other words, the story gains credibility from a real industrial landscape rather than from documentary proof.
 
@@ -295,12 +295,12 @@ Versions of the story generally describe a sequence rather than a documented log
 
 * an unidentified object allegedly crashed near Magenta;
 * Fascist authorities supposedly secured the site;
-* recovered material was transported north-west to SIAI-Marchetti facilities at Vergiate; <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* recovered material was transported north-west to SIAI-Marchetti facilities at Vergiate;<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 * engineers or specialists allegedly examined it under strict secrecy.
 
 </div>
 
-This sequence is repeated across many modern retellings, but nearly all trace back to the same family of UFO narratives rather than independent archival discoveries. The Black Vault's presentation of Pinotti's account reproduces the Vergiate storage claim but does so as part of the alleged Fascist UFO file story rather than as a verified historical finding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Robert...</span></span></span>
+This sequence is repeated across many modern retellings, but nearly all trace back to the same family of UFO narratives rather than independent archival discoveries. The Black Vault's presentation of Pinotti's account reproduces the Vergiate storage claim but does so as part of the alleged Fascist UFO file story rather than as a verified historical finding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Robert...</span></span></span>
 
 No surviving transport manifests, military orders, factory receiving records or authenticated company correspondence have been produced to document such a movement.
 
@@ -311,7 +311,7 @@ No surviving transport manifests, military orders, factory receiving records or 
 
 The strongest historical element behind the Vergiate claim is not the alleged [custody]({{ 'custody/' | relative_url }}) of a UFO but the unquestionable importance of SIAI-Marchetti itself.
 
-Founded during the First World War, the company became one of Italy's leading aircraft manufacturers and played a major role in military aviation throughout the interwar years. During the 1930s it designed and built aircraft that were closely connected with Fascist Italy's expanding air arm. The company operated extensive production facilities around Vergiate and nearby locations, making the district synonymous with advanced aeronautical engineering. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Founded during the First World War, the company became one of Italy's leading aircraft manufacturers and played a major role in military aviation throughout the interwar years. During the 1930s it designed and built aircraft that were closely connected with Fascist Italy's expanding air arm. The company operated extensive production facilities around Vergiate and nearby locations, making the district synonymous with advanced aeronautical engineering.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 That genuine industrial history explains why later writers found Vergiate an attractive location for the alleged storage site. If one wished to imagine where an unknown flying object might be taken for technical examination, an established aircraft manufacturer would appear more believable than an anonymous warehouse.
 
@@ -330,7 +330,7 @@ A credible chain would normally require evidence such as:
 * contemporary correspondence between officials;
 * independent [witnesses]({{ 'witnesses/' | relative_url }}) whose accounts can be corroborated.
 
-None of these have emerged for the alleged Vergiate transfer. Instead, the storage claim is repeated largely through later publications discussing the purported RS/33 files and associated testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault+2Researchomnia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Robert...</span></span></span>
+None of these have emerged for the alleged Vergiate transfer. Instead, the storage claim is repeated largely through later publications discussing the purported RS/33 files and associated testimony.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault+2Researchomnia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Robert...</span></span></span>
 
 From a historical perspective, repeating the same narrative across multiple books or websites does not create independent confirmation when those accounts derive from the same original source tradition.
 
@@ -340,7 +340,7 @@ From a historical perspective, repeating the same narrative across multiple book
 
 Some later retellings add further details, including claims that the relevant hangar was destroyed by fire in 1940, sometimes implying that this explains the absence of physical evidence.
 
-These additions appear in modern popular articles and UFO narratives rather than in verified archival studies of SIAI-Marchetti's industrial history. While wartime factories undoubtedly experienced bombing, accidents and restructuring, no authenticated documentation has been produced linking a specific fire to the destruction of evidence for an alleged recovered craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wantedinrome.com">[Wanted in Rome]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wantedinrome.com</span><span class="citation-popover-title">A spaceship was allegedly stored in the hangars of the SIAI ...Read more</span><span class="citation-popover-snippet">Wanted in RomeThe Secret Crash That Predated Roswell: Mussolini&#x27;s UFO ...2 Mar 2026 — Italy&#x27;s Secret UFO Files: The Crash That Predated R...</span></span></span>
+These additions appear in modern popular articles and UFO narratives rather than in verified archival studies of SIAI-Marchetti's industrial history. While wartime factories undoubtedly experienced bombing, accidents and restructuring, no authenticated documentation has been produced linking a specific fire to the destruction of evidence for an alleged recovered craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wantedinrome.com">[Wanted in Rome]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wantedinrome.com</span><span class="citation-popover-title">A spaceship was allegedly stored in the hangars of the SIAI ...Read more</span><span class="citation-popover-snippet">Wanted in RomeThe Secret Crash That Predated Roswell: Mussolini&#x27;s UFO ...2 Mar 2026 — Italy&#x27;s Secret UFO Files: The Crash That Predated R...</span></span></span>
 
 This illustrates a broader pattern within the Magenta story: later versions often accumulate extra narrative elements that are more weakly sourced than the already disputed core claim.
 
@@ -351,9 +351,9 @@ This illustrates a broader pattern within the Magenta story: later versions ofte
 
 The evidence separates cleanly into two categories.
 
-The first is well established. Vergiate genuinely was one of Italy's major aviation centres. SIAI-Marchetti operated significant manufacturing facilities there, and the surrounding district formed part of a dense network of aeronautical industry throughout the twentieth century. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+The first is well established. Vergiate genuinely was one of Italy's major aviation centres. SIAI-Marchetti operated significant manufacturing facilities there, and the surrounding district formed part of a dense network of aeronautical industry throughout the twentieth century.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-The second remains unverified. There is no authenticated archival evidence showing that material from an alleged Magenta crash was transported to those facilities, stored inside a specific hangar or examined by company personnel. Every version of that custody story currently depends on the chain of claims developed within UFO literature rather than independently verifiable historical documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault+2Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Robert...</span></span></span>
+The second remains unverified. There is no authenticated archival evidence showing that material from an alleged Magenta crash was transported to those facilities, stored inside a specific hangar or examined by company personnel. Every version of that custody story currently depends on the chain of claims developed within UFO literature rather than independently verifiable historical documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault+2Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Robert...</span></span></span>
 
 Vergiate therefore occupies an important place in the legend because it provides a believable aviation destination within Lombardy's real industrial geography. Its historical suitability as an aircraft manufacturing centre explains why it became the preferred storage site in the narrative, but that geographical plausibility should not be confused with evidence that the alleged transfer ever occurred.
 
@@ -361,194 +361,194 @@ Vergiate therefore occupies an important place in the legend because it provides
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935_vergiate_hangars_b90386-Illustration-3-dark.svg" | relative_url }}" alt="Vergiate Hangars illustration 3" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935_vergiate_hangars_b90386-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935_vergiate_hangars_b90386-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Vergiate Became the Storage Site. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Vergiate Became the Storage Site. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Offers historical perspective on official UFO investigations following the era in which the Magenta story is set.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers historical perspective on official UFO investigations following the era in which the Magenta story is set.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines claims while stressing evidence and sourcing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines claims while stressing evidence and sourcing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rough+Guide+to+Italy+8+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rough Guide to Italy 8 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2025836-M.jpg" alt="Cover for The Rough Guide to Italy 8" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Italy+8+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rough Guide to Italy 8">The Rough Guide to Italy 8</a>
-        </h4>
-        <p class="fr-book-author">By Rough Guides</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rough+Guide+to+Italy+8+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rough Guide to Italy 8 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2025836-M.jpg" alt="Cover for The Rough Guide to Italy 8" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Italy+8+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rough Guide to Italy 8">The Rough Guide to Italy 8</a>
+</h4>
+<p class="fr-book-author">By Rough Guides</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Nonfiction, Travel.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Italy+8+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Nonfiction, Travel.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Italy+8+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Covers historical terminology, cases, and changing language used before and after the modern UFO era.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers historical terminology, cases, and changing language used before and after the modern UFO era.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Rough+to+Italy+8+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Rough to Italy 8 books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Rough+to+Italy+8+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Rough to Italy 8 books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO embroidered patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO embroidered patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO embroidered patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO embroidered patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Patch Embroidered Iron On Sew On Sci-Fi Space"><img src="{{ '/assets/images/marketplace-covers/394a1679e39f36d87ea9.jpg' | relative_url }}" alt="Listing image for UFO Alien Patch Embroidered Iron On Sew On Sci-Fi Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Patch Embroidered Iron On Sew On Sci-Fi Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO embroidered patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO embroidered patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Patch Embroidered Iron On Sew On Sci-Fi Space"><img src="{{ '/assets/images/marketplace-covers/394a1679e39f36d87ea9.jpg' | relative_url }}" alt="Listing image for UFO Alien Patch Embroidered Iron On Sew On Sci-Fi Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Patch Embroidered Iron On Sew On Sci-Fi Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO embroidered patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO embroidered patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO embroidered patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO embroidered patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO embroidered patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO embroidered patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO embroidered patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO embroidered patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO embroidered patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO embroidered patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="vergiate-hangars-why-vergiate-became-the-storage-site-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -564,7 +564,7 @@ Vergiate therefore occupies an important place in the legend because it provides
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -584,7 +584,7 @@ Vergiate therefore occupies an important place in the legend because it provides
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -616,7 +616,7 @@ Vergiate therefore occupies an important place in the legend because it provides
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -668,7 +668,7 @@ Vergiate therefore occupies an important place in the legend because it provides
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -713,7 +713,7 @@ Vergiate therefore occupies an important place in the legend because it provides
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -754,117 +754,117 @@ Vergiate therefore occupies an important place in the legend because it provides
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/SIAI-Marchetti</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/SIAI-Marchetti</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: metabunk.org  
    Title: claim a ufo crashed in 1933 italy and the us recovered it.13282  
-   Link: <a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating around UFO...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating around UFO...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Savoia Marchetti SM.79 Sparviero  
-   Link: <a href="https://en.wikipedia.org/wiki/Savoia-Marchetti_SM.79_Sparviero" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Savoia-Marchetti_SM.79_Sparviero</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Savoia-Marchetti SM.79 SparvieroThe Savoia-Marchetti SM.79 Sparviero (Italian for sparrowhawk) is a three-engined medium bomber develo...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Savoia-Marchetti_SM.79_Sparviero" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Savoia-Marchetti_SM.79_Sparviero</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Savoia-Marchetti SM.79 SparvieroThe Savoia-Marchetti SM.79 Sparviero (Italian for sparrowhawk) is a three-engined medium bomber develo...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: UFO sightings in Italy  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in ItalyIn 2000, Roberto Pinotti published material regarding the so-called &quot;[Fascist UFO Files](&amp;#123;&amp;#123; &#x27;fascist-files/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;, which dealt with a flyi...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in ItalyIn 2000, Roberto Pinotti published material regarding the so-called &quot;[Fascist UFO Files](&amp;#123;&amp;#123; &#x27;fascist-files/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;, which dealt with a flyi...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: metabunk.org  
    Title: David Grusch, Whistleblower, Claims U.S  
-   Link: <a href="https://www.metabunk.org/threads/the-debrief-intelligence-officials-say-u-s-has-retrieved-craft-of-non-human-origin.12977/post-291380" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/the-debrief-intelligence-officials-say-u-s-has-retrieved-craft-of-non-human-origin.12977/post-291380</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Has Retrieved...5 Jun 2023 — Re: Not human, but not necessarily space aliens confusion. It is worth recalling that many modern UFO afici...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/the-debrief-intelligence-officials-say-u-s-has-retrieved-craft-of-non-human-origin.12977/post-291380" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/the-debrief-intelligence-officials-say-u-s-has-retrieved-craft-of-non-human-origin.12977/post-291380</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Has Retrieved...5 Jun 2023 — Re: Not human, but not necessarily space aliens confusion. It is worth recalling that many modern UFO afici...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: siai-marchetti.nl  
-   Link: <a href="https://www.siai-marchetti.nl/" target="_blank" rel="noopener noreferrer nofollow">https://www.siai-marchetti.nl/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SIAI Marchetti light aircraft home pageSIAI Marchetti F260 · F260 production lists · Aermacchi F-260 production list · F260 military cust...</p></details>
+   Link:<a href="https://www.siai-marchetti.nl/" target="_blank" rel="noopener noreferrer nofollow">https://www.siai-marchetti.nl/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SIAI Marchetti light aircraft home pageSIAI Marchetti F260 · F260 production lists · Aermacchi F-260 production list · F260 military cust...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: siai-marchetti.nl  
    Title: S F.260 military customers  
-   Link: <a href="https://www.siai-marchetti.nl/sf260mil.html" target="_blank" rel="noopener noreferrer nofollow">https://www.siai-marchetti.nl/sf260mil.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>By 1992 a larger part of the fleet was parked unservicable in a hangar. Little is known about...Read more...</p></details>
+   Link:<a href="https://www.siai-marchetti.nl/sf260mil.html" target="_blank" rel="noopener noreferrer nofollow">https://www.siai-marchetti.nl/sf260mil.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>By 1992 a larger part of the fleet was parked unservicable in a hangar. Little is known about...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: siai-marchetti.nl  
-   Link: <a href="https://www.siai-marchetti.nl/help.html" target="_blank" rel="noopener noreferrer nofollow">https://www.siai-marchetti.nl/help.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SIAI Marchetti aircraft -- HELPVia del Commercio 7, 47838 Riccione (RN), Italy. Tel. 0541 69 3399. GT Propellers email: info@gt-propellers...</p></details>
+   Link:<a href="https://www.siai-marchetti.nl/help.html" target="_blank" rel="noopener noreferrer nofollow">https://www.siai-marchetti.nl/help.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SIAI Marchetti aircraft -- HELPVia del Commercio 7, 47838 Riccione (RN), Italy. Tel. 0541 69 3399. GT Propellers email: info@gt-propellers...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theblackvault.com  
    Title: the ufo files of mussolini fascist ufo files by roberto pinotti  
-   Link: <a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Robert...</p></details>
+   Link:<a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Robert...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchomnia.blogspot.com  
    Title: the truth about ufo in 1933 italy  
-   Link: <a href="https://researchomnia.blogspot.com/2017/04/the-truth-about-ufo-in-1933-italy.html" target="_blank" rel="noopener noreferrer nofollow">https://researchomnia.blogspot.com/2017/04/the-truth-about-ufo-in-1933-italy.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE TRUTH ABOUT THE UFO IN 1933 ITALY12 Apr 2017 — First of all we have to remember that Roberto Pinotti, Italy&#x27;s leading UFO expert and...</p></details>
+   Link:<a href="https://researchomnia.blogspot.com/2017/04/the-truth-about-ufo-in-1933-italy.html" target="_blank" rel="noopener noreferrer nofollow">https://researchomnia.blogspot.com/2017/04/the-truth-about-ufo-in-1933-italy.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE TRUTH ABOUT THE UFO IN 1933 ITALY12 Apr 2017 — First of all we have to remember that Roberto Pinotti, Italy&#x27;s leading UFO expert and...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: wantedinrome.com  
-   Link: <a href="https://www.wantedinrome.com/news/the-crash-that-predated-[roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.wantedinrome.com/news/the-crash-that-predated-[roswell</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wanted in RomeThe Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...2 Mar 2026 — Italy&#x27;s Secret UFO Files: The Crash That Predated R...</p></details>
+   Link:<a href="https://www.wantedinrome.com/news/the-crash-that-predated-[roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.wantedinrome.com/news/the-crash-that-predated-[roswell</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wanted in RomeThe Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...2 Mar 2026 — Italy&#x27;s Secret UFO Files: The Crash That Predated R...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: luckyplane.it  
-   Link: <a href="https://www.luckyplane.it/piu-cento" target="_blank" rel="noopener noreferrer nofollow">https://www.luckyplane.it/piu-cento</a>  
+   Link:<a href="https://www.luckyplane.it/piu-cento" target="_blank" rel="noopener noreferrer nofollow">https://www.luckyplane.it/piu-cento</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cufos.org  
-   Link: <a href="https://cufos.org/PDFs/pdfs/UFOsandIntelligence.pdf?fbclid=IwY2xjawNOlrhleHRuA2FlbQIxMABicmlkETF6QnFvWHB3NW1KaWNMbXFCAR4d5x_nM_QUyfYE1P7Nfx7OjnuDSyV1U_KEfgSSHgIWvRU-fi2SYeZsLr6rLw_aem_Xm8pYEUGbsX5qRz9MhotmQ" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/pdfs/UFOsandIntelligence.pdf?fbclid=IwY2xjawNOlrhleHRuA2FlbQIxMABicmlkETF6QnFvWHB3NW1KaWNMbXFCAR4d5x_nM_QUyfYE1P7Nfx7OjnuDSyV1U_KEfgSSHgIWvRU-fi2SYeZsLr6rLw_aem_Xm8pYEUGbsX5qRz9MhotmQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Intelligence: A Timeline“UFOs and Intelligence” is an up-to-date retrospective of UFO history (from the airship of. Clonmacnoise...</p></details>
+   Link:<a href="https://cufos.org/PDFs/pdfs/UFOsandIntelligence.pdf?fbclid=IwY2xjawNOlrhleHRuA2FlbQIxMABicmlkETF6QnFvWHB3NW1KaWNMbXFCAR4d5x_nM_QUyfYE1P7Nfx7OjnuDSyV1U_KEfgSSHgIWvRU-fi2SYeZsLr6rLw_aem_Xm8pYEUGbsX5qRz9MhotmQ" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/pdfs/UFOsandIntelligence.pdf?fbclid=IwY2xjawNOlrhleHRuA2FlbQIxMABicmlkETF6QnFvWHB3NW1KaWNMbXFCAR4d5x_nM_QUyfYE1P7Nfx7OjnuDSyV1U_KEfgSSHgIWvRU-fi2SYeZsLr6rLw_aem_Xm8pYEUGbsX5qRz9MhotmQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Intelligence: A Timeline“UFOs and Intelligence” is an up-to-date retrospective of UFO history (from the airship of. Clonmacnoise...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: hangarflying.eu  
-   Link: <a href="https://hangarflying.eu/tag/siai-marchetti-sf260/" target="_blank" rel="noopener noreferrer nofollow">https://hangarflying.eu/tag/siai-marchetti-sf260/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SIAI-Marchetti SF260 ArchievenSiai-Marchetti SF260: 50 jaar in dienst van de luchtmacht. door Jean-Pierre... Over Hangar Flying. Hangar...</p></details>
+   Link:<a href="https://hangarflying.eu/tag/siai-marchetti-sf260/" target="_blank" rel="noopener noreferrer nofollow">https://hangarflying.eu/tag/siai-marchetti-sf260/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SIAI-Marchetti SF260 ArchievenSiai-Marchetti SF260: 50 jaar in dienst van de luchtmacht. door Jean-Pierre... Over Hangar Flying. Hangar...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: howandwhys.com  
-   Link: <a href="https://howandwhys.com/extraordinary-document-reveals-sketch-of-1933-crashed-alien-craft-shared-by-italian-journalist-for-first-time/" target="_blank" rel="noopener noreferrer nofollow">https://howandwhys.com/extraordinary-document-reveals-sketch-of-1933-crashed-alien-craft-shared-by-italian-journalist-for-first-time/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Extraordinary Document Reveals Sketch of 1933 Crashed...4 Jul 2023 — This US Aerospace Company Is Divesting Itself From An Alleged UFO...</p></details>
+   Link:<a href="https://howandwhys.com/extraordinary-document-reveals-sketch-of-1933-crashed-alien-craft-shared-by-italian-journalist-for-first-time/" target="_blank" rel="noopener noreferrer nofollow">https://howandwhys.com/extraordinary-document-reveals-sketch-of-1933-crashed-alien-craft-shared-by-italian-journalist-for-first-time/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extraordinary Document Reveals Sketch of 1933 Crashed...4 Jul 2023 — This US Aerospace Company Is Divesting Itself From An Alleged UFO...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=QpNTwh1Q0_E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QpNTwh1Q0_E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SIAI-Marchetti: Pioneers of Italian AviationItaly is one of the pioneering nations in military aviation. During the World Wars, it introd...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QpNTwh1Q0_E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QpNTwh1Q0_E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SIAI-Marchetti: Pioneers of Italian AviationItaly is one of the pioneering nations in military aviation. During the World Wars, it introd...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: downey-n1.cs.northwestern.edu  
    Title: edubiennials verplank tsukino biysk woode nunnery icici gavar  
-   Link: <a href="https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt" target="_blank" rel="noopener noreferrer nofollow">https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>records parkman bregalnica arriving riffard bittman kaouar runners matched... ufo ufa splawie ufc northey kemnay stompe tesimond tretyak...</p></details>
+   Link:<a href="https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt" target="_blank" rel="noopener noreferrer nofollow">https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>records parkman bregalnica arriving riffard bittman kaouar runners matched... ufo ufa splawie ufc northey kemnay stompe tesimond tretyak...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: xufos.com  
    Title: Mussolini reportedly visited the site and ordered  
-   Link: <a href="https://xufos.com/magenta-1933.php" target="_blank" rel="noopener noreferrer nofollow">https://xufos.com/magenta-1933.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Magenta UFO Crash: Mussolini&#x27;s Secret UFO Recovery in 1933...The craft and bodies were recovered and transported to SIAI Marchetti h...</p></details>
+   Link:<a href="https://xufos.com/magenta-1933.php" target="_blank" rel="noopener noreferrer nofollow">https://xufos.com/magenta-1933.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Magenta UFO Crash: Mussolini&#x27;s Secret UFO Recovery in 1933...The craft and bodies were recovered and transported to SIAI Marchetti h...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: malpensa24.it  
    Title: vergiate siai marchetti alessandro intitolazione  
-   Link: <a href="https://www.malpensa24.it/vergiate-siai-marchetti-alessandro-intitolazione/" target="_blank" rel="noopener noreferrer nofollow">https://www.malpensa24.it/vergiate-siai-marchetti-alessandro-intitolazione/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>La Siai Marchetti rimarrà nella storia di Vergiate. Una...5 Mar 2023 — VERGIATE - Un personaggio che ha scritto la storia di Vergiate. U...</p></details>
+   Link:<a href="https://www.malpensa24.it/vergiate-siai-marchetti-alessandro-intitolazione/" target="_blank" rel="noopener noreferrer nofollow">https://www.malpensa24.it/vergiate-siai-marchetti-alessandro-intitolazione/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>La Siai Marchetti rimarrà nella storia di Vergiate. Una...5 Mar 2023 — VERGIATE - Un personaggio che ha scritto la storia di Vergiate. U...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/infoHAG.Italy/posts/9333886733334701/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/infoHAG.Italy/posts/9333886733334701/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ome. The SIAI Marchetti SF-260 was operated by nearly 40...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/infoHAG.Italy/posts/9333886733334701/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/infoHAG.Italy/posts/9333886733334701/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ome. The SIAI Marchetti SF-260 was operated by nearly 40...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/14dez6j/whistleblower_david_grusch_and_the_italian_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/14dez6j/whistleblower_david_grusch_and_the_italian_ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/UFOs - 107 page document of the Mussolini&#x27;s UFO files...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/14dez6j/whistleblower_david_grusch_and_the_italian_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/14dez6j/whistleblower_david_grusch_and_the_italian_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r/UFOs - 107 page document of the Mussolini&#x27;s UFO files...Read more...</p></details>

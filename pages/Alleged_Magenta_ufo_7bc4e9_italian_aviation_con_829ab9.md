@@ -455,9 +455,9 @@ The strongest evidence supports a narrower conclusion. Italy had ambitious aeron
 
 ## Aviation Ambition in Fascist Italy
 
-Aviation mattered enormously to Fascist Italy because aircraft could be turned into propaganda, military promise and international spectacle. The regime did not treat flying simply as transport or engineering; it used aviation to project modernity. Italo Balbo’s 1930 and 1933 mass seaplane crossings were designed to celebrate the Fascist air force, mark the regime’s anniversary and demonstrate Italian reach abroad. The Wolfsonian’s account of Balbo’s flights notes that Mussolini used these crossings to promote Italy’s technological achievements, generate goodwill in the Americas and display the power of the Fascist government. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wolfsonian.org/whats-on/exhibitions%2Binstallations/2013/10/from-italy-to-the-americas-italo-balbos-1930-and-1933-seaplane-squadrons.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wolfsonian.org">[The Wolfsonian–FIU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wolfsonian.org</span><span class="citation-popover-title">from italy to the americas italo balbos 1930 and 1933 seaplane squadrons</span><span class="citation-popover-snippet">from italy to the americas italo balbos 1930 and 1933 seaplane squadrons</span></span></span>
+Aviation mattered enormously to Fascist Italy because aircraft could be turned into propaganda, military promise and international spectacle. The regime did not treat flying simply as transport or engineering; it used aviation to project modernity. Italo Balbo’s 1930 and 1933 mass seaplane crossings were designed to celebrate the Fascist air force, mark the regime’s anniversary and demonstrate Italian reach abroad. The Wolfsonian’s account of Balbo’s flights notes that Mussolini used these crossings to promote Italy’s technological achievements, generate goodwill in the Americas and display the power of the Fascist government.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wolfsonian.org/whats-on/exhibitions%2Binstallations/2013/10/from-italy-to-the-americas-italo-balbos-1930-and-1933-seaplane-squadrons.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wolfsonian.org">[The Wolfsonian–FIU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wolfsonian.org</span><span class="citation-popover-title">from italy to the americas italo balbos 1930 and 1933 seaplane squadrons</span><span class="citation-popover-snippet">from italy to the americas italo balbos 1930 and 1933 seaplane squadrons</span></span></span>
 
-That setting matters for Magenta because a secret or semi-secret aviation incident in northern Italy would not be historically absurd on its face. Italy had aircraft manufacturers, military airfields, experimental sites and a political culture that rewarded secrecy and spectacle. The country also had genuine aviation achievements. In 1926, Mario de Bernardi set a world seaplane speed record in a Macchi racer during the Schneider Trophy contest, an example of the competitive high-speed culture surrounding Italian aviation before the alleged 1933 incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fai.org/news/13-november-1926-fai-world-record-major-mario-de-bernardi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fai.org">[FAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fai.org</span><span class="citation-popover-title">13 november 1926 fai world record major mario de bernardi</span><span class="citation-popover-snippet">13 november 1926 fai world record major mario de bernardi</span><span class="citation-popover-meta">Published: november 1926</span></span></span>
+That setting matters for Magenta because a secret or semi-secret aviation incident in northern Italy would not be historically absurd on its face. Italy had aircraft manufacturers, military airfields, experimental sites and a political culture that rewarded secrecy and spectacle. The country also had genuine aviation achievements. In 1926, Mario de Bernardi set a world seaplane speed record in a Macchi racer during the Schneider Trophy contest, an example of the competitive high-speed culture surrounding Italian aviation before the alleged 1933 incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fai.org/news/13-november-1926-fai-world-record-major-mario-de-bernardi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fai.org">[FAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fai.org</span><span class="citation-popover-title">13 november 1926 fai world record major mario de bernardi</span><span class="citation-popover-snippet">13 november 1926 fai world record major mario de bernardi</span><span class="citation-popover-meta">Published: november 1926</span></span></span>
 
 The danger is that this real aviation culture can be mistaken for evidence of the UFO claim itself. The fact that Italy was technologically ambitious does not show that it possessed non-human technology. It only shows that the alleged Magenta story was placed into a historically attractive environment: a regime fascinated by air power, a public accustomed to aviation triumphs, and a military-industrial sector capable of conducting unusual experiments.
 
@@ -465,7 +465,7 @@ The danger is that this real aviation culture can be mistaken for evidence of th
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9-Illustration-1-dark.svg" | relative_url }}" alt="Aviation illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Advanced Testing Made the Story Easier to Believe
 
-One reason the Magenta narrative has endured is that interwar Italy was not aeronautically backward. The country had serious research infrastructure. NASA’s technical record for Antonio Ferri’s 1939 paper on the Guidonia wind tunnel describes equipment for experiments with subsonic and supersonic cones, an aerodynamic balance, and optical instruments using Schlieren and interferometer principles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/citations/19930094516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+One reason the Magenta narrative has endured is that interwar Italy was not aeronautically backward. The country had serious research infrastructure. NASA’s technical record for Antonio Ferri’s 1939 paper on the Guidonia wind tunnel describes equipment for experiments with subsonic and supersonic cones, an aerodynamic balance, and optical instruments using Schlieren and interferometer principles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/citations/19930094516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
 That is a striking detail because it shows Italy had advanced aerodynamic research before and during the Second World War. Guidonia was not science fiction; it was a real site where high-speed airflow, instrumentation and model testing were studied. For a reader approaching the Magenta claim, this makes the historical landscape more interesting than a simple “Italy had no capability” dismissal.
 
@@ -478,9 +478,9 @@ But it also points in the opposite direction from the reverse-engineering claim.
 
 The Caproni Campini N.1 is often useful in discussions of Magenta because it is real, Italian, experimental, visually unusual and close enough in time to invite speculation. It was a motorjet aircraft, not a modern turbojet. In a motorjet, a conventional piston engine drives a compressor, and combustion then produces jet thrust. That is an important distinction: the aircraft was advanced-looking, but its underlying principle was still connected to known piston-engine technology.
 
-The N.1 first flew in 1940 and was briefly treated as a major jet-propulsion milestone before the earlier German Heinkel He 178 flight became more widely known. Available aviation summaries describe Secondo Campini proposing jet-propulsion studies to the Italian air force in 1931, demonstrating a jet-powered boat in Venice in 1932, and receiving approval in 1934 for prototype aircraft work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Caproni_Campini_N.1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Caproni Campini N.1</span><span class="citation-popover-snippet">Caproni Campini N.1</span></span></span>
+The N.1 first flew in 1940 and was briefly treated as a major jet-propulsion milestone before the earlier German Heinkel He 178 flight became more widely known. Available aviation summaries describe Secondo Campini proposing jet-propulsion studies to the Italian air force in 1931, demonstrating a jet-powered boat in Venice in 1932, and receiving approval in 1934 for prototype aircraft work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Caproni_Campini_N.1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Caproni Campini N.1</span><span class="citation-popover-snippet">Caproni Campini N.1</span></span></span>
 
-That [timeline]({{ 'timeline/' | relative_url }}) is crucial. Campini’s propulsion work began before the alleged Magenta recovery is said by proponents to have influenced Italian research. His studies and demonstrations followed the ordinary pattern of inventor, military interest, prototype funding and industrial partnership. The aircraft’s performance also weakens the idea of a revolutionary hidden source. The N.1 was historically important, but it was not a miracle machine. It was slower and less practical than many conventional aircraft of its period, and the motorjet concept did not become the dominant route to jet aviation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Caproni_Campini_N.1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Caproni Campini N.1</span><span class="citation-popover-snippet">Caproni Campini N.1</span></span></span>
+That [timeline]({{ 'timeline/' | relative_url }}) is crucial. Campini’s propulsion work began before the alleged Magenta recovery is said by proponents to have influenced Italian research. His studies and demonstrations followed the ordinary pattern of inventor, military interest, prototype funding and industrial partnership. The aircraft’s performance also weakens the idea of a revolutionary hidden source. The N.1 was historically important, but it was not a miracle machine. It was slower and less practical than many conventional aircraft of its period, and the motorjet concept did not become the dominant route to jet aviation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Caproni_Campini_N.1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Caproni Campini N.1</span><span class="citation-popover-snippet">Caproni Campini N.1</span></span></span>
 
 For the Magenta debate, the Caproni Campini comparison cuts both ways. It shows why people might associate Fascist Italy with exotic aviation. It also shows why “exotic-looking” should not be confused with “non-human”. The N.1 was unusual because engineers were exploring a difficult propulsion transition, not because documented records point to recovered alien hardware.
 
@@ -488,7 +488,7 @@ For the Magenta debate, the Caproni Campini comparison cuts both ways. It shows 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9-Illustration-2-dark.svg" | relative_url }}" alt="Aviation illustration 2" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where Reverse-Engineering Enters the Magenta Claim
 
-The reverse-engineering element enters through the UFO case narrative, not through established Italian aviation history. Roberto Pinotti’s account, reproduced by The Black Vault, says that he and Alfredo Lissoni presented anonymously supplied material at a San Marino UFO symposium in 2000. The material allegedly concerned a flying saucer that “crashed or landed” near Magenta in [Lombardy]({{ 'lombardy/' | relative_url }}) in April 1933 and was studied by a “Gabinetto RS/33” authorised by Mussolini. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
+The reverse-engineering element enters through the UFO case narrative, not through established Italian aviation history. Roberto Pinotti’s account, reproduced by The Black Vault, says that he and Alfredo Lissoni presented anonymously supplied material at a San Marino UFO symposium in 2000. The material allegedly concerned a flying saucer that “crashed or landed” near Magenta in [Lombardy]({{ 'lombardy/' | relative_url }}) in April 1933 and was studied by a “Gabinetto RS/33” authorised by Mussolini.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
 
 In that version, the aviation context becomes more than scenery. It becomes a proposed mechanism: Fascist authorities supposedly recovered something unfamiliar, moved it into the orbit of Italian military or industrial aviation, and attempted to understand it. [Later retellings]({{ 'later-retellings/' | relative_url }}) connect the case to SIAI-Marchetti facilities, wartime secrecy and eventual American acquisition near the end of the Second World War.
 
@@ -499,13 +499,13 @@ The evidential problem is that this mechanism lacks the supporting trail one wou
 
 ## Grusch, AARO and the Modern Reverse-Engineering Dispute
 
-The Magenta story gained new attention after former US intelligence official David Grusch made broader claims about UAP crash retrieval and reverse engineering. In his July 2023 written statement to the House Oversight Committee, Grusch said he had been informed, during official duties, of a multi-decade UAP crash-retrieval and reverse-engineering programme to which he was denied access. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Microsoft Word</span><span class="citation-popover-snippet">Oversight Committee Microsoft Word</span></span></span>
+The Magenta story gained new attention after former US intelligence official David Grusch made broader claims about UAP crash retrieval and reverse engineering. In his July 2023 written statement to the House Oversight Committee, Grusch said he had been informed, during official duties, of a multi-decade UAP crash-retrieval and reverse-engineering programme to which he was denied access.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Microsoft Word</span><span class="citation-popover-snippet">Oversight Committee Microsoft Word</span></span></span>
 
 That testimony matters because it moved crash-retrieval claims into a public congressional setting. Yet the public statement did not prove the Magenta recovery, nor did it provide physical evidence from Italian aviation sites. It was a claim about what Grusch said he had been told and had reported through official channels.
 
-The US All-domain Anomaly Resolution Office, or AARO, reached a sharply different conclusion in its 2024 historical report. AARO said that named or described alleged hidden UAP reverse-engineering programmes either did not exist, were misidentified sensitive national-security programmes unrelated to extraterrestrial technology, or involved an unwarranted and disestablished effort. It also said none of the interviewees had first-hand knowledge of the alleged programmes they described. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
+The US All-domain Anomaly Resolution Office, or AARO, reached a sharply different conclusion in its 2024 historical report. AARO said that named or described alleged hidden UAP reverse-engineering programmes either did not exist, were misidentified sensitive national-security programmes unrelated to extraterrestrial technology, or involved an unwarranted and disestablished effort. It also said none of the interviewees had first-hand knowledge of the alleged programmes they described.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
 
-AARO’s report is especially relevant to reverse-engineering claims because it discussed KONA BLUE, a proposed Department of Homeland Security effort that would have investigated UAP, paranormal claims and any recovered off-world spacecraft its advocates hoped to acquire. According to AARO, the programme was rejected for lack of merit, no extraterrestrial craft or bodies were collected, and no data or material was transferred to DHS. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
+AARO’s report is especially relevant to reverse-engineering claims because it discussed KONA BLUE, a proposed Department of Homeland Security effort that would have investigated UAP, paranormal claims and any recovered off-world spacecraft its advocates hoped to acquire. According to AARO, the programme was rejected for lack of merit, no extraterrestrial craft or bodies were collected, and no data or material was transferred to DHS.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
 
 This does not settle every historical question about Magenta, especially for readers who distrust official denials. But it does establish the current public evidential split: proponents cite late documents, anonymous sourcing and whistleblower-linked claims; official review has not confirmed a recovered craft or reverse-engineering programme.
 
@@ -539,194 +539,194 @@ The Magenta aviation-and-reverse-engineering claim would become much stronger if
 Until then, Italian aviation history should be treated as a reason the Magenta story feels historically situated, not as evidence that it happened. The known experiments reveal a country trying to master the future of flight through ordinary, difficult, sometimes impressive engineering. The reverse-engineering claim asks the reader to add a second, far larger proposition: that behind those efforts stood a recovered non-human craft. Public evidence has not yet bridged that gap.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Italian Aviation Make Magenta Seem Plausible?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Italian Aviation Make Magenta Seem Plausible?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides balanced context for evaluating historical UFO claims against documented evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides balanced context for evaluating historical UFO claims against documented evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Illustrates how genuine classified aerospace projects actually evolve.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates how genuine classified aerospace projects actually evolve.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Illustrated+Encyclopedia+of+Aircraft+David+Mondey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Illustrated Encyclopedia of Aircraft on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11650810-M.jpg" alt="Cover for The Illustrated Encyclopedia of Aircraft" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Illustrated+Encyclopedia+of+Aircraft+David+Mondey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Illustrated Encyclopedia of Aircraft">The Illustrated Encyclopedia of Aircraft</a>
-        </h4>
-        <p class="fr-book-author">By David Mondey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Illustrated+Encyclopedia+of+Aircraft+David+Mondey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Illustrated Encyclopedia of Aircraft on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11650810-M.jpg" alt="Cover for The Illustrated Encyclopedia of Aircraft" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Illustrated+Encyclopedia+of+Aircraft+David+Mondey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Illustrated Encyclopedia of Aircraft">The Illustrated Encyclopedia of Aircraft</a>
+</h4>
+<p class="fr-book-author">By David Mondey</p>
         
-        <p class="fr-book-desc">First published 1979. Subjects: Aeronautics, Dictionaries, History, Aircraft industry, Airplanes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Illustrated+Encyclopedia+of+Aircraft+David+Mondey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1979. Subjects: Aeronautics, Dictionaries, History, Aircraft industry, Airplanes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Illustrated+Encyclopedia+of+Aircraft+David+Mondey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Italian+civil+and+military+aircraft%2C+1930-1945+Jonathan+W.+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Italian civil and military aircraft, 1930-1945 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Italian+civil+and+military+aircraft%2C+1930-1945+Jonathan+W.+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Italian civil and military aircraft, 1930-1945">Italian civil and military aircraft, 1930-1945</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan W. Thompson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Italian+civil+and+military+aircraft%2C+1930-1945+Jonathan+W.+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Italian civil and military aircraft, 1930-1945 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Italian+civil+and+military+aircraft%2C+1930-1945+Jonathan+W.+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Italian civil and military aircraft,">Italian civil and military aircraft,</a>
+</h4>
+<p class="fr-book-author">By Jonathan W. Thompson</p>
         
-        <p class="fr-book-desc">First published 1963. Subjects: Airplane industry and trade, Airplanes, Aircraft industry.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Italian+civil+and+military+aircraft%2C+1930-1945+Jonathan+W.+Thompson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1963. Subjects: Airplane industry and trade, Airplanes, Aircraft industry.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Italian+civil+and+military+aircraft%2C+1930-1945+Jonathan+W.+Thompson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Illustrated+Encyclopedia+of+Aircraft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Illustrated Encyclopedia of Aircraft</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Illustrated+Encyclopedia+of+Aircraft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Illustrated Encyclopedia of Aircraft</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LAI ITALIAN AIRLINES 1949 VINTAGE POSTER"><img src="{{ '/assets/images/marketplace-covers/921ccd10c750267b0685.jpg' | relative_url }}" alt="Listing image for LAI ITALIAN AIRLINES 1949 VINTAGE POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">LAI ITALIAN AIRLINES 1949 VINTAGE POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Italian aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Italian aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LAI ITALIAN AIRLINES 1949 VINTAGE POSTER"><img src="{{ '/assets/images/marketplace-covers/921ccd10c750267b0685.jpg' | relative_url }}" alt="Listing image for LAI ITALIAN AIRLINES 1949 VINTAGE POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">LAI ITALIAN AIRLINES 1949 VINTAGE POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Italian aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Italian aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Planespotting: Italian Aviation Posters 1910-1943"><img src="{{ '/assets/images/marketplace-covers/94794d340121a904dd5e.jpg' | relative_url }}" alt="Listing image for Planespotting: Italian Aviation Posters 1910-1943" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Planespotting: Italian Aviation Posters 1910-1943</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Italian aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Italian aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Planespotting: Italian Aviation Posters"><img src="{{ '/assets/images/marketplace-covers/94794d340121a904dd5e.jpg' | relative_url }}" alt="Listing image for Planespotting: Italian Aviation Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Planespotting: Italian Aviation Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Italian aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Italian aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Aviation Poster Wall Art - Italian Aerial Lines Fine Art Print"><img src="{{ '/assets/images/marketplace-covers/1e2dc286bad909a78434.jpg' | relative_url }}" alt="Listing image for Vintage Aviation Poster Wall Art - Italian Aerial Lines Fine Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Aviation Poster Wall Art - Italian Aerial Lines Fine Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Italian aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Italian aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Aviation Poster Wall Art - Italian Aerial Lines Fine Art Print"><img src="{{ '/assets/images/marketplace-covers/1e2dc286bad909a78434.jpg' | relative_url }}" alt="Listing image for Vintage Aviation Poster Wall Art - Italian Aerial Lines Fine Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Aviation Poster Wall Art - Italian Aerial Lines Fine Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Italian aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Italian aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alitalia 1960 Inspired By Italian Vintage Airline Advert Travel Planes Poster"><img src="{{ '/assets/images/marketplace-covers/7eadff807d5e58f0c5e7.jpg' | relative_url }}" alt="Listing image for Alitalia 1960 Inspired By Italian Vintage Airline Advert Travel Planes Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Alitalia 1960 Inspired By Italian Vintage Airline Advert Travel Planes Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Italian aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Italian aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alitalia 1960 Inspired By Italian Vintage Airline Advert Travel Planes Poster"><img src="{{ '/assets/images/marketplace-covers/7eadff807d5e58f0c5e7.jpg' | relative_url }}" alt="Listing image for Alitalia 1960 Inspired By Italian Vintage Airline Advert Travel Planes Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Alitalia 1960 Inspired By Italian Vintage Airline Advert Travel Planes Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Italian aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Italian aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="aviation-did-italian-aviation-make-magenta-seem-plausible-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -742,7 +742,7 @@ Until then, Italian aviation history should be treated as a reason the Magenta s
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -762,7 +762,7 @@ Until then, Italian aviation history should be treated as a reason the Magenta s
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -794,7 +794,7 @@ Until then, Italian aviation history should be treated as a reason the Magenta s
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -846,7 +846,7 @@ Until then, Italian aviation history should be treated as a reason the Magenta s
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -891,7 +891,7 @@ Until then, Italian aviation history should be treated as a reason the Magenta s
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -932,152 +932,152 @@ Until then, Italian aviation history should be treated as a reason the Magenta s
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wolfsonian.org  
    Title: from italy to the americas italo balbos 1930 and 1933 seaplane squadrons  
-   Link: <a href="https://wolfsonian.org/whats-on/exhibitions%2Binstallations/2013/10/from-italy-to-the-americas-italo-balbos-1930-and-1933-seaplane-squadrons.html" target="_blank" rel="noopener noreferrer nofollow">https://wolfsonian.org/whats-on/exhibitions%2Binstallations/2013/10/from-italy-to-the-americas-italo-balbos-1930-and-1933-seaplane-squadrons.html</a>  
+   Link:<a href="https://wolfsonian.org/whats-on/exhibitions%2Binstallations/2013/10/from-italy-to-the-americas-italo-balbos-1930-and-1933-seaplane-squadrons.html" target="_blank" rel="noopener noreferrer nofollow">https://wolfsonian.org/whats-on/exhibitions%2Binstallations/2013/10/from-italy-to-the-americas-italo-balbos-1930-and-1933-seaplane-squadrons.html</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: fai.org  
    Title: 13 november 1926 fai world record major mario de bernardi  
-   Link: <a href="https://www.fai.org/news/13-november-1926-fai-world-record-major-mario-de-bernardi" target="_blank" rel="noopener noreferrer nofollow">https://www.fai.org/news/13-november-1926-fai-world-record-major-mario-de-bernardi</a>  
+   Link:<a href="https://www.fai.org/news/13-november-1926-fai-world-record-major-mario-de-bernardi" target="_blank" rel="noopener noreferrer nofollow">https://www.fai.org/news/13-november-1926-fai-world-record-major-mario-de-bernardi</a>  
    Published: november 1926  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/citations/19930094516" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19930094516</a>  
+   Link:<a href="https://ntrs.nasa.gov/citations/19930094516" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19930094516</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Caproni Campini N.1  
-   Link: <a href="https://en.wikipedia.org/wiki/Caproni_Campini_N.1" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Caproni_Campini_N.1</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Caproni_Campini_N.1" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Caproni_Campini_N.1</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: oversight.house.gov  
    Title: Oversight Committee Microsoft Word  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: UFO sightings in Italy  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Gianni Caproni Museum of Aeronautics  
-   Link: <a href="https://en.wikipedia.org/wiki/Gianni_Caproni_Museum_of_Aeronautics" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gianni_Caproni_Museum_of_Aeronautics</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gianni_Caproni_Museum_of_Aeronautics" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gianni_Caproni_Museum_of_Aeronautics</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Regia Aeronautica  
-   Link: <a href="https://en.wikipedia.org/wiki/Regia_Aeronautica" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Regia_Aeronautica</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Regia_Aeronautica" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Regia_Aeronautica</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Italo Balbo  
-   Link: <a href="https://en.wikipedia.org/wiki/Italo_Balbo" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Italo_Balbo</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Italo_Balbo" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Italo_Balbo</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Directorate for Studies and Experiments  
-   Link: <a href="https://en.wikipedia.org/wiki/Directorate_for_Studies_and_Experiments" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Directorate_for_Studies_and_Experiments</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Directorate_for_Studies_and_Experiments" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Directorate_for_Studies_and_Experiments</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: David Grusch UFO whistleblower claims  
-   Link: <a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: The ENGINE That Tried to Turn a Plane Into a Jet  
-   Link: <a href="https://www.youtube.com/watch?v=NML45hTfRSE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NML45hTfRSE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch - In 1933 an UFO crashed in Italy and Mussolini...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NML45hTfRSE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NML45hTfRSE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch - In 1933 an UFO crashed in Italy and Mussolini...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: David Grusch  
-   Link: <a href="https://www.youtube.com/watch?v=8TrRaXWzcbM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8TrRaXWzcbM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Opening Statement at Unidentified Anomalous Phenomena (UAP) Hearing...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8TrRaXWzcbM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8TrRaXWzcbM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Opening Statement at Unidentified Anomalous Phenomena (UAP) Hearing...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theblackvault.com  
    Title: The Black Vault THE UFO FILES OF MUSSOLINI: [Fascist UFO Files](&#123;&#123; 'fascist-files/' | relative_url &#125;&#125;) by Roberto Pinotti  
-   Link: <a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
+   Link:<a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: net-maquettes.com  
    Title: Caproni Campini N.1  
-   Link: <a href="https://www.net-maquettes.com/pictures/caproni-campini-n-1/" target="_blank" rel="noopener noreferrer nofollow">https://www.net-maquettes.com/pictures/caproni-campini-n-1/</a>  
+   Link:<a href="https://www.net-maquettes.com/pictures/caproni-campini-n-1/" target="_blank" rel="noopener noreferrer nofollow">https://www.net-maquettes.com/pictures/caproni-campini-n-1/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: fiddlersgreen.net  
-   Link: <a href="https://www.fiddlersgreen.net/models/aircraft/Campini-N1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fiddlersgreen.net/models/aircraft/Campini-N1.html</a>  
+   Link:<a href="https://www.fiddlersgreen.net/models/aircraft/Campini-N1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fiddlersgreen.net/models/aircraft/Campini-N1.html</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: warmachinesdrawn.blogspot.com  
    Title: caproni campini n1  
-   Link: <a href="https://warmachinesdrawn.blogspot.com/2019/06/caproni-campini-n1.html" target="_blank" rel="noopener noreferrer nofollow">https://warmachinesdrawn.blogspot.com/2019/06/caproni-campini-n1.html</a>  
+   Link:<a href="https://warmachinesdrawn.blogspot.com/2019/06/caproni-campini-n1.html" target="_blank" rel="noopener noreferrer nofollow">https://warmachinesdrawn.blogspot.com/2019/06/caproni-campini-n1.html</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: militaryfactory.com  
-   Link: <a href="https://www.militaryfactory.com/aircraft/detail.php?aircraft_id=541" target="_blank" rel="noopener noreferrer nofollow">https://www.militaryfactory.com/aircraft/detail.php?aircraft_id=541</a>  
+   Link:<a href="https://www.militaryfactory.com/aircraft/detail.php?aircraft_id=541" target="_blank" rel="noopener noreferrer nofollow">https://www.militaryfactory.com/aircraft/detail.php?aircraft_id=541</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: luftfahrtmuseum-hannover.de  
    Title: Caproni Campini N.1  
-   Link: <a href="https://www.luftfahrtmuseum-hannover.de/images/wehrmann/Caproni%20Campini%20N.1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.luftfahrtmuseum-hannover.de/images/wehrmann/Caproni%20Campini%20N.1.pdf</a>  
+   Link:<a href="https://www.luftfahrtmuseum-hannover.de/images/wehrmann/Caproni%20Campini%20N.1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.luftfahrtmuseum-hannover.de/images/wehrmann/Caproni%20Campini%20N.1.pdf</a>  
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: David Grusch Opening Statement at Unidentified Anomalous Phenomena (UAP) Hearing  
-   Link: <a href="https://www.youtube.com/watch?v=lcrCMLVk614" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lcrCMLVk614</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Caproni Campini N.1 motorjet flight history Building a jet before the jet engine... Caproni Campini N1 Found And Explained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lcrCMLVk614" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lcrCMLVk614</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Caproni Campini N.1 motorjet flight history Building a jet before the jet engine... Caproni Campini N1 Found And Explained...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=r4j6s3zRdNY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r4j6s3zRdNY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>History of Campini Caproni (1940-1943): First Jet in the World?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=r4j6s3zRdNY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r4j6s3zRdNY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History of Campini Caproni (1940-1943): First Jet in the World?...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=t48lbA5Qi7Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t48lbA5Qi7Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The ENGINE That Tried to Turn a Plane Into a Jet...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=t48lbA5Qi7Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t48lbA5Qi7Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The ENGINE That Tried to Turn a Plane Into a Jet...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/a-reporter-behind-a-story-about-ufo-whistleblower-david-gruschs-past-mental-heal/309684994771858/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-reporter-behind-a-story-about-ufo-whistleblower-david-gruschs-past-mental-heal/309684994771858/</a>  
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/a-reporter-behind-a-story-about-ufo-whistleblower-david-gruschs-past-mental-heal/309684994771858/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-reporter-behind-a-story-about-ufo-whistleblower-david-gruschs-past-mental-heal/309684994771858/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SOFMAG/posts/benito-mussolini-ordered-a-complete-news-blackout-on-the-ufo-that-crashed-in-mag/1438374178335229/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SOFMAG/posts/benito-mussolini-ordered-a-complete-news-blackout-on-the-ufo-that-crashed-in-mag/1438374178335229/</a>  
+   Link:<a href="https://www.facebook.com/SOFMAG/posts/benito-mussolini-ordered-a-complete-news-blackout-on-the-ufo-that-crashed-in-mag/1438374178335229/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SOFMAG/posts/benito-mussolini-ordered-a-complete-news-blackout-on-the-ufo-that-crashed-in-mag/1438374178335229/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: calameo.com  
-   Link: <a href="https://www.calameo.com/books/0007962970a10b215dbf2" target="_blank" rel="noopener noreferrer nofollow">https://www.calameo.com/books/0007962970a10b215dbf2</a>  
+   Link:<a href="https://www.calameo.com/books/0007962970a10b215dbf2" target="_blank" rel="noopener noreferrer nofollow">https://www.calameo.com/books/0007962970a10b215dbf2</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/WeirdWings/comments/pvn6kh/campinicaproni_cc2_aka_the_n1_one_of_the_worlds/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/WeirdWings/comments/pvn6kh/campinicaproni_cc2_aka_the_n1_one_of_the_worlds/</a>  
+   Link:<a href="https://www.reddit.com/r/WeirdWings/comments/pvn6kh/campinicaproni_cc2_aka_the_n1_one_of_the_worlds/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/WeirdWings/comments/pvn6kh/campinicaproni_cc2_aka_the_n1_one_of_the_worlds/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/WeirdWings/comments/1ew2ej4/caproni_campini_cc2_n1_italys_attempt_at_building/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/WeirdWings/comments/1ew2ej4/caproni_campini_cc2_n1_italys_attempt_at_building/</a>  
+   Link:<a href="https://www.reddit.com/r/WeirdWings/comments/1ew2ej4/caproni_campini_cc2_n1_italys_attempt_at_building/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/WeirdWings/comments/1ew2ej4/caproni_campini_cc2_n1_italys_attempt_at_building/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: aviationmuseum.eu  
-   Link: <a href="https://aviationmuseum.eu/Blogvorm/museo-storico-aeronautica-militare/caproni-campini-n-1-mm487-italian-air-force/" target="_blank" rel="noopener noreferrer nofollow">https://aviationmuseum.eu/Blogvorm/museo-storico-aeronautica-militare/caproni-campini-n-1-mm487-italian-air-force/</a>  
+   Link:<a href="https://aviationmuseum.eu/Blogvorm/museo-storico-aeronautica-militare/caproni-campini-n-1-mm487-italian-air-force/" target="_blank" rel="noopener noreferrer nofollow">https://aviationmuseum.eu/Blogvorm/museo-storico-aeronautica-militare/caproni-campini-n-1-mm487-italian-air-force/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ndtv/posts/david-grusch-testified-that-he-absolutely-believes-the-government-is-in-possessi/697593472406257/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ndtv/posts/david-grusch-testified-that-he-absolutely-believes-the-government-is-in-possessi/697593472406257/</a>  
+   Link:<a href="https://www.facebook.com/ndtv/posts/david-grusch-testified-that-he-absolutely-believes-the-government-is-in-possessi/697593472406257/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ndtv/posts/david-grusch-testified-that-he-absolutely-believes-the-government-is-in-possessi/697593472406257/</a>  

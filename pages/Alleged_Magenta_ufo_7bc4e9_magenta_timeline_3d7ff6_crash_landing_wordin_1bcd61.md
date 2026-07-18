@@ -284,13 +284,13 @@ One of the most important but often overlooked features of the alleged 1933 Mage
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_timeline_3d7ff6_crash_landing_wordin_1bcd61-Illustration-1-dark.svg" | relative_url }}" alt="Crash or Landing illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_timeline_3d7ff6_crash_landing_wordin_1bcd61-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_timeline_3d7ff6_crash_landing_wordin_1bcd61-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The public versions of the Magenta story have shifted between these descriptions over time. Rather than being a minor [wording]({{ 'wording/' | relative_url }}) difference, this variation affects how the claim should be evaluated and what evidence researchers should reasonably expect to find. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti...</span></span></span>
+The public versions of the Magenta story have shifted between these descriptions over time. Rather than being a minor [wording]({{ 'wording/' | relative_url }}) difference, this variation affects how the claim should be evaluated and what evidence researchers should reasonably expect to find.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti...</span></span></span>
 
 ## Why the earliest wording is uncertain
 
-The ambiguity appears in one of the earliest widely available English presentations of Roberto Pinotti's research. In the opening description of the alleged event, he writes that the anonymous documents concerned a flying saucer that had "**either crashed or landed**" near Magenta on 11 April 1933. This is notable because it does not commit to a single version of the incident. Instead, the uncertainty is built into the narrative itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti...</span></span></span>
+The ambiguity appears in one of the earliest widely available English presentations of Roberto Pinotti's research. In the opening description of the alleged event, he writes that the anonymous documents concerned a flying saucer that had "**either crashed or landed**" near Magenta on 11 April 1933. This is notable because it does not commit to a single version of the incident. Instead, the uncertainty is built into the narrative itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti...</span></span></span>
 
-Later in the same account, however, the wording changes. The discussion of the alleged [RS/33 cabinet]({{ 'rs-33-cabinet/' | relative_url }}) states that "the second" major UFO case occurred on **13 June 1933**, when "**a landed UFO was recovered**." Here, the emphasis is no longer on an uncontrolled impact but on an object that had already come to rest and was subsequently retrieved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti...</span></span></span>
+Later in the same account, however, the wording changes. The discussion of the alleged [RS/33 cabinet]({{ 'rs-33-cabinet/' | relative_url }}) states that "the second" major UFO case occurred on **13 June 1933**, when "**a landed UFO was recovered**." Here, the emphasis is no longer on an uncontrolled impact but on an object that had already come to rest and was subsequently retrieved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti...</span></span></span>
 
 These two descriptions are difficult to reconcile without additional explanation. They could refer to:
 
@@ -299,7 +299,7 @@ These two descriptions are difficult to reconcile without additional explanation
 * a controlled landing that was later recovered; or
 * an inconsistency introduced during [later retellings]({{ 'later-retellings/' | relative_url }}).
 
-No publicly available primary documentation clearly resolves which interpretation is intended. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti...</span></span></span>
+No publicly available primary documentation clearly resolves which interpretation is intended.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qS-zGxL3UuY" title="Craig Oliver &amp; Michael Armentor detail the 1933 Magenta UFO Crash Retrieval - Psicoactivo #397" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qS-zGxL3UuY" target="_blank" rel="noopener noreferrer">Craig Oliver &amp; Michael Armentor detail the 1933 Magenta UFO Crash Retrieval - Psicoactivo #397</a></p><p class="youtube-embed-meta">Channel: Psicoactivo Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qS-zGxL3UuY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qS-zGxL3UuY">Open on YouTube</a></p></div></div></div>
@@ -337,21 +337,21 @@ These are the kinds of evidence associated with famous alleged UFO crash narrati
 
 **A recovery** says almost nothing about how the object reached the ground. It merely describes the alleged action taken afterwards. A recovery could theoretically follow either a crash or a landing.
 
-Because later versions of the Magenta story often blend these three ideas together, readers can easily assume details that are not actually present in the earliest published accounts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti...</span></span></span>
+Because later versions of the Magenta story often blend these three ideas together, readers can easily assume details that are not actually present in the earliest published accounts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_timeline_3d7ff6_crash_landing_wordin_1bcd61-Illustration-2-dark.svg" | relative_url }}" alt="Crash or Landing illustration 2" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_timeline_3d7ff6_crash_landing_wordin_1bcd61-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_timeline_3d7ff6_crash_landing_wordin_1bcd61-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How crash imagery entered later versions
 
-As the Magenta story became more widely discussed, especially after renewed public interest following David [Grusch]({{ 'grusch/' | relative_url }})'s 2023 testimony, the language increasingly shifted towards the familiar expression "**UFO crash**". Journalistic headlines, documentaries and online discussions commonly describe the incident as "the first UFO crash" or a "crash retrieval," even when referring back to documents that originally spoke of a presumed landing or a recovered craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.yahoo.com/researcher-says-first-ufo-really-191900523.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.yahoo.com">[news.yahoo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.yahoo.com</span><span class="citation-popover-title">researcher says first ufo really 191900523</span><span class="citation-popover-snippet">But the alien craft, Pinotti said, was captured...Read more...</span></span></span>
+As the Magenta story became more widely discussed, especially after renewed public interest following David [Grusch]({{ 'grusch/' | relative_url }})'s 2023 testimony, the language increasingly shifted towards the familiar expression "**UFO crash**". Journalistic headlines, documentaries and online discussions commonly describe the incident as "the first UFO crash" or a "crash retrieval," even when referring back to documents that originally spoke of a presumed landing or a recovered craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.yahoo.com/researcher-says-first-ufo-really-191900523.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.yahoo.com">[news.yahoo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.yahoo.com</span><span class="citation-popover-title">researcher says first ufo really 191900523</span><span class="citation-popover-snippet">But the alien craft, Pinotti said, was captured...Read more...</span></span></span>
 
 Several factors probably encouraged this shift.
 
 First, "crash" has become the standard vocabulary of UFO history because of the enduring influence of the Roswell narrative. Readers immediately understand what a "crash retrieval" implies, whereas "presumed landing" sounds less dramatic and less familiar.
 
-Second, later retellings often add descriptive details—such as a damaged bell-shaped object or wreckage—which naturally reinforce crash imagery even though those details are not consistently present across the earliest public presentations of the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interestingengineering.com">[Interesting Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interestingengineering.com</span><span class="citation-popover-title">worlds first ufo crash happened in italy claim</span><span class="citation-popover-snippet">UFO crash for many decades. Pinotti is the president of the National Ufological Center in Italy, and his research has been met with...Re...</span></span></span>
+Second, later retellings often add descriptive details—such as a damaged bell-shaped object or wreckage—which naturally reinforce crash imagery even though those details are not consistently present across the earliest public presentations of the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interestingengineering.com">[Interesting Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interestingengineering.com</span><span class="citation-popover-title">worlds first ufo crash happened in italy claim</span><span class="citation-popover-snippet">UFO crash for many decades. Pinotti is the president of the National Ufological Center in Italy, and his research has been met with...Re...</span></span></span>
 
-Third, the alleged Fascist telegrams themselves have frequently been summarised rather than quoted in full. One of the best-known telegrams reportedly refers to the "**presumed landing**" of an unknown aircraft rather than explicitly describing a crash. That wording is significant because it is more cautious than many modern summaries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1fraqyk/the_magenta_project_the_1933_magenta_italy_ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the magenta project the 1933 magenta italy ufo</span><span class="citation-popover-snippet">mussolini-fascist-ufo-files-by-roberto-pinotti/. If your going to try... r/aliens - Roberto Pinotti talks 1933 Magenta, Italy crash-retr...</span></span></span>
+Third, the alleged Fascist telegrams themselves have frequently been summarised rather than quoted in full. One of the best-known telegrams reportedly refers to the "**presumed landing**" of an unknown aircraft rather than explicitly describing a crash. That wording is significant because it is more cautious than many modern summaries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1fraqyk/the_magenta_project_the_1933_magenta_italy_ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the magenta project the 1933 magenta italy ufo</span><span class="citation-popover-snippet">mussolini-fascist-ufo-files-by-roberto-pinotti/. If your going to try... r/aliens - Roberto Pinotti talks 1933 Magenta, Italy crash-retr...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_timeline_3d7ff6_crash_landing_wordin_1bcd61-Illustration-3-dark.svg" | relative_url }}" alt="Crash or Landing illustration 3" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_timeline_3d7ff6_crash_landing_wordin_1bcd61-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_timeline_3d7ff6_crash_landing_wordin_1bcd61-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -363,7 +363,7 @@ If the original event was genuinely believed to be a controlled landing, investi
 
 Conversely, if a catastrophic crash occurred, later descriptions should consistently refer to impact damage and debris. The absence of stable wording across public versions makes it harder to determine which scenario proponents actually intend.
 
-This uncertainty also complicates efforts to compare different versions of the Magenta narrative. Some accounts speak of a crashed saucer, others of a landed craft, while still others focus almost entirely on the alleged government recovery operation. The terminology changes alongside other evolving elements of the story, including dates and descriptions of the object's appearance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti...</span></span></span>
+This uncertainty also complicates efforts to compare different versions of the Magenta narrative. Some accounts speak of a crashed saucer, others of a landed craft, while still others focus almost entirely on the alleged government recovery operation. The terminology changes alongside other evolving elements of the story, including dates and descriptions of the object's appearance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti...</span></span></span>
 
 ## What the wording tells us about the strength of the claim
 
@@ -378,194 +378,194 @@ As a result, the wording itself becomes an evidential issue. Before questions ab
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Magenta a Crash or a Landing?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Magenta a Crash or a Landing?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines how evidence and terminology affect the credibility of UFO claims, matching the page&#x27;s focus on careful evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how evidence and terminology affect the credibility of UFO claims, matching the page&#x27;s focus on careful evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Extraterrestrial Encounters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2WeeBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Extraterrestrial Encounters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Extraterrestrial Encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>
-        </h4>
-        <p class="fr-book-author">By Ronald Story</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Extraterrestrial Encounters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2WeeBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Extraterrestrial Encounters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Extraterrestrial Encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>
+</h4>
+<p class="fr-book-author">By Ronald Story</p>
         
-        <p class="fr-book-desc">Provides historical context for famous UFO cases, including how narratives differ across sources.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for famous UFO cases, including how narratives differ across sources.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Verdict+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Verdict on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eFzxAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Verdict" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Verdict+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Verdict">The UFO Verdict</a>
-        </h4>
-        <p class="fr-book-author">By Robert Sheaffer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Verdict+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Verdict on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eFzxAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Verdict" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Verdict+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Verdict">The UFO Verdict</a>
+</h4>
+<p class="fr-book-author">By Robert Sheaffer</p>
         
-        <p class="fr-book-desc">Addresses how UFO stories evolve and how claims should be critically assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Verdict+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses how UFO stories evolve and how claims should be critically assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Verdict+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Useful for comparing competing historical accounts and terminology across UFO incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for comparing competing historical accounts and terminology across UFO incidents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Encyclopedia of Extraterrestrial Encounters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Verdict&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Verdict</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Encyclopedia of Extraterrestrial Encounters</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Verdict&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Verdict</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift"><img src="{{ '/assets/images/marketplace-covers/e3822e61b859bc0e7376.jpg' | relative_url }}" alt="Listing image for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift"><img src="{{ '/assets/images/marketplace-covers/e3822e61b859bc0e7376.jpg' | relative_url }}" alt="Listing image for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting"><img src="{{ '/assets/images/marketplace-covers/64fd2e61ffabf1eeab61.jpg' | relative_url }}" alt="Listing image for Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting"><img src="{{ '/assets/images/marketplace-covers/64fd2e61ffabf1eeab61.jpg' | relative_url }}" alt="Listing image for Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model"><img src="{{ '/assets/images/marketplace-covers/b626ecf0eef6236661c6.jpg' | relative_url }}" alt="Listing image for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model"><img src="{{ '/assets/images/marketplace-covers/b626ecf0eef6236661c6.jpg' | relative_url }}" alt="Listing image for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="crash-or-landing-was-magenta-a-crash-or-a-landing-alleged-magenta-ufo-ufo-display-model-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -581,7 +581,7 @@ As a result, the wording itself becomes an evidential issue. Before questions ab
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -601,7 +601,7 @@ As a result, the wording itself becomes an evidential issue. Before questions ab
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -633,7 +633,7 @@ As a result, the wording itself becomes an evidential issue. Before questions ab
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -685,7 +685,7 @@ As a result, the wording itself becomes an evidential issue. Before questions ab
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -730,7 +730,7 @@ As a result, the wording itself becomes an evidential issue. Before questions ab
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -771,87 +771,87 @@ As a result, the wording itself becomes an evidential issue. Before questions ab
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: theblackvault.com  
    Title: the ufo files of mussolini [fascist ufo files](&#123;&#123; 'fascist-files/' | relative_url &#125;&#125;) by roberto pinotti  
-   Link: <a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti...</p></details>
+   Link:<a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Home » UFOs » THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: news.yahoo.com  
    Title: researcher says first ufo really 191900523  
-   Link: <a href="https://news.yahoo.com/researcher-says-first-ufo-really-191900523.html" target="_blank" rel="noopener noreferrer nofollow">https://news.yahoo.com/researcher-says-first-ufo-really-191900523.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>But the alien craft, Pinotti said, was captured...Read more...</p></details>
+   Link:<a href="https://news.yahoo.com/researcher-says-first-ufo-really-191900523.html" target="_blank" rel="noopener noreferrer nofollow">https://news.yahoo.com/researcher-says-first-ufo-really-191900523.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>But the alien craft, Pinotti said, was captured...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
    Title: the magenta project the 1933 magenta italy ufo  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1fraqyk/the_magenta_project_the_1933_magenta_italy_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fraqyk/the_magenta_project_the_1933_magenta_italy_ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>mussolini-fascist-ufo-files-by-roberto-pinotti/. If your going to try... r/aliens - Roberto Pinotti talks 1933 Magenta, Italy crash-retr...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1fraqyk/the_magenta_project_the_1933_magenta_italy_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fraqyk/the_magenta_project_the_1933_magenta_italy_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mussolini-fascist-ufo-files-by-roberto-pinotti/. If your going to try... r/aliens - Roberto Pinotti talks 1933 Magenta, Italy crash-retr...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1d88nwr/paolo_guizzardi_as_promised_here_are_copies_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1d88nwr/paolo_guizzardi_as_promised_here_are_copies_of/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>et up in the wake of a UFO crash in the [Lombardy](&amp;#123;&amp;#123; &#x27;lombardy/&#x27; | relative_url &amp;#125;&amp;#125;) region of Italy in...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1d88nwr/paolo_guizzardi_as_promised_here_are_copies_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1d88nwr/paolo_guizzardi_as_promised_here_are_copies_of/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>et up in the wake of a UFO crash in the [Lombardy](&amp;#123;&amp;#123; &#x27;lombardy/&#x27; | relative_url &amp;#125;&amp;#125;) region of Italy in...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: interestingengineering.com  
    Title: worlds first ufo crash happened in italy claim  
-   Link: <a href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow">https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO crash for many decades. Pinotti is the president of the National Ufological Center in Italy, and his research has been met with...Re...</p></details>
+   Link:<a href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow">https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO crash for many decades. Pinotti is the president of the National Ufological Center in Italy, and his research has been met with...Re...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40EscapeVelocity1/phil-schneider-casually-referenced-the-1933-magenta-italy-ufo-crash-retrieval-in-a-1995-interview-fa0d38dbf8f5" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40EscapeVelocity1/phil-schneider-casually-referenced-the-1933-magenta-italy-ufo-crash-retrieval-in-a-1995-interview-fa0d38dbf8f5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Phil Schneider casually referenced the 1933 Magenta, Italy...THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Blac...</p></details>
+   Link:<a href="https://medium.com/%40EscapeVelocity1/phil-schneider-casually-referenced-the-1933-magenta-italy-ufo-crash-retrieval-in-a-1995-interview-fa0d38dbf8f5" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40EscapeVelocity1/phil-schneider-casually-referenced-the-1933-magenta-italy-ufo-crash-retrieval-in-a-1995-interview-fa0d38dbf8f5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phil Schneider casually referenced the 1933 Magenta, Italy...THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Blac...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=qS-zGxL3UuY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=qS-zGxL3UuY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Magenta Project: The 1933 Magenta, Italy UFO Crash-Retrieval That Changed the World Updated Supercut...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=qS-zGxL3UuY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=qS-zGxL3UuY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Magenta Project: The 1933 Magenta, Italy UFO Crash-Retrieval That Changed the World Updated Supercut...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: the-residium.com  
    Title: dr roberto pinotti on the 1933 magenta  
-   Link: <a href="https://www.the-residium.com/p/dr-roberto-pinotti-on-the-1933-magenta" target="_blank" rel="noopener noreferrer nofollow">https://www.the-residium.com/p/dr-roberto-pinotti-on-the-1933-magenta</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roberto Pinotti on the 1933 Magenta UFO Crash29 Nov 2025 — Dr. Roberto Pinotti on the 1933 Magenta UFO Crash. Leading ufologist details a...</p></details>
+   Link:<a href="https://www.the-residium.com/p/dr-roberto-pinotti-on-the-1933-magenta" target="_blank" rel="noopener noreferrer nofollow">https://www.the-residium.com/p/dr-roberto-pinotti-on-the-1933-magenta</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roberto Pinotti on the 1933 Magenta UFO Crash29 Nov 2025 — Dr. Roberto Pinotti on the 1933 Magenta UFO Crash. Leading ufologist details a...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=0vvUQ3OwJVQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=0vvUQ3OwJVQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roberto Pinotti 1933 Magenta UFO crash or landed The 1933 Magenta, Italy UFO Crash UAP Gerb...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=0vvUQ3OwJVQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=0vvUQ3OwJVQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roberto Pinotti 1933 Magenta UFO crash or landed The 1933 Magenta, Italy UFO Crash UAP Gerb...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=fY6sBD_IWEs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=fY6sBD_IWEs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Italy’s UFO Crash Before Roswell? The 1933 Magenta Incident Revealed...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=fY6sBD_IWEs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=fY6sBD_IWEs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Italy’s UFO Crash Before Roswell? The 1933 Magenta Incident Revealed...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: academia.edu  
    Title: THE 1933 MAGENTA UFO CRASH A NUKES PERSPECTIVE  
-   Link: <a href="https://www.academia.edu/110409871/THE_1933_MAGENTA_UFO_CRASH_A_NUKES_PERSPECTIVE" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/110409871/THE_1933_MAGENTA_UFO_CRASH_A_NUKES_PERSPECTIVE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) THE 1933 MAGENTA UFO CRASH: A NUKES...A discussion of the symbolic aspects of the Magenta UFO (1933)...</p></details>
+   Link:<a href="https://www.academia.edu/110409871/THE_1933_MAGENTA_UFO_CRASH_A_NUKES_PERSPECTIVE" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/110409871/THE_1933_MAGENTA_UFO_CRASH_A_NUKES_PERSPECTIVE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) THE 1933 MAGENTA UFO CRASH: A NUKES...A discussion of the symbolic aspects of the Magenta UFO (1933)...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: UFO sightings in Italy  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in Italy1933. edit. In 2000, Roberto Pinotti published material regarding the so-called &quot;Fascist UFO Files&quot;, which dealt...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in Italy1933. edit. In 2000, Roberto Pinotti published material regarding the so-called &quot;Fascist UFO Files&quot;, which dealt...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=l7S8KnXePJI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=l7S8KnXePJI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Magenta Project Doc -- The History of UFOs/UAP starting in Magenta, Italy 1933...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=l7S8KnXePJI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=l7S8KnXePJI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Magenta Project Doc -- The History of UFOs/UAP starting in Magenta, Italy 1933...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=FGiwgyLY7Aw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=FGiwgyLY7Aw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Craig Oliver &amp; Michael Armentor detail the 1933 Magenta UFO Crash Retrieval - Psicoactivo #397...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=FGiwgyLY7Aw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=FGiwgyLY7Aw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Craig Oliver &amp; Michael Armentor detail the 1933 Magenta UFO Crash Retrieval - Psicoactivo #397...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: instagram.com  
    Title: DVbk1vk CQ Z  
-   Link: <a href="https://www.instagram.com/reel/DVbk1vkCQ_Z/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVbk1vkCQ_Z/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Magenta, Italy. Researcher Roberto Pinotti released...3 Mar 2026 — June of nineteen thirty-three a UFO supposedly crashed in Magenta Ita...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DVbk1vkCQ_Z/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVbk1vkCQ_Z/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Magenta, Italy. Researcher Roberto Pinotti released...3 Mar 2026 — June of nineteen thirty-three a UFO supposedly crashed in Magenta Ita...</p></details>

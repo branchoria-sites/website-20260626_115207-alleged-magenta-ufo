@@ -280,13 +280,13 @@ image: /assets/images/Alleged_Magenta_ufo_7bc4e9_vatican_story_f31126_missing_va
 
 ## Introduction
 
-The alleged [Vatican]({{ 'vatican/' | relative_url }}) role in the Magenta UFO story depends on the existence of an extraordinary chain of events: that the Holy See learned of a recovered craft, Pope Pius XII quietly informed the United States, and the object was later transferred into American hands. If such a sequence occurred, historians would normally expect at least some documentary footprint in the Vatican's extensive archival system or in the records of governments that dealt with the Holy See. No authenticated Vatican archive document has yet surfaced linking the Holy See to a recovered craft, the alleged Cabinet RS/33, or any transfer of anomalous material to the United States. That absence does not prove the story is false, but it does make the claim much harder to verify and leaves it dependent almost entirely on later testimony and secondary [retellings]({{ 'retellings/' | relative_url }}) rather than independently examinable records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usccb.org">[USCCB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usccb.org</span><span class="citation-popover-title">Angels or aliens?</span><span class="citation-popover-snippet">Some researchers say Vatican archives...18 Jun 2024 — Angels or aliens? Some researchers say Vatican archives hold UFO secrets. Some sci...</span></span></span>
+The alleged [Vatican]({{ 'vatican/' | relative_url }}) role in the Magenta UFO story depends on the existence of an extraordinary chain of events: that the Holy See learned of a recovered craft, Pope Pius XII quietly informed the United States, and the object was later transferred into American hands. If such a sequence occurred, historians would normally expect at least some documentary footprint in the Vatican's extensive archival system or in the records of governments that dealt with the Holy See. No authenticated Vatican archive document has yet surfaced linking the Holy See to a recovered craft, the alleged Cabinet RS/33, or any transfer of anomalous material to the United States. That absence does not prove the story is false, but it does make the claim much harder to verify and leaves it dependent almost entirely on later testimony and secondary [retellings]({{ 'retellings/' | relative_url }}) rather than independently examinable records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usccb.org">[USCCB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usccb.org</span><span class="citation-popover-title">Angels or aliens?</span><span class="citation-popover-snippet">Some researchers say Vatican archives...18 Jun 2024 — Angels or aliens? Some researchers say Vatican archives hold UFO secrets. Some sci...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_vatican_story_f31126_missing_vatican_reco_cc68bf-Illustration-1-dark.svg" | relative_url }}" alt="Archive Gap illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_vatican_story_f31126_missing_vatican_reco_cc68bf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_vatican_story_f31126_missing_vatican_reco_cc68bf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Vatican records would need to show
 
-The Vatican Apostolic Archive preserves an enormous range of historical material, including diplomatic correspondence, reports from papal representatives, internal memoranda and records connected with the governance of the Holy See. Researchers can now consult documents up to the end of the pontificate of Pope Pius XII in October 1958, subject to the archive's normal scholarly procedures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archivioapostolicovaticano.va/content/aav/en/consultazione/accesso-e-consultazione.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archivioapostolicovaticano.va">[archivioapostolicovaticano.va]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archivioapostolicovaticano.va</span><span class="citation-popover-snippet">Admission cards are required...Read more...</span></span></span>
+The Vatican Apostolic Archive preserves an enormous range of historical material, including diplomatic correspondence, reports from papal representatives, internal memoranda and records connected with the governance of the Holy See. Researchers can now consult documents up to the end of the pontificate of Pope Pius XII in October 1958, subject to the archive's normal scholarly procedures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archivioapostolicovaticano.va/content/aav/en/consultazione/accesso-e-consultazione.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archivioapostolicovaticano.va">[archivioapostolicovaticano.va]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archivioapostolicovaticano.va</span><span class="citation-popover-snippet">Admission cards are required...Read more...</span></span></span>
 
 For the Magenta intermediary narrative to move beyond allegation, historians would expect evidence of one or more of the following:
 
@@ -300,7 +300,7 @@ For the Magenta intermediary narrative to move beyond allegation, historians wou
 
 </div>
 
-None of these categories has produced an authenticated document supporting the specific claim that the Vatican facilitated the transfer of a recovered non-human craft. Instead, the allegation remains unsupported by primary archival evidence that independent researchers can inspect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usccb.org">[USCCB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usccb.org</span><span class="citation-popover-title">Angels or aliens?</span><span class="citation-popover-snippet">Some researchers say Vatican archives...18 Jun 2024 — Angels or aliens? Some researchers say Vatican archives hold UFO secrets. Some sci...</span></span></span>
+None of these categories has produced an authenticated document supporting the specific claim that the Vatican facilitated the transfer of a recovered non-human craft. Instead, the allegation remains unsupported by primary archival evidence that independent researchers can inspect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usccb.org">[USCCB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usccb.org</span><span class="citation-popover-title">Angels or aliens?</span><span class="citation-popover-snippet">Some researchers say Vatican archives...18 Jun 2024 — Angels or aliens? Some researchers say Vatican archives hold UFO secrets. Some sci...</span></span></span>
 
 Importantly, this is a question of evidence rather than expectation. Secret diplomacy certainly occurred during the Second World War, and many wartime communications remained confidential for years. The issue is that the specific documentary trail required by this particular story has not been demonstrated.
 
@@ -311,9 +311,9 @@ Importantly, this is a question of evidence rather than expectation. Secret dipl
 
 Public comments from Vatican archive staff have not confirmed the existence of records supporting the Magenta story.
 
-When asked about David [Grusch]({{ 'grusch/' | relative_url }})'s claim that Pope Pius XII secretly informed the United States about a recovered craft, Marco Grilli, secretary to the prefect of the Vatican Apostolic Archive, stated that he did not know where the information originated and reportedly remarked that one could simply laugh at the allegation. His comments did not suggest that archivists were aware of hidden files documenting such an event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usccb.org">[USCCB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usccb.org</span><span class="citation-popover-title">Angels or aliens?</span><span class="citation-popover-snippet">Some researchers say Vatican archives...18 Jun 2024 — Angels or aliens? Some researchers say Vatican archives hold UFO secrets. Some sci...</span></span></span>
+When asked about David [Grusch]({{ 'grusch/' | relative_url }})'s claim that Pope Pius XII secretly informed the United States about a recovered craft, Marco Grilli, secretary to the prefect of the Vatican Apostolic Archive, stated that he did not know where the information originated and reportedly remarked that one could simply laugh at the allegation. His comments did not suggest that archivists were aware of hidden files documenting such an event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usccb.org">[USCCB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usccb.org</span><span class="citation-popover-title">Angels or aliens?</span><span class="citation-popover-snippet">Some researchers say Vatican archives...18 Jun 2024 — Angels or aliens? Some researchers say Vatican archives hold UFO secrets. Some sci...</span></span></span>
 
-The same reporting notes that researchers interested in anomalous phenomena have expressed a desire to examine Vatican holdings, but this reflects a hope that relevant material might exist rather than evidence that it has been found. Scholars such as Diana Walsh Pasulka have also observed that the archive contains vast quantities of historical material and that digitisation priorities naturally focus on major institutional records rather than obscure reports of unusual experiences. That observation concerns archival priorities, not confirmation of extraterrestrial-related files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usccb.org">[USCCB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usccb.org</span><span class="citation-popover-title">Angels or aliens?</span><span class="citation-popover-snippet">Some researchers say Vatican archives...18 Jun 2024 — Angels or aliens? Some researchers say Vatican archives hold UFO secrets. Some sci...</span></span></span>
+The same reporting notes that researchers interested in anomalous phenomena have expressed a desire to examine Vatican holdings, but this reflects a hope that relevant material might exist rather than evidence that it has been found. Scholars such as Diana Walsh Pasulka have also observed that the archive contains vast quantities of historical material and that digitisation priorities naturally focus on major institutional records rather than obscure reports of unusual experiences. That observation concerns archival priorities, not confirmation of extraterrestrial-related files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usccb.org">[USCCB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usccb.org</span><span class="citation-popover-title">Angels or aliens?</span><span class="citation-popover-snippet">Some researchers say Vatican archives...18 Jun 2024 — Angels or aliens? Some researchers say Vatican archives hold UFO secrets. Some sci...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JyaCvEP1qa4" title="The Vatican&#x27;s silence about UFO report is &quot;not surprising&quot;: David Childress | Banfield" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JyaCvEP1qa4" target="_blank" rel="noopener noreferrer">The Vatican&#x27;s silence about UFO report is &quot;not surprising&quot;: David Childress | Banfield</a></p><p class="youtube-embed-meta">Channel: NewsNation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JyaCvEP1qa4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JyaCvEP1qa4">Open on YouTube</a></p></div></div></div>
@@ -347,14 +347,14 @@ The missing archival trail has consequences beyond the Vatican itself.
 
 The intermediary claim functions as a bridge connecting several separate elements of the wider Magenta narrative:
 
-* the alleged 1933 recovery; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.catholic.org/news/technology/story.php?id=86465" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catholic.org">[catholic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catholic.org</span><span class="citation-popover-snippet">Is the Vatican Hiding Evidence of an Alien Crash from 1933?4 Aug 2023 — The alleged retrieval of a UFO from Italy in the 1930s adds a new...</span></span></span>
+* the alleged 1933 recovery;<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.catholic.org/news/technology/story.php?id=86465" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catholic.org">[catholic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catholic.org</span><span class="citation-popover-snippet">Is the Vatican Hiding Evidence of an Alien Crash from 1933?4 Aug 2023 — The alleged retrieval of a UFO from Italy in the 1930s adds a new...</span></span></span>
 * the purported Fascist investigation under [Cabinet]({{ 'rs-33/' | relative_url }}) RS/33;
 * Vatican diplomatic involvement;
 * eventual American possession of the object.
 
 Without documentary support for the Vatican stage, that bridge depends largely on later accounts rather than contemporaneous records. This increases the difficulty of independently verifying the narrative because one unsupported claim becomes necessary to explain the transition between two other disputed claims.
 
-Researchers have also noted that the Vatican component appears to become more prominent in later versions of the Magenta story, particularly after it entered English-language discussions and was repeated by David Grusch as information he said had been provided to him rather than personally verified. That development makes contemporaneous documentary evidence even more important, because it would help determine whether the Vatican element originated in historical records or emerged during [later retellings]({{ 'later-retellings/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-snippet">Pressure on Vatican to Reveal Archives After &#x27;UFO Cover...2 Aug 2023 — Grusch alleged that then-Pope Pius XII had &quot;backchanneled...</span></span></span>
+Researchers have also noted that the Vatican component appears to become more prominent in later versions of the Magenta story, particularly after it entered English-language discussions and was repeated by David Grusch as information he said had been provided to him rather than personally verified. That development makes contemporaneous documentary evidence even more important, because it would help determine whether the Vatican element originated in historical records or emerged during [later retellings]({{ 'later-retellings/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-snippet">Pressure on Vatican to Reveal Archives After &#x27;UFO Cover...2 Aug 2023 — Grusch alleged that then-Pope Pius XII had &quot;backchanneled...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DqOyfWLEwPQ" title="UAP disclosure: Whistleblower David Grusch has pushed for transparency | NewsNation Prime" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DqOyfWLEwPQ" target="_blank" rel="noopener noreferrer">UAP disclosure: Whistleblower David Grusch has pushed for transparency | NewsNation Prime</a></p><p class="youtube-embed-meta">Channel: NewsNation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DqOyfWLEwPQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DqOyfWLEwPQ">Open on YouTube</a></p></div></div></div>
@@ -368,200 +368,200 @@ The current [evidence gap]({{ 'evidence-gap/' | relative_url }}) is not necessar
 * corroborating Allied diplomatic or intelligence files that independently matched Vatican records;
 * a documented [chain of custody]({{ 'custody/' | relative_url }}) showing how such records entered the archive.
 
-Until evidence of that kind is produced and independently authenticated, the absence of verifiable Vatican archival records remains one of the central weaknesses in the claim that the Holy See secretly facilitated the transfer of a recovered craft from Fascist Italy to the United States. It does not prove the story impossible, but it means the allegation currently rests on assertions that have not been corroborated by the primary historical record available to scholars. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usccb.org">[USCCB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usccb.org</span><span class="citation-popover-title">Angels or aliens?</span><span class="citation-popover-snippet">Some researchers say Vatican archives...18 Jun 2024 — Angels or aliens? Some researchers say Vatican archives hold UFO secrets. Some sci...</span></span></span>
+Until evidence of that kind is produced and independently authenticated, the absence of verifiable Vatican archival records remains one of the central weaknesses in the claim that the Holy See secretly facilitated the transfer of a recovered craft from Fascist Italy to the United States. It does not prove the story impossible, but it means the allegation currently rests on assertions that have not been corroborated by the primary historical record available to scholars.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usccb.org">[USCCB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usccb.org</span><span class="citation-popover-title">Angels or aliens?</span><span class="citation-popover-snippet">Some researchers say Vatican archives...18 Jun 2024 — Angels or aliens? Some researchers say Vatican archives hold UFO secrets. Some sci...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_vatican_story_f31126_missing_vatican_reco_cc68bf-Illustration-3-dark.svg" | relative_url }}" alt="Archive Gap illustration 3" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_vatican_story_f31126_missing_vatican_reco_cc68bf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_vatican_story_f31126_missing_vatican_reco_cc68bf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Are the Vatican Records Missing?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Are the Vatican Records Missing?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a documentary-minded approach to evaluating extraordinary UFO claims and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a documentary-minded approach to evaluating extraordinary UFO claims and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Explores the intersection of Catholicism, belief, institutions, and modern UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the intersection of Catholicism, belief, institutions, and modern UFO claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Vatican+Diaries+John+Thavis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Vatican Diaries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9038448-M.jpg" alt="Cover for The Vatican Diaries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Vatican+Diaries+John+Thavis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Vatican Diaries">The Vatican Diaries</a>
-        </h4>
-        <p class="fr-book-author">By John Thavis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Vatican+Diaries+John+Thavis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Vatican Diaries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9038448-M.jpg" alt="Cover for The Vatican Diaries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Vatican+Diaries+John+Thavis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Vatican Diaries">The Vatican Diaries</a>
+</h4>
+<p class="fr-book-author">By John Thavis</p>
         
-        <p class="fr-book-desc">First published 2013. Subjects: Papacy, history, Vatican city, Benedict xvi, pope, 1927-, Catholic church, government.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Vatican+Diaries+John+Thavis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2013. Subjects: Papacy, history, Vatican city, Benedict xvi, pope, 1927-, Catholic church, government.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Vatican+Diaries+John+Thavis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Illustrates evidence-based discussion of controversial UFO claims rather than relying on unsupported narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates evidence-based discussion of controversial UFO claims rather than relying on unsupported narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Vatican+Diaries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Vatican Diaries</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Vatican+Diaries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Vatican Diaries</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display"><img src="{{ '/assets/images/marketplace-covers/3ccfc0d32b189563b8e0.jpg' | relative_url }}" alt="Listing image for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display"><img src="{{ '/assets/images/marketplace-covers/3ccfc0d32b189563b8e0.jpg' | relative_url }}" alt="Listing image for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting"><img src="{{ '/assets/images/marketplace-covers/64fd2e61ffabf1eeab61.jpg' | relative_url }}" alt="Listing image for Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting"><img src="{{ '/assets/images/marketplace-covers/64fd2e61ffabf1eeab61.jpg' | relative_url }}" alt="Listing image for Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model"><img src="{{ '/assets/images/marketplace-covers/b626ecf0eef6236661c6.jpg' | relative_url }}" alt="Listing image for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model"><img src="{{ '/assets/images/marketplace-covers/b626ecf0eef6236661c6.jpg' | relative_url }}" alt="Listing image for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="archive-gap-why-are-the-vatican-records-missing-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -577,7 +577,7 @@ Until evidence of that kind is produced and independently authenticated, the abs
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -597,7 +597,7 @@ Until evidence of that kind is produced and independently authenticated, the abs
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -629,7 +629,7 @@ Until evidence of that kind is produced and independently authenticated, the abs
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -681,7 +681,7 @@ Until evidence of that kind is produced and independently authenticated, the abs
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -726,7 +726,7 @@ Until evidence of that kind is produced and independently authenticated, the abs
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -767,91 +767,91 @@ Until evidence of that kind is produced and independently authenticated, the abs
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: usccb.org  
    Title: Angels or aliens?  
-   Link: <a href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow">https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Some researchers say Vatican archives...18 Jun 2024 — Angels or aliens? Some researchers say Vatican archives hold UFO secrets. Some sci...</p></details>
+   Link:<a href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow">https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Some researchers say Vatican archives...18 Jun 2024 — Angels or aliens? Some researchers say Vatican archives hold UFO secrets. Some sci...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archivioapostolicovaticano.va  
-   Link: <a href="https://www.archivioapostolicovaticano.va/content/aav/en/consultazione/accesso-e-consultazione.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archivioapostolicovaticano.va/content/aav/en/consultazione/accesso-e-consultazione.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Admission cards are required...Read more...</p></details>
+   Link:<a href="https://www.archivioapostolicovaticano.va/content/aav/en/consultazione/accesso-e-consultazione.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archivioapostolicovaticano.va/content/aav/en/consultazione/accesso-e-consultazione.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Admission cards are required...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: newsweek.com  
-   Link: <a href="https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pressure on Vatican to Reveal Archives After &#x27;UFO Cover...2 Aug 2023 — Grusch alleged that then-Pope Pius XII had &quot;backchanneled...</p></details>
+   Link:<a href="https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pressure on Vatican to Reveal Archives After &#x27;UFO Cover...2 Aug 2023 — Grusch alleged that then-Pope Pius XII had &quot;backchanneled...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archivioapostolicovaticano.va  
-   Link: <a href="https://www.archivioapostolicovaticano.va/content/aav/en/l-archivio.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archivioapostolicovaticano.va/content/aav/en/l-archivio.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The ArchivesThe documentary heritage housed in its vast storerooms spans about twelve centuries (8th to 20th centuries). It consists of o...</p></details>
+   Link:<a href="https://www.archivioapostolicovaticano.va/content/aav/en/l-archivio.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archivioapostolicovaticano.va/content/aav/en/l-archivio.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The ArchivesThe documentary heritage housed in its vast storerooms spans about twelve centuries (8th to 20th centuries). It consists of o...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: catholic.org  
-   Link: <a href="https://www.catholic.org/news/technology/story.php?id=86465" target="_blank" rel="noopener noreferrer nofollow">https://www.catholic.org/news/technology/story.php?id=86465</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is the Vatican Hiding Evidence of an Alien Crash from 1933?4 Aug 2023 — The alleged retrieval of a UFO from Italy in the 1930s adds a new...</p></details>
+   Link:<a href="https://www.catholic.org/news/technology/story.php?id=86465" target="_blank" rel="noopener noreferrer nofollow">https://www.catholic.org/news/technology/story.php?id=86465</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is the Vatican Hiding Evidence of an Alien Crash from 1933?4 Aug 2023 — The alleged retrieval of a UFO from Italy in the 1930s adds a new...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Vatican Apostolic Archive  
-   Link: <a href="https://en.wikipedia.org/wiki/Vatican_Apostolic_Archive" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Vatican_Apostolic_Archive</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vatican Apostolic ArchiveThe archive also contains state papers, correspondence, account books, [4] and many other documents that the...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Vatican_Apostolic_Archive" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Vatican_Apostolic_Archive</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vatican Apostolic ArchiveThe archive also contains state papers, correspondence, account books, [4] and many other documents that the...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: thevaticantickets.com  
-   Link: <a href="https://www.thevaticantickets.com/vatican-secrets/" target="_blank" rel="noopener noreferrer nofollow">https://www.thevaticantickets.com/vatican-secrets/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>8 Vatican Secrets &amp; Unresolved Myths You Must KnowFrom forbidden corridors to hidden archives, uncover the little-known secrets, unresolv...</p></details>
+   Link:<a href="https://www.thevaticantickets.com/vatican-secrets/" target="_blank" rel="noopener noreferrer nofollow">https://www.thevaticantickets.com/vatican-secrets/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8 Vatican Secrets &amp; Unresolved Myths You Must KnowFrom forbidden corridors to hidden archives, uncover the little-known secrets, unresolv...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/videos/is-the-vatican-sitting-on-ufo-documentation-banfield/1428490811841754/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/videos/is-the-vatican-sitting-on-ufo-documentation-banfield/1428490811841754/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Claims that a document in the Vatican archives discloses...UFO researcher Ben Hansen joins “Banfield” to talk about the possibility. #UF...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/videos/is-the-vatican-sitting-on-ufo-documentation-banfield/1428490811841754/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/videos/is-the-vatican-sitting-on-ufo-documentation-banfield/1428490811841754/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Claims that a document in the Vatican archives discloses...UFO researcher Ben Hansen joins “Banfield” to talk about the possibility. #UF...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: osvnews.com  
-   Link: <a href="https://www.osvnews.com/ufos-extraterrestrial-life-explored-at-vatican-parish-event/" target="_blank" rel="noopener noreferrer nofollow">https://www.osvnews.com/ufos-extraterrestrial-life-explored-at-vatican-parish-event/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, extraterrestrial life explored at Vatican parish event6 days ago — The UFO talk was one example of the parish&#x27;s broader effort to e...</p></details>
+   Link:<a href="https://www.osvnews.com/ufos-extraterrestrial-life-explored-at-vatican-parish-event/" target="_blank" rel="noopener noreferrer nofollow">https://www.osvnews.com/ufos-extraterrestrial-life-explored-at-vatican-parish-event/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, extraterrestrial life explored at Vatican parish event6 days ago — The UFO talk was one example of the parish&#x27;s broader effort to e...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: neweasterneurope.eu  
-   Link: <a href="https://neweasterneurope.eu/2025/07/08/the-vatican-and-the-eastern-bloc-what-the-vatican-archives-can-reveal-about-cold-war-europe/" target="_blank" rel="noopener noreferrer nofollow">https://neweasterneurope.eu/2025/07/08/the-vatican-and-the-eastern-bloc-what-the-vatican-archives-can-reveal-about-cold-war-europe/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>what the Vatican archives can reveal about Cold War Europe8 Jul 2025 — In March 2020, the Vatican Apostolic Archives opened to consultati...</p></details>
+   Link:<a href="https://neweasterneurope.eu/2025/07/08/the-vatican-and-the-eastern-bloc-what-the-vatican-archives-can-reveal-about-cold-war-europe/" target="_blank" rel="noopener noreferrer nofollow">https://neweasterneurope.eu/2025/07/08/the-vatican-and-the-eastern-bloc-what-the-vatican-archives-can-reveal-about-cold-war-europe/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>what the Vatican archives can reveal about Cold War Europe8 Jul 2025 — In March 2020, the Vatican Apostolic Archives opened to consultati...</p></details>
    Published: March 2020  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ewtnnews.com  
    Title: ewtn news explains what does the catholic church teach about uap and alien life  
-   Link: <a href="https://www.ewtnnews.com/world/us/ewtn-news-explains-what-does-the-catholic-church-teach-about-uap-and-alien-life" target="_blank" rel="noopener noreferrer nofollow">https://www.ewtnnews.com/world/us/ewtn-news-explains-what-does-the-catholic-church-teach-about-uap-and-alien-life</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What does the Catholic Church teach about UFOs...12 May 2026 — The White House on May 8 began releasing files related to UAP/UFOs, gener...</p></details>
+   Link:<a href="https://www.ewtnnews.com/world/us/ewtn-news-explains-what-does-the-catholic-church-teach-about-uap-and-alien-life" target="_blank" rel="noopener noreferrer nofollow">https://www.ewtnnews.com/world/us/ewtn-news-explains-what-does-the-catholic-church-teach-about-uap-and-alien-life</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What does the Catholic Church teach about UFOs...12 May 2026 — The White House on May 8 began releasing files related to UAP/UFOs, gener...</p></details>
    Published: May 2026  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=DqOyfWLEwPQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DqOyfWLEwPQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblower David Grusch has pushed for transparencyPentagon releases more UFO files as &#x27;Disclosure Day&#x27; debuts | Elizabeth Vargas Repo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DqOyfWLEwPQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DqOyfWLEwPQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblower David Grusch has pushed for transparencyPentagon releases more UFO files as &#x27;Disclosure Day&#x27; debuts | Elizabeth Vargas Repo...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: catholicreview.org  
-   Link: <a href="https://catholicreview.org/ufos-extraterrestrial-life-explored-at-vatican-parish-event/" target="_blank" rel="noopener noreferrer nofollow">https://catholicreview.org/ufos-extraterrestrial-life-explored-at-vatican-parish-event/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, extraterrestrial life explored at Vatican parish event7 May 2026 — UFOs, extraterrestrial life explored at Vatican parish event...</p></details>
+   Link:<a href="https://catholicreview.org/ufos-extraterrestrial-life-explored-at-vatican-parish-event/" target="_blank" rel="noopener noreferrer nofollow">https://catholicreview.org/ufos-extraterrestrial-life-explored-at-vatican-parish-event/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, extraterrestrial life explored at Vatican parish event7 May 2026 — UFOs, extraterrestrial life explored at Vatican parish event...</p></details>
    Published: May 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: osvnews.com  
    Title: catholic filmmaker investigates ufo mysteries at the vatican  
-   Link: <a href="https://www.osvnews.com/catholic-filmmaker-investigates-ufo-mysteries-at-the-vatican/" target="_blank" rel="noopener noreferrer nofollow">https://www.osvnews.com/catholic-filmmaker-investigates-ufo-mysteries-at-the-vatican/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pope Pius XII knew of a UFO that crashed near Milan in 1933. Grusch... Vatican had secret knowledge of UFOs. (CNS photo/Robert Duncan).R...</p></details>
+   Link:<a href="https://www.osvnews.com/catholic-filmmaker-investigates-ufo-mysteries-at-the-vatican/" target="_blank" rel="noopener noreferrer nofollow">https://www.osvnews.com/catholic-filmmaker-investigates-ufo-mysteries-at-the-vatican/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pope Pius XII knew of a UFO that crashed near Milan in 1933. Grusch... Vatican had secret knowledge of UFOs. (CNS photo/Robert Duncan).R...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: catholicstarherald.org  
-   Link: <a href="https://catholicstarherald.org/catholic-filmmaker-investigates-ufo-mysteries-at-the-vatican/" target="_blank" rel="noopener noreferrer nofollow">https://catholicstarherald.org/catholic-filmmaker-investigates-ufo-mysteries-at-the-vatican/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Catholic filmmaker investigates UFO mysteries at the VaticanNov 25, 2025 — Catholic filmmaker investigates UFO mysteries at the Vatican...</p></details>
+   Link:<a href="https://catholicstarherald.org/catholic-filmmaker-investigates-ufo-mysteries-at-the-vatican/" target="_blank" rel="noopener noreferrer nofollow">https://catholicstarherald.org/catholic-filmmaker-investigates-ufo-mysteries-at-the-vatican/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Catholic filmmaker investigates UFO mysteries at the VaticanNov 25, 2025 — Catholic filmmaker investigates UFO mysteries at the Vatican...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1bwdr74/the_magenta_crash_was_information_of_the_event/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bwdr74/the_magenta_crash_was_information_of_the_event/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vatican Under Pressure to Release Secret UFO Archives Amid Growing Allegations. unveiltoday. 766. 65. What, if any, was the connection...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1bwdr74/the_magenta_crash_was_information_of_the_event/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bwdr74/the_magenta_crash_was_information_of_the_event/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vatican Under Pressure to Release Secret UFO Archives Amid Growing Allegations. unveiltoday. 766. 65. What, if any, was the connection...</p></details>

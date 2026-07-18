@@ -284,13 +284,13 @@ The legend of Die Glocke (“The Bell”) is often used as a narrative bridge in
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59_die_glocke_template_8e66bf-Illustration-1-dark.svg" | relative_url }}" alt="Die Glocke illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59_die_glocke_template_8e66bf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59_die_glocke_template_8e66bf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within discussions of the alleged Magenta crash, Die Glocke functions less as corroborating evidence than as a ready-made template for explaining what supposedly happened to an exotic machine after the Second World War. Understanding why the stories resemble one another is therefore more useful than assuming they describe parts of the same historical chain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/military/research/a36560537/die-glocke-nazi-bell-conspiracy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">die glocke nazi bell conspiracy</span><span class="citation-popover-snippet">Popular MechanicsThis Conspiracy Says Hitler Had a Secret Anti-Gravity UFO10 Aug 2023 — Die Glocke also showed up in Igor Witkowski&#x27;s 200...</span></span></span>
+Within discussions of the alleged Magenta crash, Die Glocke functions less as corroborating evidence than as a ready-made template for explaining what supposedly happened to an exotic machine after the Second World War. Understanding why the stories resemble one another is therefore more useful than assuming they describe parts of the same historical chain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/military/research/a36560537/die-glocke-nazi-bell-conspiracy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">die glocke nazi bell conspiracy</span><span class="citation-popover-snippet">Popular MechanicsThis Conspiracy Says Hitler Had a Secret Anti-Gravity UFO10 Aug 2023 — Die Glocke also showed up in Igor Witkowski&#x27;s 200...</span></span></span>
 
 ## The bell-shaped device legend in modern UFO culture
 
-Die Glocke entered modern conspiracy literature surprisingly late. Unlike genuine German wartime weapons such as the V-1, V-2 or Me 262 jet fighter, it does not appear in wartime technical archives or immediate post-war intelligence reports. The modern legend traces primarily to Polish author Igor Witkowski, whose 2000 book claimed to describe a secret SS project based on documents he said he had been allowed to view but not copy. British [aviation]({{ 'aviation/' | relative_url }}) journalist Nick Cook later introduced the story to a much wider English-speaking audience, linking it with rumours of anti-gravity research and classified aerospace technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/military/research/a36560537/die-glocke-nazi-bell-conspiracy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">die glocke nazi bell conspiracy</span><span class="citation-popover-snippet">Popular MechanicsThis Conspiracy Says Hitler Had a Secret Anti-Gravity UFO10 Aug 2023 — Die Glocke also showed up in Igor Witkowski&#x27;s 200...</span></span></span>
+Die Glocke entered modern conspiracy literature surprisingly late. Unlike genuine German wartime weapons such as the V-1, V-2 or Me 262 jet fighter, it does not appear in wartime technical archives or immediate post-war intelligence reports. The modern legend traces primarily to Polish author Igor Witkowski, whose 2000 book claimed to describe a secret SS project based on documents he said he had been allowed to view but not copy. British [aviation]({{ 'aviation/' | relative_url }}) journalist Nick Cook later introduced the story to a much wider English-speaking audience, linking it with rumours of anti-gravity research and classified aerospace technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/military/research/a36560537/die-glocke-nazi-bell-conspiracy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">die glocke nazi bell conspiracy</span><span class="citation-popover-snippet">Popular MechanicsThis Conspiracy Says Hitler Had a Secret Anti-Gravity UFO10 Aug 2023 — Die Glocke also showed up in Igor Witkowski&#x27;s 200...</span></span></span>
 
-As the story evolved, Die Glocke accumulated increasingly dramatic characteristics. Depending on the retelling, it became a propulsion experiment, a radiation device, a gravity-control machine, or even a time-manipulation apparatus. These additions were made largely through later books and television programmes rather than through newly discovered historical records. The result is a legend that expanded through repetition rather than through accumulating archival evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Die_Glocke_%28conspiracy_theory%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Die Glocke (conspiracy theory</span><span class="citation-popover-snippet">Die Glocke (conspiracy theory</span></span></span>
+As the story evolved, Die Glocke accumulated increasingly dramatic characteristics. Depending on the retelling, it became a propulsion experiment, a radiation device, a gravity-control machine, or even a time-manipulation apparatus. These additions were made largely through later books and television programmes rather than through newly discovered historical records. The result is a legend that expanded through repetition rather than through accumulating archival evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Die_Glocke_%28conspiracy_theory%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Die Glocke (conspiracy theory</span><span class="citation-popover-snippet">Die Glocke (conspiracy theory</span></span></span>
 
 This matters when comparing Die Glocke with Magenta. The Bell legend already supplied a familiar vocabulary of hidden laboratories, elite SS [oversight]({{ 'oversight/' | relative_url }}), mysterious physics and vanished technology. Once that narrative existed, it became easy for later writers to fit other alleged wartime recoveries into the same pattern.
 
@@ -314,7 +314,7 @@ Die Glocke offers ready-made narrative answers without requiring additional hist
 
 This creates a stronger narrative but not a stronger evidential case. Neither story independently documents the other. Instead, each borrows credibility from the existence of another secret-technology legend.
 
-The mechanism resembles a common pattern in conspiracy narratives: multiple uncertain stories become mutually reinforcing simply because they share themes rather than sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/military/research/a36560537/die-glocke-nazi-bell-conspiracy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">die glocke nazi bell conspiracy</span><span class="citation-popover-snippet">Popular MechanicsThis Conspiracy Says Hitler Had a Secret Anti-Gravity UFO10 Aug 2023 — Die Glocke also showed up in Igor Witkowski&#x27;s 200...</span></span></span>
+The mechanism resembles a common pattern in conspiracy narratives: multiple uncertain stories become mutually reinforcing simply because they share themes rather than sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/military/research/a36560537/die-glocke-nazi-bell-conspiracy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">die glocke nazi bell conspiracy</span><span class="citation-popover-snippet">Popular MechanicsThis Conspiracy Says Hitler Had a Secret Anti-Gravity UFO10 Aug 2023 — Die Glocke also showed up in Igor Witkowski&#x27;s 200...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2iAZBzceCsI" title="DIE GLOCKE – THE NAZI BELL | FULL DOCUMENTARY-STYLE STORY | SECRET WW2 TECHNOLOGY &amp; TIME ANOMALIES" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2iAZBzceCsI" target="_blank" rel="noopener noreferrer">DIE GLOCKE – THE NAZI BELL | FULL DOCUMENTARY-STYLE STORY | SECRET WW2 TECHNOLOGY &amp; TIME ANOMALIES</a></p><p class="youtube-embed-meta">Channel: Midnight Archives</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2iAZBzceCsI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2iAZBzceCsI">Open on YouTube</a></p></div></div></div>
@@ -323,9 +323,9 @@ The mechanism resembles a common pattern in conspiracy narratives: multiple unce
 
 One of the most important differences between narrative coherence and historical evidence is the absence of reliable documentation showing that Die Glocke itself was ever recovered by Allied forces.
 
-Many versions of the legend suggest that SS General Hans Kammler arranged for the device or its research to be transferred to the United States in exchange for protection. Others claim it disappeared into South America or remained hidden in underground facilities. These explanations cannot all be true simultaneously, illustrating how the story adapts to different narrative needs rather than converging on a documented historical account. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Die_Glocke_%28conspiracy_theory%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Die Glocke (conspiracy theory</span><span class="citation-popover-snippet">Die Glocke (conspiracy theory</span></span></span>
+Many versions of the legend suggest that SS General Hans Kammler arranged for the device or its research to be transferred to the United States in exchange for protection. Others claim it disappeared into South America or remained hidden in underground facilities. These explanations cannot all be true simultaneously, illustrating how the story adapts to different narrative needs rather than converging on a documented historical account.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Die_Glocke_%28conspiracy_theory%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Die Glocke (conspiracy theory</span><span class="citation-popover-snippet">Die Glocke (conspiracy theory</span></span></span>
 
-Equally significant is what has not been found. Despite extensive post-war Allied exploitation of German technology—including documented programmes involving rockets, aircraft, radar and chemical research—no verified American, British or Soviet capture inventory identifies a machine matching the extraordinary descriptions attached to Die Glocke. Historians studying genuine German weapons programmes have likewise not uncovered contemporary records confirming such a project. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Die_Glocke_%28conspiracy_theory%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Die Glocke (conspiracy theory</span><span class="citation-popover-snippet">Die Glocke (conspiracy theory</span></span></span>
+Equally significant is what has not been found. Despite extensive post-war Allied exploitation of German technology—including documented programmes involving rockets, aircraft, radar and chemical research—no verified American, British or Soviet capture inventory identifies a machine matching the extraordinary descriptions attached to Die Glocke. Historians studying genuine German weapons programmes have likewise not uncovered contemporary records confirming such a project.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Die_Glocke_%28conspiracy_theory%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Die Glocke (conspiracy theory</span><span class="citation-popover-snippet">Die Glocke (conspiracy theory</span></span></span>
 
 This absence affects Magenta retellings as well. If Die Glocke itself lacks a documented capture trail, it cannot independently support claims that another alleged exotic device from Fascist Italy was secretly transferred through the same process.
 
@@ -347,7 +347,7 @@ These recurring elements make the stories feel compatible. Readers naturally inf
 
 Historical reasoning works differently. Establishing a connection requires independent documentary evidence showing personnel, facilities, official correspondence or physical artefacts linking one programme to the other. Shared motifs—secret laboratories, disappearing scientists or hidden technology—cannot substitute for that evidence.
 
-The chronology also deserves attention. The modern Die Glocke narrative became widely known only decades after the Second World War, long after most early accounts of Nazi secret weapons had already entered popular culture. Its emergence therefore reflects the evolution of post-war UFO and conspiracy literature as much as it reflects any newly uncovered wartime evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/military/research/a36560537/die-glocke-nazi-bell-conspiracy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">die glocke nazi bell conspiracy</span><span class="citation-popover-snippet">Popular MechanicsThis Conspiracy Says Hitler Had a Secret Anti-Gravity UFO10 Aug 2023 — Die Glocke also showed up in Igor Witkowski&#x27;s 200...</span></span></span>
+The chronology also deserves attention. The modern Die Glocke narrative became widely known only decades after the Second World War, long after most early accounts of Nazi secret weapons had already entered popular culture. Its emergence therefore reflects the evolution of post-war UFO and conspiracy literature as much as it reflects any newly uncovered wartime evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/military/research/a36560537/die-glocke-nazi-bell-conspiracy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">die glocke nazi bell conspiracy</span><span class="citation-popover-snippet">Popular MechanicsThis Conspiracy Says Hitler Had a Secret Anti-Gravity UFO10 Aug 2023 — Die Glocke also showed up in Igor Witkowski&#x27;s 200...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59_die_glocke_template_8e66bf-Illustration-2-dark.svg" | relative_url }}" alt="Die Glocke illustration 2" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59_die_glocke_template_8e66bf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59_die_glocke_template_8e66bf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -373,200 +373,200 @@ Its principal contribution is to supply an established model for how extraordina
 
 That sequence appears in numerous post-war conspiracy narratives beyond Die Glocke itself. The Magenta story fits comfortably into the pattern because it shares the same dramatic architecture, not because surviving historical records demonstrate a direct connection.
 
-For that reason, the resemblance between Die Glocke and Magenta is best understood as an example of narrative transfer within modern UFO culture. The similarities explain why the two stories are frequently linked, while the lack of corroborating archival evidence explains why that linkage remains speculative rather than historical. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Die_Glocke_%28conspiracy_theory%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Die Glocke (conspiracy theory</span><span class="citation-popover-snippet">Die Glocke (conspiracy theory</span></span></span>
+For that reason, the resemblance between Die Glocke and Magenta is best understood as an example of narrative transfer within modern UFO culture. The similarities explain why the two stories are frequently linked, while the lack of corroborating archival evidence explains why that linkage remains speculative rather than historical.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Die_Glocke_%28conspiracy_theory%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Die Glocke (conspiracy theory</span><span class="citation-popover-snippet">Die Glocke (conspiracy theory</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59_die_glocke_template_8e66bf-Illustration-3-dark.svg" | relative_url }}" alt="Die Glocke illustration 3" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59_die_glocke_template_8e66bf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59_die_glocke_template_8e66bf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Die Glocke Sounds Like Magenta. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Die Glocke Sounds Like Magenta. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/527870-M.jpg" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/527870-M.jpg" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Popularised Die Glocke for English-speaking readers and directly addresses the anti-gravity legend.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Popularised Die Glocke for English-speaking readers and directly addresses the anti-gravity legend.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Operation+paperclip+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Operation paperclip on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7273379-M.jpg" alt="Cover for Operation paperclip" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Operation+paperclip+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation paperclip">Operation paperclip</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Operation+paperclip+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Operation paperclip on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7273379-M.jpg" alt="Cover for Operation paperclip" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Operation+paperclip+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation paperclip">Operation paperclip</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Explains the documented post-war transfer framework often used to extend Die Glocke-style narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Operation+paperclip+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the documented post-war transfer framework often used to extend Die Glocke-style narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Operation+paperclip+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Secret+Weapons+of+World+War+II+William+B.+Breuer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Secret Weapons of World War II on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4725745-M.jpg" alt="Cover for Secret Weapons of World War II" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Secret+Weapons+of+World+War+II+William+B.+Breuer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Secret Weapons of World War II">Secret Weapons of World War II</a>
-        </h4>
-        <p class="fr-book-author">By William B. Breuer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Secret+Weapons+of+World+War+II+William+B.+Breuer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Secret Weapons of World War II on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4725745-M.jpg" alt="Cover for Secret Weapons of World War II" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Secret+Weapons+of+World+War+II+William+B.+Breuer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Secret Weapons of World War II">Secret Weapons of World War II</a>
+</h4>
+<p class="fr-book-author">By William B. Breuer</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Weltkrieg (1939-1945), Equipment and supplies, Geheimwaffe, World War, 1939-1945, Weapons systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Secret+Weapons+of+World+War+II+William+B.+Breuer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Weltkrieg (1939-1945), Equipment and supplies, Geheimwaffe, World War, 1939-1945, Weapons systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Secret+Weapons+of+World+War+II+William+B.+Breuer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Truth+About+The+Wunderwaffe+Igor+Witkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Truth About The Wunderwaffe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9024989-M.jpg" alt="Cover for The Truth About The Wunderwaffe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Truth+About+The+Wunderwaffe+Igor+Witkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Truth About The Wunderwaffe">The Truth About The Wunderwaffe</a>
-        </h4>
-        <p class="fr-book-author">By Igor Witkowski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Truth+About+The+Wunderwaffe+Igor+Witkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Truth About The Wunderwaffe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9024989-M.jpg" alt="Cover for The Truth About The Wunderwaffe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Truth+About+The+Wunderwaffe+Igor+Witkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Truth About The Wunderwaffe">The Truth About The Wunderwaffe</a>
+</h4>
+<p class="fr-book-author">By Igor Witkowski</p>
         
-        <p class="fr-book-desc">First published 2003. Subjects: Armed Forces, Weapons systems, History, Military weapons, World War, 1939-1945.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Truth+About+The+Wunderwaffe+Igor+Witkowski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2003. Subjects: Armed Forces, Weapons systems, History, Military weapons, World War, 1939-1945.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Truth+About+The+Wunderwaffe+Igor+Witkowski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Operation+paperclip&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Operation paperclip</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Secret+Weapons+of+World+War+II&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Secret Weapons of World War II</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Operation+paperclip&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Operation paperclip</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Secret+Weapons+of+World+War+II&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Secret Weapons of World War II</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-series+-gerry+-anderson+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -series -gerry -anderson -television -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-series+-gerry+-anderson+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -series -gerry -anderson -television -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-series+-gerry+-anderson+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -series -gerry -anderson -television -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-series+-gerry+-anderson+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -series -gerry -anderson -television -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-series+-gerry+-anderson+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -series -gerry -anderson -television -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-series+-gerry+-anderson+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -series -gerry -anderson -television -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-series+-gerry+-anderson+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -series -gerry -anderson -television -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-series+-gerry+-anderson+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -series -gerry -anderson -television -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-series+-gerry+-anderson+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -series -gerry -anderson -television -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-series+-gerry+-anderson+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -series -gerry -anderson -television -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-series+-gerry+-anderson+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -series -gerry -anderson -television -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-series+-gerry+-anderson+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -series -gerry -anderson -television -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-series+-gerry+-anderson+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -series -gerry -anderson -television -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-series+-gerry+-anderson+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -series -gerry -anderson -television -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-series+-gerry+-anderson+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -series -gerry -anderson -television -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-series+-gerry+-anderson+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -series -gerry -anderson -television -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-series+-gerry+-anderson+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -series -gerry -anderson -television -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-series+-gerry+-anderson+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -series -gerry -anderson -television -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-series+-gerry+-anderson+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -series -gerry -anderson -television -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-series+-gerry+-anderson+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -series -gerry -anderson -television -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-series+-gerry+-anderson+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -series -gerry -anderson -television -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-series+-gerry+-anderson+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -series -gerry -anderson -television -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-series+-gerry+-anderson+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -series -gerry -anderson -television -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-series+-gerry+-anderson+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -series -gerry -anderson -television -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-series+-gerry+-anderson+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -series -gerry -anderson -television -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-series+-gerry+-anderson+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -series -gerry -anderson -television -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-series+-gerry+-anderson+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -series -gerry -anderson -television -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-series+-gerry+-anderson+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -series -gerry -anderson -television -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-series+-gerry+-anderson+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -series -gerry -anderson -television -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-series+-gerry+-anderson+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -series -gerry -anderson -television -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-series+-gerry+-anderson+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -series -gerry -anderson -television -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-series+-gerry+-anderson+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -series -gerry -anderson -television -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-series+-gerry+-anderson+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -series -gerry -anderson -television -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-series+-gerry+-anderson+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -series -gerry -anderson -television -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="die-glocke-why-die-glocke-sounds-like-magenta-alleged-magenta-ufo-ufo-collectible-series-gerry-anderson-television-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -582,7 +582,7 @@ For that reason, the resemblance between Die Glocke and Magenta is best understo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -602,7 +602,7 @@ For that reason, the resemblance between Die Glocke and Magenta is best understo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -634,7 +634,7 @@ For that reason, the resemblance between Die Glocke and Magenta is best understo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -686,7 +686,7 @@ For that reason, the resemblance between Die Glocke and Magenta is best understo
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -731,7 +731,7 @@ For that reason, the resemblance between Die Glocke and Magenta is best understo
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -772,81 +772,81 @@ For that reason, the resemblance between Die Glocke and Magenta is best understo
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Die Glocke (conspiracy theory)  
-   Link: <a href="https://en.wikipedia.org/wiki/Die_Glocke_%28conspiracy_theory%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Die_Glocke_%28conspiracy_theory%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Die_Glocke_%28conspiracy_theory%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Die_Glocke_%28conspiracy_theory%29</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://ca.wikipedia.org/wiki/Die_Glocke" target="_blank" rel="noopener noreferrer nofollow">https://ca.wikipedia.org/wiki/Die_Glocke</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Die Glocke - Viquipèdia, l&#x27;enciclopèdia lliureDie Glocke (La Campana, en alemany) era un suposat aparell de recerca científica o una s...</p></details>
+   Link:<a href="https://ca.wikipedia.org/wiki/Die_Glocke" target="_blank" rel="noopener noreferrer nofollow">https://ca.wikipedia.org/wiki/Die_Glocke</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Die Glocke - Viquipèdia, l&#x27;enciclopèdia lliureDie Glocke (La Campana, en alemany) era un suposat aparell de recerca científica o una s...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: popularmechanics.com  
    Title: die glocke [nazi bell](&#123;&#123; 'nazi-bell/' | relative_url &#125;&#125;) conspiracy  
-   Link: <a href="https://www.popularmechanics.com/military/research/a36560537/die-glocke-nazi-bell-conspiracy/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a36560537/die-glocke-nazi-bell-conspiracy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Popular MechanicsThis Conspiracy Says Hitler Had a Secret Anti-Gravity UFO10 Aug 2023 — Die Glocke also showed up in Igor Witkowski&#x27;s 200...</p></details>
+   Link:<a href="https://www.popularmechanics.com/military/research/a36560537/die-glocke-nazi-bell-conspiracy/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a36560537/die-glocke-nazi-bell-conspiracy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Popular MechanicsThis Conspiracy Says Hitler Had a Secret Anti-Gravity UFO10 Aug 2023 — Die Glocke also showed up in Igor Witkowski&#x27;s 200...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: military-history.fandom.com  
    Title: Die Glocke  
-   Link: <a href="https://military-history.fandom.com/wiki/Die_Glocke" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/Die_Glocke</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Glocke | Military WikiWitkowski wrote that he first discovered the existence of Die Glocke by reading transcripts from an interrogation o...</p></details>
+   Link:<a href="https://military-history.fandom.com/wiki/Die_Glocke" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/Die_Glocke</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Glocke | Military WikiWitkowski wrote that he first discovered the existence of Die Glocke by reading transcripts from an interrogation o...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/ojrgxa/die_glocke_the_bell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/ojrgxa/die_glocke_the_bell/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Die Glocke &quot;The Bell&quot;: r/HighStrangenessThis large bell was a massive 10ft tall, 5ft wide Mercury Arc Rectifier! These are used to conve...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/ojrgxa/die_glocke_the_bell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/ojrgxa/die_glocke_the_bell/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Die Glocke &quot;The Bell&quot;: r/HighStrangenessThis large bell was a massive 10ft tall, 5ft wide Mercury Arc Rectifier! These are used to conve...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: hangar1publishing.com  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/die-glocke?srsltid=AfmBOookD7Y3C8DyjalmTs4Tom8GAUtwaPu5HwRH3BL0_lGVpzCwUxxQ" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/die-glocke?srsltid=AfmBOookD7Y3C8DyjalmTs4Tom8GAUtwaPu5HwRH3BL0_lGVpzCwUxxQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Die Glocke: Nazi Germany&#x27;s Alleged Wonder WeaponWitkowski claimed he had been shown classified transcripts from the interrogation of form...</p></details>
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/die-glocke?srsltid=AfmBOookD7Y3C8DyjalmTs4Tom8GAUtwaPu5HwRH3BL0_lGVpzCwUxxQ" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/die-glocke?srsltid=AfmBOookD7Y3C8DyjalmTs4Tom8GAUtwaPu5HwRH3BL0_lGVpzCwUxxQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Die Glocke: Nazi Germany&#x27;s Alleged Wonder WeaponWitkowski claimed he had been shown classified transcripts from the interrogation of form...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40timventura/hans-kammler-and-the-nazi-bell-the-postwar-paper-tail-f3b19cdf495f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40timventura/hans-kammler-and-the-nazi-bell-the-postwar-paper-tail-f3b19cdf495f</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hans Kammler and the Nazi Bell: The Postwar Paper TailIgor Witkowski is widely credited with initiating the modern Bell narrative in prin...</p></details>
+   Link:<a href="https://medium.com/%40timventura/hans-kammler-and-the-nazi-bell-the-postwar-paper-tail-f3b19cdf495f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40timventura/hans-kammler-and-the-nazi-bell-the-postwar-paper-tail-f3b19cdf495f</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hans Kammler and the Nazi Bell: The Postwar Paper TailIgor Witkowski is widely credited with initiating the modern Bell narrative in prin...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: secretprojects.co.uk  
-   Link: <a href="https://www.secretprojects.co.uk/threads/plausible-nazi-bell.11144/" target="_blank" rel="noopener noreferrer nofollow">https://www.secretprojects.co.uk/threads/plausible-nazi-bell.11144/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Plausible Nazi BellI&#x27;ve read Igor Witkowski&#x27;s book, and although it has some good, credible, factual descriptions of some nazi Wonder Wea...</p></details>
+   Link:<a href="https://www.secretprojects.co.uk/threads/plausible-nazi-bell.11144/" target="_blank" rel="noopener noreferrer nofollow">https://www.secretprojects.co.uk/threads/plausible-nazi-bell.11144/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Plausible Nazi BellI&#x27;ve read Igor Witkowski&#x27;s book, and although it has some good, credible, factual descriptions of some nazi Wonder Wea...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AlternativeHistory/comments/1llhtiw/die_glocke_the_german_alien_reproduction_vehicle/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AlternativeHistory/comments/1llhtiw/die_glocke_the_german_alien_reproduction_vehicle/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Die Glocke, the German alien reproduction vehicle...What all these accounts have in common is that they trace back to ONE single...</p></details>
+   Link:<a href="https://www.reddit.com/r/AlternativeHistory/comments/1llhtiw/die_glocke_the_german_alien_reproduction_vehicle/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AlternativeHistory/comments/1llhtiw/die_glocke_the_german_alien_reproduction_vehicle/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Die Glocke, the German alien reproduction vehicle...What all these accounts have in common is that they trace back to ONE single...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: music.amazon.co.uk  
    Title: the unanswered questions podcast die glocke the nazi bell real or fiction  
-   Link: <a href="https://music.amazon.co.uk/podcasts/fefcd124-39e3-4971-a52b-15d3a7a9aa65/episodes/f02dd51f-7d4d-495e-bb42-21084c7824f3/the-unanswered-questions-podcast-die-glocke-the-nazi-bell-real-or-fiction?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.co.uk/podcasts/fefcd124-39e3-4971-a52b-15d3a7a9aa65/episodes/f02dd51f-7d4d-495e-bb42-21084c7824f3/the-unanswered-questions-podcast-die-glocke-the-nazi-bell-real-or-fiction?tag=searcht-20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Glocke The Nazi Bell Real Or Fiction7 Mar 2023 — Die Glocke (German for &quot;The Bell&quot;) was a purported top secret Nazi scientific technologi...</p></details>
+   Link:<a href="https://music.amazon.co.uk/podcasts/fefcd124-39e3-4971-a52b-15d3a7a9aa65/episodes/f02dd51f-7d4d-495e-bb42-21084c7824f3/the-unanswered-questions-podcast-die-glocke-the-nazi-bell-real-or-fiction?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.co.uk/podcasts/fefcd124-39e3-4971-a52b-15d3a7a9aa65/episodes/f02dd51f-7d4d-495e-bb42-21084c7824f3/the-unanswered-questions-podcast-die-glocke-the-nazi-bell-real-or-fiction?tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Glocke The Nazi Bell Real Or Fiction7 Mar 2023 — Die Glocke (German for &quot;The Bell&quot;) was a purported top secret Nazi scientific technologi...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: music.amazon.com  
    Title: the unanswered questions podcast die glocke the nazi bell real or fiction  
-   Link: <a href="https://music.amazon.com/es-us/podcasts/fefcd124-39e3-4971-a52b-15d3a7a9aa65/episodes/f02dd51f-7d4d-495e-bb42-21084c7824f3/the-unanswered-questions-podcast-die-glocke-the-nazi-bell-real-or-fiction?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/es-us/podcasts/fefcd124-39e3-4971-a52b-15d3a7a9aa65/episodes/f02dd51f-7d4d-495e-bb42-21084c7824f3/the-unanswered-questions-podcast-die-glocke-the-nazi-bell-real-or-fiction?tag=searcht-20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Glocke The Nazi Bell Real Or Fiction3 Jul 2023 — Die Glocke (German for &quot;The Bell&quot;) was a purported top secret Nazi scientific technologi...</p></details>
+   Link:<a href="https://music.amazon.com/es-us/podcasts/fefcd124-39e3-4971-a52b-15d3a7a9aa65/episodes/f02dd51f-7d4d-495e-bb42-21084c7824f3/the-unanswered-questions-podcast-die-glocke-the-nazi-bell-real-or-fiction?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/es-us/podcasts/fefcd124-39e3-4971-a52b-15d3a7a9aa65/episodes/f02dd51f-7d4d-495e-bb42-21084c7824f3/the-unanswered-questions-podcast-die-glocke-the-nazi-bell-real-or-fiction?tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Glocke The Nazi Bell Real Or Fiction3 Jul 2023 — Die Glocke (German for &quot;The Bell&quot;) was a purported top secret Nazi scientific technologi...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: forum.wordreference.com  
    Title: a purported top secret nazi scientific technological device.3609257  
-   Link: <a href="https://forum.wordreference.com/threads/a-purported-top-secret-nazi-scientific-technological-device.3609257/" target="_blank" rel="noopener noreferrer nofollow">https://forum.wordreference.com/threads/a-purported-top-secret-nazi-scientific-technological-device.3609257/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>purported top secret Nazi scientific technological device29 Aug 2019 — &quot;Die Glocke (German for &quot;The Bell&quot;) was a purported top secret Naz...</p></details>
+   Link:<a href="https://forum.wordreference.com/threads/a-purported-top-secret-nazi-scientific-technological-device.3609257/" target="_blank" rel="noopener noreferrer nofollow">https://forum.wordreference.com/threads/a-purported-top-secret-nazi-scientific-technological-device.3609257/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>purported top secret Nazi scientific technological device29 Aug 2019 — &quot;Die Glocke (German for &quot;The Bell&quot;) was a purported top secret Naz...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: inlet.fm  
-   Link: <a href="https://www.inlet.fm/forgotten-history/episodes/6681a4de0719240029afbb39" target="_blank" rel="noopener noreferrer nofollow">https://www.inlet.fm/forgotten-history/episodes/6681a4de0719240029afbb39</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Aug 2022 — This episode explores the purported top-secret Nazi scientific device described by Igor Witkowski and popularized by Nick Co...</p></details>
+   Link:<a href="https://www.inlet.fm/forgotten-history/episodes/6681a4de0719240029afbb39" target="_blank" rel="noopener noreferrer nofollow">https://www.inlet.fm/forgotten-history/episodes/6681a4de0719240029afbb39</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Aug 2022 — This episode explores the purported top-secret Nazi scientific device described by Igor Witkowski and popularized by Nick Co...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: secretprojects.co.uk  
    Title: historian takes critical look at die glocke.37269  
-   Link: <a href="https://www.secretprojects.co.uk/threads/historian-takes-critical-look-at-die-glocke.37269/" target="_blank" rel="noopener noreferrer nofollow">https://www.secretprojects.co.uk/threads/historian-takes-critical-look-at-die-glocke.37269/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Historian takes critical look at Die Glocke28 May 2021 — It is confirmed by a well known historian now, that there&#x27;s no prove, that there...</p></details>
+   Link:<a href="https://www.secretprojects.co.uk/threads/historian-takes-critical-look-at-die-glocke.37269/" target="_blank" rel="noopener noreferrer nofollow">https://www.secretprojects.co.uk/threads/historian-takes-critical-look-at-die-glocke.37269/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Historian takes critical look at Die Glocke28 May 2021 — It is confirmed by a well known historian now, that there&#x27;s no prove, that there...</p></details>
    Published: May 2021  

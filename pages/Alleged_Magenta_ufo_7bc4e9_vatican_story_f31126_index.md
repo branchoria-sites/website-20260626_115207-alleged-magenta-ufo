@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /alleged-magenta-ufo-7bc4e9-vatican/
 description: Focused pages that expand on Vatican.
-date: '2026-06-26'
+date: '2026'
 layout: default
 parent_basename: Alleged_Magenta_ufo_7bc4e9_vatican_story_f31126
 parent_title: Vatican
@@ -16,7 +16,7 @@ parent_permalink: /vatican/
 
 # Explore Topics in Vatican
 
-The following pages expand on the main **[Vatican]({{ '/vatican/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Vatican]({{ '/vatican/' | relative_url }})** page and cover its key branches in.
 
 - [Allied Records]({{ '/allied-records/' | relative_url }})
 - [Grusch Claim]({{ '/grusch-claim/' | relative_url }})

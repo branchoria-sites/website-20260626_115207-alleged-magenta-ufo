@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /alleged-magenta-ufo-7bc4e9-alien/
 description: Focused pages that expand on Bodies Claim.
-date: '2026-06-26'
+date: '2026'
 layout: default
 parent_basename: Alleged_Magenta_ufo_7bc4e9_alien_bodies_claims_fb6300
 parent_title: Bodies Claim
@@ -16,7 +16,7 @@ parent_permalink: /bodies-claim/
 
 # Explore Topics in Bodies Claim
 
-The following pages expand on the main **[Bodies Claim]({{ '/bodies-claim/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Bodies Claim]({{ '/bodies-claim/' | relative_url }})** page and cover its key branches in.
 
 - [AARO Limits]({{ '/aaro-limits/' | relative_url }})
 - [Biologics]({{ '/biologics/' | relative_url }})

@@ -451,17 +451,17 @@ Crash-retrieval stories are one of the most durable patterns in UFO lore: a stra
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_crash_retrieval_patt_e228ef-overview.webp" | relative_url }}" alt="Overview image for Retrieval Lore" loading="eager" decoding="sync" fetchpriority="high">
-The strongest public record still points to a tension rather than a settled answer. UFO proponents have repeatedly alleged hidden recovery and [reverse-engineering]({{ 'reverse-engineering/' | relative_url }}) programmes, most recently through David [Grusch]({{ 'grusch/' | relative_url }})’s 2023 claims of “intact and partially intact craft of non-human origin”. Official reviews, especially the Pentagon’s All-domain Anomaly Resolution Office, have answered that they found no empirical evidence of recovered extraterrestrial technology and that many alleged programmes were misidentified, never stood up, or built on circular reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">The DebriefIntelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin - The Debrief...</span></span></span>
+The strongest public record still points to a tension rather than a settled answer. UFO proponents have repeatedly alleged hidden recovery and [reverse-engineering]({{ 'reverse-engineering/' | relative_url }}) programmes, most recently through David [Grusch]({{ 'grusch/' | relative_url }})’s 2023 claims of “intact and partially intact craft of non-human origin”. Official reviews, especially the Pentagon’s All-domain Anomaly Resolution Office, have answered that they found no empirical evidence of recovered extraterrestrial technology and that many alleged programmes were misidentified, never stood up, or built on circular reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">The DebriefIntelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin - The Debrief...</span></span></span>
 
 ## The shared architecture of crash-retrieval claims
 
 Most crash-retrieval narratives are not simply sighting reports. They are stories about [custody]({{ 'custody/' | relative_url }}). A light in the sky can remain unexplained without implying much about government power, but a recovered object immediately raises questions about who took it, where it was stored, who studied it, and who was excluded from knowing. That is why these stories tend to develop a recognisable chain: incident, cordon, removal, laboratory, secrecy, leak.
 
-Roswell remains the model against which later claims are measured. The basic pro-UFO claim is that an extraterrestrial craft and occupants were recovered near Roswell, New Mexico, in July 1947 and concealed from the public. The official United States Air Force explanation, after a 1990s review prompted by congressional interest, was that the recovered debris came from Project Mogul, a balloon-borne research programme, and that later “alien body” accounts likely drew on misremembered or conflated incidents involving test dummies, accidents and Air Force personnel. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">The Roswell Report...</span></span></span>
+Roswell remains the model against which later claims are measured. The basic pro-UFO claim is that an extraterrestrial craft and occupants were recovered near Roswell, New Mexico, in July 1947 and concealed from the public. The official United States Air Force explanation, after a 1990s review prompted by congressional interest, was that the recovered debris came from Project Mogul, a balloon-borne research programme, and that later “alien body” accounts likely drew on misremembered or conflated incidents involving test dummies, accidents and Air Force personnel.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">The Roswell Report...</span></span></span>
 
-Magenta follows the same structure but changes the setting. In Roberto Pinotti’s version, the alleged 1933 Italian incident led to an investigation by “Gabinetto RS/33”, a secret group supposedly authorised by Mussolini for “Special Researches”. The story also includes anonymous documents, regime censorship, an aviation storage site, and later American acquisition of the material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span> These features make Magenta legible to readers already familiar with Roswell: it has a crash, a state apparatus, a technical committee, and a later superpower inheritance story.
+Magenta follows the same structure but changes the setting. In Roberto Pinotti’s version, the alleged 1933 Italian incident led to an investigation by “Gabinetto RS/33”, a secret group supposedly authorised by Mussolini for “Special Researches”. The story also includes anonymous documents, regime censorship, an aviation storage site, and later American acquisition of the material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span> These features make Magenta legible to readers already familiar with Roswell: it has a crash, a state apparatus, a technical committee, and a later superpower inheritance story.
 
-The pattern matters because it can create a sense of corroboration even when each case rests on weak or indirect evidence. A new story feels plausible because it resembles older stories; older stories feel more plausible because new ones appear to echo them. AARO’s 2024 historical report directly addressed this problem, arguing that modern allegations of hidden reverse-engineering programmes often came from a consistent network of individuals and that the resulting claims were amplified through repetition rather than verified access to material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/9 - Wikisource, the free online library...</span></span></span>
+The pattern matters because it can create a sense of corroboration even when each case rests on weak or indirect evidence. A new story feels plausible because it resembles older stories; older stories feel more plausible because new ones appear to echo them. AARO’s 2024 historical report directly addressed this problem, arguing that modern allegations of hidden reverse-engineering programmes often came from a consistent network of individuals and that the resulting claims were amplified through repetition rather than verified access to material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/9 - Wikisource, the free online library...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_crash_retrieval_patt_e228ef-Illustration-1-dark.svg" | relative_url }}" alt="Retrieval Lore illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_crash_retrieval_patt_e228ef-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_crash_retrieval_patt_e228ef-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -473,9 +473,9 @@ Crash-retrieval accounts vary in geography and period, but the strongest family 
 
 **Rapid state control.** Military or security personnel arrive quickly, restrict access and remove material. This element transforms an odd event into a cover-up story. It also explains why the public lacks direct evidence: the evidence was allegedly taken before outsiders could document it.
 
-**Special compartments.** Retrieval lore rarely says the whole government knows. Instead, it imagines a small group, committee, contractor cell or special access programme. Magenta’s Cabinet RS/33 plays this role for Fascist Italy; modern American claims often use the language of special access programmes, intelligence compartments and defence contractors. Grusch’s allegations, for example, centred on programmes supposedly hidden from normal congressional oversight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">The DebriefIntelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin - The Debrief...</span></span></span>
+**Special compartments.** Retrieval lore rarely says the whole government knows. Instead, it imagines a small group, committee, contractor cell or special access programme. Magenta’s Cabinet RS/33 plays this role for Fascist Italy; modern American claims often use the language of special access programmes, intelligence compartments and defence contractors. Grusch’s allegations, for example, centred on programmes supposedly hidden from normal congressional oversight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">The DebriefIntelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin - The Debrief...</span></span></span>
 
-**Reverse engineering.** The recovered object is not just stored; it is studied for propulsion, materials, energy or weapons value. This is the mechanism that links UFO folklore to real military research culture. Even sceptical official accounts acknowledge that classified aerospace and intelligence programmes can be misread from the outside, especially when partial information circulates among people without full access. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/9 - Wikisource, the free online library...</span></span></span>
+**Reverse engineering.** The recovered object is not just stored; it is studied for propulsion, materials, energy or weapons value. This is the mechanism that links UFO folklore to real military research culture. Even sceptical official accounts acknowledge that classified aerospace and intelligence programmes can be misread from the outside, especially when partial information circulates among people without full access.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/9 - Wikisource, the free online library...</span></span></span>
 
 **Delayed disclosure through leaks.** The story normally surfaces long after the event, through retired personnel, anonymous documents, second-hand testimony or a whistleblower. That delay is central to Magenta, where the public case depends heavily on late-arriving anonymous material rather than a traceable archival file from 1933.
 
@@ -486,9 +486,9 @@ Crash-retrieval accounts vary in geography and period, but the strongest family 
 
 Crash-retrieval stories survive partly because real governments do keep secrets. Classified aviation, radar, nuclear detection, intelligence collection and weapons research have all existed. That reality gives retrieval narratives a protective outer shell: a lack of public evidence can be interpreted either as absence of proof or as successful concealment.
 
-Roswell shows the mechanism clearly. The Air Force’s official explanation did not say that nothing secret was involved. It said the debris was connected to Project Mogul, a then-sensitive balloon programme intended to help detect Soviet nuclear tests. That distinction matters. A real classified programme can produce a false public explanation, and a false public explanation can later be reinterpreted as evidence for a much larger extraterrestrial cover-up. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">The Roswell Report...</span></span></span>
+Roswell shows the mechanism clearly. The Air Force’s official explanation did not say that nothing secret was involved. It said the debris was connected to Project Mogul, a then-sensitive balloon programme intended to help detect Soviet nuclear tests. That distinction matters. A real classified programme can produce a false public explanation, and a false public explanation can later be reinterpreted as evidence for a much larger extraterrestrial cover-up.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">The Roswell Report...</span></span></span>
 
-AARO’s treatment of [KONA BLUE]({{ 'kona-blue/' | relative_url }}) illustrates the modern version of the same loop. According to AARO, KONA BLUE was proposed as a UAP-related prospective special access programme by people who believed the government was already hiding UAP technology. The proposal was rejected, no extraterrestrial craft or bodies were collected, and no material was transferred to the Department of Homeland Security. Yet the very existence of a proposal about recovering advanced aerospace technology could be folded back into claims that such a programme must have existed somewhere else. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024</span></span></span>
+AARO’s treatment of [KONA BLUE]({{ 'kona-blue/' | relative_url }}) illustrates the modern version of the same loop. According to AARO, KONA BLUE was proposed as a UAP-related prospective special access programme by people who believed the government was already hiding UAP technology. The proposal was rejected, no extraterrestrial craft or bodies were collected, and no material was transferred to the Department of Homeland Security. Yet the very existence of a proposal about recovering advanced aerospace technology could be folded back into claims that such a programme must have existed somewhere else.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume</span></span></span>
 
 Secrecy also changes the burden of proof in public debate. A normal historical claim can be tested against archives, named witnesses and physical records. A crash-retrieval claim often says the decisive records are hidden, altered, misfiled or held by contractors. That makes the claim hard to falsify. It also means that each new official denial can be interpreted by believers as another layer of concealment, while sceptics see the same denial as evidence that the story has failed to meet ordinary standards.
 
@@ -496,13 +496,13 @@ Secrecy also changes the burden of proof in public debate. A normal historical c
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_crash_retrieval_patt_e228ef-Illustration-2-dark.svg" | relative_url }}" alt="Retrieval Lore illustration 2" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_crash_retrieval_patt_e228ef-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_crash_retrieval_patt_e228ef-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Magenta compares to the pattern
 
-Magenta’s strongest fit with retrieval lore is structural. It has the same custody chain as later American stories: anomalous object, authoritarian secrecy, expert study group, aviation storage location and eventual transfer to the United States. In Pinotti’s account, the secret body was Cabinet RS/33, allegedly authorised by Mussolini and linked to “Velivoli Non Convenzionali”, or unconventional flying vehicles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
+Magenta’s strongest fit with retrieval lore is structural. It has the same custody chain as later American stories: anomalous object, authoritarian secrecy, expert study group, aviation storage location and eventual transfer to the United States. In Pinotti’s account, the secret body was Cabinet RS/33, allegedly authorised by Mussolini and linked to “Velivoli Non Convenzionali”, or unconventional flying vehicles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
 
 Its distinctive feature is chronology. A 1933 recovery would pre-date Roswell by fourteen years and move the origin point of modern crash-retrieval lore from post-war America to Fascist Italy. That gives the story obvious narrative power: it suggests that the United States did not begin the cover-up but inherited it from wartime Europe. It also lets Magenta connect UFO mythology with real historical ingredients: Fascist secrecy, aviation ambition, wartime intelligence, German-Italian technology exchange and Allied exploitation of enemy research.
 
 The weakness is that those ingredients are contextual, not confirmatory. Fascist Italy’s interest in aviation does not prove a non-human craft was recovered. A secretive regime does not prove that the secret concerned extraterrestrial technology. Named scientists and aviation sites can make a story feel historically textured while still leaving the central claim unsupported.
 
-Magenta also shows how details can migrate between UFO stories. Sceptical researcher Pepijn van Erp notes that some modern retellings describe the alleged Italian object as bell-shaped, a detail he did not find in the earlier Italian sources and which he suggests may have entered the story through later cross-contamination with other UFO and wartime-technology legends. He also points to tension between claims that the Vatican was involved and alleged Italian-source wording that appears to exclude a pontifical institution from receiving reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pepijnvanerp.nl">[Pepijn van Erp]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pepijnvanerp.nl</span><span class="citation-popover-title">Pepijn van Erp Mussolini’s UFO – Cabinet RS/33 – Pepijn van Erp</span><span class="citation-popover-snippet">Pepijn van Erp Mussolini’s UFO – Cabinet RS/33 – Pepijn van Erp</span></span></span>
+Magenta also shows how details can migrate between UFO stories. Sceptical researcher Pepijn van Erp notes that some modern retellings describe the alleged Italian object as bell-shaped, a detail he did not find in the earlier Italian sources and which he suggests may have entered the story through later cross-contamination with other UFO and wartime-technology legends. He also points to tension between claims that the Vatican was involved and alleged Italian-source wording that appears to exclude a pontifical institution from receiving reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pepijnvanerp.nl">[Pepijn van Erp]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pepijnvanerp.nl</span><span class="citation-popover-title">Pepijn van Erp Mussolini’s UFO – Cabinet RS/33 – Pepijn van Erp</span><span class="citation-popover-snippet">Pepijn van Erp Mussolini’s UFO – Cabinet RS/33 – Pepijn van Erp</span></span></span>
 
 That does not settle the case, but it highlights the key historical problem. A crash-retrieval story can become more elaborate as it travels. Later versions may add bodies, Vatican intermediaries, Nazi links, American intelligence recovery, exotic materials or reverse-engineering consequences. Each addition can make the story more exciting while also making it harder to separate original claim from later adaptation.
 
@@ -513,9 +513,9 @@ That does not settle the case, but it highlights the key historical problem. A c
 
 Modern crash-retrieval stories no longer exist only in UFO books and conferences. They now interact with congressional hearings, whistleblower procedures, defence law and public records policy. This has changed the tone of the subject. Claims that once sounded like fringe folklore now appear in hearings, amendments and agency mandates, even when the underlying evidence remains contested.
 
-The 2023 UAP Disclosure Act proposal, led by Senators Chuck Schumer and Mike Rounds, reflected this shift. Its public framing was not that extraterrestrial recovery had been proven, but that UAP records should carry a presumption of disclosure and that agencies should identify records for a National Archives collection. The Senate release acknowledged that stories circulating around UAP had “varying levels of credibility” but argued that their number and variety had led some in Congress to suspect that the executive branch might be concealing information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[democrats.senate.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-snippet">Open source on senate.gov.</span></span></span>
+The 2023 UAP Disclosure Act proposal, led by Senators Chuck Schumer and Mike Rounds, reflected this shift. Its public framing was not that extraterrestrial recovery had been proven, but that UAP records should carry a presumption of disclosure and that agencies should identify records for a National Archives collection. The Senate release acknowledged that stories circulating around UAP had “varying levels of credibility” but argued that their number and variety had led some in Congress to suspect that the executive branch might be concealing information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[democrats.senate.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-snippet">Open source on senate.gov.</span></span></span>
 
-The enacted 2024 National Defence Authorization Act then required the National Archives to establish a UAP Records Collection and directed federal agencies to review, identify and organise UAP records in their custody. NARA’s guidance required agencies to prepare records for public disclosure and transfer to the Archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Guidance to Federal Agencies on Unidentified Anomalous</span><span class="citation-popover-snippet">National Archives Guidance to Federal Agencies on Unidentified Anomalous</span></span></span>
+The enacted 2024 National Defence Authorization Act then required the National Archives to establish a UAP Records Collection and directed federal agencies to review, identify and organise UAP records in their custody. NARA’s guidance required agencies to prepare records for public disclosure and transfer to the Archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Guidance to Federal Agencies on Unidentified Anomalous</span><span class="citation-popover-snippet">National Archives Guidance to Federal Agencies on Unidentified Anomalous</span></span></span>
 
 This official machinery can be read in two very different ways. To advocates, it shows that crash-retrieval allegations have become serious enough for Congress to demand records. To sceptics, it shows that democratic oversight can investigate claims without validating them. Either way, it makes the retrieval pattern more durable: the story now includes not only alleged hidden programmes, but also the public struggle to prove or disprove them.
 
@@ -525,7 +525,7 @@ This official machinery can be read in two very different ways. To advocates, it
 
 The broader crash-retrieval pattern helps explain why Magenta keeps returning, but it does not authenticate the alleged 1933 crash. Pattern recognition is useful for interpretation, [not proof]({{ 'not-proof/' | relative_url }}). Magenta resembles Roswell, Aztec, Kecksburg and modern whistleblower narratives because they share a story grammar: anomalous object, state seizure, secret study, hidden material and delayed testimony.
 
-That resemblance cuts both ways. It can suggest that people in different times and places are describing the same kind of hidden reality. It can also suggest that later stories borrow motifs from earlier ones because those motifs are culturally powerful. The Aztec crashed-saucer story is a cautionary example: it had crashed craft, bodies, secret removal and exotic technology, but it was later widely treated as a hoax connected to confidence men and fraudulent claims about alien-derived devices. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aztec crashed saucer hoax</span><span class="citation-popover-snippet">Aztec crashed saucer hoax</span></span></span>
+That resemblance cuts both ways. It can suggest that people in different times and places are describing the same kind of hidden reality. It can also suggest that later stories borrow motifs from earlier ones because those motifs are culturally powerful. The Aztec crashed-saucer story is a cautionary example: it had crashed craft, bodies, secret removal and exotic technology, but it was later widely treated as a hoax connected to confidence men and fraudulent claims about alien-derived devices.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aztec crashed saucer hoax</span><span class="citation-popover-snippet">Aztec crashed saucer hoax</span></span></span>
 
 For Magenta, the most responsible reading is comparative and provisional. It belongs to the crash-retrieval family because its mechanism is the same: an alleged recovered object becomes the seed of a hidden technical programme. It remains unverified because the public evidence does not yet supply the things that would move it from lore into established history: authenticated archival provenance, named first-hand witnesses, recoverable chain-of-custody records, or independently testable physical material.
 
@@ -536,194 +536,194 @@ That is why the wider pattern matters. It shows that Magenta is not an isolated 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Crash Retrieval Stories Keep Returning. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Crash Retrieval Stories Keep Returning. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly supports a page about durable UFO retrieval narratives, official denial, secrecy, and contested evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly supports a page about durable UFO retrieval narratives, official denial, secrecy, and contested evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Day After Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XCHQPeAcXcAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Day After Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day After Roswell">The Day After Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Philip Corso, William J. Birnes</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Day After Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XCHQPeAcXcAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Day After Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day After Roswell">The Day After Roswell</a>
+</h4>
+<p class="fr-book-author">By Philip Corso, William J. Birnes</p>
         
-        <p class="fr-book-desc">Closely matches the crash-retrieval pattern of recovered material, secrecy, and alleged technology transfer.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Closely matches the crash-retrieval pattern of recovered material, secrecy, and alleged technology transfer.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9818011-M.jpg" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9818011-M.jpg" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Provides a commercially strong Roswell-centred analogue for examining recurring retrieval-story elements.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a commercially strong Roswell-centred analogue for examining recurring retrieval-story elements.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps readers separate UFO evidence, investigation methods, and folklore from sensational retrieval claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers separate UFO evidence, investigation methods, and folklore from sensational retrieval claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Day+After+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Day After Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Day+After+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Day After Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="retrieval-lore-why-crash-retrieval-stories-keep-returning-alleged-magenta-ufo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -739,7 +739,7 @@ That is why the wider pattern matters. It shows that Magenta is not an isolated 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -759,7 +759,7 @@ That is why the wider pattern matters. It shows that Magenta is not an isolated 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -791,7 +791,7 @@ That is why the wider pattern matters. It shows that Magenta is not an isolated 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -843,7 +843,7 @@ That is why the wider pattern matters. It shows that Magenta is not an isolated 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -888,7 +888,7 @@ That is why the wider pattern matters. It shows that Magenta is not an isolated 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -929,187 +929,187 @@ That is why the wider pattern matters. It shows that Magenta is not an isolated 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/9" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/9</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/9 - Wikisource, the free online library...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/9" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/9 - Wikisource, the free online library...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: af.mil  
    Title: U.S. Air Force  
-   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report...</p></details>
+   Link:<a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35</a>  
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: democrats.senate.gov  
-   Link: <a href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa</a>  
+   Link:<a href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
    Title: National Archives Guidance to Federal Agencies on Unidentified Anomalous  
-   Link: <a href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/uap-guidance</a>  
+   Link:<a href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/uap-guidance</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Aztec crashed saucer hoax  
-   Link: <a href="https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: David Grusch UFO whistleblower claims  
-   Link: <a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: All domain Anomaly Resolution Office  
-   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: UFO sightings in Italy  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: United States UFO files  
-   Link: <a href="https://en.wikipedia.org/wiki/United_States_UFO_files" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/United_States_UFO_files</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/United_States_UFO_files" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/United_States_UFO_files</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: archives.gov  
    Title: rg 615  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-615" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-615</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/rg-615" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-615</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aaro.mil  
    Title: EFOIA Reading Room  
-   Link: <a href="https://www.aaro.mil/EFOIA-Reading-Room/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/EFOIA-Reading-Room/</a>  
+   Link:<a href="https://www.aaro.mil/EFOIA-Reading-Room/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/EFOIA-Reading-Room/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: democrats.senate.gov  
    Title: uap amendment  
-   Link: <a href="https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf</a>  
+   Link:<a href="https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: en.wikisource.org  
    Title: Index:AARO Historical Record Report Volume 1 2024  
-   Link: <a href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf</a>  
+   Link:<a href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: en.wikisource.org  
    Title: Section 2  
-   Link: <a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2</a>  
+   Link:<a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: history.com  
    Title: u s air force reports on roswell  
-   Link: <a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
+   Link:<a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefIntelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin - The Debrief...</p></details>
+   Link:<a href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefIntelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin - The Debrief...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: theblackvault.com  
    Title: The Black Vault THE UFO FILES OF MUSSOLINI: [Fascist UFO Files](&#123;&#123; 'fascist-files/' | relative_url &#125;&#125;) by Roberto Pinotti  
-   Link: <a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
+   Link:<a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: pepijnvanerp.nl  
    Title: Pepijn van Erp Mussolini’s UFO – Cabinet RS/33 – Pepijn van Erp  
-   Link: <a href="https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/" target="_blank" rel="noopener noreferrer nofollow">https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/</a>  
+   Link:<a href="https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/" target="_blank" rel="noopener noreferrer nofollow">https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
 
 ### Additional References
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=PiPeptPgLYs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PiPeptPgLYs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO crash retrieval programs history David Grusch UFO whistleblower David Grusch: &#x27;We are not alone&#x27; | Official Ross Coulthart NewsNation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PiPeptPgLYs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PiPeptPgLYs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO crash retrieval programs history David Grusch UFO whistleblower David Grusch: &#x27;We are not alone&#x27; | Official Ross Coulthart NewsNation...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=UVPs-2DfN_o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UVPs-2DfN_o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Magenta Project: The 1933 Italy UFO Crash-Retrieval That Changed the World -- Updated Supercut...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UVPs-2DfN_o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UVPs-2DfN_o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Magenta Project: The 1933 Italy UFO Crash-Retrieval That Changed the World -- Updated Supercut...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=RBAISwCZ2v0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RBAISwCZ2v0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Whistleblower (Full Episode) | UFOs: Investigating the Unknown | National Geographic...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RBAISwCZ2v0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RBAISwCZ2v0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Whistleblower (Full Episode) | UFOs: Investigating the Unknown | National Geographic...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=FGiwgyLY7Aw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FGiwgyLY7Aw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Craft retrieval photos disprove AARO UAP report: Pentagon Papers lawyer | Reality Check...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FGiwgyLY7Aw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FGiwgyLY7Aw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Craft retrieval photos disprove AARO UAP report: Pentagon Papers lawyer | Reality Check...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=zZLqFjG4HSo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zZLqFjG4HSo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 Magenta, Italy UFO Crash...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zZLqFjG4HSo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zZLqFjG4HSo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 Magenta, Italy UFO Crash...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/endtimeheadline/posts/a-new-report-claims-the-cia-conducted-ufo-retrieval-missions-on-nine-non-human-o/908940707261038/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/endtimeheadline/posts/a-new-report-claims-the-cia-conducted-ufo-retrieval-missions-on-nine-non-human-o/908940707261038/</a>  
+   Link:<a href="https://www.facebook.com/endtimeheadline/posts/a-new-report-claims-the-cia-conducted-ufo-retrieval-missions-on-nine-non-human-o/908940707261038/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/endtimeheadline/posts/a-new-report-claims-the-cia-conducted-ufo-retrieval-missions-on-nine-non-human-o/908940707261038/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CelestialInsights/posts/claims-regarding-alleged-extraterrestrial-remains-and-recovered-unidentified-obj/1003832229232589/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CelestialInsights/posts/claims-regarding-alleged-extraterrestrial-remains-and-recovered-unidentified-obj/1003832229232589/</a>  
+   Link:<a href="https://www.facebook.com/CelestialInsights/posts/claims-regarding-alleged-extraterrestrial-remains-and-recovered-unidentified-obj/1003832229232589/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CelestialInsights/posts/claims-regarding-alleged-extraterrestrial-remains-and-recovered-unidentified-obj/1003832229232589/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYmp0HEtr9D/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYmp0HEtr9D/</a>  
+   Link:<a href="https://www.instagram.com/reel/DYmp0HEtr9D/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYmp0HEtr9D/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DThFHSEER-h/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DThFHSEER-h/</a>  
+   Link:<a href="https://www.instagram.com/p/DThFHSEER-h/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DThFHSEER-h/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1c5r3ct/explain_kona_blue_to_me_like_i_was_a_6th_grader/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1c5r3ct/explain_kona_blue_to_me_like_i_was_a_6th_grader/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1c5r3ct/explain_kona_blue_to_me_like_i_was_a_6th_grader/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1c5r3ct/explain_kona_blue_to_me_like_i_was_a_6th_grader/</a>  

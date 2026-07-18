@@ -280,7 +280,7 @@ image: /assets/images/Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603_grusch_ov
 
 ## Introduction
 
-David [Grusch]({{ 'grusch/' | relative_url }})'s 2023 testimony mattered to Congress for reasons that extended beyond the truth or falsity of any individual UFO claim. Many lawmakers treated his allegations as potential **oversight evidence** rather than as proof that extraterrestrial craft existed. The central question was whether Congress had been denied access to information about highly classified programmes, spending, or special access arrangements that it was legally entitled to supervise. Within the wider debate over alleged crash-retrieval stories, including claims associated with the alleged Magenta incident, Grusch shifted attention from "Did this UFO crash happen?" to "Has Congress been prevented from verifying what government agencies and contractors are doing?" That distinction explains why members of both parties pursued classified follow-up even while acknowledging that Grusch's public testimony did not itself establish that recovered non-human technology existed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee+2House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Dave G HOC Speech FINAL For Trans</span><span class="citation-popover-snippet">House Oversight CommitteeOpening Statement25 Jul 2023 — I became a Whistleblower, through a PPD-19 Urgent Concern filing with the Intelli...</span></span></span>
+David [Grusch]({{ 'grusch/' | relative_url }})'s 2023 testimony mattered to Congress for reasons that extended beyond the truth or falsity of any individual UFO claim. Many lawmakers treated his allegations as potential **oversight evidence** rather than as proof that extraterrestrial craft existed. The central question was whether Congress had been denied access to information about highly classified programmes, spending, or special access arrangements that it was legally entitled to supervise. Within the wider debate over alleged crash-retrieval stories, including claims associated with the alleged Magenta incident, Grusch shifted attention from "Did this UFO crash happen?" to "Has Congress been prevented from verifying what government agencies and contractors are doing?" That distinction explains why members of both parties pursued classified follow-up even while acknowledging that Grusch's public testimony did not itself establish that recovered non-human technology existed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee+2House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Dave G HOC Speech FINAL For Trans</span><span class="citation-popover-snippet">House Oversight CommitteeOpening Statement25 Jul 2023 — I became a Whistleblower, through a PPD-19 Urgent Concern filing with the Intelli...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603_grusch_oversight_sta_fdb62a-Illustration-1-dark.svg" | relative_url }}" alt="Oversight illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603_grusch_oversight_sta_fdb62a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603_grusch_oversight_sta_fdb62a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,11 +288,11 @@ David [Grusch]({{ 'grusch/' | relative_url }})'s 2023 testimony mattered to Cong
 
 The most important reason Congress took Grusch seriously was not the extraordinary nature of his claims but the route through which he presented them.
 
-Before speaking publicly, Grusch said he had filed a protected whistleblower disclosure under procedures intended for members of the intelligence community. In his written congressional statement, he explained that he had submitted an "Urgent Concern" complaint through the Intelligence Community Inspector General (ICIG) after reporting allegations from current and former officials that information about UAP-related activities was being withheld from lawful congressional oversight. His public position was that he had followed authorised channels before becoming a public witness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Dave G HOC Speech FINAL For Trans</span><span class="citation-popover-snippet">House Oversight CommitteeOpening Statement25 Jul 2023 — I became a Whistleblower, through a PPD-19 Urgent Concern filing with the Intelli...</span></span></span>
+Before speaking publicly, Grusch said he had filed a protected whistleblower disclosure under procedures intended for members of the intelligence community. In his written congressional statement, he explained that he had submitted an "Urgent Concern" complaint through the Intelligence Community Inspector General (ICIG) after reporting allegations from current and former officials that information about UAP-related activities was being withheld from lawful congressional oversight. His public position was that he had followed authorised channels before becoming a public witness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Dave G HOC Speech FINAL For Trans</span><span class="citation-popover-snippet">House Oversight CommitteeOpening Statement25 Jul 2023 — I became a Whistleblower, through a PPD-19 Urgent Concern filing with the Intelli...</span></span></span>
 
-For many legislators, that procedural history mattered more than the UFO claims themselves. Congress has longstanding responsibilities to oversee classified intelligence activities, including highly restricted Special Access Programmes. A whistleblower alleging that Congress itself had been denied information naturally raised institutional concerns independent of whether the underlying allegations proved correct. In other words, lawmakers had an oversight problem to investigate even if they remained sceptical about alleged recovered craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">house.gov</span><span class="citation-popover-title">Oversight Committee Unidentified Anomalous Phenomena: Implications on National ...Hearing Hearing Date</span><span class="citation-popover-snippet">David Grusch. Former National Reconnaissance Officer Representative, Unidentified Anomalous ...Read more</span></span></span>
+For many legislators, that procedural history mattered more than the UFO claims themselves. Congress has longstanding responsibilities to oversee classified intelligence activities, including highly restricted Special Access Programmes. A whistleblower alleging that Congress itself had been denied information naturally raised institutional concerns independent of whether the underlying allegations proved correct. In other words, lawmakers had an oversight problem to investigate even if they remained sceptical about alleged recovered craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">house.gov</span><span class="citation-popover-title">Oversight Committee Unidentified Anomalous Phenomena: Implications on National ...Hearing Hearing Date</span><span class="citation-popover-snippet">David Grusch. Former National Reconnaissance Officer Representative, Unidentified Anomalous ...Read more</span></span></span>
 
-An important point often misunderstood in public discussion is that references to the ICIG finding aspects of Grusch's complaint "credible and urgent" did **not** constitute official validation that hidden UFO retrieval programmes existed. Rather, reporting and legal commentary indicate that the Inspector General treated the whistleblower submission as sufficiently serious to warrant established review procedures, particularly regarding allegations of reprisals and access issues. That distinction became blurred in popular discussion but remained significant for congressional investigators. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/16om7pk/clarifying_gruschs_urgent_and_credible_claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">This submittal makes</span><span class="citation-popover-snippet">Clarifying Grusch&#x27;s &quot;urgent and credible&quot; claims – once and for allSeptember 21, 2023 — This legal team includes Irvin Charles McCo...</span><span class="citation-popover-meta">Published: September 21, 2023</span></span></span>
+An important point often misunderstood in public discussion is that references to the ICIG finding aspects of Grusch's complaint "credible and urgent" did **not** constitute official validation that hidden UFO retrieval programmes existed. Rather, reporting and legal commentary indicate that the Inspector General treated the whistleblower submission as sufficiently serious to warrant established review procedures, particularly regarding allegations of reprisals and access issues. That distinction became blurred in popular discussion but remained significant for congressional investigators.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/16om7pk/clarifying_gruschs_urgent_and_credible_claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">This submittal makes</span><span class="citation-popover-snippet">Clarifying Grusch&#x27;s &quot;urgent and credible&quot; claims – once and for allSeptember 21, 2023 — This legal team includes Irvin Charles McCo...</span><span class="citation-popover-meta">Published: September 21, 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OV-SQkEGIDw" title="WATCH: Whistleblower testifies on claims that US has concealed programs related to UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OV-SQkEGIDw" target="_blank" rel="noopener noreferrer">WATCH: Whistleblower testifies on claims that US has concealed programs related to UFOs</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 25.7K &middot; Uploaded: July 2023 &middot; Length: 1 minute 16 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OV-SQkEGIDw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OV-SQkEGIDw">Open on YouTube</a></p></div></div></div>
@@ -308,11 +308,11 @@ Questions from representatives repeatedly focused on matters such as:
 * whether contractors rather than government agencies possessed relevant material;
 * whether witnesses could identify individuals who should be interviewed under classified conditions.
 
-Grusch frequently responded that he could provide names, locations and further detail only in secure settings rather than in an open hearing. That approach encouraged lawmakers to view the public hearing as the beginning of an investigative process rather than its conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News+2House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">ufo hearing congress uap takeaways whistleblower conference david grusch 2023</span><span class="citation-popover-snippet">CBS NewsUFO hearing key takeaways: What a whistleblower told...28 Jul 2023 — A former military intelligence officer-turned-whistleblower...</span></span></span>
+Grusch frequently responded that he could provide names, locations and further detail only in secure settings rather than in an open hearing. That approach encouraged lawmakers to view the public hearing as the beginning of an investigative process rather than its conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News+2House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">ufo hearing congress uap takeaways whistleblower conference david grusch 2023</span><span class="citation-popover-snippet">CBS NewsUFO hearing key takeaways: What a whistleblower told...28 Jul 2023 — A former military intelligence officer-turned-whistleblower...</span></span></span>
 
-Representative Alexandria Ocasio-Cortez's questioning illustrated this oversight approach particularly clearly. Instead of asking whether aliens existed, she asked where Congress should look to determine whether funds, contracts or programmes had escaped proper review. Grusch replied that he could identify those leads in a classified environment. The exchange reflected a practical oversight mindset: Congress investigates documents, budgets and programme authorities before attempting to resolve extraordinary scientific claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
+Representative Alexandria Ocasio-Cortez's questioning illustrated this oversight approach particularly clearly. Instead of asking whether aliens existed, she asked where Congress should look to determine whether funds, contracts or programmes had escaped proper review. Grusch replied that he could identify those leads in a classified environment. The exchange reflected a practical oversight mindset: Congress investigates documents, budgets and programme authorities before attempting to resolve extraordinary scientific claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
 
-This also explains why several members sought additional classified briefings or argued for stronger investigative powers after the hearing. Their immediate concern was obtaining access to information rather than endorsing Grusch's conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
+This also explains why several members sought additional classified briefings or argued for stronger investigative powers after the hearing. Their immediate concern was obtaining access to information rather than endorsing Grusch's conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603_grusch_oversight_sta_fdb62a-Illustration-2-dark.svg" | relative_url }}" alt="Oversight illustration 2" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603_grusch_oversight_sta_fdb62a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603_grusch_oversight_sta_fdb62a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -320,7 +320,7 @@ This also explains why several members sought additional classified briefings or
 
 Many observers expected the hearing either to confirm or debunk decades of UFO stories immediately. Congressional oversight, however, rarely works that way.
 
-Grusch repeatedly stated that many details could not be discussed publicly because they involved classified information, intelligence sources, or people who had spoken to him confidentially. As a result, the hearing produced dramatic allegations but relatively little publicly verifiable evidence that outside observers could independently examine. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Dave G HOC Speech FINAL For Trans</span><span class="citation-popover-snippet">House Oversight CommitteeOpening Statement25 Jul 2023 — I became a Whistleblower, through a PPD-19 Urgent Concern filing with the Intelli...</span></span></span>
+Grusch repeatedly stated that many details could not be discussed publicly because they involved classified information, intelligence sources, or people who had spoken to him confidentially. As a result, the hearing produced dramatic allegations but relatively little publicly verifiable evidence that outside observers could independently examine.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Dave G HOC Speech FINAL For Trans</span><span class="citation-popover-snippet">House Oversight CommitteeOpening Statement25 Jul 2023 — I became a Whistleblower, through a PPD-19 Urgent Concern filing with the Intelli...</span></span></span>
 
 That created two parallel conversations:
 
@@ -341,7 +341,7 @@ The frustration grew because classified follow-up naturally leaves few public re
 
 The political significance of Grusch's testimony should not be confused with official findings about the substance of his allegations.
 
-The Department of Defense's All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})), established partly in response to congressional interest in unidentified anomalous phenomena, has stated that it found **no verifiable evidence** that the US government possessed extraterrestrial craft, operated secret [reverse-engineering]({{ 'reverse-engineering/' | relative_url }}) programmes involving non-human technology, or concealed such programmes from Congress. Its historical review argued that many persistent claims stemmed from misunderstanding, rumour or misinterpretation of legitimate classified activities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted interviews with of...</span></span></span>
+The Department of Defense's All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})), established partly in response to congressional interest in unidentified anomalous phenomena, has stated that it found **no verifiable evidence** that the US government possessed extraterrestrial craft, operated secret [reverse-engineering]({{ 'reverse-engineering/' | relative_url }}) programmes involving non-human technology, or concealed such programmes from Congress. Its historical review argued that many persistent claims stemmed from misunderstanding, rumour or misinterpretation of legitimate classified activities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted interviews with of...</span></span></span>
 
 That position directly conflicts with Grusch's allegations, which remain disputed. Congress nevertheless had reasons to examine his claims because oversight investigations are designed to determine whether allegations about secrecy, access and accountability have merit—not because allegations are presumed true.
 
@@ -351,194 +351,194 @@ Within the broader discussion of alleged historical crash cases such as the Mage
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603_grusch_oversight_sta_fdb62a-Illustration-3-dark.svg" | relative_url }}" alt="Oversight illustration 3" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603_grusch_oversight_sta_fdb62a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603_grusch_oversight_sta_fdb62a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How a UFO Claim Became an Oversight Fight. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How a UFO Claim Became an Oversight Fight. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Provides contemporary context on government UAP investigations and oversight questions raised in Congress.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides contemporary context on government UAP investigations and oversight questions raised in Congress.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines whistleblowers, alleged hidden programs, and the wider policy debate surrounding UAP disclosures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines whistleblowers, alleged hidden programs, and the wider policy debate surrounding UAP disclosures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on testimony, official sources, and government engagement rather than sensational claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on testimony, official sources, and government engagement rather than sensational claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Helps readers understand how classified defense programs and oversight issues can become public controversies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how classified defense programs and oversight issues can become public controversies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="oversight-how-a-ufo-claim-became-an-oversight-fight-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -554,7 +554,7 @@ Within the broader discussion of alleged historical crash cases such as the Mage
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -574,7 +574,7 @@ Within the broader discussion of alleged historical crash cases such as the Mage
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -606,7 +606,7 @@ Within the broader discussion of alleged historical crash cases such as the Mage
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -658,7 +658,7 @@ Within the broader discussion of alleged historical crash cases such as the Mage
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -703,7 +703,7 @@ Within the broader discussion of alleged historical crash cases such as the Mage
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -744,139 +744,139 @@ Within the broader discussion of alleged historical crash cases such as the Mage
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: oversight.house.gov  
    Title: Dave G HOC Speech FINAL For Trans  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>House Oversight CommitteeOpening Statement25 Jul 2023 — I became a Whistleblower, through a PPD-19 Urgent Concern filing with the Intelli...</p></details>
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>House Oversight CommitteeOpening Statement25 Jul 2023 — I became a Whistleblower, through a PPD-19 Urgent Concern filing with the Intelli...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: oversight.house.gov  
-   Link: <a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-[transparency" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-[transparency</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch. Former National Reconnaissance Officer Representative, Unidentified Anomalous...Read more...</p></details>
+   Link:<a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-[transparency" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-[transparency</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch. Former National Reconnaissance Officer Representative, Unidentified Anomalous...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
    Title: This submittal makes  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16om7pk/clarifying_gruschs_urgent_and_credible_claims/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16om7pk/clarifying_gruschs_urgent_and_credible_claims/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Clarifying Grusch&#x27;s &quot;urgent and credible&quot; claims – once and for allSeptember 21, 2023 — This legal team includes Irvin Charles McCo...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16om7pk/clarifying_gruschs_urgent_and_credible_claims/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16om7pk/clarifying_gruschs_urgent_and_credible_claims/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Clarifying Grusch&#x27;s &quot;urgent and credible&quot; claims – once and for allSeptember 21, 2023 — This legal team includes Irvin Charles McCo...</p></details>
    Published: September 21, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: David Grusch UFO whistleblower claims  
-   Link: <a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: burlison.house.gov  
    Title: rep burlison welcomes former us air force officer david grusch special advisor  
-   Link: <a href="https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor" target="_blank" rel="noopener noreferrer nofollow">https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Burlison Welcomes Former U.S. Air Force Officer David Grusch...March 27, 2025 — Washington, D.C. – Congressman Eric Burlison (R-MO-07) i...</p></details>
+   Link:<a href="https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor" target="_blank" rel="noopener noreferrer nofollow">https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Burlison Welcomes Former U.S. Air Force Officer David Grusch...March 27, 2025 — Washington, D.C. – Congressman Eric Burlison (R-MO-07) i...</p></details>
    Published: March 27, 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The US Air Force allegedly used disinformation against a...Read more...</p></details>
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The US Air Force allegedly used disinformation against a...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: oversight.house.gov  
    Title: Written Testimony Shellenberger  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>house.govWritten-Testimony-Shellenberger.pdf13 Nov 2023 — David Grusch,” AP, July 26, 2023. For a compilation of... 26 10 U.S. Code § 11...</p></details>
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>house.govWritten-Testimony-Shellenberger.pdf13 Nov 2023 — David Grusch,” AP, July 26, 2023. For a compilation of... 26 10 U.S. Code § 11...</p></details>
    Published: July 26, 2023  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: oversight.house.gov  
-   Link: <a href="https://oversight.house.gov/release/national-security-subcommittee-to-hold-hearing-on-unidentified-anomalous-phenomena%EF%BF%BC/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/national-security-subcommittee-to-hold-hearing-on-unidentified-anomalous-phenomena%EF%BF%BC/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Security Subcommittee to Hold Hearing on...20 Jul 2023 — The subcommittee hearing will explore firsthand accounts of unidentified anomal...</p></details>
+   Link:<a href="https://oversight.house.gov/release/national-security-subcommittee-to-hold-hearing-on-unidentified-anomalous-phenomena%EF%BF%BC/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/national-security-subcommittee-to-hold-hearing-on-unidentified-anomalous-phenomena%EF%BF%BC/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Security Subcommittee to Hold Hearing on...20 Jul 2023 — The subcommittee hearing will explore firsthand accounts of unidentified anomal...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cbsnews.com  
    Title: ufo hearing congress uap takeaways whistleblower conference david grusch 2023  
-   Link: <a href="https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsUFO hearing key takeaways: What a whistleblower told...28 Jul 2023 — A former military intelligence officer-turned-whistleblower...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsUFO hearing key takeaways: What a whistleblower told...28 Jul 2023 — A former military intelligence officer-turned-whistleblower...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted interviews with of...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted interviews with of...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: theguardian.com  
    Title: house ufo hearing  
-   Link: <a href="https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Startling claims made at UFO hearing in Congress, but lack...13 Nov 2024 — The hearing came more than a year after the Pentagon was accu...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Startling claims made at UFO hearing in Congress, but lack...13 Nov 2024 — The hearing came more than a year after the Pentagon was accu...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/video/2023/jul/26/ufo-whistleblower-says-he-faced-brutal-retaliation-after-going-public-with-coverup-claim-video" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/video/2023/jul/26/ufo-whistleblower-says-he-faced-brutal-retaliation-after-going-public-with-coverup-claim-video</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower says he faced &#x27;brutal&#x27; retaliation after...27 Jul 2023 — UFO whistleblower says he faced &#x27;brutal&#x27; retaliation after go...</p></details>
+   Link:<a href="https://www.theguardian.com/world/video/2023/jul/26/ufo-whistleblower-says-he-faced-brutal-retaliation-after-going-public-with-coverup-claim-video" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/video/2023/jul/26/ufo-whistleblower-says-he-faced-brutal-retaliation-after-going-public-with-coverup-claim-video</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower says he faced &#x27;brutal&#x27; retaliation after...27 Jul 2023 — UFO whistleblower says he faced &#x27;brutal&#x27; retaliation after go...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
    Title: ufo hearing congress evidence david grusch  
-   Link: <a href="https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US conducted &#x27;multi-decade&#x27; secret UFO program, ex-...26 Jul 2023 — Whistleblower David [Grusch claims](&amp;#123;&amp;#123; &#x27;grusch-claim/&#x27; | relative_url &amp;#125;&amp;#125;) &#x27;non-human&#x27; beings found as issue...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US conducted &#x27;multi-decade&#x27; secret UFO program, ex-...26 Jul 2023 — Whistleblower David [Grusch claims](&amp;#123;&amp;#123; &#x27;grusch-claim/&#x27; | relative_url &amp;#125;&amp;#125;) &#x27;non-human&#x27; beings found as issue...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: commons.wikimedia.org  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3A2023_House_Oversight_and_Accountability_Hearing_on_UAP_%E2%80%93_Unidentified_Anomalous_Phenomena_%E2%80%93_Implications_on_National_Security%2C_Public_Safety%2C_and_Government_Transparency.webm" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3A2023_House_Oversight_and_Accountability_Hearing_on_UAP_%E2%80%93_Unidentified_Anomalous_Phenomena_%E2%80%93_Implications_on_National_Security%2C_Public_Safety%2C_and_Government_Transparency.webm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:2023 House Oversight and Accountability Hearing on...16 Dec 2025 — It includes a testimony by the whistleblower and fo...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3A2023_House_Oversight_and_Accountability_Hearing_on_UAP_%E2%80%93_Unidentified_Anomalous_Phenomena_%E2%80%93_Implications_on_National_Security%2C_Public_Safety%2C_and_Government_Transparency.webm" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3A2023_House_Oversight_and_Accountability_Hearing_on_UAP_%E2%80%93_Unidentified_Anomalous_Phenomena_%E2%80%93_Implications_on_National_Security%2C_Public_Safety%2C_and_Government_Transparency.webm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:2023 House Oversight and Accountability Hearing on...16 Dec 2025 — It includes a testimony by the whistleblower and fo...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40paranormalchris615/david-grusch-whistleblower-reprisals-or-national-security-liability-cc0e8d179dd7" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40paranormalchris615/david-grusch-whistleblower-reprisals-or-national-security-liability-cc0e8d179dd7</a>  
+   Link:<a href="https://medium.com/%40paranormalchris615/david-grusch-whistleblower-reprisals-or-national-security-liability-cc0e8d179dd7" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40paranormalchris615/david-grusch-whistleblower-reprisals-or-national-security-liability-cc0e8d179dd7</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pbs.org  
-   Link: <a href="https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis: Whistleblower testimonies did not change our...29 Jul 2023 — A congressional subcommittee met on June 26, 2023, to hear testim...</p></details>
+   Link:<a href="https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis: Whistleblower testimonies did not change our...29 Jul 2023 — A congressional subcommittee met on June 26, 2023, to hear testim...</p></details>
    Published: June 26, 2023  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
    Title: in 2023 grusch gave newsnation his first on the record interview claiming the go  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/in-2023-grusch-gave-newsnation-his-first-on-the-record-interview-claiming-the-go/1020450367028647/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/in-2023-grusch-gave-newsnation-his-first-on-the-record-interview-claiming-the-go/1020450367028647/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2023, Grusch gave NewsNation his first on-the“Whistleblower: U.S. Hiding Alien Tech &amp; Bodies” In June 2023, former U.S. intelligence o...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/in-2023-grusch-gave-newsnation-his-first-on-the-record-interview-claiming-the-go/1020450367028647/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/in-2023-grusch-gave-newsnation-his-first-on-the-record-interview-claiming-the-go/1020450367028647/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 2023, Grusch gave NewsNation his first on-the“Whistleblower: U.S. Hiding Alien Tech &amp; Bodies” In June 2023, former U.S. intelligence o...</p></details>
    Published: June 2023  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: whistleblowersblog.org  
    Title: whistleblower claims retaliation during testimony at house hearing on ufos  
-   Link: <a href="https://whistleblowersblog.org/government-whistleblowers/whistleblower-claims-retaliation-during-testimony-at-house-hearing-on-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://whistleblowersblog.org/government-whistleblowers/whistleblower-claims-retaliation-during-testimony-at-house-hearing-on-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblower Network NewsWhistleblower Claims Retaliation During Testimony at...2 Aug 2023 — “I became a Whistleblower, through a PPD-1...</p></details>
+   Link:<a href="https://whistleblowersblog.org/government-whistleblowers/whistleblower-claims-retaliation-during-testimony-at-house-hearing-on-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://whistleblowersblog.org/government-whistleblowers/whistleblower-claims-retaliation-during-testimony-at-house-hearing-on-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblower Network NewsWhistleblower Claims Retaliation During Testimony at...2 Aug 2023 — “I became a Whistleblower, through a PPD-1...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/the-american-people-deserve-more-than-vague-denials-and-selective-releases-uap-w/1020775710329446/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/the-american-people-deserve-more-than-vague-denials-and-selective-releases-uap-w/1020775710329446/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 10, 2026 — &quot;The American people deserve more than vague denials and selective releases&quot;: UAP whistleblower David Grusch speaks about...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/the-american-people-deserve-more-than-vague-denials-and-selective-releases-uap-w/1020775710329446/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/the-american-people-deserve-more-than-vague-denials-and-selective-releases-uap-w/1020775710329446/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 10, 2026 — &quot;The American people deserve more than vague denials and selective releases&quot;: UAP whistleblower David Grusch speaks about...</p></details>
    Published: June 10, 2026  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: defensescoop.com  
    Title: uap hearing sparks clash between pentagon officials witnesses  
-   Link: <a href="https://defensescoop.com/2023/07/31/uap-hearing-sparks-clash-between-pentagon-officials-witnesses/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/07/31/uap-hearing-sparks-clash-between-pentagon-officials-witnesses/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP hearing sparks clash between Pentagon officials...31 Jul 2023 — Pentagon officials are warning that some allegations raised by form...</p></details>
+   Link:<a href="https://defensescoop.com/2023/07/31/uap-hearing-sparks-clash-between-pentagon-officials-witnesses/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/07/31/uap-hearing-sparks-clash-between-pentagon-officials-witnesses/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP hearing sparks clash between Pentagon officials...31 Jul 2023 — Pentagon officials are warning that some allegations raised by form...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
    Title: human species—ranging from bipedal to sentient plasmoid life  
-   Link: <a href="https://www.facebook.com/FOX10Phoenix/posts/bipartisan-coalition-of-lawmakers-luna-burchett-burlison-moskowitz-hold-historic/1336170118717111/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX10Phoenix/posts/bipartisan-coalition-of-lawmakers-luna-burchett-burlison-moskowitz-hold-historic/1336170118717111/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 10, 2026 — Bipartisan coalition of lawmakers (Luna, Burchett, Burlison, Moskowitz) hold historic press conference with UAP whistlebl...</p></details>
+   Link:<a href="https://www.facebook.com/FOX10Phoenix/posts/bipartisan-coalition-of-lawmakers-luna-burchett-burlison-moskowitz-hold-historic/1336170118717111/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX10Phoenix/posts/bipartisan-coalition-of-lawmakers-luna-burchett-burlison-moskowitz-hold-historic/1336170118717111/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 10, 2026 — Bipartisan coalition of lawmakers (Luna, Burchett, Burlison, Moskowitz) hold historic press conference with UAP whistlebl...</p></details>
    Published: June 10, 2026  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: dni.gov  
    Title: [PDF] Director of National Intelligence  
-   Link: <a href="https://www.dni.gov/files/documents/FOIA/2023/June_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/documents/FOIA/2023/June_2023.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1, 2023 — REQUEST COPIES OF ALL RECORDS AND MATERIALS SUBMITTED OR. COMMUNICATED TO THE ICIG BY DAVID CHARLES GRUSCH IN OR. AROUND MAY 20...</p></details>
+   Link:<a href="https://www.dni.gov/files/documents/FOIA/2023/June_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/documents/FOIA/2023/June_2023.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1, 2023 — REQUEST COPIES OF ALL RECORDS AND MATERIALS SUBMITTED OR. COMMUNICATED TO THE ICIG BY DAVID CHARLES GRUSCH IN OR. AROUND MAY 20...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: metabunk.org  
    Title: David Grusch's DOPSR Cleared Statement and IG Complaint  
-   Link: <a href="https://www.metabunk.org/threads/david-gruschs-dopsr-cleared-statement-and-ig-complaint.12989/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/david-gruschs-dopsr-cleared-statement-and-ig-complaint.12989/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Grush has served as an intelligence officer for over 14 years, first as an US Air Force officer attending the rank of major but also as a...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/david-gruschs-dopsr-cleared-statement-and-ig-complaint.12989/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/david-gruschs-dopsr-cleared-statement-and-ig-complaint.12989/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Grush has served as an intelligence officer for over 14 years, first as an US Air Force officer attending the rank of major but also as a...</p></details>

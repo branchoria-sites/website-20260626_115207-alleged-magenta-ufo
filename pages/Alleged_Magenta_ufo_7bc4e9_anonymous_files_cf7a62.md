@@ -447,20 +447,20 @@ image: /assets/images/Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62-overview
 
 ## Introduction
 
-Anonymous files can make the [alleged Magenta UFO]({{ 'alleged-magenta-ufo/' | relative_url }}) crash feel unusually concrete: telegrams, official-looking stationery, seals, bureaucratic wording, sketches and named Fascist-era institutions appear to give the story a paper trail. That is also why they are risky. The public case for Magenta depends heavily on material that Roberto Pinotti and Alfredo Lissoni say began arriving anonymously in 1996, decades after the alleged 1933 event, from a sender they could not name. The files may be interesting artefacts, and parts may plausibly resemble period paperwork, but late-surfacing documents do not prove a crash, a recovery programme or non-human technology without a clear [chain of custody]({{ 'custody/' | relative_url }}), independent archival context and corroborating records outside the anonymous packet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
+Anonymous files can make the [alleged Magenta UFO]({{ 'alleged-magenta-ufo/' | relative_url }}) crash feel unusually concrete: telegrams, official-looking stationery, seals, bureaucratic wording, sketches and named Fascist-era institutions appear to give the story a paper trail. That is also why they are risky. The public case for Magenta depends heavily on material that Roberto Pinotti and Alfredo Lissoni say began arriving anonymously in 1996, decades after the alleged 1933 event, from a sender they could not name. The files may be interesting artefacts, and parts may plausibly resemble period paperwork, but late-surfacing documents do not prove a crash, a recovery programme or non-human technology without a clear [chain of custody]({{ 'custody/' | relative_url }}), independent archival context and corroborating records outside the anonymous packet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62-overview.webp" | relative_url }}" alt="Overview image for Provenance" loading="eager" decoding="sync" fetchpriority="high">
-That distinction matters because Magenta is not just a folklore-style UFO story. It is now cited in wider debates about crash retrievals, including David [Grusch]({{ 'grusch/' | relative_url }})’s public claim that a 1933 Magenta recovery was later acquired by the United States. Yet the strongest public evidence remains indirect: copies, summaries, disputed provenance and [later retellings]({{ 'later-retellings/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Microsoft Word</span><span class="citation-popover-snippet">Oversight Committee Microsoft Word</span></span></span>
+That distinction matters because Magenta is not just a folklore-style UFO story. It is now cited in wider debates about crash retrievals, including David [Grusch]({{ 'grusch/' | relative_url }})’s public claim that a 1933 Magenta recovery was later acquired by the United States. Yet the strongest public evidence remains indirect: copies, summaries, disputed provenance and [later retellings]({{ 'later-retellings/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Microsoft Word</span><span class="citation-popover-snippet">Oversight Committee Microsoft Word</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PiPeptPgLYs" title="The Magenta Project: The 1933 Italy UFO Crash-Retrieval That Changed the World -- Updated Supercut" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PiPeptPgLYs" target="_blank" rel="noopener noreferrer">The Magenta Project: The 1933 Italy UFO Crash-Retrieval That Changed the World -- Updated Supercut</a></p><p class="youtube-embed-meta">Channel: The Magenta Project - The 1933 UFO Crash in Italy</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PiPeptPgLYs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PiPeptPgLYs">Open on YouTube</a></p></div></div></div>
 
 ## Why anonymous sourcing is risky
 
-The core provenance problem is simple: a document can look historically plausible without being historically secure. Pinotti’s own account says the “[Fascist UFO Files]({{ 'fascist-files/' | relative_url }})” arrived anonymously on several occasions and that the alleged sender claimed to be a relative of someone involved in Cabinet RS/33, the secret group supposedly created to study “unconventional flying vehicles”. That gives the story a source narrative, but not a verifiable source. The sender’s identity, custody history, motives, access route and original storage context remain outside public confirmation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
+The core provenance problem is simple: a document can look historically plausible without being historically secure. Pinotti’s own account says the “[Fascist UFO Files]({{ 'fascist-files/' | relative_url }})” arrived anonymously on several occasions and that the alleged sender claimed to be a relative of someone involved in Cabinet RS/33, the secret group supposedly created to study “unconventional flying vehicles”. That gives the story a source narrative, but not a verifiable source. The sender’s identity, custody history, motives, access route and original storage context remain outside public confirmation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
 
-In archival terms, this is a serious weakness. Provenance is not just “where someone says a paper came from”; it is the creator of the record and its history of ownership and custody. Archivists preserve provenance and original order because context helps determine whether records are authentic and reliable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kings.cam.ac.uk/section-2-key-principles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kings.cam.ac.uk">[King&#x27;s College Cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kings.cam.ac.uk</span><span class="citation-popover-title">King&#x27;s College Cambridge Section 2: Key Principles &#124; King&#x27;s College Cambridge</span><span class="citation-popover-snippet">King&#x27;s College Cambridge Section 2: Key Principles &#124; King&#x27;s College Cambridge</span></span></span> For evidentiary records, an unbroken chain of custody allows an archive to say that a document was created by the agency specified and stayed within authorised custody before transfer. Without that, the document may still be interesting, but its authority is compromised. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.clir.org/pubs/reports/pub92/hirtle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clir.org">[CLIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clir.org</span><span class="citation-popover-title">Archival Authenticity in a Digital Age • CLIR</span><span class="citation-popover-snippet">Archival Authenticity in a Digital Age • CLIR</span></span></span>
+In archival terms, this is a serious weakness. Provenance is not just “where someone says a paper came from”; it is the creator of the record and its history of ownership and custody. Archivists preserve provenance and original order because context helps determine whether records are authentic and reliable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kings.cam.ac.uk/section-2-key-principles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kings.cam.ac.uk">[King&#x27;s College Cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kings.cam.ac.uk</span><span class="citation-popover-title">King&#x27;s College Cambridge Section 2: Key Principles &#124; King&#x27;s College Cambridge</span><span class="citation-popover-snippet">King&#x27;s College Cambridge Section 2: Key Principles &#124; King&#x27;s College Cambridge</span></span></span> For evidentiary records, an unbroken chain of custody allows an archive to say that a document was created by the agency specified and stayed within authorised custody before transfer. Without that, the document may still be interesting, but its authority is compromised.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.clir.org/pubs/reports/pub92/hirtle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clir.org">[CLIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clir.org</span><span class="citation-popover-title">Archival Authenticity in a Digital Age • CLIR</span><span class="citation-popover-snippet">Archival Authenticity in a Digital Age • CLIR</span></span></span>
 
 The Magenta files fail at precisely that high bar. They did not emerge from a named state archive as part of a complete Fascist-era record series. They arrived through an anonymous private channel, then became public through UFO researchers and media accounts. That does not automatically make them fake, but it changes the evidentiary standard. A reader should treat them as alleged documents requiring authentication, not as established government records.
 
@@ -470,11 +470,11 @@ There is also a narrative risk. Anonymous sources can introduce details that lat
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62-Illustration-1-dark.svg" | relative_url }}" alt="Provenance illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the files actually add to the Magenta story
 
-The anonymous file set is important because it supplies the case with its main documentary texture. In Pinotti’s published account, the materials describe a purported flying saucer that crashed or landed near Magenta in Lombardy in 1933 and was later connected to Cabinet RS/33. The same account says three or four telegrams concerned the recovery, while a protocol was supposedly sent to the prefect, secret services and newspapers to cover up the news. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
+The anonymous file set is important because it supplies the case with its main documentary texture. In Pinotti’s published account, the materials describe a purported flying saucer that crashed or landed near Magenta in Lombardy in 1933 and was later connected to Cabinet RS/33. The same account says three or four telegrams concerned the recovery, while a protocol was supposedly sent to the prefect, secret services and newspapers to cover up the news.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
 
-The most quoted item is a supposed “priority” and “most confidential” telegram from the Telegraphic Office in Milan, with Agenzia Stefani named as sender. In Pinotti’s translation, it orders “absolute silence” about an alleged landing on national soil of an unknown aircraft and warns that personnel or journalists who transgress could face the Tribunal for State Security. That is the document that most directly supports the “cover-up” part of the story, because it describes secrecy around an “unknown aircraft” rather than a normal accident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
+The most quoted item is a supposed “priority” and “most confidential” telegram from the Telegraphic Office in Milan, with Agenzia Stefani named as sender. In Pinotti’s translation, it orders “absolute silence” about an alleged landing on national soil of an unknown aircraft and warns that personnel or journalists who transgress could face the Tribunal for State Security. That is the document that most directly supports the “cover-up” part of the story, because it describes secrecy around an “unknown aircraft” rather than a normal accident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
 
-The files also expand the case beyond one alleged crash. Pinotti’s account links Magenta to later Italian sightings, especially a 1936 Mestre and Venice incident involving a metallic object, fighter aircraft and a drawing. He says the 1936 drawing was one of the papers examined by forensic consultant Antonio Garavaglia, and that chemical tests of paper and ink supported a Fascist-era origin for at least some original documents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
+The files also expand the case beyond one alleged crash. Pinotti’s account links Magenta to later Italian sightings, especially a 1936 Mestre and Venice incident involving a metallic object, fighter aircraft and a drawing. He says the 1936 drawing was one of the papers examined by forensic consultant Antonio Garavaglia, and that chemical tests of paper and ink supported a Fascist-era origin for at least some original documents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
 
 That is a meaningful claim, but it has limits. Authentic period paper and ink can support the age of a physical sheet, and period-appropriate wording can make forgery harder. They do not, by themselves, prove that the content describes a real crash, that Mussolini created Cabinet RS/33 for a recovered craft, or that any recovered object was non-human. A genuine old sheet can carry false content; a period memorandum can misdescribe an event; a private letter can report rumours; and a file can be incomplete or removed from the series that would explain it.
 
@@ -492,7 +492,7 @@ Several specific failure modes apply to the Magenta file set:
 * **A real setting can authenticate a false story.** Fascist Italy did have state secrecy, aviation ambition and propaganda control. Those facts make a secret-aircraft narrative plausible in style, but they do not prove this particular event happened.
 * **Period details can be copied.** Names such as Mussolini, Marconi, Balbo, Ciano and Agenzia Stefani are historically real. A document using real names and correct bureaucratic language still needs independent archival placement.
 * **A partial authentication can be overstretched.** If one 1936 drawing or paper is judged physically old, that does not authenticate every document in the packet, nor the 1933 crash claim itself.
-* **Lost or copied material weakens later verification.** Pinotti’s account says an original thirty-page dossier sent to the Bologna newspaper Il Resto del Carlino was lost, while other early recipients treated material sceptically or as fake. Lost originals reduce the chance of repeat testing and independent review. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
+* **Lost or copied material weakens later verification.** Pinotti’s account says an original thirty-page dossier sent to the Bologna newspaper Il Resto del Carlino was lost, while other early recipients treated material sceptically or as fake. Lost originals reduce the chance of repeat testing and independent review.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
 * **A file can be genuine but misinterpreted.** Even if a document really referred to an “unknown aircraft”, that phrase could cover rumours, enemy aircraft fears, balloons, experimental aviation, propaganda management or misreported natural phenomena.
 
 The final point is crucial. The alleged documents do not need to be modern fabrications to fall short of proving a UFO crash. A genuine Fascist-era secrecy order about an “unknown aircraft” would be historically interesting. It would not automatically establish a recovered non-human craft.
@@ -501,11 +501,11 @@ The final point is crucial. The alleged documents do not need to be modern fabri
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62-Illustration-2-dark.svg" | relative_url }}" alt="Provenance illustration 2" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Vatican and “bell-shaped craft” problem
 
-The late-document problem becomes sharper when details from different retellings drift together. One sceptical analysis by Pepijn van Erp notes that David Grusch described the Magenta craft as bell-shaped, a detail van Erp says he did not find in the Italian source material but did find in a later account connected to Billy Brophy. Van Erp also argues that the Vatican element in Grusch’s account may reflect later confusion, because Pinotti’s summary of the alleged RS/33 protocol excluded other bodies, including the Pontifical University, from receiving reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pepijnvanerp.nl">[Pepijn van Erp]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pepijnvanerp.nl</span><span class="citation-popover-title">Pepijn van Erp Mussolini’s UFO – Cabinet RS/33 – Pepijn van Erp</span><span class="citation-popover-snippet">Pepijn van Erp Mussolini’s UFO – Cabinet RS/33 – Pepijn van Erp</span></span></span>
+The late-document problem becomes sharper when details from different retellings drift together. One sceptical analysis by Pepijn van Erp notes that David Grusch described the Magenta craft as bell-shaped, a detail van Erp says he did not find in the Italian source material but did find in a later account connected to Billy Brophy. Van Erp also argues that the Vatican element in Grusch’s account may reflect later confusion, because Pinotti’s summary of the alleged RS/33 protocol excluded other bodies, including the Pontifical University, from receiving reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pepijnvanerp.nl">[Pepijn van Erp]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pepijnvanerp.nl</span><span class="citation-popover-title">Pepijn van Erp Mussolini’s UFO – Cabinet RS/33 – Pepijn van Erp</span><span class="citation-popover-snippet">Pepijn van Erp Mussolini’s UFO – Cabinet RS/33 – Pepijn van Erp</span></span></span>
 
 This does not prove Grusch’s claim false, and it does not prove the Italian documents are fake. It does show why provenance matters. Once anonymous files, conference presentations, books, web summaries, podcasts and whistleblower claims begin to circulate together, it becomes hard to tell which details came from alleged original documents and which came from later UFO storytelling.
 
-That is especially important because Grusch’s public evidence was also indirect. In his House Oversight opening statement, he said he had been informed, in the course of official duties, of a multi-decade UAP crash retrieval and reverse-engineering programme to which he was denied access. He did not publicly produce the Magenta files, a recovered object, a Vatican record or a US transfer record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Microsoft Word</span><span class="citation-popover-snippet">Oversight Committee Microsoft Word</span></span></span> TIME’s report on the hearing likewise noted that the Pentagon denied finding verifiable information substantiating programmes involving possession or reverse-engineering of extraterrestrial materials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Open source on time.com.</span></span></span>
+That is especially important because Grusch’s public evidence was also indirect. In his House Oversight opening statement, he said he had been informed, in the course of official duties, of a multi-decade UAP crash retrieval and reverse-engineering programme to which he was denied access. He did not publicly produce the Magenta files, a recovered object, a Vatican record or a US transfer record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Microsoft Word</span><span class="citation-popover-snippet">Oversight Committee Microsoft Word</span></span></span> TIME’s report on the hearing likewise noted that the Pentagon denied finding verifiable information substantiating programmes involving possession or reverse-engineering of extraterrestrial materials.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Open source on time.com.</span></span></span>
 
 For the Magenta case, that means the modern whistleblower layer does not independently authenticate the anonymous Italian files unless it is matched to inspectable records. It may raise interest in looking for those records; it does not replace them.
 
@@ -550,194 +550,194 @@ A careful reader should keep three levels separate. First, the documents may be 
 The strongest current assessment is therefore cautious: the Magenta files are intriguing alleged evidence, not settled proof. Their anonymous origin, late appearance, incomplete custody history, lost or copied components and dependence on later interpretation make them insufficient to establish a 1933 non-human crash retrieval. What would change that assessment is not another retelling, but independent access to originals, archival cross-references, complete custody documentation and corroborating records from institutions that did not receive their information from the same anonymous source.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Anonymous UFO Files Prove Anything?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Anonymous UFO Files Prove Anything?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Emphasizes careful investigation and separating credible evidence from weak claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes careful investigation and separating credible evidence from weak claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores evidence standards, official sources, and how extraordinary claims should be evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores evidence standards, official sources, and how extraordinary claims should be evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Provides cultural and historical context for modern UFO narratives and document-driven claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides cultural and historical context for modern UFO narratives and document-driven claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Directly addresses evaluating anonymous evidence, extraordinary claims, and documentary reliability.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses evaluating anonymous evidence, extraordinary claims, and documentary reliability.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model"><img src="{{ '/assets/images/marketplace-covers/b626ecf0eef6236661c6.jpg' | relative_url }}" alt="Listing image for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model"><img src="{{ '/assets/images/marketplace-covers/b626ecf0eef6236661c6.jpg' | relative_url }}" alt="Listing image for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting"><img src="{{ '/assets/images/marketplace-covers/64fd2e61ffabf1eeab61.jpg' | relative_url }}" alt="Listing image for Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting"><img src="{{ '/assets/images/marketplace-covers/64fd2e61ffabf1eeab61.jpg' | relative_url }}" alt="Listing image for Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP"><img src="{{ '/assets/images/marketplace-covers/cb030376ffee8e848aa3.jpg' | relative_url }}" alt="Listing image for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP"><img src="{{ '/assets/images/marketplace-covers/cb030376ffee8e848aa3.jpg' | relative_url }}" alt="Listing image for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display"><img src="{{ '/assets/images/marketplace-covers/3ccfc0d32b189563b8e0.jpg' | relative_url }}" alt="Listing image for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display"><img src="{{ '/assets/images/marketplace-covers/3ccfc0d32b189563b8e0.jpg' | relative_url }}" alt="Listing image for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="provenance-can-anonymous-ufo-files-prove-anything-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -753,7 +753,7 @@ The strongest current assessment is therefore cautious: the Magenta files are in
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -773,7 +773,7 @@ The strongest current assessment is therefore cautious: the Magenta files are in
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -805,7 +805,7 @@ The strongest current assessment is therefore cautious: the Magenta files are in
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -857,7 +857,7 @@ The strongest current assessment is therefore cautious: the Magenta files are in
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -902,7 +902,7 @@ The strongest current assessment is therefore cautious: the Magenta files are in
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -943,151 +943,151 @@ The strongest current assessment is therefore cautious: the Magenta files are in
 
 ## Endnotes
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: [oversight](&#123;&#123; 'oversight/' | relative_url &#125;&#125;). house.gov  
    Title: Oversight Committee Microsoft Word  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: time.com  
-   Link: <a href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6298287/congress-ufo-hearing/</a>  
+   Link:<a href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6298287/congress-ufo-hearing/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: clir.org  
    Title: Archival Authenticity in a Digital Age • CLIR  
-   Link: <a href="https://www.clir.org/pubs/reports/pub92/hirtle/" target="_blank" rel="noopener noreferrer nofollow">https://www.clir.org/pubs/reports/pub92/hirtle/</a>  
+   Link:<a href="https://www.clir.org/pubs/reports/pub92/hirtle/" target="_blank" rel="noopener noreferrer nofollow">https://www.clir.org/pubs/reports/pub92/hirtle/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
+   Link:<a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aaro.mil  
    Title: UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: oversight.house.gov  
    Title: George Knapp Written Testimony  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf</a>  
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: kings.cam.ac.uk  
    Title: King's College Cambridge Section 2: Key Principles | King's College Cambridge  
-   Link: <a href="https://www.kings.cam.ac.uk/section-2-key-principles" target="_blank" rel="noopener noreferrer nofollow">https://www.kings.cam.ac.uk/section-2-key-principles</a>  
+   Link:<a href="https://www.kings.cam.ac.uk/section-2-key-principles" target="_blank" rel="noopener noreferrer nofollow">https://www.kings.cam.ac.uk/section-2-key-principles</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pepijnvanerp.nl  
    Title: Pepijn van Erp Mussolini’s UFO – Cabinet RS/33 – Pepijn van Erp  
-   Link: <a href="https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/" target="_blank" rel="noopener noreferrer nofollow">https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/</a>  
+   Link:<a href="https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/" target="_blank" rel="noopener noreferrer nofollow">https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nationalarchives.gov.uk  
    Title: exploring archival value does the perfect parchment exist  
-   Link: <a href="https://www.nationalarchives.gov.uk/professional-guidance-and-services/our-research-and-academic-collaboration/our-research-projects/research-projects/exploring-archival-value-does-the-perfect-parchment-exist/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/professional-guidance-and-services/our-research-and-academic-collaboration/our-research-projects/research-projects/exploring-archival-value-does-the-perfect-parchment-exist/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/professional-guidance-and-services/our-research-and-academic-collaboration/our-research-projects/research-projects/exploring-archival-value-does-the-perfect-parchment-exist/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/professional-guidance-and-services/our-research-and-academic-collaboration/our-research-projects/research-projects/exploring-archival-value-does-the-perfect-parchment-exist/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/professional-guidance-and-services/cataloguing-practices/digital-cataloguing-practices/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/professional-guidance-and-services/cataloguing-practices/digital-cataloguing-practices/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/professional-guidance-and-services/cataloguing-practices/digital-cataloguing-practices/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/professional-guidance-and-services/cataloguing-practices/digital-cataloguing-practices/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Provenance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Provenance</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Provenance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Provenance</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: backlog-archivists.com  
    Title: provenance and original order  
-   Link: <a href="https://www.backlog-archivists.com/blog/provenance-and-original-order" target="_blank" rel="noopener noreferrer nofollow">https://www.backlog-archivists.com/blog/provenance-and-original-order</a>  
+   Link:<a href="https://www.backlog-archivists.com/blog/provenance-and-original-order" target="_blank" rel="noopener noreferrer nofollow">https://www.backlog-archivists.com/blog/provenance-and-original-order</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: archives.norfolk.gov.uk  
    Title: norfolk.gov.uk Key principles of cataloguing  
-   Link: <a href="https://www.archives.norfolk.gov.uk/article/30982/Key-principles-of-cataloguing" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.norfolk.gov.uk/article/30982/Key-principles-of-cataloguing</a>  
+   Link:<a href="https://www.archives.norfolk.gov.uk/article/30982/Key-principles-of-cataloguing" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.norfolk.gov.uk/article/30982/Key-principles-of-cataloguing</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/350991197872690/posts/940994655539005/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/350991197872690/posts/940994655539005/</a>  
+   Link:<a href="https://www.facebook.com/groups/350991197872690/posts/940994655539005/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/350991197872690/posts/940994655539005/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: inria.hal.science  
-   Link: <a href="https://inria.hal.science/hal-01449067v1/document" target="_blank" rel="noopener noreferrer nofollow">https://inria.hal.science/hal-01449067v1/document</a>  
+   Link:<a href="https://inria.hal.science/hal-01449067v1/document" target="_blank" rel="noopener noreferrer nofollow">https://inria.hal.science/hal-01449067v1/document</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: journalofantiques.com  
-   Link: <a href="https://journalofantiques.com/glossary/provenance/" target="_blank" rel="noopener noreferrer nofollow">https://journalofantiques.com/glossary/provenance/</a>  
+   Link:<a href="https://journalofantiques.com/glossary/provenance/" target="_blank" rel="noopener noreferrer nofollow">https://journalofantiques.com/glossary/provenance/</a>  
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4couUZtAkew" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4couUZtAkew</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LIVE: Lawmakers, whistleblower call for release of UFO records...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4couUZtAkew" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4couUZtAkew</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LIVE: Lawmakers, whistleblower call for release of UFO records...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: UFO Whistleblower Calls for Release of Federal Space Alien Files  
-   Link: <a href="https://www.youtube.com/watch?v=HDJ679f_mog" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HDJ679f_mog</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LIVE: Military whistleblower exposes &quot;non-human intelligence&quot; evidence to congress | FOX 10 Phoenix...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HDJ679f_mog" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HDJ679f_mog</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LIVE: Military whistleblower exposes &quot;non-human intelligence&quot; evidence to congress | FOX 10 Phoenix...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: We Are Not Alone: Live roundtable on historic UFO hearing | News Nation Prime  
-   Link: <a href="https://www.youtube.com/watch?v=vUnKRknLVSA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vUnKRknLVSA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Whistleblower Calls for Release of Federal Space Alien Files...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vUnKRknLVSA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vUnKRknLVSA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Whistleblower Calls for Release of Federal Space Alien Files...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: Road to Disclosure FULL SHOW | Reality Check with Ross Coulthart  
-   Link: <a href="https://www.youtube.com/watch?v=wAur0awdEjw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wAur0awdEjw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We Are Not Alone: Live roundtable on historic UFO hearing | NewsNation Prime...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wAur0awdEjw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wAur0awdEjw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We Are Not Alone: Live roundtable on historic UFO hearing | NewsNation Prime...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: dni.gov  
    Title: 3733 2023 consolidated annual report on unidentified anomalous phenomena  
-   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
+   Link:<a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: emerald.com  
-   Link: <a href="https://www.emerald.com/rmj/article/25/1/107/364740/Contemporary-diplomatics-of-the-civil-and-deceased" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/rmj/article/25/1/107/364740/Contemporary-diplomatics-of-the-civil-and-deceased</a>  
+   Link:<a href="https://www.emerald.com/rmj/article/25/1/107/364740/Contemporary-diplomatics-of-the-civil-and-deceased" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/rmj/article/25/1/107/364740/Contemporary-diplomatics-of-the-civil-and-deceased</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AlternativeHistory/comments/1bjoqce/fascinating_dive_rich_in_history_back_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AlternativeHistory/comments/1bjoqce/fascinating_dive_rich_in_history_back_to/</a>  
+   Link:<a href="https://www.reddit.com/r/AlternativeHistory/comments/1bjoqce/fascinating_dive_rich_in_history_back_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AlternativeHistory/comments/1bjoqce/fascinating_dive_rich_in_history_back_to/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: nationalarchives.ie  
-   Link: <a href="https://nationalarchives.ie/help-with-research/glossary/" target="_blank" rel="noopener noreferrer nofollow">https://nationalarchives.ie/help-with-research/glossary/</a>  
+   Link:<a href="https://nationalarchives.ie/help-with-research/glossary/" target="_blank" rel="noopener noreferrer nofollow">https://nationalarchives.ie/help-with-research/glossary/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1cfxw8q/italian_magazine_oggi_confirms_that_mussolini/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cfxw8q/italian_magazine_oggi_confirms_that_mussolini/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1cfxw8q/italian_magazine_oggi_confirms_that_mussolini/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cfxw8q/italian_magazine_oggi_confirms_that_mussolini/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/timefordisclosure/posts/1410961486114326/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/timefordisclosure/posts/1410961486114326/</a>  
+   Link:<a href="https://www.facebook.com/groups/timefordisclosure/posts/1410961486114326/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/timefordisclosure/posts/1410961486114326/</a>  

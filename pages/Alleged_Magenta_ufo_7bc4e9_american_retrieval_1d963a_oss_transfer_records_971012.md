@@ -286,11 +286,11 @@ If the alleged Magenta craft was transferred into American [custody]({{ 'custody
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_oss_transfer_records_971012-Illustration-1-dark.svg" | relative_url }}" alt="OSS Records illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_oss_transfer_records_971012-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_oss_transfer_records_971012-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why OSS files matter for a late-war recovery claim
 
-The OSS maintained extensive operations in Italy during the final stages of the war. Its responsibilities included collecting intelligence, interrogating captured personnel, identifying valuable scientific and industrial assets, working with resistance groups, and coordinating with advancing Allied military formations. These activities generated a large documentary record that is now preserved primarily in Record Group (RG) 226 at the US National Archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/iwg/declassified-records/rg-226-oss" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesRecords of the Office of Strategic Services 1940-1946 (RG...August 15, 2016 — 19 Oct 2017 — The records relate to milit...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
+The OSS maintained extensive operations in Italy during the final stages of the war. Its responsibilities included collecting intelligence, interrogating captured personnel, identifying valuable scientific and industrial assets, working with resistance groups, and coordinating with advancing Allied military formations. These activities generated a large documentary record that is now preserved primarily in Record Group (RG) 226 at the US National Archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/iwg/declassified-records/rg-226-oss" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesRecords of the Office of Strategic Services 1940-1946 (RG...August 15, 2016 — 19 Oct 2017 — The records relate to milit...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
 
 This matters because the modern Magenta narrative places the alleged transfer within exactly this operational environment. Public versions of the story generally claim that American personnel reached the supposed storage site in northern Italy during 1945, secured the object and arranged its movement to the United States. If such an operation occurred under wartime intelligence authority, OSS records are among the most plausible places where indirect evidence could appear—even if the object were described in deliberately vague language.
 
-The archive also demonstrates that the OSS routinely documented highly sensitive matters. Declassified files include reports on covert missions, scientific targets, captured German records, counter-intelligence investigations, [Vatican]({{ 'vatican/' | relative_url }})-related reporting, post-war political developments and the recovery of valuable enemy material. The existence of these mundane but sensitive files shows that secret operations were documented, even when they remained classified for decades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-213.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Records of the Office of Strategic Services (RG 226): Entry</span><span class="citation-popover-snippet">National ArchivesRecords of the Office of Strategic Services (RG 226): Entry...August 15, 2016 — 15 Aug 2016 — Records of the Office of...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
+The archive also demonstrates that the OSS routinely documented highly sensitive matters. Declassified files include reports on covert missions, scientific targets, captured German records, counter-intelligence investigations, [Vatican]({{ 'vatican/' | relative_url }})-related reporting, post-war political developments and the recovery of valuable enemy material. The existence of these mundane but sensitive files shows that secret operations were documented, even when they remained classified for decades.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-213.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Records of the Office of Strategic Services (RG 226): Entry</span><span class="citation-popover-snippet">National ArchivesRecords of the Office of Strategic Services (RG 226): Entry...August 15, 2016 — 15 Aug 2016 — Records of the Office of...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
 
 ## The kinds of records a custody chain should leave
 
@@ -298,10 +298,10 @@ A genuine transfer of an unknown recovered object would probably not rest on a s
 
 Potential categories include:
 
-* **Field intelligence reports.** OSS detachments in northern Italy routinely reported discoveries at industrial sites, military installations and captured facilities. An unusual recovery might first appear as an inspection report or situation summary before any technical evaluation occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/holocaust/finding-aid/military/rg-226-3h.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesMilitary Agency Records RG 226Box 1 Security-Classified Records Relating to Outposts in Italy 1943-1945 (Entry 51) Arran...</span></span></span>
-* **Counter-intelligence files.** If German or Fascist personnel possessed knowledge of an unusual object, OSS X-2 or Security Intelligence (SI) branches would likely have produced interrogation reports, source evaluations or operational correspondence concerning those individuals. Existing RG 226 collections show extensive documentation of such activities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-212.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Records of the Office of Strategic Services (RG 226): Entry</span><span class="citation-popover-snippet">National ArchivesRecords of the Office of Strategic Services (RG 226): Entry...August 15, 2016 — 15 Aug 2016 — Records of the Office of...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
-* **Scientific intelligence memoranda.** The OSS actively investigated enemy scientific capabilities and individual researchers. Surviving files discuss technical specialists, atomic research and other advanced military subjects, illustrating the sort of reporting framework into which an extraordinary discovery would logically fit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-213.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Records of the Office of Strategic Services (RG 226): Entry</span><span class="citation-popover-snippet">National ArchivesRecords of the Office of Strategic Services (RG 226): Entry...August 15, 2016 — 15 Aug 2016 — Records of the Office of...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
-* **Captured-document handling records.** [Allied intelligence]({{ 'allied-records/' | relative_url }}) established procedures for collecting and processing captured records and other intelligence material. A large physical object would likely generate associated documentation concerning custody, transport or responsibility between military and intelligence organisations, even if its true nature remained compartmented. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/holocaust/finding-aid/military/rg-226-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesMilitary Agency Records RG 22615 Aug 2016 — Captured enemy documents, discovery of looting by from OSS Italy (2-25-44) G...</span></span></span>
+* **Field intelligence reports.** OSS detachments in northern Italy routinely reported discoveries at industrial sites, military installations and captured facilities. An unusual recovery might first appear as an inspection report or situation summary before any technical evaluation occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/holocaust/finding-aid/military/rg-226-3h.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesMilitary Agency Records RG 226Box 1 Security-Classified Records Relating to Outposts in Italy 1943-1945 (Entry 51) Arran...</span></span></span>
+* **Counter-intelligence files.** If German or Fascist personnel possessed knowledge of an unusual object, OSS X-2 or Security Intelligence (SI) branches would likely have produced interrogation reports, source evaluations or operational correspondence concerning those individuals. Existing RG 226 collections show extensive documentation of such activities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-212.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Records of the Office of Strategic Services (RG 226): Entry</span><span class="citation-popover-snippet">National ArchivesRecords of the Office of Strategic Services (RG 226): Entry...August 15, 2016 — 15 Aug 2016 — Records of the Office of...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
+* **Scientific intelligence memoranda.** The OSS actively investigated enemy scientific capabilities and individual researchers. Surviving files discuss technical specialists, atomic research and other advanced military subjects, illustrating the sort of reporting framework into which an extraordinary discovery would logically fit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-213.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Records of the Office of Strategic Services (RG 226): Entry</span><span class="citation-popover-snippet">National ArchivesRecords of the Office of Strategic Services (RG 226): Entry...August 15, 2016 — 15 Aug 2016 — Records of the Office of...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
+* **Captured-document handling records.** [Allied intelligence]({{ 'allied-records/' | relative_url }}) established procedures for collecting and processing captured records and other intelligence material. A large physical object would likely generate associated documentation concerning custody, transport or responsibility between military and intelligence organisations, even if its true nature remained compartmented.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/holocaust/finding-aid/military/rg-226-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesMilitary Agency Records RG 22615 Aug 2016 — Captured enemy documents, discovery of looting by from OSS Italy (2-25-44) G...</span></span></span>
 * **Inter-agency correspondence.** An operation involving the removal of an unusual object from occupied Italy would probably require communication between the OSS, military headquarters, transport authorities and possibly scientific advisory organisations. Even if one agency's files remained classified, references could appear in another's administrative records.
 
 The expectation is therefore not a single "smoking gun", but a documentary trail whose individual pieces reinforce one another.
@@ -310,11 +310,11 @@ The expectation is therefore not a single "smoking gun", but a documentary trail
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_oss_transfer_records_971012-Illustration-2-dark.svg" | relative_url }}" alt="OSS Records illustration 2" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_oss_transfer_records_971012-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_oss_transfer_records_971012-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the released OSS archive currently contains
 
-The publicly available RG 226 material demonstrates that OSS reporting was often remarkably detailed. Declassified entries include reports on northern Italian missions, Vatican information channels, political organisations, scientific contacts, captured records, intelligence personnel and specialised investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-213.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Records of the Office of Strategic Services (RG 226): Entry</span><span class="citation-popover-snippet">National ArchivesRecords of the Office of Strategic Services (RG 226): Entry...August 15, 2016 — 15 Aug 2016 — Records of the Office of...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
+The publicly available RG 226 material demonstrates that OSS reporting was often remarkably detailed. Declassified entries include reports on northern Italian missions, Vatican information channels, political organisations, scientific contacts, captured records, intelligence personnel and specialised investigations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-213.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Records of the Office of Strategic Services (RG 226): Entry</span><span class="citation-popover-snippet">National ArchivesRecords of the Office of Strategic Services (RG 226): Entry...August 15, 2016 — 15 Aug 2016 — Records of the Office of...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
 
-For example, Entry 213 contains reports from OSS units operating in Italy during late 1945, including material on Vatican information services, northern Italian missions and scientific matters. These records illustrate both the geographic coverage and the level of operational detail preserved in surviving files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-213.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Records of the Office of Strategic Services (RG 226): Entry</span><span class="citation-popover-snippet">National ArchivesRecords of the Office of Strategic Services (RG 226): Entry...August 15, 2016 — 15 Aug 2016 — Records of the Office of...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
+For example, Entry 213 contains reports from OSS units operating in Italy during late 1945, including material on Vatican information services, northern Italian missions and scientific matters. These records illustrate both the geographic coverage and the level of operational detail preserved in surviving files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-213.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Records of the Office of Strategic Services (RG 226): Entry</span><span class="citation-popover-snippet">National ArchivesRecords of the Office of Strategic Services (RG 226): Entry...August 15, 2016 — 15 Aug 2016 — Records of the Office of...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
 
-Similarly, National Archives finding aids identify entire series devoted to security-classified Italian outpost records from 1943 to 1945, showing that Italian operations generated substantial administrative documentation rather than leaving no paper trail at all. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/holocaust/finding-aid/military/rg-226-3h.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesMilitary Agency Records RG 226Box 1 Security-Classified Records Relating to Outposts in Italy 1943-1945 (Entry 51) Arran...</span></span></span>
+Similarly, National Archives finding aids identify entire series devoted to security-classified Italian outpost records from 1943 to 1945, showing that Italian operations generated substantial administrative documentation rather than leaving no paper trail at all.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/holocaust/finding-aid/military/rg-226-3h.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesMilitary Agency Records RG 226Box 1 Security-Classified Records Relating to Outposts in Italy 1943-1945 (Entry 51) Arran...</span></span></span>
 
 Despite that breadth, researchers have not identified an authenticated OSS record describing:
 
@@ -357,168 +357,168 @@ For the Magenta [transfer claim]({{ 'transfer-claim/' | relative_url }}), the mo
 
 </div>
 
-To date, publicly available OSS records released through the US National Archives have not produced that type of corroborating documentary chain. Consequently, the alleged American transfer from Italy in 1944–1945 remains supported primarily by later claims rather than by contemporaneous OSS archival evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/iwg/declassified-records/rg-226-oss" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesRecords of the Office of Strategic Services 1940-1946 (RG...August 15, 2016 — 19 Oct 2017 — The records relate to milit...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
+To date, publicly available OSS records released through the US National Archives have not produced that type of corroborating documentary chain. Consequently, the alleged American transfer from Italy in 1944–1945 remains supported primarily by later claims rather than by contemporaneous OSS archival evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/iwg/declassified-records/rg-226-oss" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesRecords of the Office of Strategic Services 1940-1946 (RG...August 15, 2016 — 19 Oct 2017 — The records relate to milit...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_oss_transfer_records_971012-Illustration-3-dark.svg" | relative_url }}" alt="OSS Records illustration 3" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_oss_transfer_records_971012-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_oss_transfer_records_971012-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Records Would Prove a Transfer?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Records Would Prove a Transfer?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context on documentary evidence, government records, and standards of evidence surrounding UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on documentary evidence, government records, and standards of evidence surrounding UFO claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Examines archival research, military secrecy, and how classified programs leave documentary traces.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines archival research, military secrecy, and how classified programs leave documentary traces.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Secret+History+of+the+CIA+by+Joseph+J.+Trento&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Secret History of the CIA on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QXdftAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Secret History of the CIA" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Secret+History+of+the+CIA+by+Joseph+J.+Trento&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret History of the CIA">The Secret History of the CIA</a>
-        </h4>
-        <p class="fr-book-author">By Joseph J. Trento</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Secret+History+of+the+CIA+by+Joseph+J.+Trento&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Secret History of the CIA on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QXdftAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Secret History of the CIA" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Secret+History+of+the+CIA+by+Joseph+J.+Trento&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret History of the CIA">The Secret History of the CIA</a>
+</h4>
+<p class="fr-book-author">By Joseph J. Trento</p>
         
-        <p class="fr-book-desc">Helps readers understand wartime and postwar intelligence organizations relevant to alleged custody transfers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Secret+History+of+the+CIA+by+Joseph+J.+Trento&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand wartime and postwar intelligence organizations relevant to alleged custody transfers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Secret+History+of+the+CIA+by+Joseph+J.+Trento&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
         
-        <p class="fr-book-desc">First published 2011.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Secret+History+of+the+CIA&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Secret History of the CIA</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Secret+History+of+the+CIA&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Secret History of the CIA</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=OSS+insignia+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oss-records-what-records-would-prove-a-transfer-alleged-magenta-ufo-oss-insignia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="OSS insignia patch" data-ebay-reference="oss-records-what-records-would-prove-a-transfer-alleged-magenta-ufo-oss-insignia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WWII US ARMY OFFICE OF STRATEGIC SERVICES OSS SHOULDER SLEEVE INSIGNIA PATCH"><img src="{{ '/assets/images/marketplace-covers/37880929a9c8d884498c.jpg' | relative_url }}" alt="Listing image for WWII US ARMY OFFICE OF STRATEGIC SERVICES OSS SHOULDER SLEEVE INSIGNIA PATCH" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=OSS+insignia+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oss-records-what-records-would-prove-a-transfer-alleged-magenta-ufo-oss-insignia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="OSS insignia patch" data-ebay-reference="oss-records-what-records-would-prove-a-transfer-alleged-magenta-ufo-oss-insignia-patch" target="_blank" rel="sponsored noopener noreferrer">WWII US ARMY OFFICE OF STRATEGIC SERVICES OSS SHOULDER SLEEVE INSIGNIA PATCH</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=OSS+insignia+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oss-records-what-records-would-prove-a-transfer-alleged-magenta-ufo-oss-insignia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="OSS insignia patch" data-ebay-reference="oss-records-what-records-would-prove-a-transfer-alleged-magenta-ufo-oss-insignia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for OSS insignia patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: OSS insignia patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=OSS+insignia+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oss-records-what-records-would-prove-a-transfer-alleged-magenta-ufo-oss-insignia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="OSS insignia patch" data-ebay-reference="oss-records-what-records-would-prove-a-transfer-alleged-magenta-ufo-oss-insignia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=OSS+insignia+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oss-records-what-records-would-prove-a-transfer-alleged-magenta-ufo-oss-insignia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="OSS insignia patch" data-ebay-reference="oss-records-what-records-would-prove-a-transfer-alleged-magenta-ufo-oss-insignia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WWII US ARMY OFFICE OF STRATEGIC SERVICES OSS SHOULDER SLEEVE INSIGNIA PATCH"><img src="{{ '/assets/images/marketplace-covers/37880929a9c8d884498c.jpg' | relative_url }}" alt="Listing image for WWII US ARMY OFFICE OF STRATEGIC SERVICES OSS SHOULDER SLEEVE INSIGNIA PATCH" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=OSS+insignia+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oss-records-what-records-would-prove-a-transfer-alleged-magenta-ufo-oss-insignia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="OSS insignia patch" data-ebay-reference="oss-records-what-records-would-prove-a-transfer-alleged-magenta-ufo-oss-insignia-patch" target="_blank" rel="sponsored noopener noreferrer">WWII US ARMY OFFICE OF STRATEGIC SERVICES OSS SHOULDER SLEEVE INSIGNIA PATCH</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=OSS+insignia+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oss-records-what-records-would-prove-a-transfer-alleged-magenta-ufo-oss-insignia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="OSS insignia patch" data-ebay-reference="oss-records-what-records-would-prove-a-transfer-alleged-magenta-ufo-oss-insignia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for OSS insignia patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: OSS insignia patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=OSS+insignia+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oss-records-what-records-would-prove-a-transfer-alleged-magenta-ufo-oss-insignia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="OSS insignia patch" data-ebay-reference="oss-records-what-records-would-prove-a-transfer-alleged-magenta-ufo-oss-insignia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=OSS+insignia+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oss-records-what-records-would-prove-a-transfer-alleged-magenta-ufo-oss-insignia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="OSS insignia patch" data-ebay-reference="oss-records-what-records-would-prove-a-transfer-alleged-magenta-ufo-oss-insignia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OSS Office Strategic Services Operational Groups Patch WWII Era Resistance"><img src="{{ '/assets/images/marketplace-covers/77c7582f630b898477df.jpg' | relative_url }}" alt="Listing image for OSS Office Strategic Services Operational Groups Patch WWII Era Resistance" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=OSS+insignia+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oss-records-what-records-would-prove-a-transfer-alleged-magenta-ufo-oss-insignia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="OSS insignia patch" data-ebay-reference="oss-records-what-records-would-prove-a-transfer-alleged-magenta-ufo-oss-insignia-patch" target="_blank" rel="sponsored noopener noreferrer">OSS Office Strategic Services Operational Groups Patch WWII Era Resistance</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=OSS+insignia+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oss-records-what-records-would-prove-a-transfer-alleged-magenta-ufo-oss-insignia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="OSS insignia patch" data-ebay-reference="oss-records-what-records-would-prove-a-transfer-alleged-magenta-ufo-oss-insignia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for OSS insignia patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: OSS insignia patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=OSS+insignia+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oss-records-what-records-would-prove-a-transfer-alleged-magenta-ufo-oss-insignia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="OSS insignia patch" data-ebay-reference="oss-records-what-records-would-prove-a-transfer-alleged-magenta-ufo-oss-insignia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=OSS+insignia+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oss-records-what-records-would-prove-a-transfer-alleged-magenta-ufo-oss-insignia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="OSS insignia patch" data-ebay-reference="oss-records-what-records-would-prove-a-transfer-alleged-magenta-ufo-oss-insignia-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=OSS+insignia+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oss-records-what-records-would-prove-a-transfer-alleged-magenta-ufo-oss-insignia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="OSS insignia patch" data-ebay-reference="oss-records-what-records-would-prove-a-transfer-alleged-magenta-ufo-oss-insignia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OSS Office Strategic Services Operational Groups Patch WWII Era Resistance"><img src="{{ '/assets/images/marketplace-covers/77c7582f630b898477df.jpg' | relative_url }}" alt="Listing image for OSS Office Strategic Services Operational Groups Patch WWII Era Resistance" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=OSS+insignia+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oss-records-what-records-would-prove-a-transfer-alleged-magenta-ufo-oss-insignia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="OSS insignia patch" data-ebay-reference="oss-records-what-records-would-prove-a-transfer-alleged-magenta-ufo-oss-insignia-patch" target="_blank" rel="sponsored noopener noreferrer">OSS Office Strategic Services Operational Groups Patch WWII Era Resistance</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=OSS+insignia+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oss-records-what-records-would-prove-a-transfer-alleged-magenta-ufo-oss-insignia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="OSS insignia patch" data-ebay-reference="oss-records-what-records-would-prove-a-transfer-alleged-magenta-ufo-oss-insignia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for OSS insignia patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: OSS insignia patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=OSS+insignia+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oss-records-what-records-would-prove-a-transfer-alleged-magenta-ufo-oss-insignia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="OSS insignia patch" data-ebay-reference="oss-records-what-records-would-prove-a-transfer-alleged-magenta-ufo-oss-insignia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=OSS+insignia+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oss-records-what-records-would-prove-a-transfer-alleged-magenta-ufo-oss-insignia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="OSS insignia patch" data-ebay-reference="oss-records-what-records-would-prove-a-transfer-alleged-magenta-ufo-oss-insignia-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -534,7 +534,7 @@ To date, publicly available OSS records released through the US National Archive
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -554,7 +554,7 @@ To date, publicly available OSS records released through the US National Archive
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -586,7 +586,7 @@ To date, publicly available OSS records released through the US National Archive
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -638,7 +638,7 @@ To date, publicly available OSS records released through the US National Archive
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -683,7 +683,7 @@ To date, publicly available OSS records released through the US National Archive
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -724,127 +724,127 @@ To date, publicly available OSS records released through the US National Archive
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/iwg/declassified-records/rg-226-oss" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/iwg/declassified-records/rg-226-oss</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords of the Office of Strategic Services 1940-1946 (RG...August 15, 2016 — 19 Oct 2017 — The records relate to milit...</p></details>
+   Link:<a href="https://www.archives.gov/iwg/declassified-records/rg-226-oss" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/iwg/declassified-records/rg-226-oss</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords of the Office of Strategic Services 1940-1946 (RG...August 15, 2016 — 19 Oct 2017 — The records relate to milit...</p></details>
    Published: August 15, 2016  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/holocaust/finding-aid/military/rg-226-3h.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/holocaust/finding-aid/military/rg-226-3h.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesMilitary Agency Records RG 226Box 1 Security-Classified Records Relating to Outposts in Italy 1943-1945 (Entry 51) Arran...</p></details>
+   Link:<a href="https://www.archives.gov/research/holocaust/finding-aid/military/rg-226-3h.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/holocaust/finding-aid/military/rg-226-3h.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesMilitary Agency Records RG 226Box 1 Security-Classified Records Relating to Outposts in Italy 1943-1945 (Entry 51) Arran...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives Records of the Office of Strategic Services (RG 226): Entry  
-   Link: <a href="https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-213.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-213.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords of the Office of Strategic Services (RG 226): Entry...August 15, 2016 — 15 Aug 2016 — Records of the Office of...</p></details>
+   Link:<a href="https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-213.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-213.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords of the Office of Strategic Services (RG 226): Entry...August 15, 2016 — 15 Aug 2016 — Records of the Office of...</p></details>
    Published: August 15, 2016  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/holocaust/finding-aid/military/rg-226-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/holocaust/finding-aid/military/rg-226-1.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesMilitary Agency Records RG 22615 Aug 2016 — Captured enemy documents, discovery of looting by from OSS Italy (2-25-44) G...</p></details>
+   Link:<a href="https://www.archives.gov/research/holocaust/finding-aid/military/rg-226-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/holocaust/finding-aid/military/rg-226-1.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesMilitary Agency Records RG 22615 Aug 2016 — Captured enemy documents, discovery of looting by from OSS Italy (2-25-44) G...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archives.gov  
    Title: National Archives Records of the Office of Strategic Services (RG 226): Entry  
-   Link: <a href="https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-212.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-212.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords of the Office of Strategic Services (RG 226): Entry...August 15, 2016 — 15 Aug 2016 — Records of the Office of...</p></details>
+   Link:<a href="https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-212.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-212.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords of the Office of Strategic Services (RG 226): Entry...August 15, 2016 — 15 Aug 2016 — Records of the Office of...</p></details>
    Published: August 15, 2016  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-211.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-211.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords of the Office of Strategic Services (RG 226): Entry...captured by the Gestapo in Northern Italy, have an &quot;insid...</p></details>
+   Link:<a href="https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-211.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-211.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords of the Office of Strategic Services (RG 226): Entry...captured by the Gestapo in Northern Italy, have an &quot;insid...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-214.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-214.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords of the Office of Strategic Services (RG 226): Entry...15 Aug 2016 — Memoranda relating to the death of OSS Agen...</p></details>
+   Link:<a href="https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-214.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-214.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords of the Office of Strategic Services (RG 226): Entry...15 Aug 2016 — Memoranda relating to the death of OSS Agen...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/iwg/declassified-records/rg-226-oss/rg-226-boxes-440-442.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/iwg/declassified-records/rg-226-oss/rg-226-boxes-440-442.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evacuation of Nazi Leaders and Foreign Office Staffs case...</p></details>
+   Link:<a href="https://www.archives.gov/iwg/declassified-records/rg-226-oss/rg-226-boxes-440-442.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/iwg/declassified-records/rg-226-oss/rg-226-boxes-440-442.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evacuation of Nazi Leaders and Foreign Office Staffs case...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archives.gov  
    Title: directors microfilm roll list  
-   Link: <a href="https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/directors-microfilm-roll-list.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/directors-microfilm-roll-list.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SELECTED OSS DOCUMENTS. 1941-1945On September 20, 1945, despite the efforts of General. William Donovan, President Truman issued an execu...</p></details>
+   Link:<a href="https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/directors-microfilm-roll-list.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/directors-microfilm-roll-list.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SELECTED OSS DOCUMENTS. 1941-1945On September 20, 1945, despite the efforts of General. William Donovan, President Truman issued an execu...</p></details>
    Published: September 20, 1945  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/details/OSSRG226Entry217Box1" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/OSSRG226Entry217Box1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OSS RG 226 Entry 217 Box 125 Nov 2015 — OSS RG 226 Entry 217 Box 1217-1 WN 21235-21236 Records relating to Nazi activities in Argentina...</p></details>
+   Link:<a href="https://archive.org/details/OSSRG226Entry217Box1" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/OSSRG226Entry217Box1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OSS RG 226 Entry 217 Box 125 Nov 2015 — OSS RG 226 Entry 217 Box 1217-1 WN 21235-21236 Records relating to Nazi activities in Argentina...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archive.is  
    Title: Lcwd W  
-   Link: <a href="https://archive.is/LcwdW" target="_blank" rel="noopener noreferrer nofollow">https://archive.is/LcwdW</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harry on Reddit8 Jul 2024 — The “corporate knowledge” of the Magenta Crash was maintained by Allen Dulles, James Jesus Angleton and Richa...</p></details>
+   Link:<a href="https://archive.is/LcwdW" target="_blank" rel="noopener noreferrer nofollow">https://archive.is/LcwdW</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harry on Reddit8 Jul 2024 — The “corporate knowledge” of the Magenta Crash was maintained by Allen Dulles, James Jesus Angleton and Richa...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: istitutocampanoresistenza.it  
    Title: Rg 226  
-   Link: <a href="https://www.istitutocampanoresistenza.it/sito/wp-content/uploads/2021/10/Rg-226.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.istitutocampanoresistenza.it/sito/wp-content/uploads/2021/10/Rg-226.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>copiaDOCUMENTI DELL&#x27;OFFICE OF STRATEGIC SERVICES. RECORD GROUP 226 data carte. 22273 Report on my meeting last week with Don P. from Napl...</p></details>
+   Link:<a href="https://www.istitutocampanoresistenza.it/sito/wp-content/uploads/2021/10/Rg-226.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.istitutocampanoresistenza.it/sito/wp-content/uploads/2021/10/Rg-226.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>copiaDOCUMENTI DELL&#x27;OFFICE OF STRATEGIC SERVICES. RECORD GROUP 226 data carte. 22273 Report on my meeting last week with Don P. from Napl...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheParadoxFiless/posts/neil-degrasse-tyson-has-a-blunt-request-for-the-government-after-the-latest-ufo-/1037620565435983/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheParadoxFiless/posts/neil-degrasse-tyson-has-a-blunt-request-for-the-government-after-the-latest-ufo-/1037620565435983/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Neil deGrasse Tyson has a blunt request...When asked about the duration of the cover-up, [Grusch](&amp;#123;&amp;#123; &#x27;grusch/&#x27; | relative_url &amp;#125;&amp;#125;) mentions that the first recovery of a UA...</p></details>
+   Link:<a href="https://www.facebook.com/TheParadoxFiless/posts/neil-degrasse-tyson-has-a-blunt-request-for-the-government-after-the-latest-ufo-/1037620565435983/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheParadoxFiless/posts/neil-degrasse-tyson-has-a-blunt-request-for-the-government-after-the-latest-ufo-/1037620565435983/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Neil deGrasse Tyson has a blunt request...When asked about the duration of the cover-up, [Grusch](&amp;#123;&amp;#123; &#x27;grusch/&#x27; | relative_url &amp;#125;&amp;#125;) mentions that the first recovery of a UA...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cufos.org  
-   Link: <a href="https://cufos.org/PDFs/pdfs/UFOsandIntelligence.pdf?fbclid=IwY2xjawNOlrhleHRuA2FlbQIxMABicmlkETF6QnFvWHB3NW1KaWNMbXFCAR4d5x_nM_QUyfYE1P7Nfx7OjnuDSyV1U_KEfgSSHgIWvRU-fi2SYeZsLr6rLw_aem_Xm8pYEUGbsX5qRz9MhotmQ" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/pdfs/UFOsandIntelligence.pdf?fbclid=IwY2xjawNOlrhleHRuA2FlbQIxMABicmlkETF6QnFvWHB3NW1KaWNMbXFCAR4d5x_nM_QUyfYE1P7Nfx7OjnuDSyV1U_KEfgSSHgIWvRU-fi2SYeZsLr6rLw_aem_Xm8pYEUGbsX5qRz9MhotmQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Intelligence: A TimelineAfter an effort of many years, I have prepared a comprehensive [timeline](&amp;#123;&amp;#123; &#x27;timeline/&#x27; | relative_url &amp;#125;&amp;#125;) of UFO history that will be usef...</p></details>
+   Link:<a href="https://cufos.org/PDFs/pdfs/UFOsandIntelligence.pdf?fbclid=IwY2xjawNOlrhleHRuA2FlbQIxMABicmlkETF6QnFvWHB3NW1KaWNMbXFCAR4d5x_nM_QUyfYE1P7Nfx7OjnuDSyV1U_KEfgSSHgIWvRU-fi2SYeZsLr6rLw_aem_Xm8pYEUGbsX5qRz9MhotmQ" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/pdfs/UFOsandIntelligence.pdf?fbclid=IwY2xjawNOlrhleHRuA2FlbQIxMABicmlkETF6QnFvWHB3NW1KaWNMbXFCAR4d5x_nM_QUyfYE1P7Nfx7OjnuDSyV1U_KEfgSSHgIWvRU-fi2SYeZsLr6rLw_aem_Xm8pYEUGbsX5qRz9MhotmQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Intelligence: A TimelineAfter an effort of many years, I have prepared a comprehensive [timeline](&amp;#123;&amp;#123; &#x27;timeline/&#x27; | relative_url &amp;#125;&amp;#125;) of UFO history that will be usef...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: the ciano diaries did deputy führer rudolf hess  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1bqeuia/the_ciano_diaries_did_deputy_f%C3%BChrer_rudolf_hess/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bqeuia/the_ciano_diaries_did_deputy_f%C3%BChrer_rudolf_hess/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ciano Diaries: Did Deputy Führer Rudolf Hess fly to...Did Deputy Führer Rudolf Hess fly to Scotland in May 1941 because he thought t...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1bqeuia/the_ciano_diaries_did_deputy_f%C3%BChrer_rudolf_hess/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bqeuia/the_ciano_diaries_did_deputy_f%C3%BChrer_rudolf_hess/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ciano Diaries: Did Deputy Führer Rudolf Hess fly to...Did Deputy Führer Rudolf Hess fly to Scotland in May 1941 because he thought t...</p></details>
    Published: May 1941  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1bwdr74/the_magenta_crash_was_information_of_the_event/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bwdr74/the_magenta_crash_was_information_of_the_event/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>l Eugenio Pacelli (later Pope Pius XII) by the Third...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1bwdr74/the_magenta_crash_was_information_of_the_event/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bwdr74/the_magenta_crash_was_information_of_the_event/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>l Eugenio Pacelli (later Pope Pius XII) by the Third...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=fY6sBD_IWEs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fY6sBD_IWEs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Italy’s UFO Crash Before [Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;)? The 1933 Magenta Incident Revealed...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fY6sBD_IWEs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fY6sBD_IWEs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Italy’s UFO Crash Before [Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;)? The 1933 Magenta Incident Revealed...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — D.G.: In 1933, a bell-like craft, around ten meters in size was r...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — D.G.: In 1933, a bell-like craft, around ten meters in size was r...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: medium.com  
    Title: The race to rescue Prof  
-   Link: <a href="https://medium.com/%40EscapeVelocity1/who-was-prof-df39ccca3c96" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40EscapeVelocity1/who-was-prof-df39ccca3c96</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Carlo Calosi in WWII Italy by Bill...Recovery of the 1933 Magenta, Italy UFO by the OSS following the Liberation of Rome: Part One. Rece...</p></details>
+   Link:<a href="https://medium.com/%40EscapeVelocity1/who-was-prof-df39ccca3c96" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40EscapeVelocity1/who-was-prof-df39ccca3c96</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Carlo Calosi in WWII Italy by Bill...Recovery of the 1933 Magenta, Italy UFO by the OSS following the Liberation of Rome: Part One. Rece...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=l7S8KnXePJI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l7S8KnXePJI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OSS records Italy UFO crash 1933 Magenta The 1933 Magenta, Italy UFO Crash UAP Gerb...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=l7S8KnXePJI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l7S8KnXePJI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OSS records Italy UFO crash 1933 Magenta The 1933 Magenta, Italy UFO Crash UAP Gerb...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: The Pope, Vatican tied to early UFO operations | Banfield  
-   Link: <a href="https://www.youtube.com/watch?v=DxeTCk38XTA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DxeTCk38XTA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Magenta Project: The 1933 Magenta, Italy UFO Crash-Retrieval That Changed the World Updated Supercut...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DxeTCk38XTA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DxeTCk38XTA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Magenta Project: The 1933 Magenta, Italy UFO Crash-Retrieval That Changed the World Updated Supercut...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/6496020.pdf?abstractid=6496020&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6496020.pdf?abstractid=6496020&amp;mirid=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive WarAbstract. Version 3.0 of the Civilizational Cognitive War analysis. v2.3 addition (retained): new §6 integrates defense cont...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/6496020.pdf?abstractid=6496020&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6496020.pdf?abstractid=6496020&amp;mirid=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive WarAbstract. Version 3.0 of the Civilizational Cognitive War analysis. v2.3 addition (retained): new §6 integrates defense cont...</p></details>

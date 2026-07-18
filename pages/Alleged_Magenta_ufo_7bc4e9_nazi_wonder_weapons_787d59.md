@@ -441,7 +441,7 @@ image: /assets/images/Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59-over
 
 ## Introduction
 
-Nazi wonder-weapons do not form the core evidence for the [alleged Magenta UFO]({{ 'alleged-magenta-ufo/' | relative_url }}) crash, but they often sit near the story and can change how readers interpret it. In the main Magenta claim, the focus is Fascist Italy: a 1933 object near Magenta, a supposed secret Cabinet RS/33, Guglielmo Marconi, SIAI-Marchetti hangars at Vergiate, and later American recovery. The Nazi overlap enters more indirectly, through later comparisons with Axis secret weapons, jet propulsion, circular aircraft concepts, SS-linked engineering, and post-war rumours that the United States captured exotic technology. Roberto Pinotti’s account explicitly raises Italian jet development, Giuseppe Belluzzo’s circular “Turboproietti”, and the question of “[reverse engineering]({{ 'reverse-engineering/' | relative_url }})”; those are the bridges by which Magenta retellings can drift towards Nazi UFO lore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
+Nazi wonder-weapons do not form the core evidence for the [alleged Magenta UFO]({{ 'alleged-magenta-ufo/' | relative_url }}) crash, but they often sit near the story and can change how readers interpret it. In the main Magenta claim, the focus is Fascist Italy: a 1933 object near Magenta, a supposed secret Cabinet RS/33, Guglielmo Marconi, SIAI-Marchetti hangars at Vergiate, and later American recovery. The Nazi overlap enters more indirectly, through later comparisons with Axis secret weapons, jet propulsion, circular aircraft concepts, SS-linked engineering, and post-war rumours that the United States captured exotic technology. Roberto Pinotti’s account explicitly raises Italian jet development, Giuseppe Belluzzo’s circular “Turboproietti”, and the question of “[reverse engineering]({{ 'reverse-engineering/' | relative_url }})”; those are the bridges by which Magenta retellings can drift towards Nazi UFO lore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59-overview.webp" | relative_url }}" alt="Overview image for Wonder Weapons" loading="eager" decoding="sync" fetchpriority="high">
@@ -452,13 +452,13 @@ The danger is that two different traditions get blurred. One is a specific Itali
 
 ## Where wonder-weapon motifs enter
 
-The Magenta story begins in Italy, not Germany. Pinotti’s published account says anonymous material sent to him and Alfredo Lissoni concerned a purported craft that “crashed or landed” near Magenta in [Lombardy]({{ 'lombardy/' | relative_url }}) in April 1933, long before Roswell. In later popular summaries, that claim becomes a disc-shaped object recovered under Mussolini, studied by Cabinet RS/33 and hidden from public view. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wantedinrome.com">[Wanted in Rome]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wantedinrome.com</span><span class="citation-popover-title">Wanted in Rome The Secret Crash That Predated Roswell: Mussolini&#x27;s UFO Files</span><span class="citation-popover-snippet">Wanted in Rome The Secret Crash That Predated Roswell: Mussolini&#x27;s UFO Files</span></span></span>
+The Magenta story begins in Italy, not Germany. Pinotti’s published account says anonymous material sent to him and Alfredo Lissoni concerned a purported craft that “crashed or landed” near Magenta in [Lombardy]({{ 'lombardy/' | relative_url }}) in April 1933, long before Roswell. In later popular summaries, that claim becomes a disc-shaped object recovered under Mussolini, studied by Cabinet RS/33 and hidden from public view.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wantedinrome.com">[Wanted in Rome]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wantedinrome.com</span><span class="citation-popover-title">Wanted in Rome The Secret Crash That Predated Roswell: Mussolini&#x27;s UFO Files</span><span class="citation-popover-snippet">Wanted in Rome The Secret Crash That Predated Roswell: Mussolini&#x27;s UFO Files</span></span></span>
 
-The wonder-weapon overlap appears when retellings ask what Fascist Italy might have done with the alleged object. Pinotti’s account points to real Italian aviation experimentation in the 1930s and 1940s, especially Secondo Campini’s jet-propulsion work and the Caproni Campini N.1 motorjet, then asks whether such developments had anything to do with “reverse engineering” unknown flying machines. The same passage introduces Giuseppe Belluzzo’s wartime circular “Turboproietti”, described as an annular-wing, jet-pipe design associated with Belluzzo’s later work with the SS after 1943. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
+The wonder-weapon overlap appears when retellings ask what Fascist Italy might have done with the alleged object. Pinotti’s account points to real Italian aviation experimentation in the 1930s and 1940s, especially Secondo Campini’s jet-propulsion work and the Caproni Campini N.1 motorjet, then asks whether such developments had anything to do with “reverse engineering” unknown flying machines. The same passage introduces Giuseppe Belluzzo’s wartime circular “Turboproietti”, described as an annular-wing, jet-pipe design associated with Belluzzo’s later work with the SS after 1943.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
 
 That is the hinge. A reader moves from “Italy had advanced aviation projects” to “Axis scientists may have studied non-human technology”. The first statement is historically ordinary: Italy and Germany both experimented with unusual aircraft and propulsion. The second is the extraordinary claim and remains unverified. Even the Caproni Campini example cuts both ways. It gives the Magenta story a plausible technological setting, but it also shows how easily real experimental aviation can be made to look more mysterious than it is.
 
-The German side adds a second layer. Nazi Germany really did deploy advanced weapons late in the Second World War, including jet aircraft, rocket fighters, cruise missiles and ballistic missiles. The Smithsonian’s National Air and Space Museum notes that these weapons were promoted through propaganda hints about devices that could turn the war, while their actual effects were far less decisive than promised. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/events/myth-german-wonder-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">Open source on si.edu.</span></span></span> The Imperial War Museums similarly describes the V-weapons as weapons hailed by Nazi propaganda as “wonder weapons” that might change the course of the war. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iwm.org.uk/history/second-world-war/bombing/v-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iwm.org.uk">[Imperial War Museums]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iwm.org.uk</span><span class="citation-popover-snippet">Open source on iwm.org.uk.</span></span></span>
+The German side adds a second layer. Nazi Germany really did deploy advanced weapons late in the Second World War, including jet aircraft, rocket fighters, cruise missiles and ballistic missiles. The Smithsonian’s National Air and Space Museum notes that these weapons were promoted through propaganda hints about devices that could turn the war, while their actual effects were far less decisive than promised.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/events/myth-german-wonder-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">Open source on si.edu.</span></span></span> The Imperial War Museums similarly describes the V-weapons as weapons hailed by Nazi propaganda as “wonder weapons” that might change the course of the war.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iwm.org.uk/history/second-world-war/bombing/v-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iwm.org.uk">[Imperial War Museums]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iwm.org.uk</span><span class="citation-popover-snippet">Open source on iwm.org.uk.</span></span></span>
 
 Because those real weapons existed, later UFO folklore had fertile ground. If the Reich had V-1s, V-2s, jet fighters and secret laboratories, it felt less absurd to imagine hidden flying discs or anti-gravity craft. But that is an imaginative inference, not a documentary chain from Magenta to German technology.
 
@@ -470,11 +470,11 @@ The strongest mechanism of cross-pollination is narrative convenience. Magenta o
 
 The Magenta case needs a mechanism for why a 1933 recovery would matter strategically. Wonder-weapon lore supplies one: Axis powers supposedly studied exotic propulsion before the Allies arrived. Nazi UFO lore, in turn, benefits from an earlier crash source. Instead of claiming that German discs appeared from nowhere, a retelling can imply that Axis engineers had access to something recovered in Italy. That does not make the claim stronger; it simply makes the story feel more complete.
 
-The [Die Glocke]({{ 'die-glocke/' | relative_url }}) legend shows how this works. In modern UFO and conspiracy culture, Die Glocke is often described as a bell-shaped Nazi device linked to anti-gravity, time travel or exotic physics. Popular Mechanics traces the legend through post-war and late twentieth-century writing, notes its association with alleged SS anti-gravity work, and stresses the absence of a capture record for any real device. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/military/research/a36560537/die-glocke-nazi-bell-conspiracy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics Hitler&#x27;s Anti Gravity Machine UFO Conspiracy: Is Die Glocke Real?</span><span class="citation-popover-snippet">Popular Mechanics Hitler&#x27;s Anti Gravity Machine UFO Conspiracy: Is Die Glocke Real?</span></span></span> The same pattern can be applied to Magenta: an alleged object, a secret state programme, wartime collapse, and American acquisition. The resemblance is structural, not evidential.
+The [Die Glocke]({{ 'die-glocke/' | relative_url }}) legend shows how this works. In modern UFO and conspiracy culture, Die Glocke is often described as a bell-shaped Nazi device linked to anti-gravity, time travel or exotic physics. Popular Mechanics traces the legend through post-war and late twentieth-century writing, notes its association with alleged SS anti-gravity work, and stresses the absence of a capture record for any real device.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/military/research/a36560537/die-glocke-nazi-bell-conspiracy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics Hitler&#x27;s Anti Gravity Machine UFO Conspiracy: Is Die Glocke Real?</span><span class="citation-popover-snippet">Popular Mechanics Hitler&#x27;s Anti Gravity Machine UFO Conspiracy: Is Die Glocke Real?</span></span></span> The same pattern can be applied to Magenta: an alleged object, a secret state programme, wartime collapse, and American acquisition. The resemblance is structural, not evidential.
 
-There is also a post-war transfer motif. In the real world, the Allies did seize German military technology and recruit or interrogate German scientists. That history makes later stories of captured exotic technology sound superficially plausible. Popular Mechanics notes that American teams did secure German jets, missiles and scientists through post-war programmes, but distinguishes that from the unsupported claim that an anti-gravity “Bell” was captured. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/military/research/a36560537/die-glocke-nazi-bell-conspiracy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics Hitler&#x27;s Anti Gravity Machine UFO Conspiracy: Is Die Glocke Real?</span><span class="citation-popover-snippet">Popular Mechanics Hitler&#x27;s Anti Gravity Machine UFO Conspiracy: Is Die Glocke Real?</span></span></span>
+There is also a post-war transfer motif. In the real world, the Allies did seize German military technology and recruit or interrogate German scientists. That history makes later stories of captured exotic technology sound superficially plausible. Popular Mechanics notes that American teams did secure German jets, missiles and scientists through post-war programmes, but distinguishes that from the unsupported claim that an anti-gravity “Bell” was captured.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/military/research/a36560537/die-glocke-nazi-bell-conspiracy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics Hitler&#x27;s Anti Gravity Machine UFO Conspiracy: Is Die Glocke Real?</span><span class="citation-popover-snippet">Popular Mechanics Hitler&#x27;s Anti Gravity Machine UFO Conspiracy: Is Die Glocke Real?</span></span></span>
 
-Magenta retellings gained new visibility after David Grusch’s 2023 public claims. Reports of his statements said that Italy recovered a craft in 1933 and that the United States acquired it in 1944 or 1945 after information was passed through Vatican channels. That version does not require Nazi flying saucers, but the wartime transfer setting makes it easy for readers to fold Magenta into the same imaginative shelf as Operation Paperclip, secret weapons, hidden hangars and recovered Axis technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">Pressure on Vatican to Reveal Archives After &#x27;UFO Cover</span><span class="citation-popover-snippet">Pressure on Vatican to Reveal Archives After &#x27;UFO Cover</span></span></span>
+Magenta retellings gained new visibility after David Grusch’s 2023 public claims. Reports of his statements said that Italy recovered a craft in 1933 and that the United States acquired it in 1944 or 1945 after information was passed through Vatican channels. That version does not require Nazi flying saucers, but the wartime transfer setting makes it easy for readers to fold Magenta into the same imaginative shelf as Operation Paperclip, secret weapons, hidden hangars and recovered Axis technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">Pressure on Vatican to Reveal Archives After &#x27;UFO Cover</span><span class="citation-popover-snippet">Pressure on Vatican to Reveal Archives After &#x27;UFO Cover</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RBAISwCZ2v0" title="UFO whistleblower David Grusch: &#x27;We are not alone&#x27; | Official Ross Coulthart NewsNation interview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RBAISwCZ2v0" target="_blank" rel="noopener noreferrer">UFO whistleblower David Grusch: &#x27;We are not alone&#x27; | Official Ross Coulthart NewsNation interview</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 8.7M &middot; Uploaded: April 2025 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RBAISwCZ2v0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RBAISwCZ2v0">Open on YouTube</a></p></div></div></div>
@@ -483,11 +483,11 @@ Magenta retellings gained new visibility after David Grusch’s 2023 public clai
 
 Keeping Magenta and Nazi wonder-weapons separate matters because each claim has a different evidential burden. The Magenta allegation rises or falls on Italian documents, provenance, archive traces, named witnesses, physical evidence and consistency in the reported details. Nazi wonder-weapon lore rises or falls on German technical records, production evidence, captured hardware and post-war intelligence files. Similar atmosphere is not enough to connect them.
 
-The real wonder-weapons record is already dramatic without UFO additions. V-1s and V-2s were terrifying weapons, but they did not reverse Germany’s defeat. The Smithsonian summary is useful here because it separates the weapons’ actual technological importance from the mythology that propaganda and Allied fear helped create. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/events/myth-german-wonder-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">Open source on si.edu.</span></span></span> That distinction is exactly what Magenta retellings need: real aviation experimentation can provide context, but it cannot serve as proof of a recovered non-human craft.
+The real wonder-weapons record is already dramatic without UFO additions. V-1s and V-2s were terrifying weapons, but they did not reverse Germany’s defeat. The Smithsonian summary is useful here because it separates the weapons’ actual technological importance from the mythology that propaganda and Allied fear helped create.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/events/myth-german-wonder-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">Open source on si.edu.</span></span></span> That distinction is exactly what Magenta retellings need: real aviation experimentation can provide context, but it cannot serve as proof of a recovered non-human craft.
 
-The same caution applies to circular aircraft. A circular drawing, annular wing or unconventional propulsion study is not automatically a flying saucer. Pinotti’s mention of Belluzzo’s “Turboproietti” is relevant because it shows how Italian and German-linked engineering motifs enter the Magenta ecosystem, but it does not independently verify the 1933 crash claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
+The same caution applies to circular aircraft. A circular drawing, annular wing or unconventional propulsion study is not automatically a flying saucer. Pinotti’s mention of Belluzzo’s “Turboproietti” is relevant because it shows how Italian and German-linked engineering motifs enter the Magenta ecosystem, but it does not independently verify the 1933 crash claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
 
-Modern official assessments also push against over-integration. The 2024 AARO historical report said it found no empirical evidence that any UAP investigatory effort since 1945 had uncovered verifiable information about recovered extraterrestrial craft or beings, and it described many reverse-engineering allegations as circulating through a network of recurring proponents rather than through demonstrated material evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF) That finding does not directly disprove a pre-1945 Italian incident, but it is highly relevant to versions that claim later United States custody, study or reverse engineering.
+Modern official assessments also push against over-integration. The 2024 AARO historical report said it found no empirical evidence that any UAP investigatory effort since 1945 had uncovered verifiable information about recovered extraterrestrial craft or beings, and it described many reverse-engineering allegations as circulating through a network of recurring proponents rather than through demonstrated material evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF) That finding does not directly disprove a pre-1945 Italian incident, but it is highly relevant to versions that claim later United States custody, study or reverse engineering.
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59-Illustration-2-dark.svg" | relative_url }}" alt="Wonder Weapons illustration 2" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -521,194 +521,194 @@ That transfer is the key mechanism. Wonder-weapons lore gives Magenta a wartime 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59-Illustration-3-dark.svg" | relative_url }}" alt="Wonder Weapons illustration 3" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Nazi UFO Lore Shape Magenta Retellings?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Nazi UFO Lore Shape Magenta Retellings?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps readers understand how UFO reports have been investigated and classified over time.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how UFO reports have been investigated and classified over time.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Blitzed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Blitzed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15179907-M.jpg" alt="Cover for Blitzed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Blitzed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Blitzed">Blitzed</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Blitzed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Blitzed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15179907-M.jpg" alt="Cover for Blitzed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Blitzed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Blitzed">Blitzed</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Not about UFOs, but supports the wider lane of myth, reality, and sensational claims around Nazi Germany.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Blitzed&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Not about UFOs, but supports the wider lane of myth, reality, and sensational claims around Nazi Germany.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Blitzed&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Operation+paperclip+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Operation paperclip on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7273379-M.jpg" alt="Cover for Operation paperclip" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Operation+paperclip+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation paperclip">Operation paperclip</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Operation+paperclip+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Operation paperclip on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7273379-M.jpg" alt="Cover for Operation paperclip" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Operation+paperclip+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation paperclip">Operation paperclip</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Explains the real post-war transfer of German scientists that often becomes shorthand in UFO retellings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Operation+paperclip+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the real post-war transfer of German scientists that often becomes shorthand in UFO retellings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Operation+paperclip+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
+</h4>
+<p class="fr-book-author">By Nick Cook</p>
         
-        <p class="fr-book-desc">Directly matches the page&#x27;s concern with how Nazi secret-technology narratives cross-pollinate with UFO lore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly matches the page&#x27;s concern with how Nazi secret-technology narratives cross-pollinate with UFO lore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Blitzed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Blitzed</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Operation+paperclip&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Operation paperclip</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Blitzed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Blitzed</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Operation+paperclip&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Operation paperclip</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wonder-weapons-did-nazi-ufo-lore-shape-magenta-retellings-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -724,7 +724,7 @@ That transfer is the key mechanism. Wonder-weapons lore gives Magenta a wartime 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -744,7 +744,7 @@ That transfer is the key mechanism. Wonder-weapons lore gives Magenta a wartime 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -776,7 +776,7 @@ That transfer is the key mechanism. Wonder-weapons lore gives Magenta a wartime 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -828,7 +828,7 @@ That transfer is the key mechanism. Wonder-weapons lore gives Magenta a wartime 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -873,7 +873,7 @@ That transfer is the key mechanism. Wonder-weapons lore gives Magenta a wartime 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -914,129 +914,129 @@ That transfer is the key mechanism. Wonder-weapons lore gives Magenta a wartime 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: newsweek.com  
    Title: Pressure on Vatican to Reveal Archives After 'UFO Cover  
-   Link: <a href="https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908</a>  
+   Link:<a href="https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: theblackvault.com  
    Title: The Black Vault THE UFO FILES OF MUSSOLINI: [Fascist UFO Files](&#123;&#123; 'fascist-files/' | relative_url &#125;&#125;) by Roberto Pinotti  
-   Link: <a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
+   Link:<a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: wantedinrome.com  
    Title: Wanted in Rome The Secret Crash That Predated Roswell: Mussolini's UFO Files  
-   Link: <a href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html</a>  
+   Link:<a href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: airandspace.si.edu  
-   Link: <a href="https://airandspace.si.edu/events/myth-german-wonder-weapons" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/events/myth-german-wonder-weapons</a>  
+   Link:<a href="https://airandspace.si.edu/events/myth-german-wonder-weapons" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/events/myth-german-wonder-weapons</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: iwm.org.uk  
-   Link: <a href="https://www.iwm.org.uk/history/second-world-war/bombing/v-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.iwm.org.uk/history/second-world-war/bombing/v-weapons</a>  
+   Link:<a href="https://www.iwm.org.uk/history/second-world-war/bombing/v-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.iwm.org.uk/history/second-world-war/bombing/v-weapons</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: popularmechanics.com  
-   Link: <a href="https://www.popularmechanics.com/military/research/a36560537/die-glocke-[nazi-bell" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a36560537/die-glocke-[nazi-bell</a>  
+   Link:<a href="https://www.popularmechanics.com/military/research/a36560537/die-glocke-[nazi-bell" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a36560537/die-glocke-[nazi-bell</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Caproni Campini N.1  
-   Link: <a href="https://en.wikipedia.org/wiki/Caproni_Campini_N.1" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Caproni_Campini_N.1</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Caproni_Campini_N.1" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Caproni_Campini_N.1</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
    Title: Caproni Campini N.1  
-   Link: <a href="https://www.reddit.com/r/WeirdWings/comments/dojseh/caproni_campini_n1_almost_the_worlds_first_jet/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/WeirdWings/comments/dojseh/caproni_campini_n1_almost_the_worlds_first_jet/</a>  
+   Link:<a href="https://www.reddit.com/r/WeirdWings/comments/dojseh/caproni_campini_n1_almost_the_worlds_first_jet/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/WeirdWings/comments/dojseh/caproni_campini_n1_almost_the_worlds_first_jet/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Die Glocke  
-   Link: <a href="https://www.youtube.com/watch?v=nXsth_xb5KE&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nXsth_xb5KE&amp;vl=en</a>  
+   Link:<a href="https://www.youtube.com/watch?v=nXsth_xb5KE&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nXsth_xb5KE&amp;vl=en</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: popularmechanics.com  
    Title: researcher says he has evidence of 1933 ufo crash in italy  
-   Link: <a href="https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/</a>  
+   Link:<a href="https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: evil.fandom.com  
    Title: Die Glocke  
-   Link: <a href="https://evil.fandom.com/wiki/Die_Glocke" target="_blank" rel="noopener noreferrer nofollow">https://evil.fandom.com/wiki/Die_Glocke</a>  
+   Link:<a href="https://evil.fandom.com/wiki/Die_Glocke" target="_blank" rel="noopener noreferrer nofollow">https://evil.fandom.com/wiki/Die_Glocke</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: warmachinesdrawn.blogspot.com  
    Title: caproni campini n1  
-   Link: <a href="https://warmachinesdrawn.blogspot.com/2019/06/caproni-campini-n1.html" target="_blank" rel="noopener noreferrer nofollow">https://warmachinesdrawn.blogspot.com/2019/06/caproni-campini-n1.html</a>  
+   Link:<a href="https://warmachinesdrawn.blogspot.com/2019/06/caproni-campini-n1.html" target="_blank" rel="noopener noreferrer nofollow">https://warmachinesdrawn.blogspot.com/2019/06/caproni-campini-n1.html</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: thelittleaviationmuseum.au  
    Title: caproni campini n 1  
-   Link: <a href="https://thelittleaviationmuseum.au/planes/caproni-campini-n-1/" target="_blank" rel="noopener noreferrer nofollow">https://thelittleaviationmuseum.au/planes/caproni-campini-n-1/</a>  
+   Link:<a href="https://thelittleaviationmuseum.au/planes/caproni-campini-n-1/" target="_blank" rel="noopener noreferrer nofollow">https://thelittleaviationmuseum.au/planes/caproni-campini-n-1/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: net-maquettes.com  
    Title: Caproni Campini N.1  
-   Link: <a href="https://www.net-maquettes.com/pictures/caproni-campini-n-1/" target="_blank" rel="noopener noreferrer nofollow">https://www.net-maquettes.com/pictures/caproni-campini-n-1/</a>  
+   Link:<a href="https://www.net-maquettes.com/pictures/caproni-campini-n-1/" target="_blank" rel="noopener noreferrer nofollow">https://www.net-maquettes.com/pictures/caproni-campini-n-1/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: catholic.org  
-   Link: <a href="https://www.catholic.org/news/technology/story.php?id=86465" target="_blank" rel="noopener noreferrer nofollow">https://www.catholic.org/news/technology/story.php?id=86465</a>  
+   Link:<a href="https://www.catholic.org/news/technology/story.php?id=86465" target="_blank" rel="noopener noreferrer nofollow">https://www.catholic.org/news/technology/story.php?id=86465</a>  
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=19oMz_WJZXs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=19oMz_WJZXs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1933 Magenta UFO crash Mussolini The 1933 Magenta UFO Crash in Italy – Mussolini’s Secret Recovery?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=19oMz_WJZXs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=19oMz_WJZXs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1933 Magenta UFO crash Mussolini The 1933 Magenta UFO Crash in Italy – Mussolini’s Secret Recovery?...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=l7S8KnXePJI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l7S8KnXePJI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Origin of Nazi UFO Myths: Rudolf Lusar&#x27;s Shocking Flying Disc Claims Revealed...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=l7S8KnXePJI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l7S8KnXePJI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Origin of Nazi UFO Myths: Rudolf Lusar&#x27;s Shocking Flying Disc Claims Revealed...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=EdtcFUJKoqA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EdtcFUJKoqA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Every Secret Nazi Weapon Explained By a German...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EdtcFUJKoqA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EdtcFUJKoqA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Every Secret Nazi Weapon Explained By a German...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Every Secret Nazi Weapon Explained By a German  
-   Link: <a href="https://www.youtube.com/watch?v=MFo1-xGJ6ME" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MFo1-xGJ6ME</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 Magenta UFO Crash: Mussolini’s Alien Cover-Up in Italy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MFo1-xGJ6ME" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MFo1-xGJ6ME</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 Magenta UFO Crash: Mussolini’s Alien Cover-Up in Italy...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: aol.com  
-   Link: <a href="https://www.aol.com/researcher-says-first-ufo-really-191900682.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/researcher-says-first-ufo-really-191900682.html</a>  
+   Link:<a href="https://www.aol.com/researcher-says-first-ufo-really-191900682.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/researcher-says-first-ufo-really-191900682.html</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Esquire/posts/a-deep-dive-into-the-legend-of-die-glocke/10157967576181674/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Esquire/posts/a-deep-dive-into-the-legend-of-die-glocke/10157967576181674/</a>  
+   Link:<a href="https://www.facebook.com/Esquire/posts/a-deep-dive-into-the-legend-of-die-glocke/10157967576181674/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Esquire/posts/a-deep-dive-into-the-legend-of-die-glocke/10157967576181674/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/maninthehighcastle/comments/5k3uwx/altered_history_and_die_glocke/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/maninthehighcastle/comments/5k3uwx/altered_history_and_die_glocke/</a>  
+   Link:<a href="https://www.reddit.com/r/maninthehighcastle/comments/5k3uwx/altered_history_and_die_glocke/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/maninthehighcastle/comments/5k3uwx/altered_history_and_die_glocke/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BlitzwinkelHistory/videos/-hitlers-wonder-weapon-die-glocke-myth-or-realityfew-alleged-nazi-projects-have-/859522380052392/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BlitzwinkelHistory/videos/-hitlers-wonder-weapon-die-glocke-myth-or-realityfew-alleged-nazi-projects-have-/859522380052392/</a>  
+   Link:<a href="https://www.facebook.com/BlitzwinkelHistory/videos/-hitlers-wonder-weapon-die-glocke-myth-or-realityfew-alleged-nazi-projects-have-/859522380052392/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BlitzwinkelHistory/videos/-hitlers-wonder-weapon-die-glocke-myth-or-realityfew-alleged-nazi-projects-have-/859522380052392/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ndtv/posts/david-grusch-testified-that-he-absolutely-believes-the-government-is-in-possessi/697593472406257/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ndtv/posts/david-grusch-testified-that-he-absolutely-believes-the-government-is-in-possessi/697593472406257/</a>  
+   Link:<a href="https://www.facebook.com/ndtv/posts/david-grusch-testified-that-he-absolutely-believes-the-government-is-in-possessi/697593472406257/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ndtv/posts/david-grusch-testified-that-he-absolutely-believes-the-government-is-in-possessi/697593472406257/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: commons.wikimedia.org  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3A2023_House_Oversight_and_Accountability_Hearing_on_UAP_%E2%80%93_Unidentified_Anomalous_Phenomena_%E2%80%93_Implications_on_National_Security%2C_Public_Safety%2C_and_Government_[Transparency" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3A2023_House_Oversight_and_Accountability_Hearing_on_UAP_%E2%80%93_Unidentified_Anomalous_Phenomena_%E2%80%93_Implications_on_National_Security%2C_Public_Safety%2C_and_Government_[Transparency</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3A2023_House_Oversight_and_Accountability_Hearing_on_UAP_%E2%80%93_Unidentified_Anomalous_Phenomena_%E2%80%93_Implications_on_National_Security%2C_Public_Safety%2C_and_Government_[Transparency" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3A2023_House_Oversight_and_Accountability_Hearing_on_UAP_%E2%80%93_Unidentified_Anomalous_Phenomena_%E2%80%93_Implications_on_National_Security%2C_Public_Safety%2C_and_Government_[Transparency</a>  

@@ -280,15 +280,15 @@ image: /assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_vergi
 
 ## Introduction
 
-The alleged storage trail linking the 1933 Magenta UFO story to the towns of [Vergiate]({{ 'vergiate/' | relative_url }}) and Sesto Calende is one of the central elements of the wider claim that the object was eventually recovered by the United States in 1945. Unlike the reported crash itself, however, the storage narrative depends almost entirely on later reconstructions rather than contemporary wartime documentation. The locations are not arbitrary: both were major centres of Italian aircraft production, making them plausible places to conceal sensitive military material. The key question is therefore not whether these sites existed—they unquestionably did—but whether any historical evidence connects them to an extraordinary recovered craft. At present, the answer is that no authenticated wartime record has established such a link, despite repeated assertions in UFO literature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist</span><span class="citation-popover-snippet">Later the crashed UFO was stored in the hangars of the SIAI Marchetti in Vergiate. Mussolini thought that...Read more...</span></span></span>
+The alleged storage trail linking the 1933 Magenta UFO story to the towns of [Vergiate]({{ 'vergiate/' | relative_url }}) and Sesto Calende is one of the central elements of the wider claim that the object was eventually recovered by the United States in 1945. Unlike the reported crash itself, however, the storage narrative depends almost entirely on later reconstructions rather than contemporary wartime documentation. The locations are not arbitrary: both were major centres of Italian aircraft production, making them plausible places to conceal sensitive military material. The key question is therefore not whether these sites existed—they unquestionably did—but whether any historical evidence connects them to an extraordinary recovered craft. At present, the answer is that no authenticated wartime record has established such a link, despite repeated assertions in UFO literature.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist</span><span class="citation-popover-snippet">Later the crashed UFO was stored in the hangars of the SIAI Marchetti in Vergiate. Mussolini thought that...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_vergiate_sesto_stora_ba4d40-Illustration-1-dark.svg" | relative_url }}" alt="Storage Sites illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_vergiate_sesto_stora_ba4d40-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_vergiate_sesto_stora_ba4d40-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Vergiate and Sesto Calende appear in the story
 
-The towns of Vergiate and neighbouring Sesto Calende lie in the province of Varese, northwest of Milan, in an area that became one of Italy's most important aviation centres during the interwar and Second World War periods. The SIAI (later [SIAI-Marchetti]({{ 'siai/' | relative_url }})) aircraft works operated major production and testing facilities there, supported by airfields and industrial infrastructure devoted to military aviation. This genuine historical setting provides the geographical foundation for later claims that an unusual recovered object could have been hidden there. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Vergiate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+The towns of Vergiate and neighbouring Sesto Calende lie in the province of Varese, northwest of Milan, in an area that became one of Italy's most important aviation centres during the interwar and Second World War periods. The SIAI (later [SIAI-Marchetti]({{ 'siai/' | relative_url }})) aircraft works operated major production and testing facilities there, supported by airfields and industrial infrastructure devoted to military aviation. This genuine historical setting provides the geographical foundation for later claims that an unusual recovered object could have been hidden there.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Vergiate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-The storage allegation entered public circulation primarily through Italian UFO researcher Roberto Pinotti and associated researchers. Their reconstruction argues that, after the alleged 1933 recovery near Magenta, the object was transferred to hangars belonging to SIAI-Marchetti at Vergiate. Some versions broaden the claim by suggesting that it may instead—or additionally—have been kept at facilities in nearby Sesto Calende, reflecting uncertainty even within the proponents' own narrative. Rather than identifying a documented warehouse or numbered hangar, these accounts generally refer to the aviation establishments in the area as the presumed storage location. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist</span><span class="citation-popover-snippet">Later the crashed UFO was stored in the hangars of the SIAI Marchetti in Vergiate. Mussolini thought that...Read more...</span></span></span>
+The storage allegation entered public circulation primarily through Italian UFO researcher Roberto Pinotti and associated researchers. Their reconstruction argues that, after the alleged 1933 recovery near Magenta, the object was transferred to hangars belonging to SIAI-Marchetti at Vergiate. Some versions broaden the claim by suggesting that it may instead—or additionally—have been kept at facilities in nearby Sesto Calende, reflecting uncertainty even within the proponents' own narrative. Rather than identifying a documented warehouse or numbered hangar, these accounts generally refer to the aviation establishments in the area as the presumed storage location.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist</span><span class="citation-popover-snippet">Later the crashed UFO was stored in the hangars of the SIAI Marchetti in Vergiate. Mussolini thought that...Read more...</span></span></span>
 
 This distinction matters. The storage claim is usually presented as an inference based on the availability of secure military-industrial facilities, not on surviving inventories, engineering logs or transport records that identify an unidentified craft.
 
@@ -297,7 +297,7 @@ This distinction matters. The storage claim is usually presented as an inference
 
 ## What SIAI-Marchetti facilities can and cannot prove
 
-There is no dispute that SIAI-Marchetti possessed exactly the sort of industrial infrastructure capable of storing large aircraft components, experimental airframes and military equipment. The company had become one of Italy's leading aircraft manufacturers, producing bombers, flying boats and other military aircraft for the Regia Aeronautica. During the war its factories were important strategic assets and legitimate military targets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+There is no dispute that SIAI-Marchetti possessed exactly the sort of industrial infrastructure capable of storing large aircraft components, experimental airframes and military equipment. The company had become one of Italy's leading aircraft manufacturers, producing bombers, flying boats and other military aircraft for the Regia Aeronautica. During the war its factories were important strategic assets and legitimate military targets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 Those historical facts, however, demonstrate only capability—not actual use for storing an alleged extraterrestrial vehicle.
 
@@ -310,7 +310,7 @@ Several points remain unsupported by documentary evidence:
 
 Consequently, historians distinguish between the existence of suitable aviation infrastructure and evidence that the infrastructure was used for the purpose claimed.
 
-The ambiguity extends even within UFO literature. Some versions specify Vergiate, while others refer to Vergiate or Sesto Calende interchangeably. That variation suggests the storage location has never been established through independent documentation but instead remains a reconstructed element of the broader narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist</span><span class="citation-popover-snippet">Later the crashed UFO was stored in the hangars of the SIAI Marchetti in Vergiate. Mussolini thought that...Read more...</span></span></span>
+The ambiguity extends even within UFO literature. Some versions specify Vergiate, while others refer to Vergiate or Sesto Calende interchangeably. That variation suggests the storage location has never been established through independent documentation but instead remains a reconstructed element of the broader narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist</span><span class="citation-popover-snippet">Later the crashed UFO was stored in the hangars of the SIAI Marchetti in Vergiate. Mussolini thought that...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_vergiate_sesto_stora_ba4d40-Illustration-2-dark.svg" | relative_url }}" alt="Storage Sites illustration 2" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_vergiate_sesto_stora_ba4d40-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_vergiate_sesto_stora_ba4d40-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -318,11 +318,11 @@ The ambiguity extends even within UFO literature. Some versions specify Vergiate
 
 The storage trail became important because it provides the bridge between the alleged 1933 Italian recovery and the later claim that American forces acquired the object in 1945.
 
-Northern Italy remained under Axis control until the final Allied offensive of spring 1945. As Allied armies advanced through the Lombardy region, they captured numerous industrial sites, airfields and military facilities. In principle, this created an entirely plausible historical mechanism by which American personnel could have inspected aviation factories containing classified Italian or German technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spring_1945_offensive_in_Italy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spring 1945 offensive in Italy</span><span class="citation-popover-snippet">July 5, 2007 — The attack in the Lombard Plain by the 15th Allied Army Group started on 6 April 1945 and ended on 2 May with the surrende...</span><span class="citation-popover-meta">Published: July 5, 2007</span></span></span>
+Northern Italy remained under Axis control until the final Allied offensive of spring 1945. As Allied armies advanced through the Lombardy region, they captured numerous industrial sites, airfields and military facilities. In principle, this created an entirely plausible historical mechanism by which American personnel could have inspected aviation factories containing classified Italian or German technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spring_1945_offensive_in_Italy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spring 1945 offensive in Italy</span><span class="citation-popover-snippet">July 5, 2007 — The attack in the Lombard Plain by the 15th Allied Army Group started on 6 April 1945 and ended on 2 May with the surrende...</span><span class="citation-popover-meta">Published: July 5, 2007</span></span></span>
 
 [Supporters]({{ 'supporters/' | relative_url }}) of the Magenta story argue that this genuine military context explains how the alleged craft could have passed into American custody.
 
-The evidential gap appears immediately afterwards. Although the historical circumstances make Allied access entirely plausible, no declassified transport manifests, intelligence summaries, technical exploitation reports or occupation records have surfaced identifying the recovery of a non-human craft from either Vergiate or Sesto Calende. The proposed transfer therefore rests on a narrative chain rather than a documented custody chain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist</span><span class="citation-popover-snippet">Later the crashed UFO was stored in the hangars of the SIAI Marchetti in Vergiate. Mussolini thought that...Read more...</span></span></span>
+The evidential gap appears immediately afterwards. Although the historical circumstances make Allied access entirely plausible, no declassified transport manifests, intelligence summaries, technical exploitation reports or occupation records have surfaced identifying the recovery of a non-human craft from either Vergiate or Sesto Calende. The proposed transfer therefore rests on a narrative chain rather than a documented custody chain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist</span><span class="citation-popover-snippet">Later the crashed UFO was stored in the hangars of the SIAI Marchetti in Vergiate. Mussolini thought that...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/x7R6Q2_v8y0" title="Episode 69 The context for the Allied spring offensive in April 1945" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=x7R6Q2_v8y0" target="_blank" rel="noopener noreferrer">Episode 69 The context for the Allied spring offensive in April 1945</a></p><p class="youtube-embed-meta">Channel: This Week in the Second World War</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=x7R6Q2_v8y0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=x7R6Q2_v8y0">Open on YouTube</a></p></div></div></div>
@@ -345,7 +345,7 @@ The most valuable records would include:
 
 </div>
 
-To date, none of these categories has yielded publicly authenticated evidence supporting the storage narrative. Researchers have instead relied primarily on copies of alleged Fascist-era documents relating to the original incident and later recollections or interpretations that attempt to connect those papers with known aviation facilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist</span><span class="citation-popover-snippet">Later the crashed UFO was stored in the hangars of the SIAI Marchetti in Vergiate. Mussolini thought that...Read more...</span></span></span>
+To date, none of these categories has yielded publicly authenticated evidence supporting the storage narrative. Researchers have instead relied primarily on copies of alleged Fascist-era documents relating to the original incident and later recollections or interpretations that attempt to connect those papers with known aviation facilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist</span><span class="citation-popover-snippet">Later the crashed UFO was stored in the hangars of the SIAI Marchetti in Vergiate. Mussolini thought that...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_vergiate_sesto_stora_ba4d40-Illustration-3-dark.svg" | relative_url }}" alt="Storage Sites illustration 3" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_vergiate_sesto_stora_ba4d40-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_vergiate_sesto_stora_ba4d40-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -353,203 +353,203 @@ To date, none of these categories has yielded publicly authenticated evidence su
 
 The Vergiate and Sesto Calende storage trail is stronger as a geographical hypothesis than as a documented historical chain.
 
-The geographical component is well supported. Both towns housed major aviation facilities capable of accommodating classified military projects, and Allied forces genuinely occupied northern Italy during the final weeks of the war. Those facts explain why the locations recur in later accounts of the alleged [American retrieval]({{ 'us-transfer/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+The geographical component is well supported. Both towns housed major aviation facilities capable of accommodating classified military projects, and Allied forces genuinely occupied northern Italy during the final weeks of the war. Those facts explain why the locations recur in later accounts of the alleged [American retrieval]({{ 'us-transfer/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-The evidential component is much weaker. Publicly available sources have not produced authenticated wartime records placing an unidentified craft inside either facility, nor have they established a verifiable chain of custody from those factories to the United States. As a result, the proposed storage at Vergiate or Sesto Calende remains one of the most consequential—but also one of the least independently corroborated—links in the broader Magenta crash narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist</span><span class="citation-popover-snippet">Later the crashed UFO was stored in the hangars of the SIAI Marchetti in Vergiate. Mussolini thought that...Read more...</span></span></span>
+The evidential component is much weaker. Publicly available sources have not produced authenticated wartime records placing an unidentified craft inside either facility, nor have they established a verifiable chain of custody from those factories to the United States. As a result, the proposed storage at Vergiate or Sesto Calende remains one of the most consequential—but also one of the least independently corroborated—links in the broader Magenta crash narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist</span><span class="citation-popover-snippet">Later the crashed UFO was stored in the hangars of the SIAI Marchetti in Vergiate. Mussolini thought that...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/32UFw_6EiME" title="Paolo Guizzardi (Italy) - The Mussolini UFO Crash &amp; Project Titan | UFO Research Queensland" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=32UFw_6EiME" target="_blank" rel="noopener noreferrer">Paolo Guizzardi (Italy) - The Mussolini UFO Crash &amp; Project Titan | UFO Research Queensland</a></p><p class="youtube-embed-meta">Channel: UFO Research Queensland</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=32UFw_6EiME" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=32UFw_6EiME">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Was the Object Supposedly Stored?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Was the Object Supposedly Stored?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a documented, evidence-focused framework for assessing extraordinary recovery claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a documented, evidence-focused framework for assessing extraordinary recovery claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Extraterrestrial Encounters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2WeeBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Extraterrestrial Encounters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Extraterrestrial Encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>
-        </h4>
-        <p class="fr-book-author">By Ronald Story</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Extraterrestrial Encounters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2WeeBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Extraterrestrial Encounters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Extraterrestrial Encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>
+</h4>
+<p class="fr-book-author">By Ronald Story</p>
         
-        <p class="fr-book-desc">Places the Magenta storage story within the wider history of reported encounters and claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places the Magenta storage story within the wider history of reported encounters and claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a documented, evidence-focused framework for assessing extraordinary recovery claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a documented, evidence-focused framework for assessing extraordinary recovery claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Covers major UFO cases, personalities, and historical claims including controversial narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers major UFO cases, personalities, and historical claims including controversial narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Encyclopedia of Extraterrestrial Encounters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Encyclopedia of Extraterrestrial Encounters</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster -book -books" data-ebay-reference="storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Aviation Poster Wall Art - Italian Aerial Lines Fine Art Print"><img src="{{ '/assets/images/marketplace-covers/1e2dc286bad909a78434.jpg' | relative_url }}" alt="Listing image for Vintage Aviation Poster Wall Art - Italian Aerial Lines Fine Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster -book -books" data-ebay-reference="storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage Aviation Poster Wall Art - Italian Aerial Lines Fine Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster -book -books" data-ebay-reference="storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Italian aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Italian aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster -book -books" data-ebay-reference="storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster -book -books" data-ebay-reference="storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Aviation Poster Wall Art - Italian Aerial Lines Fine Art Print"><img src="{{ '/assets/images/marketplace-covers/1e2dc286bad909a78434.jpg' | relative_url }}" alt="Listing image for Vintage Aviation Poster Wall Art - Italian Aerial Lines Fine Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster -book -books" data-ebay-reference="storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage Aviation Poster Wall Art - Italian Aerial Lines Fine Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster -book -books" data-ebay-reference="storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Italian aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Italian aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster -book -books" data-ebay-reference="storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster -book -books" data-ebay-reference="storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alitalia 1960 Inspired By Italian Vintage Airline Advert Travel Planes Poster"><img src="{{ '/assets/images/marketplace-covers/7eadff807d5e58f0c5e7.jpg' | relative_url }}" alt="Listing image for Alitalia 1960 Inspired By Italian Vintage Airline Advert Travel Planes Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster -book -books" data-ebay-reference="storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alitalia 1960 Inspired By Italian Vintage Airline Advert Travel Planes Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster -book -books" data-ebay-reference="storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Italian aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Italian aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster -book -books" data-ebay-reference="storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster -book -books" data-ebay-reference="storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alitalia 1960 Inspired By Italian Vintage Airline Advert Travel Planes Poster"><img src="{{ '/assets/images/marketplace-covers/7eadff807d5e58f0c5e7.jpg' | relative_url }}" alt="Listing image for Alitalia 1960 Inspired By Italian Vintage Airline Advert Travel Planes Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster -book -books" data-ebay-reference="storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alitalia 1960 Inspired By Italian Vintage Airline Advert Travel Planes Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster -book -books" data-ebay-reference="storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Italian aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Italian aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster -book -books" data-ebay-reference="storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster -book -books" data-ebay-reference="storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Italian Aviation Poster: 1947 Travel Print"><img src="{{ '/assets/images/marketplace-covers/c4c1495eeb6b4828fc38.jpg' | relative_url }}" alt="Listing image for Vintage Italian Aviation Poster: 1947 Travel Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster -book -books" data-ebay-reference="storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage Italian Aviation Poster: 1947 Travel Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster -book -books" data-ebay-reference="storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Italian aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Italian aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster -book -books" data-ebay-reference="storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster -book -books" data-ebay-reference="storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Italian Aviation Poster: 1947 Travel Print"><img src="{{ '/assets/images/marketplace-covers/c4c1495eeb6b4828fc38.jpg' | relative_url }}" alt="Listing image for Vintage Italian Aviation Poster: 1947 Travel Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster -book -books" data-ebay-reference="storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage Italian Aviation Poster: 1947 Travel Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster -book -books" data-ebay-reference="storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Italian aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Italian aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster -book -books" data-ebay-reference="storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster -book -books" data-ebay-reference="storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1937 Milan Italian Aviation Show Tourism Poster Print A3/A4"><img src="{{ '/assets/images/marketplace-covers/90388756cac88db7716a.jpg' | relative_url }}" alt="Listing image for Vintage 1937 Milan Italian Aviation Show Tourism Poster Print A3/A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster -book -books" data-ebay-reference="storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage 1937 Milan Italian Aviation Show Tourism Poster Print A3/A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster -book -books" data-ebay-reference="storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Italian aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Italian aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster -book -books" data-ebay-reference="storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster -book -books" data-ebay-reference="storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster -book -books" data-ebay-reference="storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1937 Milan Italian Aviation Show Tourism Poster Print A3/A4"><img src="{{ '/assets/images/marketplace-covers/90388756cac88db7716a.jpg' | relative_url }}" alt="Listing image for Vintage 1937 Milan Italian Aviation Show Tourism Poster Print A3/A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster -book -books" data-ebay-reference="storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage 1937 Milan Italian Aviation Show Tourism Poster Print A3/A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster -book -books" data-ebay-reference="storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Italian aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Italian aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster -book -books" data-ebay-reference="storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster -book -books" data-ebay-reference="storage-sites-where-was-the-object-supposedly-stored-alleged-magenta-ufo-italian-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -565,7 +565,7 @@ The evidential component is much weaker. Publicly available sources have not pro
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -585,7 +585,7 @@ The evidential component is much weaker. Publicly available sources have not pro
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -617,7 +617,7 @@ The evidential component is much weaker. Publicly available sources have not pro
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -669,7 +669,7 @@ The evidential component is much weaker. Publicly available sources have not pro
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -714,7 +714,7 @@ The evidential component is much weaker. Publicly available sources have not pro
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -755,88 +755,88 @@ The evidential component is much weaker. Publicly available sources have not pro
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: theblackvault.com  
    Title: TH E UFO FILES OF MUSSOLINI: Fascist  
-   Link: <a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Later the crashed UFO was stored in the hangars of the SIAI Marchetti in Vergiate. Mussolini thought that...Read more...</p></details>
+   Link:<a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Later the crashed UFO was stored in the hangars of the SIAI Marchetti in Vergiate. Mussolini thought that...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/SIAI-Marchetti</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/SIAI-Marchetti</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Vergiate" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Vergiate</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Vergiate" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Vergiate</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Spring 1945 offensive in Italy  
-   Link: <a href="https://en.wikipedia.org/wiki/Spring_1945_offensive_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Spring_1945_offensive_in_Italy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>July 5, 2007 — The attack in the Lombard Plain by the 15th Allied Army Group started on 6 [April 1945](&amp;#123;&amp;#123; &#x27;april-1945/&#x27; | relative_url &amp;#125;&amp;#125;) and ended on 2 May with the surrende...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Spring_1945_offensive_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Spring_1945_offensive_in_Italy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 5, 2007 — The attack in the Lombard Plain by the 15th Allied Army Group started on 6 [April 1945](&amp;#123;&amp;#123; &#x27;april-1945/&#x27; | relative_url &amp;#125;&amp;#125;) and ended on 2 May with the surrende...</p></details>
    Published: July 5, 2007  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: UFO sightings in Italy  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in ItalyIn 2000, Roberto Pinotti published material regarding the so-called &quot;Fascist UFO... A spaceship was allegedly s...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in ItalyIn 2000, Roberto Pinotti published material regarding the so-called &quot;Fascist UFO... A spaceship was allegedly s...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: goticatoscana.eu  
    Title: the italian campaign 1943 1945 from the invasion of sicily to the liberation  
-   Link: <a href="https://www.goticatoscana.eu/en/portfolio/the-italian-campaign-1943-1945-from-the-invasion-of-sicily-to-the-liberation/" target="_blank" rel="noopener noreferrer nofollow">https://www.goticatoscana.eu/en/portfolio/the-italian-campaign-1943-1945-from-the-invasion-of-sicily-to-the-liberation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Italian Campaign (1943-1945): From the Sicily...We offer here an overview of the main events that marked Italy during the Second Wor...</p></details>
+   Link:<a href="https://www.goticatoscana.eu/en/portfolio/the-italian-campaign-1943-1945-from-the-invasion-of-sicily-to-the-liberation/" target="_blank" rel="noopener noreferrer nofollow">https://www.goticatoscana.eu/en/portfolio/the-italian-campaign-1943-1945-from-the-invasion-of-sicily-to-the-liberation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Italian Campaign (1943-1945): From the Sicily...We offer here an overview of the main events that marked Italy during the Second Wor...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theses.ncl.ac.uk  
-   Link: <a href="https://theses.ncl.ac.uk/jspui/bitstream/10443/2968/1/Outterside%20A.%202015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theses.ncl.ac.uk/jspui/bitstream/10443/2968/1/Outterside%20A.%202015.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Puglia: The Italians and the Allies, 1943-1946by AL Outterside · 2015 · Cited by 2 — In recent years there has been a revival in the stud...</p></details>
+   Link:<a href="https://theses.ncl.ac.uk/jspui/bitstream/10443/2968/1/Outterside%20A.%202015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theses.ncl.ac.uk/jspui/bitstream/10443/2968/1/Outterside%20A.%202015.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Puglia: The Italians and the Allies, 1943-1946by AL Outterside · 2015 · Cited by 2 — In recent years there has been a revival in the stud...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: metabunk.org  
    Title: claim a ufo crashed in 1933 italy and the us recovered it.13282  
-   Link: <a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating around UFO...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating around UFO...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: wantedinrome.com  
    Title: the crash that predated [roswell](&#123;&#123; 'roswell/' | relative_url &#125;&#125;) mussolinis secret ufo files  
-   Link: <a href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...2 Mar 2026 — A spaceship was allegedly stored in the hangars of the SIAI March...</p></details>
+   Link:<a href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...2 Mar 2026 — A spaceship was allegedly stored in the hangars of the SIAI March...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: popularmechanics.com  
    Title: researcher says he has evidence of 1933 ufo crash in italy  
-   Link: <a href="https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Popular MechanicsResearcher Says He Has Evidence of a 1933 UFO Crash...6 Jul 2023 — An Italian researcher says the first UFO crashed in...</p></details>
+   Link:<a href="https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Popular MechanicsResearcher Says He Has Evidence of a 1933 UFO Crash...6 Jul 2023 — An Italian researcher says the first UFO crashed in...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
    Title: large nazi underground factory captured in april  
-   Link: <a href="https://www.reddit.com/r/HistoricalCapsule/comments/1hcusnm/large_nazi_underground_factory_captured_in_april/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HistoricalCapsule/comments/1hcusnm/large_nazi_underground_factory_captured_in_april/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nazi underground factory captured in April 1945 near Engels, Germany. Pictured here is an assembly hall for He-162 jet plan...</p></details>
+   Link:<a href="https://www.reddit.com/r/HistoricalCapsule/comments/1hcusnm/large_nazi_underground_factory_captured_in_april/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HistoricalCapsule/comments/1hcusnm/large_nazi_underground_factory_captured_in_april/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nazi underground factory captured in April 1945 near Engels, Germany. Pictured here is an assembly hall for He-162 jet plan...</p></details>
    Published: April 1945  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1t6g3va/if_[grusch" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1t6g3va/if_[grusch</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>If Grusch was briefed on Magenta 1933, why is the UFO...I’ve been digging into the Magenta 1933 case recently, and I think it raises an...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1t6g3va/if_[grusch" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1t6g3va/if_[grusch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If Grusch was briefed on Magenta 1933, why is the UFO...I’ve been digging into the Magenta 1933 case recently, and I think it raises an...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=44q2oxgNJ7Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=44q2oxgNJ7Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mussolini UFO files Roberto Pinotti Magenta Extraterrestri: ora c&#x27;è la prova - ItaliaSì! 12/12/2020 Rai...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=44q2oxgNJ7Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=44q2oxgNJ7Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mussolini UFO files Roberto Pinotti Magenta Extraterrestri: ora c&#x27;è la prova - ItaliaSì! 12/12/2020 Rai...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: investigation into the 1933 magenta italy ufo  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/15efnyu/investigation_into_the_1933_magenta_italy_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15efnyu/investigation_into_the_1933_magenta_italy_ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigation into the 1933 Magenta, Italy UFO: Also Known...Why is there no consensus on whether extraterrestrial life exists when ther...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/15efnyu/investigation_into_the_1933_magenta_italy_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15efnyu/investigation_into_the_1933_magenta_italy_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigation into the 1933 Magenta, Italy UFO: Also Known...Why is there no consensus on whether extraterrestrial life exists when ther...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=PiPeptPgLYs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PiPeptPgLYs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paolo Guizzardi (Italy) - The Mussolini UFO Crash &amp; Project Titan | UFO Research Queensland...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PiPeptPgLYs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PiPeptPgLYs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paolo Guizzardi (Italy) - The Mussolini UFO Crash &amp; Project Titan | UFO Research Queensland...</p></details>

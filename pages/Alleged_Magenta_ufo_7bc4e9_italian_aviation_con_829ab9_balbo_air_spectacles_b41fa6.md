@@ -274,7 +274,7 @@ image: /assets/images/Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9_bal
 
 ## Introduction
 
-The alleged 1933 Magenta UFO crash is often presented against the backdrop of Fascist Italy's fascination with [aviation]({{ 'aviation/' | relative_url }}). One of the strongest reasons the story can appear superficially plausible is not evidence of an extraterrestrial recovery, but the country's very real culture of spectacular aviation achievements under Air Marshal Italo Balbo. During the late 1920s and early 1930s, Italy staged enormous long-distance formation flights that combined technical skill, military organisation and political theatre. Those highly publicised displays created an image of a technologically ambitious state capable of ambitious aeronautical projects and capable of keeping sensitive military activities out of public view. That historical setting helps explain why later UFO narratives found fertile ground, but it should not be mistaken for evidence that the Magenta incident actually occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lib.uchicago.edu/ead/pdf/century0130.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lib.uchicago.edu">[University of Chicago Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lib.uchicago.edu</span><span class="citation-popover-snippet">University of Chicago LibraryOfficial Book of the Flight ofIn addition to being one of the most popular chiefs of Fascism, and one of the...</span></span></span>
+The alleged 1933 Magenta UFO crash is often presented against the backdrop of Fascist Italy's fascination with [aviation]({{ 'aviation/' | relative_url }}). One of the strongest reasons the story can appear superficially plausible is not evidence of an extraterrestrial recovery, but the country's very real culture of spectacular aviation achievements under Air Marshal Italo Balbo. During the late 1920s and early 1930s, Italy staged enormous long-distance formation flights that combined technical skill, military organisation and political theatre. Those highly publicised displays created an image of a technologically ambitious state capable of ambitious aeronautical projects and capable of keeping sensitive military activities out of public view. That historical setting helps explain why later UFO narratives found fertile ground, but it should not be mistaken for evidence that the Magenta incident actually occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lib.uchicago.edu/ead/pdf/century0130.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lib.uchicago.edu">[University of Chicago Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lib.uchicago.edu</span><span class="citation-popover-snippet">University of Chicago LibraryOfficial Book of the Flight ofIn addition to being one of the most popular chiefs of Fascism, and one of the...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9_balbo_air_spectacles_b41fa6-Illustration-1-dark.svg" | relative_url }}" alt="Balbo Flights illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9_balbo_air_spectacles_b41fa6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9_balbo_air_spectacles_b41fa6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,7 +282,7 @@ The alleged 1933 Magenta UFO crash is often presented against the backdrop of Fa
 
 Few figures embodied Fascist Italy's aviation ambitions more than Italo Balbo. As Minister of Air and later Marshal of the Air Force, he transformed aviation into one of the regime's most effective propaganda tools. Aircraft were presented not merely as military hardware but as symbols of national modernity, engineering excellence and Fascist vitality.
 
-Balbo's greatest publicity triumphs were the organised mass seaplane formations that crossed the Atlantic rather than the record-breaking exploits of individual pilots. The most famous was the 1933 Decennial Air Cruise, in which twenty-five specially prepared Savoia-Marchetti S.55X flying boats departed Italy, crossed northern Europe and the North Atlantic, and arrived in Chicago for the Century of Progress Exposition. The operation required extensive logistical planning, disciplined formation flying and international coordination, all of which impressed contemporary observers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Decennial_Air_Cruise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Decennial Air Cruise</span><span class="citation-popover-snippet">Decennial Air Cruise</span></span></span>
+Balbo's greatest publicity triumphs were the organised mass seaplane formations that crossed the Atlantic rather than the record-breaking exploits of individual pilots. The most famous was the 1933 Decennial Air Cruise, in which twenty-five specially prepared Savoia-Marchetti S.55X flying boats departed Italy, crossed northern Europe and the North Atlantic, and arrived in Chicago for the Century of Progress Exposition. The operation required extensive logistical planning, disciplined formation flying and international coordination, all of which impressed contemporary observers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Decennial_Air_Cruise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Decennial Air Cruise</span><span class="citation-popover-snippet">Decennial Air Cruise</span></span></span>
 
 For Mussolini's government, these flights served several political purposes:
 
@@ -296,16 +296,16 @@ For Mussolini's government, these flights served several political purposes:
 
 </div>
 
-The flights therefore became carefully staged demonstrations of state competence rather than simply aeronautical adventures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://historiamag.com/mussolini-meets-the-worlds-fair/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historiamag.com">[Historia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historiamag.com</span><span class="citation-popover-title">Historia Magazine Mussolini meets the World&#x27;s Fair</span><span class="citation-popover-snippet">Historia MagazineMussolini meets the World&#x27;s Fair - Historia Magazine10 Jul 2023 — On 15 July, 1933, a squadron of 24 seaplanes from Fasc...</span></span></span>
+The flights therefore became carefully staged demonstrations of state competence rather than simply aeronautical adventures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://historiamag.com/mussolini-meets-the-worlds-fair/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historiamag.com">[Historia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historiamag.com</span><span class="citation-popover-title">Historia Magazine Mussolini meets the World&#x27;s Fair</span><span class="citation-popover-snippet">Historia MagazineMussolini meets the World&#x27;s Fair - Historia Magazine10 Jul 2023 — On 15 July, 1933, a squadron of 24 seaplanes from Fasc...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/j2fZ5O0Rn-4" title="The Return Of The Italian Air Armada (1933)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=j2fZ5O0Rn-4" target="_blank" rel="noopener noreferrer">The Return Of The Italian Air Armada (1933)</a></p><p class="youtube-embed-meta">Channel: British Pathé</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=j2fZ5O0Rn-4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=j2fZ5O0Rn-4">Open on YouTube</a></p></div></div></div>
 
 ## How record flights shaped public imagination
 
-Balbo's achievements had an influence extending well beyond aviation enthusiasts. Newspapers around the world covered the mass Atlantic crossings, while enormous crowds greeted the Italian air armada during its North American tour. Chicago's welcome was especially enthusiastic, with the city's World's Fair prominently incorporating Balbo's arrival into its celebrations. The event became so memorable that a Roman column presented by Mussolini still stands in Chicago today as the "Balbo Monument". <span class="citation-link-wrap"><a class="citation-inline-link" href="https://chicagology.com/centuryprogress/1933fair51/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chicagology.com">[Chicagology+2Battle of Britain Monument]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chicagology.com</span><span class="citation-popover-snippet">Italian PavilionThe Pavilion was designed to resemble a giant airplane to celebrate Italo Balbo&#x27;s 1933 transatlantic flight th...</span></span></span>
+Balbo's achievements had an influence extending well beyond aviation enthusiasts. Newspapers around the world covered the mass Atlantic crossings, while enormous crowds greeted the Italian air armada during its North American tour. Chicago's welcome was especially enthusiastic, with the city's World's Fair prominently incorporating Balbo's arrival into its celebrations. The event became so memorable that a Roman column presented by Mussolini still stands in Chicago today as the "Balbo Monument".<span class="citation-link-wrap"><a class="citation-inline-link" href="https://chicagology.com/centuryprogress/1933fair51/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chicagology.com">[Chicagology+2Battle of Britain Monument]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chicagology.com</span><span class="citation-popover-snippet">Italian PavilionThe Pavilion was designed to resemble a giant airplane to celebrate Italo Balbo&#x27;s 1933 transatlantic flight th...</span></span></span>
 
-The cultural impact reached aviation vocabulary itself. During the late 1930s, English-speaking aviators began using the word "Balbo" to describe exceptionally large aircraft formations, demonstrating how closely his name became associated with mass aerial displays. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Balbo_%28aircraft_formation%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Balbo (aircraft formation</span><span class="citation-popover-snippet">Balbo (aircraft formation</span></span></span>
+The cultural impact reached aviation vocabulary itself. During the late 1930s, English-speaking aviators began using the word "Balbo" to describe exceptionally large aircraft formations, demonstrating how closely his name became associated with mass aerial displays.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Balbo_%28aircraft_formation%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Balbo (aircraft formation</span><span class="citation-popover-snippet">Balbo (aircraft formation</span></span></span>
 
 For later generations, this reputation matters because it reinforces three impressions that can make stories like Magenta feel believable:
 
@@ -351,11 +351,11 @@ The documented historical record includes:
 * surviving official publications celebrating the expeditions;
 * international newspaper coverage;
 * physical commemorations in cities visited by the air armada;
-* consistent military and governmental records describing aviation policy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lib.uchicago.edu/ead/pdf/century0130.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lib.uchicago.edu">[University of Chicago Library+2Chicagology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lib.uchicago.edu</span><span class="citation-popover-snippet">University of Chicago LibraryOfficial Book of the Flight ofIn addition to being one of the most popular chiefs of Fascism, and one of the...</span></span></span>
+* consistent military and governmental records describing aviation policy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lib.uchicago.edu/ead/pdf/century0130.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lib.uchicago.edu">[University of Chicago Library+2Chicagology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lib.uchicago.edu</span><span class="citation-popover-snippet">University of Chicago LibraryOfficial Book of the Flight ofIn addition to being one of the most popular chiefs of Fascism, and one of the...</span></span></span>
 
 </div>
 
-By contrast, the alleged Magenta recovery depends primarily on documents that surfaced decades after the supposed event and whose authenticity has been heavily disputed. Historians and sceptical investigators have pointed to the absence of corroborating archival records expected from a bureaucracy as document-oriented as Fascist Italy's. The contrast is striking: Balbo's aviation spectacles generated abundant contemporary documentation, whereas the central evidence for the Magenta claim remains late-emerging and contested. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://it.wikipedia.org/wiki/Incidente_di_Magenta" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente di Magenta</span><span class="citation-popover-snippet">Incidente di Magenta</span></span></span>
+By contrast, the alleged Magenta recovery depends primarily on documents that surfaced decades after the supposed event and whose authenticity has been heavily disputed. Historians and sceptical investigators have pointed to the absence of corroborating archival records expected from a bureaucracy as document-oriented as Fascist Italy's. The contrast is striking: Balbo's aviation spectacles generated abundant contemporary documentation, whereas the central evidence for the Magenta claim remains late-emerging and contested.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://it.wikipedia.org/wiki/Incidente_di_Magenta" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente di Magenta</span><span class="citation-popover-snippet">Incidente di Magenta</span></span></span>
 
 Seen in this light, Balbo's achievements explain why northern Italy in the early 1930s appears to many readers as a believable setting for secret aviation stories. They help establish historical atmosphere, demonstrating that Fascist Italy genuinely pursued ambitious aviation projects and celebrated technological spectacle. They do not, however, bridge the gap between a plausible setting and proof that the [alleged Magenta UFO]({{ 'alleged-magenta-ufo/' | relative_url }}) crash or any subsequent [reverse-engineering]({{ 'reverse-engineering/' | relative_url }}) programme actually took place.
 
@@ -363,194 +363,194 @@ Seen in this light, Balbo's achievements explain why northern Italy in the early
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9_balbo_air_spectacles_b41fa6-Illustration-3-dark.svg" | relative_url }}" alt="Balbo Flights illustration 3" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9_balbo_air_spectacles_b41fa6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9_balbo_air_spectacles_b41fa6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Fascist air power made Magenta believable. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Fascist air power made Magenta believable. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Offers broader UFO reading while contrasting evidence-based investigation with historical claims such as Magenta.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers broader UFO reading while contrasting evidence-based investigation with historical claims such as Magenta.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
         
-        <p class="fr-book-desc">First published 2011.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+Italy+George+Holmes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford illustrated history of Italy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8114923-M.jpg" alt="Cover for The Oxford illustrated history of Italy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+Italy+George+Holmes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford illustrated history of Italy">The Oxford illustrated history of Italy</a>
-        </h4>
-        <p class="fr-book-author">By George Holmes</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+Italy+George+Holmes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford illustrated history of Italy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8114923-M.jpg" alt="Cover for The Oxford illustrated history of Italy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+Italy+George+Holmes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford illustrated history of Italy">The Oxford illustrated history of Italy</a>
+</h4>
+<p class="fr-book-author">By George Holmes</p>
         
-        <p class="fr-book-desc">First published 2001. Subjects: Civilization, Geschichte, History, Italy, civilization, Italy, history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+Italy+George+Holmes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2001. Subjects: Civilization, Geschichte, History, Italy, civilization, Italy, history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+Italy+George+Holmes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mussolini%27s+Italy+R.+J.+B.+Bosworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mussolini&#x27;s Italy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/452475-M.jpg" alt="Cover for Mussolini&#x27;s Italy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mussolini%27s+Italy+R.+J.+B.+Bosworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mussolini&#x27;s Italy">Mussolini&#x27;s Italy</a>
-        </h4>
-        <p class="fr-book-author">By R. J. B. Bosworth</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mussolini%27s+Italy+R.+J.+B.+Bosworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mussolini&#x27;s Italy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/452475-M.jpg" alt="Cover for Mussolini&#x27;s Italy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mussolini%27s+Italy+R.+J.+B.+Bosworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mussolini&#x27;s Italy">Mussolini&#x27;s Italy</a>
+</h4>
+<p class="fr-book-author">By R. J. B. Bosworth</p>
         
-        <p class="fr-book-desc">First published 2005. Subjects: Fascism, History, Nonfiction, Politics, Mussolini, Benito, 1883-1945.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mussolini%27s+Italy+R.+J.+B.+Bosworth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2005. Subjects: Fascism, History, Nonfiction, Politics, Mussolini, Benito, 1883-1945.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mussolini%27s+Italy+R.+J.+B.+Bosworth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+Italy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford illustrated history of Italy</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+Italy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford illustrated history of Italy</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Aviation Poster Wall Art - Italian Aerial Lines Fine Art Print"><img src="{{ '/assets/images/marketplace-covers/1e2dc286bad909a78434.jpg' | relative_url }}" alt="Listing image for Vintage Aviation Poster Wall Art - Italian Aerial Lines Fine Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Aviation Poster Wall Art - Italian Aerial Lines Fine Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Italian aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Italian aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Aviation Poster Wall Art - Italian Aerial Lines Fine Art Print"><img src="{{ '/assets/images/marketplace-covers/1e2dc286bad909a78434.jpg' | relative_url }}" alt="Listing image for Vintage Aviation Poster Wall Art - Italian Aerial Lines Fine Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Aviation Poster Wall Art - Italian Aerial Lines Fine Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Italian aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Italian aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Italian Aviation Poster: 1947 Travel Print"><img src="{{ '/assets/images/marketplace-covers/c4c1495eeb6b4828fc38.jpg' | relative_url }}" alt="Listing image for Vintage Italian Aviation Poster: 1947 Travel Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Italian Aviation Poster: 1947 Travel Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Italian aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Italian aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Italian Aviation Poster: 1947 Travel Print"><img src="{{ '/assets/images/marketplace-covers/c4c1495eeb6b4828fc38.jpg' | relative_url }}" alt="Listing image for Vintage Italian Aviation Poster: 1947 Travel Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Italian Aviation Poster: 1947 Travel Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Italian aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Italian aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1937 Milan Italian Aviation Show Tourism Poster Print A3/A4"><img src="{{ '/assets/images/marketplace-covers/90388756cac88db7716a.jpg' | relative_url }}" alt="Listing image for Vintage 1937 Milan Italian Aviation Show Tourism Poster Print A3/A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1937 Milan Italian Aviation Show Tourism Poster Print A3/A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Italian aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Italian aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1937 Milan Italian Aviation Show Tourism Poster Print A3/A4"><img src="{{ '/assets/images/marketplace-covers/90388756cac88db7716a.jpg' | relative_url }}" alt="Listing image for Vintage 1937 Milan Italian Aviation Show Tourism Poster Print A3/A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1937 Milan Italian Aviation Show Tourism Poster Print A3/A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Italian aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Italian aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Planespotting: Italian Aviation Posters 1910-1943"><img src="{{ '/assets/images/marketplace-covers/94794d340121a904dd5e.jpg' | relative_url }}" alt="Listing image for Planespotting: Italian Aviation Posters 1910-1943" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Planespotting: Italian Aviation Posters 1910-1943</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Italian aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Italian aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Planespotting: Italian Aviation Posters"><img src="{{ '/assets/images/marketplace-covers/94794d340121a904dd5e.jpg' | relative_url }}" alt="Listing image for Planespotting: Italian Aviation Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Planespotting: Italian Aviation Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Italian aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Italian aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="balbo-flights-why-fascist-air-power-made-magenta-believable-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -566,7 +566,7 @@ Seen in this light, Balbo's achievements explain why northern Italy in the early
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -586,7 +586,7 @@ Seen in this light, Balbo's achievements explain why northern Italy in the early
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -618,7 +618,7 @@ Seen in this light, Balbo's achievements explain why northern Italy in the early
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -670,7 +670,7 @@ Seen in this light, Balbo's achievements explain why northern Italy in the early
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -715,7 +715,7 @@ Seen in this light, Balbo's achievements explain why northern Italy in the early
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -756,101 +756,101 @@ Seen in this light, Balbo's achievements explain why northern Italy in the early
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Decennial Air Cruise  
-   Link: <a href="https://en.wikipedia.org/wiki/Decennial_Air_Cruise" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Decennial_Air_Cruise</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Decennial_Air_Cruise" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Decennial_Air_Cruise</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: chicagology.com  
-   Link: <a href="https://chicagology.com/centuryprogress/1933fair51/" target="_blank" rel="noopener noreferrer nofollow">https://chicagology.com/centuryprogress/1933fair51/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Italian PavilionThe Pavilion was designed to resemble a giant airplane to celebrate Italo Balbo&#x27;s 1933 transatlantic flight th...</p></details>
+   Link:<a href="https://chicagology.com/centuryprogress/1933fair51/" target="_blank" rel="noopener noreferrer nofollow">https://chicagology.com/centuryprogress/1933fair51/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Italian PavilionThe Pavilion was designed to resemble a giant airplane to celebrate Italo Balbo&#x27;s 1933 transatlantic flight th...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Balbo (aircraft formation)  
-   Link: <a href="https://en.wikipedia.org/wiki/Balbo_%28aircraft_formation%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Balbo_%28aircraft_formation%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Balbo_%28aircraft_formation%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Balbo_%28aircraft_formation%29</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Incidente di Magenta  
-   Link: <a href="https://it.wikipedia.org/wiki/Incidente_di_Magenta" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Incidente_di_Magenta</a>  
+   Link:<a href="https://it.wikipedia.org/wiki/Incidente_di_Magenta" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Incidente_di_Magenta</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: lib.uchicago.edu  
-   Link: <a href="https://www.lib.uchicago.edu/ead/pdf/century0130.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lib.uchicago.edu/ead/pdf/century0130.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Chicago LibraryOfficial Book of the Flight ofIn addition to being one of the most popular chiefs of Fascism, and one of the...</p></details>
+   Link:<a href="https://www.lib.uchicago.edu/ead/pdf/century0130.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lib.uchicago.edu/ead/pdf/century0130.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of Chicago LibraryOfficial Book of the Flight ofIn addition to being one of the most popular chiefs of Fascism, and one of the...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: historiamag.com  
    Title: Historia Magazine Mussolini meets the World's Fair  
-   Link: <a href="https://historiamag.com/mussolini-meets-the-worlds-fair/" target="_blank" rel="noopener noreferrer nofollow">https://historiamag.com/mussolini-meets-the-worlds-fair/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Historia MagazineMussolini meets the World&#x27;s Fair - Historia Magazine10 Jul 2023 — On 15 July, 1933, a squadron of 24 seaplanes from Fasc...</p></details>
+   Link:<a href="https://historiamag.com/mussolini-meets-the-worlds-fair/" target="_blank" rel="noopener noreferrer nofollow">https://historiamag.com/mussolini-meets-the-worlds-fair/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Historia MagazineMussolini meets the World&#x27;s Fair - Historia Magazine10 Jul 2023 — On 15 July, 1933, a squadron of 24 seaplanes from Fasc...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: bbm.org.uk  
    Title: balbo monument chicago usa  
-   Link: <a href="https://bbm.org.uk/balbo-monument-chicago-usa/" target="_blank" rel="noopener noreferrer nofollow">https://bbm.org.uk/balbo-monument-chicago-usa/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Battle of Britain MonumentThe Balbo Monument in Chicago, USAThis was a hangover from 1933 when Mussolini&#x27;s Minister of Air, Italo Balbo...</p></details>
+   Link:<a href="https://bbm.org.uk/balbo-monument-chicago-usa/" target="_blank" rel="noopener noreferrer nofollow">https://bbm.org.uk/balbo-monument-chicago-usa/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Battle of Britain MonumentThe Balbo Monument in Chicago, USAThis was a hangover from 1933 when Mussolini&#x27;s Minister of Air, Italo Balbo...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: warwickandwarwick.com  
    Title: Italo Balbo  
-   Link: <a href="https://www.warwickandwarwick.com/news/italo-balbo-pioneer-aviator-and-politician" target="_blank" rel="noopener noreferrer nofollow">https://www.warwickandwarwick.com/news/italo-balbo-pioneer-aviator-and-politician</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pioneer Aviator and PoliticianPromoted toItaly&#x27;s first Air Marshal in 1933, Balbo decided to create a mass formation flight to visit the...</p></details>
+   Link:<a href="https://www.warwickandwarwick.com/news/italo-balbo-pioneer-aviator-and-politician" target="_blank" rel="noopener noreferrer nofollow">https://www.warwickandwarwick.com/news/italo-balbo-pioneer-aviator-and-politician</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pioneer Aviator and PoliticianPromoted toItaly&#x27;s first Air Marshal in 1933, Balbo decided to create a mass formation flight to visit the...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: wolfsonian.org  
    Title: from italy to the americas italo balbos 1930 and 1933 seaplane squadrons  
-   Link: <a href="https://wolfsonian.org/whats-on/exhibitions%2Binstallations/2013/10/from-italy-to-the-americas-italo-balbos-1930-and-1933-seaplane-squadrons.html" target="_blank" rel="noopener noreferrer nofollow">https://wolfsonian.org/whats-on/exhibitions%2Binstallations/2013/10/from-italy-to-the-americas-italo-balbos-1930-and-1933-seaplane-squadrons.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>From Italy to the Americas: Italo Balbo&#x27;s 1930 and 1933...10 Oct 2013 — After successfully flying to Rio de Janeiro, Brazil in 1930, Bal...</p></details>
+   Link:<a href="https://wolfsonian.org/whats-on/exhibitions%2Binstallations/2013/10/from-italy-to-the-americas-italo-balbos-1930-and-1933-seaplane-squadrons.html" target="_blank" rel="noopener noreferrer nofollow">https://wolfsonian.org/whats-on/exhibitions%2Binstallations/2013/10/from-italy-to-the-americas-italo-balbos-1930-and-1933-seaplane-squadrons.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From Italy to the Americas: Italo Balbo&#x27;s 1930 and 1933...10 Oct 2013 — After successfully flying to Rio de Janeiro, Brazil in 1930, Bal...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
    Title: david [grusch](&#123;&#123; 'grusch/' | relative_url &#125;&#125;) gave us a hint 1933 italy ufo crash  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/15j8k3t/david_grusch_gave_us_a_hint_1933_italy_ufo_crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15j8k3t/david_grusch_gave_us_a_hint_1933_italy_ufo_crash/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David grusch gave us a hint, 1933 Italy UFO crashr/UFOs - David Grusch&#x27;s Most Overlooked Statement - The 1933 UFO Recovery from Magenta...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/15j8k3t/david_grusch_gave_us_a_hint_1933_italy_ufo_crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15j8k3t/david_grusch_gave_us_a_hint_1933_italy_ufo_crash/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David grusch gave us a hint, 1933 Italy UFO crashr/UFOs - David Grusch&#x27;s Most Overlooked Statement - The 1933 UFO Recovery from Magenta...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: icao.int  
    Title: tcc montreal salutes general balbo  
-   Link: <a href="https://www.icao.int/sites/default/files/postalhistory/tcc_montreal_salutes_general_balbo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/postalhistory/tcc_montreal_salutes_general_balbo.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Montreal Salutes General Balboat the Chicago&#x27;s Century of Progress Exposition on 15 July. 1933. The outbound flight took 49 hours for the...</p></details>
+   Link:<a href="https://www.icao.int/sites/default/files/postalhistory/tcc_montreal_salutes_general_balbo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/postalhistory/tcc_montreal_salutes_general_balbo.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Montreal Salutes General Balboat the Chicago&#x27;s Century of Progress Exposition on 15 July. 1933. The outbound flight took 49 hours for the...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
    Title: David Grusch's Most Overlooked Statement  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1fi5qwu/david_gruschs_most_overlooked_statement_the_1933/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fi5qwu/david_gruschs_most_overlooked_statement_the_1933/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 UFO...If Grusch was briefed on Magenta 1933, why is the UFO community still treating it like a dead case? r/UFOs...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1fi5qwu/david_gruschs_most_overlooked_statement_the_1933/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fi5qwu/david_gruschs_most_overlooked_statement_the_1933/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 UFO...If Grusch was briefed on Magenta 1933, why is the UFO community still treating it like a dead case? r/UFOs...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=-wI_T8tAL9I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-wI_T8tAL9I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 Magenta UFO Crash: Mussolini, the [Vatican](&amp;#123;&amp;#123; &#x27;vatican/&#x27; | relative_url &amp;#125;&amp;#125;), and the US Cover-Up...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-wI_T8tAL9I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-wI_T8tAL9I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 Magenta UFO Crash: Mussolini, the [Vatican](&amp;#123;&amp;#123; &#x27;vatican/&#x27; | relative_url &amp;#125;&amp;#125;), and the US Cover-Up...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/forgottenchicago/posts/10159037659929520/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/forgottenchicago/posts/10159037659929520/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1933 Italian Pavilion at Century of Progress - ChicagoBalbo brought an ancient Roman column and pedestal as gift to the City. The column...</p></details>
+   Link:<a href="https://www.facebook.com/groups/forgottenchicago/posts/10159037659929520/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/forgottenchicago/posts/10159037659929520/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1933 Italian Pavilion at Century of Progress - ChicagoBalbo brought an ancient Roman column and pedestal as gift to the City. The column...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=0L3xRImIIJ4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0L3xRImIIJ4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New York&#x27;s Great Reception To Italian Airmen! Aka N.Y&#x27;s Reception (1933)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0L3xRImIIJ4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0L3xRImIIJ4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New York&#x27;s Great Reception To Italian Airmen! Aka N.Y&#x27;s Reception (1933)...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: chipublib.bibliocommons.com  
-   Link: <a href="https://chipublib.bibliocommons.com/v2/record/S126C2525565" target="_blank" rel="noopener noreferrer nofollow">https://chipublib.bibliocommons.com/v2/record/S126C2525565</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In an era when transatlantic travel was still...Read more...</p></details>
+   Link:<a href="https://chipublib.bibliocommons.com/v2/record/S126C2525565" target="_blank" rel="noopener noreferrer nofollow">https://chipublib.bibliocommons.com/v2/record/S126C2525565</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In an era when transatlantic travel was still...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=j2fZ5O0Rn-4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j2fZ5O0Rn-4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Italian Air Armada (1933)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=j2fZ5O0Rn-4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j2fZ5O0Rn-4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Italian Air Armada (1933)...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: The Magenta UFO case in Italy  
-   Link: <a href="https://www.youtube.com/watch?v=OsniQnH7phU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OsniQnH7phU</a>  
+   Link:<a href="https://www.youtube.com/watch?v=OsniQnH7phU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OsniQnH7phU</a>  

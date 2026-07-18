@@ -447,69 +447,69 @@ image: /assets/images/Alleged_Magenta_ufo_7bc4e9_pinotti_documents_21e30d-overvi
 
 ## Introduction
 
-The Pinotti files are the [document cache]({{ 'document-cache/' | relative_url }}) that gives the [alleged Magenta UFO]({{ 'alleged-magenta-ufo/' | relative_url }}) crash its recognisable shape: a 1933 recovery in Lombardy, a secret Fascist study body called Cabinet RS/33, links to Mussolini, Marconi and later wartime transfer rumours. Their weakness is equally central. The papers were said by Roberto Pinotti and Alfredo Lissoni to have arrived anonymously in 1996 and later, and critics argue that anonymous custody, photocopies, missing archive references and limited independent access make them poor historical evidence. In other words, the Magenta story is less a conventional crash case than a provenance problem: the key question is not only what the papers say, but whether they can be shown to be genuine records produced by Fascist-era institutions. The Black Vault+2CISU - Centro Italiano Studi Ufologici <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files...</span></span></span>
+The Pinotti files are the [document cache]({{ 'document-cache/' | relative_url }}) that gives the [alleged Magenta UFO]({{ 'alleged-magenta-ufo/' | relative_url }}) crash its recognisable shape: a 1933 recovery in Lombardy, a secret Fascist study body called Cabinet RS/33, links to Mussolini, Marconi and later wartime transfer rumours. Their weakness is equally central. The papers were said by Roberto Pinotti and Alfredo Lissoni to have arrived anonymously in 1996 and later, and critics argue that anonymous custody, photocopies, missing archive references and limited independent access make them poor historical evidence. In other words, the Magenta story is less a conventional crash case than a provenance problem: the key question is not only what the papers say, but whether they can be shown to be genuine records produced by Fascist-era institutions. The Black Vault+2CISU - Centro Italiano Studi Ufologici<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_pinotti_documents_21e30d-overview.webp" | relative_url }}" alt="Overview image for Pinotti Files" loading="eager" decoding="sync" fetchpriority="high">
 ## How the Papers Surfaced
 
-Pinotti’s own published account says the material was presented publicly at the 2000 World UFO Symposium in San Marino after he and Alfredo Lissoni received “new original material” anonymously on several occasions. The documents, according to that account, concerned a supposed craft that “crashed or landed” near Magenta on 11 April 1933, followed by an investigation by [Cabinet]({{ 'rs-33/' | relative_url }}) RS/33, a body allegedly authorised by Benito Mussolini to study “Special Researches”. The same account also gives 13 June 1933 as the day a landed object was recovered, which has become one of the recurring date tensions in [later retellings]({{ 'later-retellings/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files...</span></span></span>
+Pinotti’s own published account says the material was presented publicly at the 2000 World UFO Symposium in San Marino after he and Alfredo Lissoni received “new original material” anonymously on several occasions. The documents, according to that account, concerned a supposed craft that “crashed or landed” near Magenta on 11 April 1933, followed by an investigation by [Cabinet]({{ 'rs-33/' | relative_url }}) RS/33, a body allegedly authorised by Benito Mussolini to study “Special Researches”. The same account also gives 13 June 1933 as the day a landed object was recovered, which has become one of the recurring date tensions in [later retellings]({{ 'later-retellings/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files...</span></span></span>
 
-The sender was not a named official, archivist or witness. Pinotti’s account describes the source as a mysterious person claiming family connection to someone involved in the alleged RS/33 circle. That matters because the cache did not emerge from an identifiable public archive, a declassified government file series, a court record, or a documented private estate with a traceable chain of custody. It entered the public record through UFO researchers who said they received it by post. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files...</span></span></span>
+The sender was not a named official, archivist or witness. Pinotti’s account describes the source as a mysterious person claiming family connection to someone involved in the alleged RS/33 circle. That matters because the cache did not emerge from an identifiable public archive, a declassified government file series, a court record, or a documented private estate with a traceable chain of custody. It entered the public record through UFO researchers who said they received it by post.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files...</span></span></span>
 
-The material then moved through UFO magazines, conference presentations and books rather than through a normal archival discovery process. Pinotti and Lissoni published the claim in Italian, including the 2001 book *Mussolini e gli UFO*, and an English-language version of Pinotti’s account later appeared in *UFO Contacts in Italy Volume Two*, excerpted by The Black Vault in 2020. That publication path does not automatically make the papers false, but it does mean the case’s evidential centre is mediated through advocacy and reproduction rather than through open archival access. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nli.org.il/en/books/NNL_ALEPH990023625650205171/NLI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nli.org.il">[National Library of Israel+2Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nli.org.il</span><span class="citation-popover-snippet">Open source on nli.org.il.</span></span></span>
+The material then moved through UFO magazines, conference presentations and books rather than through a normal archival discovery process. Pinotti and Lissoni published the claim in Italian, including the 2001 book *Mussolini e gli UFO*, and an English-language version of Pinotti’s account later appeared in *UFO Contacts in Italy Volume Two*, excerpted by The Black Vault in 2020. That publication path does not automatically make the papers false, but it does mean the case’s evidential centre is mediated through advocacy and reproduction rather than through open archival access.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nli.org.il/en/books/NNL_ALEPH990023625650205171/NLI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nli.org.il">[National Library of Israel+2Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nli.org.il</span><span class="citation-popover-snippet">Open source on nli.org.il.</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_pinotti_documents_21e30d-Illustration-1-dark.svg" | relative_url }}" alt="Pinotti Files illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_pinotti_documents_21e30d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_pinotti_documents_21e30d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Supporters Say They Show
 
-Supporters treat the documents as a paper trail for an unusually early state UFO recovery. In Pinotti’s version, the papers link the alleged Magenta event to Fascist secrecy, the storage of wreckage in SIAI-Marchetti hangars at Vergiate, and the formation of Cabinet RS/33 under figures said to include Guglielmo Marconi, Italo Balbo and Galeazzo Ciano. The story’s appeal comes from that bureaucratic texture: it sounds less like a single witness report and more like a secret administrative response to a recovered object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files...</span></span></span>
+Supporters treat the documents as a paper trail for an unusually early state UFO recovery. In Pinotti’s version, the papers link the alleged Magenta event to Fascist secrecy, the storage of wreckage in SIAI-Marchetti hangars at Vergiate, and the formation of Cabinet RS/33 under figures said to include Guglielmo Marconi, Italo Balbo and Galeazzo Ciano. The story’s appeal comes from that bureaucratic texture: it sounds less like a single witness report and more like a secret administrative response to a recovered object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files...</span></span></span>
 
-The papers are usually said to include telegram-style orders, memoranda about secrecy, references to “unconventional” aircraft, drawings or descriptions of unusual craft, and notes tying the event to later sightings in Italy between 1933 and 1940. Popular summaries also describe the cache as containing evidence for a suppressed Fascist-era research group, with Marconi framed as the scientific authority who allegedly understood the object as something beyond a conventional foreign weapon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newparadigminstitute.org/learn/library/case-study-magenta-italy-1933/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newparadigminstitute.org">[newparadigminstitute.org+2Interesting Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newparadigminstitute.org</span><span class="citation-popover-title">case study magenta italy 1933</span><span class="citation-popover-snippet">case study magenta italy 1933</span></span></span>
+The papers are usually said to include telegram-style orders, memoranda about secrecy, references to “unconventional” aircraft, drawings or descriptions of unusual craft, and notes tying the event to later sightings in Italy between 1933 and 1940. Popular summaries also describe the cache as containing evidence for a suppressed Fascist-era research group, with Marconi framed as the scientific authority who allegedly understood the object as something beyond a conventional foreign weapon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://newparadigminstitute.org/learn/library/case-study-magenta-italy-1933/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newparadigminstitute.org">[newparadigminstitute.org+2Interesting Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newparadigminstitute.org</span><span class="citation-popover-title">case study magenta italy 1933</span><span class="citation-popover-snippet">case study magenta italy 1933</span></span></span>
 
-This is why the documents matter so much to the Magenta narrative. Without them, the case has little independent structure: no widely accepted physical artefact, no named first-hand recovery crew, no publicly verified Fascist government file, and no settled official archive trail. With them, the story gains dates, names, institutions and a mechanism for secrecy. The entire case therefore rises or falls less on a spectacular eyewitness claim than on whether this document cache can survive ordinary tests of provenance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-snippet">Open source on cisu.org.</span></span></span>
+This is why the documents matter so much to the Magenta narrative. Without them, the case has little independent structure: no widely accepted physical artefact, no named first-hand recovery crew, no publicly verified Fascist government file, and no settled official archive trail. With them, the story gains dates, names, institutions and a mechanism for secrecy. The entire case therefore rises or falls less on a spectacular eyewitness claim than on whether this document cache can survive ordinary tests of provenance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-snippet">Open source on cisu.org.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RBAISwCZ2v0" title="UFO whistleblower David Grusch: &#x27;We are not alone&#x27; | Official Ross Coulthart NewsNation interview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RBAISwCZ2v0" target="_blank" rel="noopener noreferrer">UFO whistleblower David Grusch: &#x27;We are not alone&#x27; | Official Ross Coulthart NewsNation interview</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 8.7M &middot; Uploaded: April 2025 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RBAISwCZ2v0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RBAISwCZ2v0">Open on YouTube</a></p></div></div></div>
 
 ## Why Provenance Is the Central Issue
 
-The strongest criticism is not simply that the claim is extraordinary. It is that the papers lack the features historians and archivists would normally need before treating them as reliable state records. Massimiliano Grandi’s CISU analysis, based on discussion with Paola Carucci, a former senior figure in Italy’s National Archives and an archivistics scholar, argues that anonymous sourcing and restricted access largely remove the cache’s archival and historical value. The problem is not only secrecy; it is that the documents’ route into the record cannot be independently reconstructed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-snippet">Open source on cisu.org.</span></span></span>
+The strongest criticism is not simply that the claim is extraordinary. It is that the papers lack the features historians and archivists would normally need before treating them as reliable state records. Massimiliano Grandi’s CISU analysis, based on discussion with Paola Carucci, a former senior figure in Italy’s National Archives and an archivistics scholar, argues that anonymous sourcing and restricted access largely remove the cache’s archival and historical value. The problem is not only secrecy; it is that the documents’ route into the record cannot be independently reconstructed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-snippet">Open source on cisu.org.</span></span></span>
 
-A second problem is the status of the copies. CISU’s analysis says that, apart from the first three dispatches Pinotti reported receiving in February and March 1996, later items appear to have been colour [photocopies]({{ 'photocopies/' | relative_url }}). Photocopies can preserve useful information, but they do not carry the same evidential weight as originals because paper, ink, pressure marks, seals, stamps, signatures and filing traces cannot be fully tested from a copy. Grandi makes the practical point that a photocopy of unknown origin may be produced after the fact to imitate an older document. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-snippet">Open source on cisu.org.</span></span></span>
+A second problem is the status of the copies. CISU’s analysis says that, apart from the first three dispatches Pinotti reported receiving in February and March 1996, later items appear to have been colour [photocopies]({{ 'photocopies/' | relative_url }}). Photocopies can preserve useful information, but they do not carry the same evidential weight as originals because paper, ink, pressure marks, seals, stamps, signatures and filing traces cannot be fully tested from a copy. Grandi makes the practical point that a photocopy of unknown origin may be produced after the fact to imitate an older document.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-snippet">Open source on cisu.org.</span></span></span>
 
-A third issue is the absence of normal archival identifiers. CISU’s critique says the first purported originals did not contain indications that would qualify them as public archive material or confidential records. Letterhead and old-looking envelopes are not enough, because blank period stationery and envelopes can survive separately and be reused or copied. From an archivist’s perspective, the key missing elements are not decorative signs of age but verifiable placement within a record-keeping system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-snippet">Open source on cisu.org.</span></span></span>
+A third issue is the absence of normal archival identifiers. CISU’s critique says the first purported originals did not contain indications that would qualify them as public archive material or confidential records. Letterhead and old-looking envelopes are not enough, because blank period stationery and envelopes can survive separately and be reused or copied. From an archivist’s perspective, the key missing elements are not decorative signs of age but verifiable placement within a record-keeping system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-snippet">Open source on cisu.org.</span></span></span>
 
-That distinction is easy to miss. A document can look old, or even be written on old paper, without proving that its text was created by the office it purports to represent. CISU’s account of the paper-and-ink issue says such testing, even where it exists, can at most help establish whether materials are old; it cannot by itself prove that a document is authentic, part of an archive, or an accurate record of a 1933 government action. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-snippet">Open source on cisu.org.</span></span></span>
+That distinction is easy to miss. A document can look old, or even be written on old paper, without proving that its text was created by the office it purports to represent. CISU’s account of the paper-and-ink issue says such testing, even where it exists, can at most help establish whether materials are old; it cannot by itself prove that a document is authentic, part of an archive, or an accurate record of a 1933 government action.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-snippet">Open source on cisu.org.</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_pinotti_documents_21e30d-Illustration-2-dark.svg" | relative_url }}" alt="Pinotti Files illustration 2" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_pinotti_documents_21e30d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_pinotti_documents_21e30d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Gap Between “Old Paper” and “Official Record”
 
-For the Pinotti files to function as strong evidence, they would need more than period flavour. A credible archival document usually sits inside a broader system: protocol numbers, stamps, filing locations, cross-references, office copies, outgoing and incoming registers, related correspondence, budget traces, appointment records, or later references in connected files. The central weakness of the Magenta papers is that their advocates have not produced an independently verifiable archive location that allows other researchers to check the documents in context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-no-thank-you/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">Centro Italiano Studi Ufologici Fascist UFO Files? No, thank you!</span><span class="citation-popover-snippet">Centro Italiano Studi Ufologici Fascist UFO Files? No, thank you!</span></span></span>
+For the Pinotti files to function as strong evidence, they would need more than period flavour. A credible archival document usually sits inside a broader system: protocol numbers, stamps, filing locations, cross-references, office copies, outgoing and incoming registers, related correspondence, budget traces, appointment records, or later references in connected files. The central weakness of the Magenta papers is that their advocates have not produced an independently verifiable archive location that allows other researchers to check the documents in context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-no-thank-you/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">Centro Italiano Studi Ufologici Fascist UFO Files? No, thank you!</span><span class="citation-popover-snippet">Centro Italiano Studi Ufologici Fascist UFO Files? No, thank you!</span></span></span>
 
-CISU’s “Fascist UFO Files? No, thank you!” makes the criticism bluntly: the papers arrived anonymously, their archival sources have not been identified or verified, and, on that basis, they cannot be treated as “documents” in the scientific sense. The same article also argues that Lissoni cited documents about unidentified aircraft from the 1930s without giving archive locations, and that at least one cited detail appears to introduce a UFO-like particular not present in the original record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-no-thank-you/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">Centro Italiano Studi Ufologici Fascist UFO Files? No, thank you!</span><span class="citation-popover-snippet">Centro Italiano Studi Ufologici Fascist UFO Files? No, thank you!</span></span></span>
+CISU’s “Fascist UFO Files? No, thank you!” makes the criticism bluntly: the papers arrived anonymously, their archival sources have not been identified or verified, and, on that basis, they cannot be treated as “documents” in the scientific sense. The same article also argues that Lissoni cited documents about unidentified aircraft from the 1930s without giving archive locations, and that at least one cited detail appears to introduce a UFO-like particular not present in the original record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-no-thank-you/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">Centro Italiano Studi Ufologici Fascist UFO Files? No, thank you!</span><span class="citation-popover-snippet">Centro Italiano Studi Ufologici Fascist UFO Files? No, thank you!</span></span></span>
 
-That does not prove that every page is a deliberate modern forgery. It does mean that the evidential burden remains unmet. A mundane document about aircraft sightings in Fascist Italy would not be surprising; states monitored unusual aircraft, military aviation and rumours in the 1930s. The disputed leap is from “there were period records about unidentified aircraft or airspace concerns” to “these papers prove a recovered non-human craft and a secret reverse-engineering cabinet”. The Pinotti cache has not bridged that gap in a way that satisfies ordinary historical standards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-no-thank-you/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">Centro Italiano Studi Ufologici Fascist UFO Files? No, thank you!</span><span class="citation-popover-snippet">Centro Italiano Studi Ufologici Fascist UFO Files? No, thank you!</span></span></span>
+That does not prove that every page is a deliberate modern forgery. It does mean that the evidential burden remains unmet. A mundane document about aircraft sightings in Fascist Italy would not be surprising; states monitored unusual aircraft, military aviation and rumours in the 1930s. The disputed leap is from “there were period records about unidentified aircraft or airspace concerns” to “these papers prove a recovered non-human craft and a secret reverse-engineering cabinet”. The Pinotti cache has not bridged that gap in a way that satisfies ordinary historical standards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-no-thank-you/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">Centro Italiano Studi Ufologici Fascist UFO Files? No, thank you!</span><span class="citation-popover-snippet">Centro Italiano Studi Ufologici Fascist UFO Files? No, thank you!</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W_amIBrImoQ" title="Vatican Linked To First UFO Crash? Pentagon Whistleblower Shocks World | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W_amIBrImoQ" target="_blank" rel="noopener noreferrer">Vatican Linked To First UFO Crash? Pentagon Whistleblower Shocks World | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 1.9K &middot; Uploaded: December 2025 &middot; Length: 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W_amIBrImoQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W_amIBrImoQ">Open on YouTube</a></p></div></div></div>
 
 ## Why Later Attention Did Not Solve the Provenance Problem
 
-The Magenta claim gained renewed attention after David Grusch’s 2023 public allegations that the United States had obtained a craft recovered by Mussolini’s government in 1933, with Vatican involvement. That revival made the story more visible, but it did not independently authenticate the Pinotti documents. Popular Mechanics reported Pinotti’s claim that he and Lissoni began investigating after receiving secret documents in 1996, while also noting the US Department of Defense’s denial of knowledge of recovered alien spacecraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">researcher says he has evidence of 1933 ufo crash in italy</span><span class="citation-popover-snippet">researcher says he has evidence of 1933 ufo crash in italy</span></span></span>
+The Magenta claim gained renewed attention after David Grusch’s 2023 public allegations that the United States had obtained a craft recovered by Mussolini’s government in 1933, with Vatican involvement. That revival made the story more visible, but it did not independently authenticate the Pinotti documents. Popular Mechanics reported Pinotti’s claim that he and Lissoni began investigating after receiving secret documents in 1996, while also noting the US Department of Defense’s denial of knowledge of recovered alien spacecraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">researcher says he has evidence of 1933 ufo crash in italy</span><span class="citation-popover-snippet">researcher says he has evidence of 1933 ufo crash in italy</span></span></span>
 
-The Vatican angle also remains unsupported in the public record. In 2024, Marco Grilli, secretary to the prefect of the Vatican Apostolic Archive, told Catholic News Service that he did not know where Grusch got the information about Pope Pius XII backchannelling knowledge of a Mussolini UFO recovery to the United States. That is not a full archival audit of every possible wartime communication, but it is a relevant institutional response to one of the story’s most important later embellishments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usccb.org">[USCCB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usccb.org</span><span class="citation-popover-title">Angels or aliens? Some researchers say Vatican archives hold UFO secrets &#124; USCCB</span><span class="citation-popover-snippet">Angels or aliens? Some researchers say Vatican archives hold UFO secrets &#124; USCCB</span></span></span>
+The Vatican angle also remains unsupported in the public record. In 2024, Marco Grilli, secretary to the prefect of the Vatican Apostolic Archive, told Catholic News Service that he did not know where Grusch got the information about Pope Pius XII backchannelling knowledge of a Mussolini UFO recovery to the United States. That is not a full archival audit of every possible wartime communication, but it is a relevant institutional response to one of the story’s most important later embellishments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usccb.org">[USCCB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usccb.org</span><span class="citation-popover-title">Angels or aliens? Some researchers say Vatican archives hold UFO secrets &#124; USCCB</span><span class="citation-popover-snippet">Angels or aliens? Some researchers say Vatican archives hold UFO secrets &#124; USCCB</span></span></span>
 
-US government review has not validated the broader recovery narrative either. [AARO]({{ 'aaro/' | relative_url }}), the Pentagon’s All-domain Anomaly Resolution Office, said in 2024 that it had found no verifiable evidence that any UAP sighting represented extraterrestrial activity, no verifiable evidence that the US government or private industry had access to extraterrestrial technology, and no indication that such information had been illegally withheld from Congress. AARO’s historical report covers US government UAP work from 1945 onward, so it does not directly test every Italian Fascist-era claim, but it undercuts the later claim that a verified US-held alien recovery programme has been publicly established. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News &#124; U.S. Department of War...</span></span></span>(https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)
+US government review has not validated the broader recovery narrative either. [AARO]({{ 'aaro/' | relative_url }}), the Pentagon’s All-domain Anomaly Resolution Office, said in 2024 that it had found no verifiable evidence that any UAP sighting represented extraterrestrial activity, no verifiable evidence that the US government or private industry had access to extraterrestrial technology, and no indication that such information had been illegally withheld from Congress. AARO’s historical report covers US government UAP work from 1945 onward, so it does not directly test every Italian Fascist-era claim, but it undercuts the later claim that a verified US-held alien recovery programme has been publicly established.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News &#124; U.S. Department of War...</span></span></span>(https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_pinotti_documents_21e30d-Illustration-3-dark.svg" | relative_url }}" alt="Pinotti Files illustration 3" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_pinotti_documents_21e30d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_pinotti_documents_21e30d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Would Make the Files Stronger?
 
-The Pinotti files would become much stronger if the originals were made available for independent examination under clear custody conditions, if their source could be identified without relying on anonymity, and if the papers could be matched to a recognised public or private archive. The most important breakthrough would not be another retelling of the crash story, but a boring archival one: a shelf mark, file series, accession history, register entry, related correspondence, or official cross-reference that places the documents inside Fascist-era administration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-snippet">Open source on cisu.org.</span></span></span>
+The Pinotti files would become much stronger if the originals were made available for independent examination under clear custody conditions, if their source could be identified without relying on anonymity, and if the papers could be matched to a recognised public or private archive. The most important breakthrough would not be another retelling of the crash story, but a boring archival one: a shelf mark, file series, accession history, register entry, related correspondence, or official cross-reference that places the documents inside Fascist-era administration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-snippet">Open source on cisu.org.</span></span></span>
 
-A useful authentication process would also separate several questions that are often blurred together. Are the paper and ink old? Was the text created in the 1930s? Was it created by the office named on the page? Does it refer to a real incident, a rumour, a hoax, a military aircraft report, or something else? Does any independent record confirm Cabinet RS/33 as an actual state body? Each question requires different evidence, and a positive answer to one does not automatically settle the others. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-snippet">Open source on cisu.org.</span></span></span>
+A useful authentication process would also separate several questions that are often blurred together. Are the paper and ink old? Was the text created in the 1930s? Was it created by the office named on the page? Does it refer to a real incident, a rumour, a hoax, a military aircraft report, or something else? Does any independent record confirm Cabinet RS/33 as an actual state body? Each question requires different evidence, and a positive answer to one does not automatically settle the others.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-snippet">Open source on cisu.org.</span></span></span>
 
 That is why the provenance debate is not a side issue. It is the case. The Magenta story depends on documents that are vivid enough to sustain a narrative but not securely sourced enough to carry the historical weight placed on them. Supporters see a suppressed Fascist paper trail; critics see anonymous, partly photocopied material without adequate archival grounding. Until that gap is closed, the Pinotti files remain intriguing artefacts of UFO culture rather than verified evidence of a 1933 recovery at Magenta.
 
@@ -518,194 +518,194 @@ That is why the provenance debate is not a side issue. It is the case. The Magen
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Strong Are the Pinotti UFO Documents?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Strong Are the Pinotti UFO Documents?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Helps readers compare stronger and weaker evidential standards in UFO investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers compare stronger and weaker evidential standards in UFO investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Directly supports assessing provenance, evidence quality, and skeptical inquiry.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly supports assessing provenance, evidence quality, and skeptical inquiry.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Forged+Bart+D.+Ehrman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forged on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6714136-M.jpg" alt="Cover for Forged" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Forged+Bart+D.+Ehrman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forged">Forged</a>
-        </h4>
-        <p class="fr-book-author">By Bart D. Ehrman, Bart D. Ehrman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Forged+Bart+D.+Ehrman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forged on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6714136-M.jpg" alt="Cover for Forged" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Forged+Bart+D.+Ehrman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forged">Forged</a>
+</h4>
+<p class="fr-book-author">By Bart D. Ehrman, Bart D. Ehrman</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: Controversial literature, Authorship, Criticism, interpretation, Bible, Evidences, authority.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Forged+Bart+D.+Ehrman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: Controversial literature, Authorship, Criticism, interpretation, Bible, Evidences, authority.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Forged+Bart+D.+Ehrman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides balanced historical context for famous UFO cases and disputed documentary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides balanced historical context for famous UFO cases and disputed documentary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Forged&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forged</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Forged&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forged</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="pinotti-files-how-strong-are-the-pinotti-ufo-documents-alleged-magenta-ufo-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -721,7 +721,7 @@ That is why the provenance debate is not a side issue. It is the case. The Magen
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -741,7 +741,7 @@ That is why the provenance debate is not a side issue. It is the case. The Magen
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -773,7 +773,7 @@ That is why the provenance debate is not a side issue. It is the case. The Magen
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -825,7 +825,7 @@ That is why the provenance debate is not a side issue. It is the case. The Magen
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -870,7 +870,7 @@ That is why the provenance debate is not a side issue. It is the case. The Magen
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -911,138 +911,138 @@ That is why the provenance debate is not a side issue. It is the case. The Magen
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cisu.org  
-   Link: <a href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/</a>  
+   Link:<a href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cisu.org  
    Title: Centro Italiano Studi Ufologici Fascist UFO Files? No, thank you!  
-   Link: <a href="https://www.cisu.org/fascist-ufo-files-no-thank-you/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/fascist-ufo-files-no-thank-you/</a>  
+   Link:<a href="https://www.cisu.org/fascist-ufo-files-no-thank-you/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/fascist-ufo-files-no-thank-you/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: books.google.it  
    Title: Books Mussolini e gli UFO: gli x-files del nazifascismo  
-   Link: <a href="https://books.google.it/books/about/Mussolini_e_gli_UFO.html?hl=it&amp;id=rWQ-AgAACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.it/books/about/Mussolini_e_gli_UFO.html?hl=it&amp;id=rWQ-AgAACAAJ</a>  
+   Link:<a href="https://books.google.it/books/about/Mussolini_e_gli_UFO.html?hl=it&amp;id=rWQ-AgAACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.it/books/about/Mussolini_e_gli_UFO.html?hl=it&amp;id=rWQ-AgAACAAJ</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: newparadigminstitute.org  
    Title: case study magenta italy 1933  
-   Link: <a href="https://newparadigminstitute.org/learn/library/case-study-magenta-italy-1933/" target="_blank" rel="noopener noreferrer nofollow">https://newparadigminstitute.org/learn/library/case-study-magenta-italy-1933/</a>  
+   Link:<a href="https://newparadigminstitute.org/learn/library/case-study-magenta-italy-1933/" target="_blank" rel="noopener noreferrer nofollow">https://newparadigminstitute.org/learn/library/case-study-magenta-italy-1933/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: usccb.org  
    Title: Angels or aliens? Some researchers say Vatican archives hold UFO secrets | USCCB  
-   Link: <a href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow">https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets</a>  
+   Link:<a href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow">https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: war.gov  
    Title: U.S. Department of War  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News | U.S. Department of War...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News | U.S. Department of War...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: books.google.com  
    Title: UFO e extraterrestri  
-   Link: <a href="https://books.google.com/books/about/UFO_e_extraterrestri.html?id=EoKKEAAAQBAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/UFO_e_extraterrestri.html?id=EoKKEAAAQBAJ</a>  
+   Link:<a href="https://books.google.com/books/about/UFO_e_extraterrestri.html?id=EoKKEAAAQBAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/UFO_e_extraterrestri.html?id=EoKKEAAAQBAJ</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: play.google.com  
    Title: Ufo Italia Da Mussolini al Pentagono  
-   Link: <a href="https://play.google.com/store/books/details/Ufo_Italia_Da_Mussolini_al_Pentagono?hl=en_GB&amp;id=ykgOEQAAQBAJ" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/books/details/Ufo_Italia_Da_Mussolini_al_Pentagono?hl=en_GB&amp;id=ykgOEQAAQBAJ</a>  
+   Link:<a href="https://play.google.com/store/books/details/Ufo_Italia_Da_Mussolini_al_Pentagono?hl=en_GB&amp;id=ykgOEQAAQBAJ" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/books/details/Ufo_Italia_Da_Mussolini_al_Pentagono?hl=en_GB&amp;id=ykgOEQAAQBAJ</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: catholic.org  
-   Link: <a href="https://www.catholic.org/news/technology/story.php?id=86465" target="_blank" rel="noopener noreferrer nofollow">https://www.catholic.org/news/technology/story.php?id=86465</a>  
+   Link:<a href="https://www.catholic.org/news/technology/story.php?id=86465" target="_blank" rel="noopener noreferrer nofollow">https://www.catholic.org/news/technology/story.php?id=86465</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: history.state.gov  
-   Link: <a href="https://history.state.gov/historicaldocuments/frus1933v01/ch20" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1933v01/ch20</a>  
+   Link:<a href="https://history.state.gov/historicaldocuments/frus1933v01/ch20" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1933v01/ch20</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: archive.org  
    Title: Mussolini e gli UFO su Panorama  
-   Link: <a href="https://archive.org/details/mussolini-e-gli-ufo-su-panorama" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/mussolini-e-gli-ufo-su-panorama</a>  
+   Link:<a href="https://archive.org/details/mussolini-e-gli-ufo-su-panorama" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/mussolini-e-gli-ufo-su-panorama</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theblackvault.com  
    Title: The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti  
-   Link: <a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files...</p></details>
+   Link:<a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti - The Black Vault Case Files...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nli.org.il  
-   Link: <a href="https://www.nli.org.il/en/books/NNL_ALEPH990023625650205171/NLI" target="_blank" rel="noopener noreferrer nofollow">https://www.nli.org.il/en/books/NNL_ALEPH990023625650205171/NLI</a>  
+   Link:<a href="https://www.nli.org.il/en/books/NNL_ALEPH990023625650205171/NLI" target="_blank" rel="noopener noreferrer nofollow">https://www.nli.org.il/en/books/NNL_ALEPH990023625650205171/NLI</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: interestingengineering.com  
    Title: worlds first ufo crash happened in italy claim  
-   Link: <a href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow">https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim</a>  
+   Link:<a href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow">https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: popularmechanics.com  
    Title: researcher says he has evidence of 1933 ufo crash in italy  
-   Link: <a href="https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/</a>  
+   Link:<a href="https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/</a>  
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=RBAISwCZ2v0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RBAISwCZ2v0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roberto Pinotti 1933 UFO crash Mussolini documents La VERA STORIA dell&#x27;UFO di MUSSOLINI AstroViktor...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RBAISwCZ2v0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RBAISwCZ2v0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roberto Pinotti 1933 UFO crash Mussolini documents La VERA STORIA dell&#x27;UFO di MUSSOLINI AstroViktor...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=KQ2znFihC6M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KQ2znFihC6M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Magenta Project: The 1933 Italy UFO Crash-Retrieval That Changed the World -- Updated Supercut...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KQ2znFihC6M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KQ2znFihC6M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Magenta Project: The 1933 Italy UFO Crash-Retrieval That Changed the World -- Updated Supercut...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=l7S8KnXePJI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l7S8KnXePJI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower David Grusch: &#x27;We are not alone&#x27; | Official Ross Coulthart NewsNation interview...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=l7S8KnXePJI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l7S8KnXePJI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower David Grusch: &#x27;We are not alone&#x27; | Official Ross Coulthart NewsNation interview...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=PiPeptPgLYs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PiPeptPgLYs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Italy’s UFO Crash Before [Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;)? The 1933 Magenta Incident Revealed #BeforeRoswell...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PiPeptPgLYs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PiPeptPgLYs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Italy’s UFO Crash Before [Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;)? The 1933 Magenta Incident Revealed #BeforeRoswell...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Historical History  
-   Link: <a href="https://www.youtube.com/watch?v=4ww6ZZXHdHo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4ww6ZZXHdHo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roberto Pinotti talks 1933 Magenta, Italy crash-retrieval at the European UAP/NHI Disclosure Summit The Magenta Project - The 1933 UFO Cr...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4ww6ZZXHdHo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4ww6ZZXHdHo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roberto Pinotti talks 1933 Magenta, Italy crash-retrieval at the European UAP/NHI Disclosure Summit The Magenta Project - The 1933 UFO Cr...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=FGiwgyLY7Aw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FGiwgyLY7Aw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roberto Pinotti talks 1933 Magenta, Italy crash-retrieval at the European UAP/NHI Disclosure Summit...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FGiwgyLY7Aw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FGiwgyLY7Aw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roberto Pinotti talks 1933 Magenta, Italy crash-retrieval at the European UAP/NHI Disclosure Summit...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: arxiv.org  
    Title: arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)  
-   Link: <a href="https://arxiv.org/abs/2502.06794" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.06794</a>  
+   Link:<a href="https://arxiv.org/abs/2502.06794" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.06794</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: aol.com  
-   Link: <a href="https://www.aol.com/researcher-says-first-ufo-really-191900682.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/researcher-says-first-ufo-really-191900682.html</a>  
+   Link:<a href="https://www.aol.com/researcher-says-first-ufo-really-191900682.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/researcher-says-first-ufo-really-191900682.html</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CrewOperations/posts/due-to-recent-[transparency" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CrewOperations/posts/due-to-recent-[transparency</a>  
+   Link:<a href="https://www.facebook.com/CrewOperations/posts/due-to-recent-[transparency" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CrewOperations/posts/due-to-recent-[transparency</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AlternativeHistory/comments/1bjoqce/fascinating_dive_rich_in_history_back_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AlternativeHistory/comments/1bjoqce/fascinating_dive_rich_in_history_back_to/</a>  
+   Link:<a href="https://www.reddit.com/r/AlternativeHistory/comments/1bjoqce/fascinating_dive_rich_in_history_back_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AlternativeHistory/comments/1bjoqce/fascinating_dive_rich_in_history_back_to/</a>  

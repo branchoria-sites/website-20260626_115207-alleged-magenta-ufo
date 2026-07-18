@@ -451,18 +451,18 @@ One of the most striking elements of the [alleged Magenta UFO]({{ 'alleged-magen
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_vatican_story_f31126-overview.webp" | relative_url }}" alt="Overview image for Vatican" loading="eager" decoding="sync" fetchpriority="high">
-This Vatican thread has become one of the best-known parts of the Magenta story, particularly after former U.S. intelligence official David Grusch repeated a version of it in 2023. Yet it is also one of the weakest historically documented elements. The claim appears to have developed gradually through [later retellings]({{ 'later-retellings/' | relative_url }}) rather than emerging from the earliest published Italian documents, and no verified Vatican archive, wartime diplomatic record or declassified [Allied intelligence]({{ 'allied-records/' | relative_url }}) file has corroborated the alleged papal role. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usccb.org">[USCCB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usccb.org</span><span class="citation-popover-title">Angels or aliens?</span><span class="citation-popover-snippet">Some researchers say Vatican archives...18 Jun 2024 — Angels or aliens? Some researchers say Vatican archives hold UFO secrets. Some sci...</span></span></span>
+This Vatican thread has become one of the best-known parts of the Magenta story, particularly after former U.S. intelligence official David Grusch repeated a version of it in 2023. Yet it is also one of the weakest historically documented elements. The claim appears to have developed gradually through [later retellings]({{ 'later-retellings/' | relative_url }}) rather than emerging from the earliest published Italian documents, and no verified Vatican archive, wartime diplomatic record or declassified [Allied intelligence]({{ 'allied-records/' | relative_url }}) file has corroborated the alleged papal role.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usccb.org">[USCCB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usccb.org</span><span class="citation-popover-title">Angels or aliens?</span><span class="citation-popover-snippet">Some researchers say Vatican archives...18 Jun 2024 — Angels or aliens? Some researchers say Vatican archives hold UFO secrets. Some sci...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DqOyfWLEwPQ" title="UAP disclosure: Whistleblower David Grusch has pushed for transparency | NewsNation Prime" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DqOyfWLEwPQ" target="_blank" rel="noopener noreferrer">UAP disclosure: Whistleblower David Grusch has pushed for transparency | NewsNation Prime</a></p><p class="youtube-embed-meta">Channel: NewsNation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DqOyfWLEwPQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DqOyfWLEwPQ">Open on YouTube</a></p></div></div></div>
 
 ## How the Vatican claim entered the story
 
-The earliest public discussion of the alleged Fascist UFO documents focused on a supposed 1933 recovery, secret Italian investigations and the alleged Cabinet RS/33. Although those documents were already controversial because of their anonymous provenance, they did not present the Vatican as the centrepiece of the narrative. Roberto Pinotti's work concentrated primarily on the alleged recovery, [Fascist secrecy]({{ 'secrecy/' | relative_url }}) and later American possession rather than on detailed Vatican involvement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">claim a ufo crashed in 1933 italy and the us recovered it.13282</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating ar...</span></span></span>
+The earliest public discussion of the alleged Fascist UFO documents focused on a supposed 1933 recovery, secret Italian investigations and the alleged Cabinet RS/33. Although those documents were already controversial because of their anonymous provenance, they did not present the Vatican as the centrepiece of the narrative. Roberto Pinotti's work concentrated primarily on the alleged recovery, [Fascist secrecy]({{ 'secrecy/' | relative_url }}) and later American possession rather than on detailed Vatican involvement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">claim a ufo crashed in 1933 italy and the us recovered it.13282</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating ar...</span></span></span>
 
-The Vatican intermediary narrative became much more prominent in later English-language retellings. By the late 2000s and early 2010s, additional details had appeared, including claims that Pope Pius XII secretly informed American intelligence about the object's location and that Vatican diplomatic channels enabled its transfer to Allied control. Researchers tracing the public evolution of the story have noted that these details are absent from the earliest versions and appear to have been added as the narrative expanded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">claim a ufo crashed in 1933 italy and the us recovered it.13282</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating ar...</span></span></span>
+The Vatican intermediary narrative became much more prominent in later English-language retellings. By the late 2000s and early 2010s, additional details had appeared, including claims that Pope Pius XII secretly informed American intelligence about the object's location and that Vatican diplomatic channels enabled its transfer to Allied control. Researchers tracing the public evolution of the story have noted that these details are absent from the earliest versions and appear to have been added as the narrative expanded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">claim a ufo crashed in 1933 italy and the us recovered it.13282</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating ar...</span></span></span>
 
-The story gained international attention in 2023 when David [Grusch]({{ 'grusch/' | relative_url }}) stated that he had been told Pope Pius XII had "backchannelled" information about the recovered craft to the United States, allowing American forces to retrieve it after the war. Grusch presented this as information provided to him through official channels rather than as something he had personally verified. His testimony substantially increased public interest in the Vatican connection but did not provide documentary evidence supporting it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usccb.org">[USCCB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usccb.org</span><span class="citation-popover-title">Angels or aliens?</span><span class="citation-popover-snippet">Some researchers say Vatican archives...18 Jun 2024 — Angels or aliens? Some researchers say Vatican archives hold UFO secrets. Some sci...</span></span></span>
+The story gained international attention in 2023 when David [Grusch]({{ 'grusch/' | relative_url }}) stated that he had been told Pope Pius XII had "backchannelled" information about the recovered craft to the United States, allowing American forces to retrieve it after the war. Grusch presented this as information provided to him through official channels rather than as something he had personally verified. His testimony substantially increased public interest in the Vatican connection but did not provide documentary evidence supporting it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usccb.org">[USCCB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usccb.org</span><span class="citation-popover-title">Angels or aliens?</span><span class="citation-popover-snippet">Some researchers say Vatican archives...18 Jun 2024 — Angels or aliens? Some researchers say Vatican archives hold UFO secrets. Some sci...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_vatican_story_f31126-Illustration-1-dark.svg" | relative_url }}" alt="Vatican illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_vatican_story_f31126-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_vatican_story_f31126-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -474,13 +474,13 @@ The problem is that no reliable evidence connects those genuine diplomatic activ
 
 Several contradictions stand out.
 
-**The Vatican role appears to grow over time.** Researchers examining the publication history of the Magenta case have observed that the papal intermediary story becomes progressively more detailed in later retellings rather than appearing fully formed in the earliest accounts. This pattern makes it difficult to determine whether the Vatican element originated from original documents or from later narrative development. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">claim a ufo crashed in 1933 italy and the us recovered it.13282</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating ar...</span></span></span>
+**The Vatican role appears to grow over time.** Researchers examining the publication history of the Magenta case have observed that the papal intermediary story becomes progressively more detailed in later retellings rather than appearing fully formed in the earliest accounts. This pattern makes it difficult to determine whether the Vatican element originated from original documents or from later narrative development.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">claim a ufo crashed in 1933 italy and the us recovered it.13282</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating ar...</span></span></span>
 
-**No supporting Vatican documentation has emerged.** The Vatican Apostolic Archives contain enormous collections of diplomatic correspondence, yet no authenticated document has surfaced referring to a UFO recovery, Cabinet RS/33 or a secret transfer to the United States. Vatican archivists have publicly stated that they know of no archival material relating to extraterrestrial life or the alleged incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usccb.org">[USCCB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usccb.org</span><span class="citation-popover-title">Angels or aliens?</span><span class="citation-popover-snippet">Some researchers say Vatican archives...18 Jun 2024 — Angels or aliens? Some researchers say Vatican archives hold UFO secrets. Some sci...</span></span></span>
+**No supporting Vatican documentation has emerged.** The Vatican Apostolic Archives contain enormous collections of diplomatic correspondence, yet no authenticated document has surfaced referring to a UFO recovery, Cabinet RS/33 or a secret transfer to the United States. Vatican archivists have publicly stated that they know of no archival material relating to extraterrestrial life or the alleged incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usccb.org">[USCCB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usccb.org</span><span class="citation-popover-title">Angels or aliens?</span><span class="citation-popover-snippet">Some researchers say Vatican archives...18 Jun 2024 — Angels or aliens? Some researchers say Vatican archives hold UFO secrets. Some sci...</span></span></span>
 
 **No corroborating Allied intelligence records have appeared.** Although extensive American and British wartime intelligence files have been declassified over many decades, researchers have not identified authenticated OSS, military or diplomatic documents describing a Vatican-assisted recovery operation involving an unconventional craft. Given the scale of such an operation, historians would normally expect at least indirect documentary traces.
 
-**The chronology remains unstable.** Different versions place the alleged American acquisition in either 1944 or 1945. That distinction matters because northern Italy remained under German military control for much of 1944. A successful [American retrieval]({{ 'us-transfer/' | relative_url }}) during that period would require an additional covert operation that has never been independently documented. The Vatican story often functions as the mechanism intended to bridge this chronological difficulty rather than being independently established itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">claim a ufo crashed in 1933 italy and the us recovered it.13282</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating ar...</span></span></span>
+**The chronology remains unstable.** Different versions place the alleged American acquisition in either 1944 or 1945. That distinction matters because northern Italy remained under German military control for much of 1944. A successful [American retrieval]({{ 'us-transfer/' | relative_url }}) during that period would require an additional covert operation that has never been independently documented. The Vatican story often functions as the mechanism intended to bridge this chronological difficulty rather than being independently established itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">claim a ufo crashed in 1933 italy and the us recovered it.13282</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating ar...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RBAISwCZ2v0" title="UFO whistleblower David Grusch: &#x27;We are not alone&#x27; | Official Ross Coulthart NewsNation interview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RBAISwCZ2v0" target="_blank" rel="noopener noreferrer">UFO whistleblower David Grusch: &#x27;We are not alone&#x27; | Official Ross Coulthart NewsNation interview</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 8.7M &middot; Uploaded: April 2025 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RBAISwCZ2v0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RBAISwCZ2v0">Open on YouTube</a></p></div></div></div>
@@ -489,11 +489,11 @@ Several contradictions stand out.
 
 The Vatican thread also illustrates how the Magenta story accumulated inconsistencies as it spread.
 
-One recurring issue involves the identity of the pope. Early discussions and secondary retellings have occasionally confused Pope Pius XI, who died in February 1939, with Pope Pius XII, who served throughout most of the Second World War. Since any alleged transfer to American forces would necessarily have occurred after Pius XII became pope, references to Pius XI reveal that some versions of the story incorporated historical errors later corrected by subsequent authors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_grusch_and_the_italian_ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Whistleblower David Grusch and the Italian UFO crash of...One of the purported bombshells coming out of Grusch&#x27;s interviews was hi...</span></span></span>
+One recurring issue involves the identity of the pope. Early discussions and secondary retellings have occasionally confused Pope Pius XI, who died in February 1939, with Pope Pius XII, who served throughout most of the Second World War. Since any alleged transfer to American forces would necessarily have occurred after Pius XII became pope, references to Pius XI reveal that some versions of the story incorporated historical errors later corrected by subsequent authors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_grusch_and_the_italian_ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Whistleblower David Grusch and the Italian UFO crash of...One of the purported bombshells coming out of Grusch&#x27;s interviews was hi...</span></span></span>
 
-A second inconsistency concerns the purpose of Vatican involvement. In some versions the pope merely informed Allied intelligence about the object's existence. In others he actively organised its transfer. Still others portray the Vatican as protecting the object from Nazi Germany before handing it to the Americans. These increasingly elaborate roles are difficult to reconcile because they appear in different retellings rather than in a single consistent documentary tradition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">claim a ufo crashed in 1933 italy and the us recovered it.13282</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating ar...</span></span></span>
+A second inconsistency concerns the purpose of Vatican involvement. In some versions the pope merely informed Allied intelligence about the object's existence. In others he actively organised its transfer. Still others portray the Vatican as protecting the object from Nazi Germany before handing it to the Americans. These increasingly elaborate roles are difficult to reconcile because they appear in different retellings rather than in a single consistent documentary tradition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">claim a ufo crashed in 1933 italy and the us recovered it.13282</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating ar...</span></span></span>
 
-The [Vatican claim]({{ 'vatican-claim/' | relative_url }}) is also frequently bundled together with other late additions to the Magenta narrative, including descriptions of a bell-shaped craft, recovered non-human bodies and links to later American crash-retrieval stories. Critics argue that these elements resemble the gradual merging of independent UFO traditions rather than the publication of a stable historical record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">claim a ufo crashed in 1933 italy and the us recovered it.13282</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating ar...</span></span></span>
+The [Vatican claim]({{ 'vatican-claim/' | relative_url }}) is also frequently bundled together with other late additions to the Magenta narrative, including descriptions of a bell-shaped craft, recovered non-human bodies and links to later American crash-retrieval stories. Critics argue that these elements resemble the gradual merging of independent UFO traditions rather than the publication of a stable historical record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">claim a ufo crashed in 1933 italy and the us recovered it.13282</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating ar...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_vatican_story_f31126-Illustration-2-dark.svg" | relative_url }}" alt="Vatican illustration 2" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_vatican_story_f31126-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_vatican_story_f31126-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -513,7 +513,7 @@ However, historians would normally expect supporting evidence such as:
 
 </div>
 
-At present, none of those forms of corroboration has entered the public record. The absence of such evidence does not logically prove the story false, but it prevents historians from treating it as an established historical event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usccb.org">[USCCB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usccb.org</span><span class="citation-popover-title">Angels or aliens?</span><span class="citation-popover-snippet">Some researchers say Vatican archives...18 Jun 2024 — Angels or aliens? Some researchers say Vatican archives hold UFO secrets. Some sci...</span></span></span>
+At present, none of those forms of corroboration has entered the public record. The absence of such evidence does not logically prove the story false, but it prevents historians from treating it as an established historical event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usccb.org">[USCCB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usccb.org</span><span class="citation-popover-title">Angels or aliens?</span><span class="citation-popover-snippet">Some researchers say Vatican archives...18 Jun 2024 — Angels or aliens? Some researchers say Vatican archives hold UFO secrets. Some sci...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/08Of8uTAZBo" title="Neil deGrasse Tyson: On Aliens, Artificial Intelligence, &amp; The Future of Civilization." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=08Of8uTAZBo" target="_blank" rel="noopener noreferrer">Neil deGrasse Tyson: On Aliens, Artificial Intelligence, &amp; The Future of Civilization.</a></p><p class="youtube-embed-meta">Channel: Through Conversations Podcast &middot; Views: 82.5K &middot; Uploaded: June 2023 &middot; Length: 1 hour 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=08Of8uTAZBo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=08Of8uTAZBo">Open on YouTube</a></p></div></div></div>
@@ -522,200 +522,200 @@ At present, none of those forms of corroboration has entered the public record. 
 
 Despite its evidential weaknesses, the Vatican intermediary claim has had lasting influence because it solves several narrative problems at once. It offers a believable mechanism for communication across wartime front lines, explains how an alleged Italian secret might have reached the United States and links the Magenta case to one of the world's best-known diplomatic institutions.
 
-That combination makes the story dramatically compelling, especially after Grusch's public references revived interest in the case. Yet its popularity should not be confused with historical verification. The Vatican element rests primarily on repeated claims rather than independently authenticated records, and its evolution through successive retellings remains one of the strongest reasons that historians and sceptical researchers continue to regard it with caution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usccb.org">[USCCB+2Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usccb.org</span><span class="citation-popover-title">Angels or aliens?</span><span class="citation-popover-snippet">Some researchers say Vatican archives...18 Jun 2024 — Angels or aliens? Some researchers say Vatican archives hold UFO secrets. Some sci...</span></span></span>
+That combination makes the story dramatically compelling, especially after Grusch's public references revived interest in the case. Yet its popularity should not be confused with historical verification. The Vatican element rests primarily on repeated claims rather than independently authenticated records, and its evolution through successive retellings remains one of the strongest reasons that historians and sceptical researchers continue to regard it with caution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usccb.org">[USCCB+2Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usccb.org</span><span class="citation-popover-title">Angels or aliens?</span><span class="citation-popover-snippet">Some researchers say Vatican archives...18 Jun 2024 — Angels or aliens? Some researchers say Vatican archives hold UFO secrets. Some sci...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_vatican_story_f31126-Illustration-3-dark.svg" | relative_url }}" alt="Vatican illustration 3" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_vatican_story_f31126-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_vatican_story_f31126-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the Vatican Help Transfer the UFO Secret?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the Vatican Help Transfer the UFO Secret?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Offers a foundational framework for evaluating UFO reports and distinguishing evidence from speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers a foundational framework for evaluating UFO reports and distinguishing evidence from speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides balanced coverage of major UFO claims and the evidentiary standards relevant to assessing stories like the alleged Vatican trans...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides balanced coverage of major UFO claims and the evidentiary standards relevant to assessing stories like the alleged Vatican trans...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Directly explores intersections between Catholicism, belief, and modern UFO narratives, making it especially pertinent to Vatican-related...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explores intersections between Catholicism, belief, and modern UFO narratives, making it especially pertinent to Vatican-related...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Helps readers understand why extraordinary historical narratives can spread despite limited corroborating evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand why extraordinary historical narratives can spread despite limited corroborating evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="vatican-did-the-vatican-help-transfer-the-ufo-secret-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -731,7 +731,7 @@ That combination makes the story dramatically compelling, especially after Grusc
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -751,7 +751,7 @@ That combination makes the story dramatically compelling, especially after Grusc
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -783,7 +783,7 @@ That combination makes the story dramatically compelling, especially after Grusc
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -835,7 +835,7 @@ That combination makes the story dramatically compelling, especially after Grusc
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -880,7 +880,7 @@ That combination makes the story dramatically compelling, especially after Grusc
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -921,76 +921,76 @@ That combination makes the story dramatically compelling, especially after Grusc
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: usccb.org  
    Title: Angels or aliens?  
-   Link: <a href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow">https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Some researchers say Vatican archives...18 Jun 2024 — Angels or aliens? Some researchers say Vatican archives hold UFO secrets. Some sci...</p></details>
+   Link:<a href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow">https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Some researchers say Vatican archives...18 Jun 2024 — Angels or aliens? Some researchers say Vatican archives hold UFO secrets. Some sci...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: metabunk.org  
    Title: claim a ufo crashed in 1933 italy and the us recovered it.13282  
-   Link: <a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating ar...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating ar...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_grusch_and_the_italian_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_grusch_and_the_italian_ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblower David Grusch and the Italian UFO crash of...One of the purported bombshells coming out of Grusch&#x27;s interviews was hi...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_grusch_and_the_italian_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_grusch_and_the_italian_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblower David Grusch and the Italian UFO crash of...One of the purported bombshells coming out of Grusch&#x27;s interviews was hi...</p></details>
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=RBAISwCZ2v0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RBAISwCZ2v0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Magenta Project: The 1933 Italy UFO Crash-Retrieval That Changed the World -- Updated Supercut...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RBAISwCZ2v0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RBAISwCZ2v0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Magenta Project: The 1933 Italy UFO Crash-Retrieval That Changed the World -- Updated Supercut...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DVYMSf-CJ0F/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVYMSf-CJ0F/?hl=en-gb</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Italy&#x27;s Secret #UFO Files: The Crash That Predated...Italy UFO Crash Confirmed By Luis Elizondo #ufo #UAP #UFODisclosure #ufocrash · Jun...</p></details>
+   Link:<a href="https://www.instagram.com/p/DVYMSf-CJ0F/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVYMSf-CJ0F/?hl=en-gb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Italy&#x27;s Secret #UFO Files: The Crash That Predated...Italy UFO Crash Confirmed By Luis Elizondo #ufo #UAP #UFODisclosure #ufocrash · Jun...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=PiPeptPgLYs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PiPeptPgLYs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Vatican&#x27;s silence about UFO report is &quot;not surprising&quot;: David Childress...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PiPeptPgLYs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PiPeptPgLYs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Vatican&#x27;s silence about UFO report is &quot;not surprising&quot;: David Childress...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: UAP disclosure: Whistleblower David Grusch has pushed for [transparency](&#123;&#123; 'transparency/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.youtube.com/watch?v=DqOyfWLEwPQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DqOyfWLEwPQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1933 Magenta UFO crash Vatican David Grusch Unbelievable 1933 UFO Crash Event Confirmed by David Grusch...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DqOyfWLEwPQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DqOyfWLEwPQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1933 Magenta UFO crash Vatican David Grusch Unbelievable 1933 UFO Crash Event Confirmed by David Grusch...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sofmag.com  
    Title: ufo crash magenta italy 1933  
-   Link: <a href="https://sofmag.com/ufo-crash-magenta-italy-1933/" target="_blank" rel="noopener noreferrer nofollow">https://sofmag.com/ufo-crash-magenta-italy-1933/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>recovered the craft in 1944–1945 with Vatican and Five Eyes assistance, Grusch alleged that a secretive UFO program hid “non-...Read more...</p></details>
+   Link:<a href="https://sofmag.com/ufo-crash-magenta-italy-1933/" target="_blank" rel="noopener noreferrer nofollow">https://sofmag.com/ufo-crash-magenta-italy-1933/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>recovered the craft in 1944–1945 with Vatican and Five Eyes assistance, Grusch alleged that a secretive UFO program hid “non-...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: The Vatican's silence about UFO report is "not surprising": David Childress  
-   Link: <a href="https://www.youtube.com/watch?v=JyaCvEP1qa4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JyaCvEP1qa4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP disclosure: Whistleblower David Grusch has pushed for transparency...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JyaCvEP1qa4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JyaCvEP1qa4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP disclosure: Whistleblower David Grusch has pushed for transparency...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: music.youtube.com  
-   Link: <a href="https://music.youtube.com/podcast/xdPdQ2_P8K0" target="_blank" rel="noopener noreferrer nofollow">https://music.youtube.com/podcast/xdPdQ2_P8K0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1933 Magenta UFO Crash: Mussolini, the Vatican, and...We dive into the secret Cabinet RS/33, led by the famous inventor Guglielmo Marcon...</p></details>
+   Link:<a href="https://music.youtube.com/podcast/xdPdQ2_P8K0" target="_blank" rel="noopener noreferrer nofollow">https://music.youtube.com/podcast/xdPdQ2_P8K0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1933 Magenta UFO Crash: Mussolini, the Vatican, and...We dive into the secret Cabinet RS/33, led by the famous inventor Guglielmo Marcon...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: The Pope, Vatican tied to early UFO operations  
-   Link: <a href="https://www.youtube.com/watch?v=DxeTCk38XTA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DxeTCk38XTA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower David Grusch: &#x27;We are not alone&#x27; | Official Ross Coulthart NewsNation interview...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DxeTCk38XTA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DxeTCk38XTA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower David Grusch: &#x27;We are not alone&#x27; | Official Ross Coulthart NewsNation interview...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: osvnews.com  
    Title: OSV News  
-   Link: <a href="https://www.osvnews.com/catholic-filmmaker-investigates-ufo-mysteries-at-the-vatican/" target="_blank" rel="noopener noreferrer nofollow">https://www.osvnews.com/catholic-filmmaker-investigates-ufo-mysteries-at-the-vatican/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We&#x27;ve got the Church coveredCatholic filmmaker investigates UFO mysteries at the Vatican25 Nov 2025 — As detailed by former intelligence...</p></details>
+   Link:<a href="https://www.osvnews.com/catholic-filmmaker-investigates-ufo-mysteries-at-the-vatican/" target="_blank" rel="noopener noreferrer nofollow">https://www.osvnews.com/catholic-filmmaker-investigates-ufo-mysteries-at-the-vatican/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We&#x27;ve got the Church coveredCatholic filmmaker investigates UFO mysteries at the Vatican25 Nov 2025 — As detailed by former intelligence...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: philarchive.org  
-   Link: <a href="https://philarchive.org/archive/MEYTIQ" target="_blank" rel="noopener noreferrer nofollow">https://philarchive.org/archive/MEYTIQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DownloadItalian UFO researcher Roberto Pinotti has investigated the 1933 case since 1996, after receiving anonymous documents that includ...</p></details>
+   Link:<a href="https://philarchive.org/archive/MEYTIQ" target="_blank" rel="noopener noreferrer nofollow">https://philarchive.org/archive/MEYTIQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DownloadItalian UFO researcher Roberto Pinotti has investigated the 1933 case since 1996, after receiving anonymous documents that includ...</p></details>

@@ -280,7 +280,7 @@ image: /assets/images/Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9_ita
 
 ## Introduction
 
-If Fascist Italy had genuinely recovered an unknown craft and attempted to reverse-engineer it into usable aerospace technology, historians would expect far more than a handful of disputed documents. Even highly secret military programmes generate administrative, engineering and logistical traces. The key question is therefore not whether such a programme could have been hidden from the public, but whether it could have left virtually no verifiable archival footprint despite involving engineers, military officers, workshops, testing facilities and funding. When the alleged 1933 Magenta crash is judged against the documentary patterns left by real Italian [aviation]({{ 'aviation/' | relative_url }}) projects, the public evidence falls well short of what a sustained [reverse-engineering]({{ 'reverse-engineering/' | relative_url }}) effort would normally produce. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.icmh-cihm.org/en/what-we-do/military-archives/74-italian-air-force-historical-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icmh-cihm.org">[ICMH-CIHM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icmh-cihm.org</span><span class="citation-popover-snippet">Italian Air Force Historical ArchiveThe Italian Air Force Historical Office is responsible for the cataloging, preservation of d...</span></span></span>
+If Fascist Italy had genuinely recovered an unknown craft and attempted to reverse-engineer it into usable aerospace technology, historians would expect far more than a handful of disputed documents. Even highly secret military programmes generate administrative, engineering and logistical traces. The key question is therefore not whether such a programme could have been hidden from the public, but whether it could have left virtually no verifiable archival footprint despite involving engineers, military officers, workshops, testing facilities and funding. When the alleged 1933 Magenta crash is judged against the documentary patterns left by real Italian [aviation]({{ 'aviation/' | relative_url }}) projects, the public evidence falls well short of what a sustained [reverse-engineering]({{ 'reverse-engineering/' | relative_url }}) effort would normally produce.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.icmh-cihm.org/en/what-we-do/military-archives/74-italian-air-force-historical-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icmh-cihm.org">[ICMH-CIHM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icmh-cihm.org</span><span class="citation-popover-snippet">Italian Air Force Historical ArchiveThe Italian Air Force Historical Office is responsible for the cataloging, preservation of d...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9_italian_reverse_engi_0d47fe-Illustration-1-dark.svg" | relative_url }}" alt="Missing Trail illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9_italian_reverse_engi_0d47fe-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9_italian_reverse_engi_0d47fe-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -307,7 +307,7 @@ A hypothetical programme to study an unprecedented flying vehicle would be expec
 
 Individual documents might remain classified or be lost, but it is unusual for every category of supporting evidence to disappear while only a few controversial papers survive.
 
-This comparison is especially relevant because genuine Italian aviation research institutions are well documented. The Italian Air Force Historical Office maintains extensive archival holdings covering units, research and organisational history, illustrating the scale of surviving documentation from the period. Likewise, industrial archives preserve records from major aerospace manufacturers despite wartime losses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.icmh-cihm.org/en/what-we-do/military-archives/74-italian-air-force-historical-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icmh-cihm.org">[ICMH-CIHM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icmh-cihm.org</span><span class="citation-popover-snippet">Italian Air Force Historical ArchiveThe Italian Air Force Historical Office is responsible for the cataloging, preservation of d...</span></span></span>
+This comparison is especially relevant because genuine Italian aviation research institutions are well documented. The Italian Air Force Historical Office maintains extensive archival holdings covering units, research and organisational history, illustrating the scale of surviving documentation from the period. Likewise, industrial archives preserve records from major aerospace manufacturers despite wartime losses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.icmh-cihm.org/en/what-we-do/military-archives/74-italian-air-force-historical-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icmh-cihm.org">[ICMH-CIHM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icmh-cihm.org</span><span class="citation-popover-snippet">Italian Air Force Historical ArchiveThe Italian Air Force Historical Office is responsible for the cataloging, preservation of d...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eKZ2U3lkJ9o" title="Secret UFO Files of Fascist Italy | Mussolini&#x27;s UFO Cabinet RS/33 Revealed | Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eKZ2U3lkJ9o" target="_blank" rel="noopener noreferrer">Secret UFO Files of Fascist Italy | Mussolini&#x27;s UFO Cabinet RS/33 Revealed | Full Documentary</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eKZ2U3lkJ9o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eKZ2U3lkJ9o">Open on YouTube</a></p></div></div></div>
@@ -326,7 +326,7 @@ Expected evidence would include:
 * **Workshop modifications.** Existing machinery often requires adaptation to handle unfamiliar components, generating procurement and maintenance records.
 * **Photographic documentation.** Military engineers routinely photographed unusual equipment to support technical reports.
 
-No publicly authenticated body of Italian records demonstrates this kind of sustained analytical process for the alleged Magenta object. Instead, discussion largely centres on copies of documents whose provenance has been disputed and whose originals have not been independently established in recognised archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — This material dealt with a purported flying saucer that had either cr...</span></span></span>
+No publicly authenticated body of Italian records demonstrates this kind of sustained analytical process for the alleged Magenta object. Instead, discussion largely centres on copies of documents whose provenance has been disputed and whose originals have not been independently established in recognised archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — This material dealt with a purported flying saucer that had either cr...</span></span></span>
 
 ## Chain-of-custody is the missing link
 
@@ -348,7 +348,7 @@ For a genuine recovery programme, historians would seek answers to practical que
 
 Each transfer would normally require inventories, receipts or operational orders because military organisations rely on accountability for valuable assets.
 
-The public Magenta record contains no independently verified chain of custody comparable to those expected for sensitive military equipment. Instead, later narratives often rely on retrospective testimony or anonymous document submissions rather than continuous documentary evidence extending from 1933 onward. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault+2Kevin Randle&#x27;s Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — This material dealt with a purported flying saucer that had either cr...</span></span></span>
+The public Magenta record contains no independently verified chain of custody comparable to those expected for sensitive military equipment. Instead, later narratives often rely on retrospective testimony or anonymous document submissions rather than continuous documentary evidence extending from 1933 onward.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault+2Kevin Randle&#x27;s Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — This material dealt with a purported flying saucer that had either cr...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9_italian_reverse_engi_0d47fe-Illustration-2-dark.svg" | relative_url }}" alt="Missing Trail illustration 2" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9_italian_reverse_engi_0d47fe-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9_italian_reverse_engi_0d47fe-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -390,7 +390,7 @@ Aircraft development is cumulative. Designers solve thousands of practical probl
 
 </div>
 
-Instead, documented Italian aviation projects—including work at [Guidonia]({{ 'guidonia/' | relative_url }}) and programmes such as the Caproni Campini motorjet—fit recognisable technological trajectories based on contemporary aerodynamic theory, propulsion research and experimental testing. Their development histories resemble ambitious but conventional aerospace engineering rather than attempts to exploit radically unknown technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.leonardo.com/en/news-and-stories-detail/-/detail/rediscovered-archives-100-years-of-aeroplanes-and-technology-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonardo.com">[Leonardo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonardo.com</span><span class="citation-popover-snippet">Rediscovered archives: 100 years of aeroplanes and...Today, Leonardo has managed to gather the surviving documentation in two si...</span></span></span>
+Instead, documented Italian aviation projects—including work at [Guidonia]({{ 'guidonia/' | relative_url }}) and programmes such as the Caproni Campini motorjet—fit recognisable technological trajectories based on contemporary aerodynamic theory, propulsion research and experimental testing. Their development histories resemble ambitious but conventional aerospace engineering rather than attempts to exploit radically unknown technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.leonardo.com/en/news-and-stories-detail/-/detail/rediscovered-archives-100-years-of-aeroplanes-and-technology-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonardo.com">[Leonardo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonardo.com</span><span class="citation-popover-snippet">Rediscovered archives: 100 years of aeroplanes and...Today, Leonardo has managed to gather the surviving documentation in two si...</span></span></span>
 
 ## What would change the historical assessment?
 
@@ -402,7 +402,7 @@ Evidence that would substantially strengthen the historical case would include:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * authenticated original archival files with secure provenance;
-* corroborating records from independent military, industrial and governmental archives; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.familysearch.org/en/wiki/Italy_Military_Records" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: familysearch.org">[familysearch.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">familysearch.org</span><span class="citation-popover-title">Italy Military Records</span><span class="citation-popover-snippet">25 Feb 2026 — Evidence that an ancestor actually served may be found in family records, biographies, census, probate records, civil regis...</span></span></span>
+* corroborating records from independent military, industrial and governmental archives;<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.familysearch.org/en/wiki/Italy_Military_Records" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: familysearch.org">[familysearch.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">familysearch.org</span><span class="citation-popover-title">Italy Military Records</span><span class="citation-popover-snippet">25 Feb 2026 — Evidence that an ancestor actually served may be found in family records, biographies, census, probate records, civil regis...</span></span></span>
 * laboratory notebooks describing examination of recovered materials;
 * documented custody records linking recovery, storage and testing;
 * physical samples with verifiable provenance available for independent scientific analysis;
@@ -410,201 +410,201 @@ Evidence that would substantially strengthen the historical case would include:
 
 </div>
 
-Until such evidence appears, the historical record more closely resembles a late-emerging documentary claim than the surviving footprint expected from one of the largest and most technically demanding secret aerospace programmes of the twentieth century. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.icmh-cihm.org/en/what-we-do/military-archives/74-italian-air-force-historical-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icmh-cihm.org">[ICMH-CIHM+2The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icmh-cihm.org</span><span class="citation-popover-snippet">Italian Air Force Historical ArchiveThe Italian Air Force Historical Office is responsible for the cataloging, preservation of d...</span></span></span>
+Until such evidence appears, the historical record more closely resembles a late-emerging documentary claim than the surviving footprint expected from one of the largest and most technically demanding secret aerospace programmes of the twentieth century.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.icmh-cihm.org/en/what-we-do/military-archives/74-italian-air-force-historical-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icmh-cihm.org">[ICMH-CIHM+2The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icmh-cihm.org</span><span class="citation-popover-snippet">Italian Air Force Historical ArchiveThe Italian Air Force Historical Office is responsible for the cataloging, preservation of d...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback youtube-embed-link-only"><div class="youtube-embed-card"><div class="youtube-embed-link-panel"><span class="youtube-embed-link-kicker">YouTube</span><a href="https://www.youtube.com/watch?v=2izhNXn1Msc" target="_blank" rel="noopener noreferrer">Is Jesus an alien? Pope Francis&#x27; interest in UAPs explained | Reality Check with Ross Coulthart</a></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2izhNXn1Msc" target="_blank" rel="noopener noreferrer">Is Jesus an alien? Pope Francis&#x27; interest in UAPs explained | Reality Check with Ross Coulthart</a></p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2izhNXn1Msc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2izhNXn1Msc">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What evidence would a real programme leave?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What evidence would a real programme leave?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Shows the kinds of organizational, engineering and documentary traces real classified aircraft programmes generate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows the kinds of organizational, engineering and documentary traces real classified aircraft programmes generate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Provides context for how genuine secret programmes leave evidence despite extensive security.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how genuine secret programmes leave evidence despite extensive security.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
+</h4>
+<p class="fr-book-author">By Nick Cook</p>
         
-        <p class="fr-book-desc">Explores extraordinary aerospace claims while highlighting evidential challenges.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores extraordinary aerospace claims while highlighting evidential challenges.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides historical context for famous UFO claims and discusses evidential standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for famous UFO claims and discusses evidential standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LAI ITALIAN AIRLINES 1949 VINTAGE POSTER"><img src="{{ '/assets/images/marketplace-covers/921ccd10c750267b0685.jpg' | relative_url }}" alt="Listing image for LAI ITALIAN AIRLINES 1949 VINTAGE POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">LAI ITALIAN AIRLINES 1949 VINTAGE POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Italian aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Italian aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LAI ITALIAN AIRLINES 1949 VINTAGE POSTER"><img src="{{ '/assets/images/marketplace-covers/921ccd10c750267b0685.jpg' | relative_url }}" alt="Listing image for LAI ITALIAN AIRLINES 1949 VINTAGE POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">LAI ITALIAN AIRLINES 1949 VINTAGE POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Italian aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Italian aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1937 Milan Italian Aviation Show Tourism Poster Print A3/A4"><img src="{{ '/assets/images/marketplace-covers/90388756cac88db7716a.jpg' | relative_url }}" alt="Listing image for Vintage 1937 Milan Italian Aviation Show Tourism Poster Print A3/A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1937 Milan Italian Aviation Show Tourism Poster Print A3/A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Italian aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Italian aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1937 Milan Italian Aviation Show Tourism Poster Print A3/A4"><img src="{{ '/assets/images/marketplace-covers/90388756cac88db7716a.jpg' | relative_url }}" alt="Listing image for Vintage 1937 Milan Italian Aviation Show Tourism Poster Print A3/A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1937 Milan Italian Aviation Show Tourism Poster Print A3/A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Italian aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Italian aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alitalia 1960 Inspired By Italian Vintage Airline Advert Travel Planes Poster"><img src="{{ '/assets/images/marketplace-covers/7eadff807d5e58f0c5e7.jpg' | relative_url }}" alt="Listing image for Alitalia 1960 Inspired By Italian Vintage Airline Advert Travel Planes Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Alitalia 1960 Inspired By Italian Vintage Airline Advert Travel Planes Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Italian aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Italian aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alitalia 1960 Inspired By Italian Vintage Airline Advert Travel Planes Poster"><img src="{{ '/assets/images/marketplace-covers/7eadff807d5e58f0c5e7.jpg' | relative_url }}" alt="Listing image for Alitalia 1960 Inspired By Italian Vintage Airline Advert Travel Planes Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Alitalia 1960 Inspired By Italian Vintage Airline Advert Travel Planes Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Italian aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Italian aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Planespotting: Italian Aviation Posters 1910-1943"><img src="{{ '/assets/images/marketplace-covers/94794d340121a904dd5e.jpg' | relative_url }}" alt="Listing image for Planespotting: Italian Aviation Posters 1910-1943" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Planespotting: Italian Aviation Posters 1910-1943</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Italian aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Italian aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Planespotting: Italian Aviation Posters"><img src="{{ '/assets/images/marketplace-covers/94794d340121a904dd5e.jpg' | relative_url }}" alt="Listing image for Planespotting: Italian Aviation Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Planespotting: Italian Aviation Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Italian aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Italian aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Italian+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Italian aviation poster" data-ebay-reference="missing-trail-what-evidence-would-a-real-programme-leave-alleged-magenta-ufo-italian-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -620,7 +620,7 @@ Until such evidence appears, the historical record more closely resembles a late
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -640,7 +640,7 @@ Until such evidence appears, the historical record more closely resembles a late
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -672,7 +672,7 @@ Until such evidence appears, the historical record more closely resembles a late
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -724,7 +724,7 @@ Until such evidence appears, the historical record more closely resembles a late
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -769,7 +769,7 @@ Until such evidence appears, the historical record more closely resembles a late
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -810,85 +810,85 @@ Until such evidence appears, the historical record more closely resembles a late
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: icmh-cihm.org  
-   Link: <a href="https://www.icmh-cihm.org/en/what-we-do/military-archives/74-italian-air-force-historical-archive" target="_blank" rel="noopener noreferrer nofollow">https://www.icmh-cihm.org/en/what-we-do/military-archives/74-italian-air-force-historical-archive</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Italian Air Force Historical ArchiveThe Italian Air Force Historical Office is responsible for the cataloging, preservation of d...</p></details>
+   Link:<a href="https://www.icmh-cihm.org/en/what-we-do/military-archives/74-italian-air-force-historical-archive" target="_blank" rel="noopener noreferrer nofollow">https://www.icmh-cihm.org/en/what-we-do/military-archives/74-italian-air-force-historical-archive</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Italian Air Force Historical ArchiveThe Italian Air Force Historical Office is responsible for the cataloging, preservation of d...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: leonardo.com  
-   Link: <a href="https://www.leonardo.com/en/news-and-stories-detail/-/detail/rediscovered-archives-100-years-of-aeroplanes-and-technology-2" target="_blank" rel="noopener noreferrer nofollow">https://www.leonardo.com/en/news-and-stories-detail/-/detail/rediscovered-archives-100-years-of-aeroplanes-and-technology-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rediscovered archives: 100 years of aeroplanes and...Today, Leonardo has managed to gather the surviving documentation in two si...</p></details>
+   Link:<a href="https://www.leonardo.com/en/news-and-stories-detail/-/detail/rediscovered-archives-100-years-of-aeroplanes-and-technology-2" target="_blank" rel="noopener noreferrer nofollow">https://www.leonardo.com/en/news-and-stories-detail/-/detail/rediscovered-archives-100-years-of-aeroplanes-and-technology-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rediscovered archives: 100 years of aeroplanes and...Today, Leonardo has managed to gather the surviving documentation in two si...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: kevinrandle.blogspot.com  
    Title: david grush and 1933 italian ufo crash  
-   Link: <a href="https://kevinrandle.blogspot.com/2023/06/david-grush-and-1933-italian-ufo-crash.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2023/06/david-grush-and-1933-italian-ufo-crash.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Rivista di Informazione Ufoligica, those documents are faked.... As an Italian myself, I can confirm that the 1933 UFO crash is comp...</p></details>
+   Link:<a href="https://kevinrandle.blogspot.com/2023/06/david-grush-and-1933-italian-ufo-crash.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2023/06/david-grush-and-1933-italian-ufo-crash.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Rivista di Informazione Ufoligica, those documents are faked.... As an Italian myself, I can confirm that the 1933 UFO crash is comp...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: theblackvault.com  
    Title: the ufo files of mussolini [fascist ufo files](&#123;&#123; 'fascist-files/' | relative_url &#125;&#125;) by roberto pinotti  
-   Link: <a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — This material dealt with a purported flying saucer that had either cr...</p></details>
+   Link:<a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — This material dealt with a purported flying saucer that had either cr...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: familysearch.org  
    Title: Italy Military Records  
-   Link: <a href="https://www.familysearch.org/en/wiki/Italy_Military_Records" target="_blank" rel="noopener noreferrer nofollow">https://www.familysearch.org/en/wiki/Italy_Military_Records</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>25 Feb 2026 — Evidence that an ancestor actually served may be found in family records, biographies, census, probate records, civil regis...</p></details>
+   Link:<a href="https://www.familysearch.org/en/wiki/Italy_Military_Records" target="_blank" rel="noopener noreferrer nofollow">https://www.familysearch.org/en/wiki/Italy_Military_Records</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>25 Feb 2026 — Evidence that an ancestor actually served may be found in family records, biographies, census, probate records, civil regis...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nato.int  
-   Link: <a href="https://www.nato.int/en/about-us/official-texts-and-resources/NATO-archives/archive-finding-aids" target="_blank" rel="noopener noreferrer nofollow">https://www.nato.int/en/about-us/official-texts-and-resources/NATO-archives/archive-finding-aids</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Archive finding aidsThe Report is drafted part in French and part in English and has not been translated. These extracts of the report ar...</p></details>
+   Link:<a href="https://www.nato.int/en/about-us/official-texts-and-resources/NATO-archives/archive-finding-aids" target="_blank" rel="noopener noreferrer nofollow">https://www.nato.int/en/about-us/official-texts-and-resources/NATO-archives/archive-finding-aids</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Archive finding aidsThe Report is drafted part in French and part in English and has not been translated. These extracts of the report ar...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ibccdigitalarchive.lincoln.ac.uk  
-   Link: <a href="https://ibccdigitalarchive.lincoln.ac.uk/forces" target="_blank" rel="noopener noreferrer nofollow">https://ibccdigitalarchive.lincoln.ac.uk/forces</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IBCC Digital Archive is an extensive repository of the personal stories of those who served and suffered during WWII: it includes intervi...</p></details>
+   Link:<a href="https://ibccdigitalarchive.lincoln.ac.uk/forces" target="_blank" rel="noopener noreferrer nofollow">https://ibccdigitalarchive.lincoln.ac.uk/forces</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IBCC Digital Archive is an extensive repository of the personal stories of those who served and suffered during WWII: it includes intervi...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/r/C14434" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/r/C14434</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Office: Allied Forces, Mediterranean Theatre: Military...This series contains microfilm copies of documents originating with the Headqua...</p></details>
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/r/C14434" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/r/C14434</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office: Allied Forces, Mediterranean Theatre: Military...This series contains microfilm copies of documents originating with the Headqua...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: wantedinrome.com  
    Title: the crash that predated [roswell](&#123;&#123; 'roswell/' | relative_url &#125;&#125;) mussolinis secret ufo files  
-   Link: <a href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...2 Mar 2026 — Italy&#x27;s Secret UFO Files: The Crash That Predated Roswell by 14 Y...</p></details>
+   Link:<a href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...2 Mar 2026 — Italy&#x27;s Secret UFO Files: The Crash That Predated Roswell by 14 Y...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: newsweek.com  
    Title: [vatican](&#123;&#123; 'vatican/' | relative_url &#125;&#125;) pressure archives ufo cover david grusch 1816908  
-   Link: <a href="https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pressure on Vatican to Reveal Archives After &#x27;UFO Cover...2 Aug 2023 — Pressure is growing on the Vatican to shed light on whether it wa...</p></details>
+   Link:<a href="https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pressure on Vatican to Reveal Archives After &#x27;UFO Cover...2 Aug 2023 — Pressure is growing on the Vatican to shed light on whether it wa...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_grusch_and_the_italian_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_grusch_and_the_italian_ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lation that Mussolini&#x27;s government retrieved a crashed UFO/UAP in 1933.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_grusch_and_the_italian_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_grusch_and_the_italian_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lation that Mussolini&#x27;s government retrieved a crashed UFO/UAP in 1933.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=RBAISwCZ2v0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RBAISwCZ2v0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Jesus an alien? Pope Francis&#x27; interest in UAPs explained | Reality Check with Ross Coulthart...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RBAISwCZ2v0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RBAISwCZ2v0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is Jesus an alien? Pope Francis&#x27; interest in UAPs explained | Reality Check with Ross Coulthart...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DVYMSf-CJ0F/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVYMSf-CJ0F/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>he Pope was involved” #ufo #uap #aliens #disclosure #...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DVYMSf-CJ0F/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVYMSf-CJ0F/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>he Pope was involved” #ufo #uap #aliens #disclosure #...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DVYMSf-CJ0F/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVYMSf-CJ0F/?hl=en-gb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Italy&#x27;s Secret #UFO Files: The Crash That Predated...Italy UFO Crash Confirmed By Luis Elizondo #ufo #UAP #UFODisclosure #ufocrash · Jun...</p></details>
+   Link:<a href="https://www.instagram.com/p/DVYMSf-CJ0F/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVYMSf-CJ0F/?hl=en-gb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Italy&#x27;s Secret #UFO Files: The Crash That Predated...Italy UFO Crash Confirmed By Luis Elizondo #ufo #UAP #UFODisclosure #ufocrash · Jun...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: metabunk.org  
    Title: David Grusch, Whistleblower, Claims U.S  
-   Link: <a href="https://www.metabunk.org/threads/the-debrief-intelligence-officials-say-u-s-has-retrieved-craft-of-non-human-origin.12977/post-291380" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/the-debrief-intelligence-officials-say-u-s-has-retrieved-craft-of-non-human-origin.12977/post-291380</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Has Retrieved...5 Jun 2023 — Re: Not human, but not necessarily space aliens confusion. It is worth recalling that many modern UFO afici...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/the-debrief-intelligence-officials-say-u-s-has-retrieved-craft-of-non-human-origin.12977/post-291380" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/the-debrief-intelligence-officials-say-u-s-has-retrieved-craft-of-non-human-origin.12977/post-291380</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Has Retrieved...5 Jun 2023 — Re: Not human, but not necessarily space aliens confusion. It is worth recalling that many modern UFO afici...</p></details>

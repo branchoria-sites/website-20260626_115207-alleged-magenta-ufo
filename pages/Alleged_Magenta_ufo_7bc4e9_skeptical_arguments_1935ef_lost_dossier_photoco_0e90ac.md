@@ -280,13 +280,13 @@ image: /assets/images/Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef_lost
 
 ## Introduction
 
-One of the strongest sceptical objections to the [alleged Magenta UFO]({{ 'alleged-magenta-ufo/' | relative_url }}) crash is not the content of the purported Fascist-era documents but the condition in which they reached researchers. According to the principal published account, a key original dossier reportedly disappeared, while earlier photocopies were themselves disputed. That combination creates a serious [chain-of-custody]({{ 'custody/' | relative_url }}) problem: historians cannot compare surviving copies with an authenticated original, examine the physical document, or reconstruct how the papers were preserved over the decades. As a result, later claims about the case depend heavily on reproductions and recollections rather than on evidence that can be independently verified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Secret documents suggest a suspicious cover-up</span><span class="citation-popover-snippet">Popular MechanicsResearcher Says He Has Evidence of a 1933 UFO Crash...July 6, 2023 — 6 Jul 2023 — An Italian researcher says the first...</span><span class="citation-popover-meta">Published: July 6, 2023</span></span></span>
+One of the strongest sceptical objections to the [alleged Magenta UFO]({{ 'alleged-magenta-ufo/' | relative_url }}) crash is not the content of the purported Fascist-era documents but the condition in which they reached researchers. According to the principal published account, a key original dossier reportedly disappeared, while earlier photocopies were themselves disputed. That combination creates a serious [chain-of-custody]({{ 'custody/' | relative_url }}) problem: historians cannot compare surviving copies with an authenticated original, examine the physical document, or reconstruct how the papers were preserved over the decades. As a result, later claims about the case depend heavily on reproductions and recollections rather than on evidence that can be independently verified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Secret documents suggest a suspicious cover-up</span><span class="citation-popover-snippet">Popular MechanicsResearcher Says He Has Evidence of a 1933 UFO Crash...July 6, 2023 — 6 Jul 2023 — An Italian researcher says the first...</span><span class="citation-popover-meta">Published: July 6, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef_lost_dossier_photoco_0e90ac-Illustration-1-dark.svg" | relative_url }}" alt="Lost Dossier illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef_lost_dossier_photoco_0e90ac-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef_lost_dossier_photoco_0e90ac-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the missing original was said to contain
 
-The published history of the Magenta papers describes more than one anonymous delivery. Roberto Pinotti has stated that, beginning in the mid-1990s, he and colleagues received documents from an unidentified correspondent later referred to publicly as "Mr. X". Among the material was said to be an original dossier of roughly thirty pages that had reportedly been sent to the Italian newspaper *Il Resto del Carlino*. According to Pinotti's own account, that original dossier was subsequently lost before it could become part of a stable public archive or undergo broad independent examination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Secret documents suggest a suspicious cover-up</span><span class="citation-popover-snippet">Popular MechanicsResearcher Says He Has Evidence of a 1933 UFO Crash...July 6, 2023 — 6 Jul 2023 — An Italian researcher says the first...</span><span class="citation-popover-meta">Published: July 6, 2023</span></span></span>
+The published history of the Magenta papers describes more than one anonymous delivery. Roberto Pinotti has stated that, beginning in the mid-1990s, he and colleagues received documents from an unidentified correspondent later referred to publicly as "Mr. X". Among the material was said to be an original dossier of roughly thirty pages that had reportedly been sent to the Italian newspaper *Il Resto del Carlino*. According to Pinotti's own account, that original dossier was subsequently lost before it could become part of a stable public archive or undergo broad independent examination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Secret documents suggest a suspicious cover-up</span><span class="citation-popover-snippet">Popular MechanicsResearcher Says He Has Evidence of a 1933 UFO Crash...July 6, 2023 — 6 Jul 2023 — An Italian researcher says the first...</span><span class="citation-popover-meta">Published: July 6, 2023</span></span></span>
 
 The reported loss matters because the dossier was described as containing more than the handful of [telegrams]({{ 'telegrams/' | relative_url }}) and memoranda that later became widely reproduced. If an original compilation once existed, it might have preserved features impossible to judge from copies alone, including:
 
@@ -303,7 +303,7 @@ The reported loss matters because the dossier was described as containing more t
 
 Without access to those physical characteristics, researchers cannot determine whether the papers formed part of an authentic government dossier or were assembled from unrelated sources at a later date.
 
-Importantly, no independent archive has confirmed possession of this reported original dossier, nor has it been made available for comprehensive scholarly inspection. Even researchers sympathetic to the case therefore rely primarily on reproductions rather than the missing compilation itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wantedinrome.com">[Wanted in Rome]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wantedinrome.com</span><span class="citation-popover-title">Wanted in Rome The Secret Crash That Predated Roswell: Mussolini&#x27;s UFO</span><span class="citation-popover-snippet">Wanted in RomeThe Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...March 2, 2026 — 2 Mar 2026 — No independent archive has corrobor...</span><span class="citation-popover-meta">Published: March 2, 2026</span></span></span>
+Importantly, no independent archive has confirmed possession of this reported original dossier, nor has it been made available for comprehensive scholarly inspection. Even researchers sympathetic to the case therefore rely primarily on reproductions rather than the missing compilation itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wantedinrome.com">[Wanted in Rome]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wantedinrome.com</span><span class="citation-popover-title">Wanted in Rome The Secret Crash That Predated Roswell: Mussolini&#x27;s UFO</span><span class="citation-popover-snippet">Wanted in RomeThe Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...March 2, 2026 — 2 Mar 2026 — No independent archive has corrobor...</span><span class="citation-popover-meta">Published: March 2, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vT0p3hbjal0" title="GIORNATA MONDIALE AVVISTAMENTO UFO LO STRANO CASO DELL&#x27;UFO DI MAGENTA ( NEL 1933)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vT0p3hbjal0" target="_blank" rel="noopener noreferrer">GIORNATA MONDIALE AVVISTAMENTO UFO LO STRANO CASO DELL&#x27;UFO DI MAGENTA ( NEL 1933)</a></p><p class="youtube-embed-meta">Channel: L&#x27; Edicola del Trap</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vT0p3hbjal0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vT0p3hbjal0">Open on YouTube</a></p></div></div></div>
@@ -320,7 +320,7 @@ For the Magenta case, this creates several practical limitations.
 
 **Document relationships become uncertain.** Even if each reproduced page were genuine, researchers cannot easily determine whether they originally belonged to the same government file, were filed together decades later, or originated from entirely separate collections.
 
-**The custody trail breaks.** Because the anonymous sender has never been publicly identified, there is no documented sequence showing who preserved the papers from the 1930s until their appearance in the 1990s. That missing history prevents independent verification of how the documents survived and whether they remained unchanged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wantedinrome.com">[Wanted in Rome]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wantedinrome.com</span><span class="citation-popover-title">Wanted in Rome The Secret Crash That Predated Roswell: Mussolini&#x27;s UFO</span><span class="citation-popover-snippet">Wanted in RomeThe Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...March 2, 2026 — 2 Mar 2026 — No independent archive has corrobor...</span><span class="citation-popover-meta">Published: March 2, 2026</span></span></span>
+**The custody trail breaks.** Because the anonymous sender has never been publicly identified, there is no documented sequence showing who preserved the papers from the 1930s until their appearance in the 1990s. That missing history prevents independent verification of how the documents survived and whether they remained unchanged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wantedinrome.com">[Wanted in Rome]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wantedinrome.com</span><span class="citation-popover-title">Wanted in Rome The Secret Crash That Predated Roswell: Mussolini&#x27;s UFO</span><span class="citation-popover-snippet">Wanted in RomeThe Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...March 2, 2026 — 2 Mar 2026 — No independent archive has corrobor...</span><span class="citation-popover-meta">Published: March 2, 2026</span></span></span>
 
 These are standard problems in documentary history rather than objections unique to UFO research. The same evidential standards would apply to disputed intelligence files, wartime correspondence or political archives.
 
@@ -330,7 +330,7 @@ These are standard problems in documentary history rather than objections unique
 
 The evidential picture is weakened further by reports that an earlier batch of photocopied material associated with the case had already generated doubts before the better-known documents emerged.
 
-Pinotti has recounted that photocopies previously supplied to another UFO publication were considered inauthentic by the investigator who examined them. That does not automatically prove that every later document is false, because separate anonymous submissions could have different origins. However, it does mean that the documentary record entered public discussion already carrying questions about authenticity and source reliability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Secret documents suggest a suspicious cover-up</span><span class="citation-popover-snippet">Popular MechanicsResearcher Says He Has Evidence of a 1933 UFO Crash...July 6, 2023 — 6 Jul 2023 — An Italian researcher says the first...</span><span class="citation-popover-meta">Published: July 6, 2023</span></span></span>
+Pinotti has recounted that photocopies previously supplied to another UFO publication were considered inauthentic by the investigator who examined them. That does not automatically prove that every later document is false, because separate anonymous submissions could have different origins. However, it does mean that the documentary record entered public discussion already carrying questions about authenticity and source reliability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Secret documents suggest a suspicious cover-up</span><span class="citation-popover-snippet">Popular MechanicsResearcher Says He Has Evidence of a 1933 UFO Crash...July 6, 2023 — 6 Jul 2023 — An Italian researcher says the first...</span><span class="citation-popover-meta">Published: July 6, 2023</span></span></span>
 
 From a historian's perspective, this creates a cumulative problem rather than a single defect:
 
@@ -352,7 +352,7 @@ Each issue individually might be manageable. Together they substantially increas
 
 ## Why later reproductions cannot fully solve the problem
 
-Supporters of the Magenta story have pointed to individual documents—including telegrams and memoranda—and have argued that some appear consistent with the typography and bureaucratic style of Fascist Italy. They have also cited claims of limited forensic examination of certain materials. Those observations may be relevant when assessing particular pages, but they do not reconstruct the missing chain of custody linking the documents to an identifiable government archive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interestingengineering.com">[Interesting Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interestingengineering.com</span><span class="citation-popover-title">worlds first ufo crash happened in italy claim</span><span class="citation-popover-snippet">Interesting EngineeringWorld&#x27;s first UFO crash happened in Italy, 14 years before...10 Jul 2023 — Another document sent to Pinotti refer...</span></span></span>
+Supporters of the Magenta story have pointed to individual documents—including telegrams and memoranda—and have argued that some appear consistent with the typography and bureaucratic style of Fascist Italy. They have also cited claims of limited forensic examination of certain materials. Those observations may be relevant when assessing particular pages, but they do not reconstruct the missing chain of custody linking the documents to an identifiable government archive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interestingengineering.com">[Interesting Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interestingengineering.com</span><span class="citation-popover-title">worlds first ufo crash happened in italy claim</span><span class="citation-popover-snippet">Interesting EngineeringWorld&#x27;s first UFO crash happened in Italy, 14 years before...10 Jul 2023 — Another document sent to Pinotti refer...</span></span></span>
 
 Likewise, the later public attention generated by references to the Magenta case in modern UFO discussions does not independently authenticate the documents themselves. Public interest can increase scrutiny, but it does not replace archival provenance.
 
@@ -380,200 +380,200 @@ The most valuable developments would include:
 
 Absent developments of that kind, the missing original dossier remains more than an unfortunate archival loss. It prevents investigators from answering several basic historical questions that would ordinarily be addressed before accepting a documentary claim of exceptional significance.
 
-For that reason, the lost dossier and disputed photocopies remain one of the most important unresolved evidential weaknesses in the alleged Magenta UFO crash narrative. They do not prove the documents are fabricated, but they leave the central claims resting on evidence that cannot presently be authenticated to the standard normally expected for major historical discoveries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wantedinrome.com">[Wanted in Rome+2Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wantedinrome.com</span><span class="citation-popover-title">Wanted in Rome The Secret Crash That Predated Roswell: Mussolini&#x27;s UFO</span><span class="citation-popover-snippet">Wanted in RomeThe Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...March 2, 2026 — 2 Mar 2026 — No independent archive has corrobor...</span><span class="citation-popover-meta">Published: March 2, 2026</span></span></span>
+For that reason, the lost dossier and disputed photocopies remain one of the most important unresolved evidential weaknesses in the alleged Magenta UFO crash narrative. They do not prove the documents are fabricated, but they leave the central claims resting on evidence that cannot presently be authenticated to the standard normally expected for major historical discoveries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wantedinrome.com">[Wanted in Rome+2Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wantedinrome.com</span><span class="citation-popover-title">Wanted in Rome The Secret Crash That Predated Roswell: Mussolini&#x27;s UFO</span><span class="citation-popover-snippet">Wanted in RomeThe Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...March 2, 2026 — 2 Mar 2026 — No independent archive has corrobor...</span><span class="citation-popover-meta">Published: March 2, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef_lost_dossier_photoco_0e90ac-Illustration-3-dark.svg" | relative_url }}" alt="Lost Dossier illustration 3" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef_lost_dossier_photoco_0e90ac-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef_lost_dossier_photoco_0e90ac-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the lost dossier still matters. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the lost dossier still matters. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Discusses evaluating disputed evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses evaluating disputed evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Frames evidential quality in UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Frames evidential quality in UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Examines how evidence is interpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how evidence is interpreted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">First published 1972.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1972.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="lost-dossier-why-the-lost-dossier-still-matters-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -589,7 +589,7 @@ For that reason, the lost dossier and disputed photocopies remain one of the mos
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -609,7 +609,7 @@ For that reason, the lost dossier and disputed photocopies remain one of the mos
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -641,7 +641,7 @@ For that reason, the lost dossier and disputed photocopies remain one of the mos
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -693,7 +693,7 @@ For that reason, the lost dossier and disputed photocopies remain one of the mos
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -738,7 +738,7 @@ For that reason, the lost dossier and disputed photocopies remain one of the mos
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -779,78 +779,78 @@ For that reason, the lost dossier and disputed photocopies remain one of the mos
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: popularmechanics.com  
    Title: Secret documents suggest a suspicious cover-up  
-   Link: <a href="https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Popular MechanicsResearcher Says He Has Evidence of a 1933 UFO Crash...July 6, 2023 — 6 Jul 2023 — An Italian researcher says the first...</p></details>
+   Link:<a href="https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Popular MechanicsResearcher Says He Has Evidence of a 1933 UFO Crash...July 6, 2023 — 6 Jul 2023 — An Italian researcher says the first...</p></details>
    Published: July 6, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: interestingengineering.com  
    Title: worlds first ufo crash happened in italy claim  
-   Link: <a href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow">https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Interesting EngineeringWorld&#x27;s first UFO crash happened in Italy, 14 years before...10 Jul 2023 — Another document sent to Pinotti refer...</p></details>
+   Link:<a href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow">https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interesting EngineeringWorld&#x27;s first UFO crash happened in Italy, 14 years before...10 Jul 2023 — Another document sent to Pinotti refer...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wantedinrome.com  
    Title: Wanted in Rome The Secret Crash That Predated [Roswell](&#123;&#123; 'roswell/' | relative_url &#125;&#125;): Mussolini's UFO  
-   Link: <a href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wanted in RomeThe Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...March 2, 2026 — 2 Mar 2026 — No independent archive has corrobor...</p></details>
+   Link:<a href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wanted in RomeThe Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...March 2, 2026 — 2 Mar 2026 — No independent archive has corrobor...</p></details>
    Published: March 2, 2026  
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ilfattoquotidiano.it  
    Title: ufo in italia loggetto volante secretato da mussolini lenigma dei piloti alieni  
-   Link: <a href="https://www.ilfattoquotidiano.it/2017/03/21/ufo-in-italia-loggetto-volante-secretato-da-mussolini-lenigma-dei-piloti-alieni/3465633/" target="_blank" rel="noopener noreferrer nofollow">https://www.ilfattoquotidiano.it/2017/03/21/ufo-in-italia-loggetto-volante-secretato-da-mussolini-lenigma-dei-piloti-alieni/3465633/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufo in Italia, l&#x27;oggetto volante secretato da Benito Mussolini...21 Mar 2017 — L&#x27;ultima “strana” storia che riguarda gli Ufo l&#x27;ha raccon...</p></details>
+   Link:<a href="https://www.ilfattoquotidiano.it/2017/03/21/ufo-in-italia-loggetto-volante-secretato-da-mussolini-lenigma-dei-piloti-alieni/3465633/" target="_blank" rel="noopener noreferrer nofollow">https://www.ilfattoquotidiano.it/2017/03/21/ufo-in-italia-loggetto-volante-secretato-da-mussolini-lenigma-dei-piloti-alieni/3465633/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ufo in Italia, l&#x27;oggetto volante secretato da Benito Mussolini...21 Mar 2017 — L&#x27;ultima “strana” storia che riguarda gli Ufo l&#x27;ha raccon...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=l7S8KnXePJI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l7S8KnXePJI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1933 Italy UFO crash Roberto [Pinotti documents](&amp;#123;&amp;#123; &#x27;pinotti-files/&#x27; | relative_url &amp;#125;&amp;#125;) Roberto Pinotti talks 1933 Magenta, Italy crash-retrieval at the European UAP/NHI Disclosu...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=l7S8KnXePJI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l7S8KnXePJI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1933 Italy UFO crash Roberto [Pinotti documents](&amp;#123;&amp;#123; &#x27;pinotti-files/&#x27; | relative_url &amp;#125;&amp;#125;) Roberto Pinotti talks 1933 Magenta, Italy crash-retrieval at the European UAP/NHI Disclosu...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=KQ2znFihC6M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KQ2znFihC6M</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Magenta Project: The 1933 Magenta, Italy UFO Crash-Retrieval That Changed the World Updated Supercut...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KQ2znFihC6M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KQ2znFihC6M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Magenta Project: The 1933 Magenta, Italy UFO Crash-Retrieval That Changed the World Updated Supercut...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1rfmsvl/descendant_of_a_direct_witness_of_ufo_magenta/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1rfmsvl/descendant_of_a_direct_witness_of_ufo_magenta/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ther the historical background, RS/33 documents, and a NEW...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1rfmsvl/descendant_of_a_direct_witness_of_ufo_magenta/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1rfmsvl/descendant_of_a_direct_witness_of_ufo_magenta/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ther the historical background, RS/33 documents, and a NEW...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: news.yahoo.com  
    Title: researcher says first ufo really 191900523  
-   Link: <a href="https://news.yahoo.com/researcher-says-first-ufo-really-191900523.html" target="_blank" rel="noopener noreferrer nofollow">https://news.yahoo.com/researcher-says-first-ufo-really-191900523.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Researcher Says the First UFO Really Crashed in Italy...6 Jul 2023 — An Italian researcher claims to have proof that backs up recent all...</p></details>
+   Link:<a href="https://news.yahoo.com/researcher-says-first-ufo-really-191900523.html" target="_blank" rel="noopener noreferrer nofollow">https://news.yahoo.com/researcher-says-first-ufo-really-191900523.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Researcher Says the First UFO Really Crashed in Italy...6 Jul 2023 — An Italian researcher claims to have proof that backs up recent all...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/freedomitaliauno/videos/%F0%9D%97%9C%F0%9D%97%B9-%F0%9D%98%80%F0%9D%97%B2%F0%9D%97%B4%F0%9D%97%BF%F0%9D%97%B2%F0%9D%98%81%F0%9D%97%BC-%F0%9D%97%B1%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B9%F0%9D%98%82%F0%9D%97%B3%F0%9D%97%BC-%F0%9D%97%B1%F0%9D%97%B6-%F0%9D%97%A0%F0%9D%98%82%F0%9D%98%80%F0%9D%98%80%F0%9D%97%BC%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B6e-venuto-il-momento-di-raggiungere-magenta-per-sc/1039209550713808/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/freedomitaliauno/videos/%F0%9D%97%9C%F0%9D%97%B9-%F0%9D%98%80%F0%9D%97%B2%F0%9D%97%B4%F0%9D%97%BF%F0%9D%97%B2%F0%9D%98%81%F0%9D%97%BC-%F0%9D%97%B1%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B9%F0%9D%98%82%F0%9D%97%B3%F0%9D%97%BC-%F0%9D%97%B1%F0%9D%97%B6-%F0%9D%97%A0%F0%9D%98%82%F0%9D%98%80%F0%9D%98%80%F0%9D%97%BC%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B6e-venuto-il-momento-di-raggiungere-magenta-per-sc/1039209550713808/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>per scoprire il luogo che avrebbe fatto da scenario al primo...</p></details>
+   Link:<a href="https://www.facebook.com/freedomitaliauno/videos/%F0%9D%97%9C%F0%9D%97%B9-%F0%9D%98%80%F0%9D%97%B2%F0%9D%97%B4%F0%9D%97%BF%F0%9D%97%B2%F0%9D%98%81%F0%9D%97%BC-%F0%9D%97%B1%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B9%F0%9D%98%82%F0%9D%97%B3%F0%9D%97%BC-%F0%9D%97%B1%F0%9D%97%B6-%F0%9D%97%A0%F0%9D%98%82%F0%9D%98%80%F0%9D%98%80%F0%9D%97%BC%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B6e-venuto-il-momento-di-raggiungere-magenta-per-sc/1039209550713808/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/freedomitaliauno/videos/%F0%9D%97%9C%F0%9D%97%B9-%F0%9D%98%80%F0%9D%97%B2%F0%9D%97%B4%F0%9D%97%BF%F0%9D%97%B2%F0%9D%98%81%F0%9D%97%BC-%F0%9D%97%B1%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B9%F0%9D%98%82%F0%9D%97%B3%F0%9D%97%BC-%F0%9D%97%B1%F0%9D%97%B6-%F0%9D%97%A0%F0%9D%98%82%F0%9D%98%80%F0%9D%98%80%F0%9D%97%BC%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B6e-venuto-il-momento-di-raggiungere-magenta-per-sc/1039209550713808/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>per scoprire il luogo che avrebbe fatto da scenario al primo...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=LLnVXIzsFt8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LLnVXIzsFt8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roberto Pinotti talks 1933 Magenta, Italy crash-retrieval at the European UAP/NHI Disclosure Summit...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LLnVXIzsFt8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LLnVXIzsFt8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roberto Pinotti talks 1933 Magenta, Italy crash-retrieval at the European UAP/NHI Disclosure Summit...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sofmag.com  
    Title: ufo crash magenta italy 1933  
-   Link: <a href="https://sofmag.com/ufo-crash-magenta-italy-1933/" target="_blank" rel="noopener noreferrer nofollow">https://sofmag.com/ufo-crash-magenta-italy-1933/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mussolini&#x27;s UFO file: The 1933 Magenta Crash Declassified9 Nov 2025 — The RS/33 reports noted DNA-like structures in the Magenta occupants...</p></details>
+   Link:<a href="https://sofmag.com/ufo-crash-magenta-italy-1933/" target="_blank" rel="noopener noreferrer nofollow">https://sofmag.com/ufo-crash-magenta-italy-1933/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mussolini&#x27;s UFO file: The 1933 Magenta Crash Declassified9 Nov 2025 — The RS/33 reports noted DNA-like structures in the Magenta occupants...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=fY6sBD_IWEs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fY6sBD_IWEs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Italy’s UFO Crash Before Roswell? The 1933 Magenta Incident Revealed...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fY6sBD_IWEs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fY6sBD_IWEs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Italy’s UFO Crash Before Roswell? The 1933 Magenta Incident Revealed...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: UFO sightings in Italy  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in Italyso-called &quot;[Fascist UFO Files](&amp;#123;&amp;#123; &#x27;fascist-files/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;, which dealt with a flying saucer that had crashed near Milan in 1933. Cabinet RS/...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in Italyso-called &quot;[Fascist UFO Files](&amp;#123;&amp;#123; &#x27;fascist-files/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;, which dealt with a flying saucer that had crashed near Milan in 1933. Cabinet RS/...</p></details>

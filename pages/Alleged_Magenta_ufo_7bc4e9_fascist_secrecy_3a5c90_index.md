@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /alleged-magenta-ufo-7bc4e9-fascist/
 description: Focused pages that expand on Secrecy.
-date: '2026-06-26'
+date: '2026'
 layout: default
 parent_basename: Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_3a5c90
 parent_title: Secrecy
@@ -16,7 +16,7 @@ parent_permalink: /secrecy/
 
 # Explore Topics in Secrecy
 
-The following pages expand on the main **[Secrecy]({{ '/secrecy/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Secrecy]({{ '/secrecy/' | relative_url }})** page and cover its key branches in.
 
 - [Transfer claim]({{ '/transfer-claim/' | relative_url }})
 - [Aviation secrecy]({{ '/aviation-secrecy/' | relative_url }})

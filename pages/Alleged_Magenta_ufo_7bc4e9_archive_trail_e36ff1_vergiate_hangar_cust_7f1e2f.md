@@ -274,15 +274,15 @@ image: /assets/images/Alleged_Magenta_ufo_7bc4e9_archive_trail_e36ff1_vergiate_h
 
 ## Introduction
 
-The claim that a recovered craft from the alleged 1933 Magenta incident was taken to the [SIAI-Marchetti]({{ 'siai/' | relative_url }}) aviation works at Vergiate is one of the most specific and testable parts of the wider story. Unlike claims about secret committees or classified studies, a transfer into an active aircraft factory would potentially have created an administrative footprint involving transport, storage, security, military liaison and industrial record-keeping. That makes the Vergiate claim especially important. If the alleged [custody chain]({{ 'custody-chain/' | relative_url }}) were real, researchers would expect at least some indirect evidence to survive in company archives, government files or military records. To date, however, no independently verified documentary trail has emerged that demonstrates such custody, even though the claim has been repeated in ufological literature for decades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interestingengineering.com">[Interesting Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interestingengineering.com</span><span class="citation-popover-title">worlds first ufo crash happened in italy claim</span><span class="citation-popover-snippet">Interesting EngineeringWorld&#x27;s first UFO crash happened in Italy, 14 years before...10 Jul 2023 — Pinotti and his colleague have been wo...</span></span></span>
+The claim that a recovered craft from the alleged 1933 Magenta incident was taken to the [SIAI-Marchetti]({{ 'siai/' | relative_url }}) aviation works at Vergiate is one of the most specific and testable parts of the wider story. Unlike claims about secret committees or classified studies, a transfer into an active aircraft factory would potentially have created an administrative footprint involving transport, storage, security, military liaison and industrial record-keeping. That makes the Vergiate claim especially important. If the alleged [custody chain]({{ 'custody-chain/' | relative_url }}) were real, researchers would expect at least some indirect evidence to survive in company archives, government files or military records. To date, however, no independently verified documentary trail has emerged that demonstrates such custody, even though the claim has been repeated in ufological literature for decades.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interestingengineering.com">[Interesting Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interestingengineering.com</span><span class="citation-popover-title">worlds first ufo crash happened in italy claim</span><span class="citation-popover-snippet">Interesting EngineeringWorld&#x27;s first UFO crash happened in Italy, 14 years before...10 Jul 2023 — Pinotti and his colleague have been wo...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_archive_trail_e36ff1_vergiate_hangar_cust_7f1e2f-Illustration-1-dark.svg" | relative_url }}" alt="Vergiate Trail illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_archive_trail_e36ff1_vergiate_hangar_cust_7f1e2f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_archive_trail_e36ff1_vergiate_hangar_cust_7f1e2f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the hangar claim matters
 
-Roberto Pinotti's reconstruction of the alleged Magenta incident places the recovered object inside the SIAI-Marchetti works at [Vergiate]({{ 'vergiate/' | relative_url }}), an important Italian aircraft manufacturing centre in northern Italy. According to his account, the factory became the secure location where the object was examined under Fascist authority before later disappearing from Italian custody after the Second World War. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interestingengineering.com">[Interesting Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interestingengineering.com</span><span class="citation-popover-title">worlds first ufo crash happened in italy claim</span><span class="citation-popover-snippet">Interesting EngineeringWorld&#x27;s first UFO crash happened in Italy, 14 years before...10 Jul 2023 — Pinotti and his colleague have been wo...</span></span></span>
+Roberto Pinotti's reconstruction of the alleged Magenta incident places the recovered object inside the SIAI-Marchetti works at [Vergiate]({{ 'vergiate/' | relative_url }}), an important Italian aircraft manufacturing centre in northern Italy. According to his account, the factory became the secure location where the object was examined under Fascist authority before later disappearing from Italian custody after the Second World War.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interestingengineering.com">[Interesting Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interestingengineering.com</span><span class="citation-popover-title">worlds first ufo crash happened in italy claim</span><span class="citation-popover-snippet">Interesting EngineeringWorld&#x27;s first UFO crash happened in Italy, 14 years before...10 Jul 2023 — Pinotti and his colleague have been wo...</span></span></span>
 
-This matters because Vergiate was not an anonymous warehouse. During the interwar period it was a major aviation production site closely connected with Italy's military aircraft industry. Aircraft were designed, assembled, tested and delivered there, making the facility one of the few places in northern Italy that could plausibly accommodate a large, technically unusual object under government supervision if such an operation had actually occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+This matters because Vergiate was not an anonymous warehouse. During the interwar period it was a major aviation production site closely connected with Italy's military aircraft industry. Aircraft were designed, assembled, tested and delivered there, making the facility one of the few places in northern Italy that could plausibly accommodate a large, technically unusual object under government supervision if such an operation had actually occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 The claim therefore shifts the discussion from witness testimony to logistics. A secret recovery stored inside an operational aircraft factory would require:
 
@@ -320,13 +320,13 @@ If an entire hangar or secure section had been diverted for an unidentified obje
 
 </div>
 
-No authenticated examples of such records connected with the alleged Magenta recovery have been publicly produced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interestingengineering.com">[Interesting Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interestingengineering.com</span><span class="citation-popover-title">worlds first ufo crash happened in italy claim</span><span class="citation-popover-snippet">Interesting EngineeringWorld&#x27;s first UFO crash happened in Italy, 14 years before...10 Jul 2023 — Pinotti and his colleague have been wo...</span></span></span>
+No authenticated examples of such records connected with the alleged Magenta recovery have been publicly produced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interestingengineering.com">[Interesting Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interestingengineering.com</span><span class="citation-popover-title">worlds first ufo crash happened in italy claim</span><span class="citation-popover-snippet">Interesting EngineeringWorld&#x27;s first UFO crash happened in Italy, 14 years before...10 Jul 2023 — Pinotti and his colleague have been wo...</span></span></span>
 
 ### Technical documentation
 
 Engineers typically document unusual inspection work, particularly when evaluating unfamiliar aircraft or captured technology. Even if the object were deliberately mislabelled, technical notes, laboratory requests or engineering memoranda might survive within company collections or state aviation archives.
 
-[Supporters]({{ 'supporters/' | relative_url }}) of the Magenta story often argue that all such documentation disappeared during wartime destruction or later secrecy. Critics note that this explanation remains speculative because no verified chain of custody for the supposed records has been established. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interestingengineering.com">[Interesting Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interestingengineering.com</span><span class="citation-popover-title">worlds first ufo crash happened in italy claim</span><span class="citation-popover-snippet">Interesting EngineeringWorld&#x27;s first UFO crash happened in Italy, 14 years before...10 Jul 2023 — Pinotti and his colleague have been wo...</span></span></span>
+[Supporters]({{ 'supporters/' | relative_url }}) of the Magenta story often argue that all such documentation disappeared during wartime destruction or later secrecy. Critics note that this explanation remains speculative because no verified chain of custody for the supposed records has been established.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interestingengineering.com">[Interesting Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interestingengineering.com</span><span class="citation-popover-title">worlds first ufo crash happened in italy claim</span><span class="citation-popover-snippet">Interesting EngineeringWorld&#x27;s first UFO crash happened in Italy, 14 years before...10 Jul 2023 — Pinotti and his colleague have been wo...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8TrRaXWzcbM" title="David Grusch - In 1933 an UFO crashed in Italy and Mussolini" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8TrRaXWzcbM" target="_blank" rel="noopener noreferrer">David Grusch - In 1933 an UFO crashed in Italy and Mussolini</a></p><p class="youtube-embed-meta">Channel: Alieninfoo</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8TrRaXWzcbM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8TrRaXWzcbM">Open on YouTube</a></p></div></div></div>
@@ -354,7 +354,7 @@ The absence of an independently verified cross-reference across these archival c
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_archive_trail_e36ff1_vergiate_hangar_cust_7f1e2f-Illustration-2-dark.svg" | relative_url }}" alt="Vergiate Trail illustration 2" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_archive_trail_e36ff1_vergiate_hangar_cust_7f1e2f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_archive_trail_e36ff1_vergiate_hangar_cust_7f1e2f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Security and access clues around storage
 
-Supporters of the Magenta narrative often describe Vergiate as an ideal location because it already possessed guarded industrial facilities and restricted military access. Historically, that general characterisation is accurate: the works were an important aviation complex associated with military production, making controlled access entirely plausible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Supporters of the Magenta narrative often describe Vergiate as an ideal location because it already possessed guarded industrial facilities and restricted military access. Historically, that general characterisation is accurate: the works were an important aviation complex associated with military production, making controlled access entirely plausible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 However, plausibility alone is not evidence.
 
@@ -379,9 +379,9 @@ An important distinction is therefore necessary. The physical suitability of Ver
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_archive_trail_e36ff1_vergiate_hangar_cust_7f1e2f-Illustration-3-dark.svg" | relative_url }}" alt="Vergiate Trail illustration 3" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_archive_trail_e36ff1_vergiate_hangar_cust_7f1e2f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_archive_trail_e36ff1_vergiate_hangar_cust_7f1e2f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The question of wartime destruction
 
-Some versions of the story state that the relevant hangar was destroyed by fire during 1940, implying that any [physical evidence]({{ 'evidence-gap/' | relative_url }}) or paperwork may have disappeared at that point. The fire is frequently cited within later retellings of the Magenta case, but publicly available documentation directly linking that event to the alleged stored object has not been produced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wantedinrome.com">[Wanted in Rome]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wantedinrome.com</span><span class="citation-popover-title">Wanted in Rome The Secret Crash That Predated Roswell: Mussolini&#x27;s UFO</span><span class="citation-popover-snippet">Wanted in RomeThe Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...March 2, 2026 — 2 Mar 2026 — A spaceship was allegedly stored in...</span><span class="citation-popover-meta">Published: March 2, 2026</span></span></span>
+Some versions of the story state that the relevant hangar was destroyed by fire during 1940, implying that any [physical evidence]({{ 'evidence-gap/' | relative_url }}) or paperwork may have disappeared at that point. The fire is frequently cited within later retellings of the Magenta case, but publicly available documentation directly linking that event to the alleged stored object has not been produced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wantedinrome.com">[Wanted in Rome]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wantedinrome.com</span><span class="citation-popover-title">Wanted in Rome The Secret Crash That Predated Roswell: Mussolini&#x27;s UFO</span><span class="citation-popover-snippet">Wanted in RomeThe Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...March 2, 2026 — 2 Mar 2026 — A spaceship was allegedly stored in...</span><span class="citation-popover-meta">Published: March 2, 2026</span></span></span>
 
-It is true that Italian aviation facilities suffered wartime damage from bombing, industrial disruption and post-war reorganisation. SIAI-Marchetti itself experienced severe destruction during the latter stages of the Second World War before rebuilding in the post-war period. That historical fact makes archival losses possible, but it does not specifically demonstrate that records relating to an alleged recovered craft ever existed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+It is true that Italian aviation facilities suffered wartime damage from bombing, industrial disruption and post-war reorganisation. SIAI-Marchetti itself experienced severe destruction during the latter stages of the Second World War before rebuilding in the post-war period. That historical fact makes archival losses possible, but it does not specifically demonstrate that records relating to an alleged recovered craft ever existed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 Consequently, wartime destruction cannot presently be treated as positive evidence for the custody narrative. It remains an explanation for why records might be absent rather than proof that such records once existed.
 
@@ -395,7 +395,7 @@ Examples include:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * transport orders between Magenta and Vergiate;
-* correspondence between SIAI-Marchetti and the Ministry of Aeronautics; <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* correspondence between SIAI-Marchetti and the Ministry of Aeronautics;<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 * payroll or assignment records showing specially restricted engineering teams;
 * security instructions affecting named hangars;
 * insurance or maintenance records indicating unexplained changes to storage facilities;
@@ -407,199 +407,199 @@ The evidential value would increase significantly if several unrelated archives 
 
 ## How the Vergiate trail is best assessed
 
-Within the broader Magenta narrative, the Vergiate custody claim is one of the most falsifiable elements because it concerns a real industrial site with known organisational structures and expected administrative procedures. The location itself is historically credible as a major aircraft manufacturing complex, and it would have been capable of housing a highly sensitive military project. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Within the broader Magenta narrative, the Vergiate custody claim is one of the most falsifiable elements because it concerns a real industrial site with known organisational structures and expected administrative procedures. The location itself is historically credible as a major aircraft manufacturing complex, and it would have been capable of housing a highly sensitive military project.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-What remains missing is a verified custody trail connecting the alleged recovery to that facility. The publicly available evidence continues to rely largely on documents and narratives introduced decades after the supposed events, without independent archival confirmation from company records, government files or military documentation. As a result, the Vergiate hangar remains an important investigative focus precisely because it converts an extraordinary claim into a series of concrete historical questions about transport, storage, access and paperwork that can, in principle, be tested against surviving archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interestingengineering.com">[Interesting Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interestingengineering.com</span><span class="citation-popover-title">worlds first ufo crash happened in italy claim</span><span class="citation-popover-snippet">Interesting EngineeringWorld&#x27;s first UFO crash happened in Italy, 14 years before...10 Jul 2023 — Pinotti and his colleague have been wo...</span></span></span>
+What remains missing is a verified custody trail connecting the alleged recovery to that facility. The publicly available evidence continues to rely largely on documents and narratives introduced decades after the supposed events, without independent archival confirmation from company records, government files or military documentation. As a result, the Vergiate hangar remains an important investigative focus precisely because it converts an extraordinary claim into a series of concrete historical questions about transport, storage, access and paperwork that can, in principle, be tested against surviving archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interestingengineering.com">[Interesting Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interestingengineering.com</span><span class="citation-popover-title">worlds first ufo crash happened in italy claim</span><span class="citation-popover-snippet">Interesting EngineeringWorld&#x27;s first UFO crash happened in Italy, 14 years before...10 Jul 2023 — Pinotti and his colleague have been wo...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could Vergiate Hide a Secret Craft?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could Vergiate Hide a Secret Craft?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Connects extraordinary claims to documentary standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects extraordinary claims to documentary standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Supports evidence-based evaluation of extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports evidence-based evaluation of extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mussolini%27s+Italy+R.+J.+B.+Bosworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mussolini&#x27;s Italy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/452475-M.jpg" alt="Cover for Mussolini&#x27;s Italy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mussolini%27s+Italy+R.+J.+B.+Bosworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mussolini&#x27;s Italy">Mussolini&#x27;s Italy</a>
-        </h4>
-        <p class="fr-book-author">By R. J. B. Bosworth</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mussolini%27s+Italy+R.+J.+B.+Bosworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mussolini&#x27;s Italy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/452475-M.jpg" alt="Cover for Mussolini&#x27;s Italy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mussolini%27s+Italy+R.+J.+B.+Bosworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mussolini&#x27;s Italy">Mussolini&#x27;s Italy</a>
+</h4>
+<p class="fr-book-author">By R. J. B. Bosworth</p>
         
-        <p class="fr-book-desc">First published 2005. Subjects: Fascism, History, Nonfiction, Politics, Mussolini, Benito, 1883-1945.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mussolini%27s+Italy+R.+J.+B.+Bosworth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2005. Subjects: Fascism, History, Nonfiction, Politics, Mussolini, Benito, 1883-1945.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mussolini%27s+Italy+R.+J.+B.+Bosworth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">First published 1972.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1972.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mussolini%27s+Italy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mussolini&#x27;s Italy</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mussolini%27s+Italy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mussolini&#x27;s Italy</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool"><img src="{{ '/assets/images/marketplace-covers/fb160c0bd6265f087d7a.jpg' | relative_url }}" alt="Listing image for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool"><img src="{{ '/assets/images/marketplace-covers/fb160c0bd6265f087d7a.jpg' | relative_url }}" alt="Listing image for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be"><img src="{{ '/assets/images/marketplace-covers/7f6dc0764d286cc66210.jpg' | relative_url }}" alt="Listing image for LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be"><img src="{{ '/assets/images/marketplace-covers/7f6dc0764d286cc66210.jpg' | relative_url }}" alt="Listing image for LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque"><img src="{{ '/assets/images/marketplace-covers/0962c22fe0162a244ccf.jpg' | relative_url }}" alt="Listing image for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque"><img src="{{ '/assets/images/marketplace-covers/0962c22fe0162a244ccf.jpg' | relative_url }}" alt="Listing image for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="vergiate-trail-could-vergiate-hide-a-secret-craft-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -615,7 +615,7 @@ What remains missing is a verified custody trail connecting the alleged recovery
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -635,7 +635,7 @@ What remains missing is a verified custody trail connecting the alleged recovery
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -667,7 +667,7 @@ What remains missing is a verified custody trail connecting the alleged recovery
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -719,7 +719,7 @@ What remains missing is a verified custody trail connecting the alleged recovery
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -764,7 +764,7 @@ What remains missing is a verified custody trail connecting the alleged recovery
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -805,88 +805,88 @@ What remains missing is a verified custody trail connecting the alleged recovery
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in ItalyRoberto Pinotti published material regarding the so-called &quot;Fascist UFO. A spaceship was allegedly stored in the...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in ItalyRoberto Pinotti published material regarding the so-called &quot;Fascist UFO. A spaceship was allegedly stored in the...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/SIAI-Marchetti</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/SIAI-Marchetti</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Vergiate" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Vergiate</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Vergiate" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Vergiate</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: history.state.gov  
-   Link: <a href="https://history.state.gov/historicaldocuments/frus1933v01/ch20" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1933v01/ch20</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(Documents 728–737)[731] The Acting Secretary of State to the Italian Ambassador (Rosso). Washington, June 9, 1933.Read more...</p></details>
+   Link:<a href="https://history.state.gov/historicaldocuments/frus1933v01/ch20" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1933v01/ch20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(Documents 728–737)[731] The Acting Secretary of State to the Italian Ambassador (Rosso). Washington, June 9, 1933.Read more...</p></details>
    Published: June 9, 1933  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: interestingengineering.com  
    Title: worlds first ufo crash happened in italy claim  
-   Link: <a href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow">https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Interesting EngineeringWorld&#x27;s first UFO crash happened in Italy, 14 years before...10 Jul 2023 — Pinotti and his colleague have been wo...</p></details>
+   Link:<a href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow">https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interesting EngineeringWorld&#x27;s first UFO crash happened in Italy, 14 years before...10 Jul 2023 — Pinotti and his colleague have been wo...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: wantedinrome.com  
    Title: Wanted in Rome The Secret Crash That Predated [Roswell](&#123;&#123; 'roswell/' | relative_url &#125;&#125;): Mussolini's UFO  
-   Link: <a href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wanted in RomeThe Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...March 2, 2026 — 2 Mar 2026 — A spaceship was allegedly stored in...</p></details>
+   Link:<a href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wanted in RomeThe Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...March 2, 2026 — 2 Mar 2026 — A spaceship was allegedly stored in...</p></details>
    Published: March 2, 2026  
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=19oMz_WJZXs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=19oMz_WJZXs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 Magenta, Italy UFO Crash explores the historical claims and expected administrative traces of the alleged recovery site, detaili...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=19oMz_WJZXs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=19oMz_WJZXs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 Magenta, Italy UFO Crash explores the historical claims and expected administrative traces of the alleged recovery site, detaili...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
    Title: in 1933 a cilindrical ufo crashed near milan  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/ppmghk/in_1933_a_cilindrical_ufo_crashed_near_milan/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/ppmghk/in_1933_a_cilindrical_ufo_crashed_near_milan/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Italy. Inside...1933 a cilindrical UFO crashed near Milan Italy. It was June 13, 1933 and in Vergiate, It was Roberto Pinotti, founder a...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/ppmghk/in_1933_a_cilindrical_ufo_crashed_near_milan/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/ppmghk/in_1933_a_cilindrical_ufo_crashed_near_milan/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Italy. Inside...1933 a cilindrical UFO crashed near Milan Italy. It was June 13, 1933 and in Vergiate, It was Roberto Pinotti, founder a...</p></details>
    Published: June 13, 1933  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sofmag.com  
    Title: ufo crash magenta italy 1933  
-   Link: <a href="https://sofmag.com/ufo-crash-magenta-italy-1933/" target="_blank" rel="noopener noreferrer nofollow">https://sofmag.com/ufo-crash-magenta-italy-1933/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mussolini&#x27;s UFO file: The 1933 Magenta Crash Declassified9 Nov 2025 — The craft was spirited under armed escort to the SIAI-Marchetti han...</p></details>
+   Link:<a href="https://sofmag.com/ufo-crash-magenta-italy-1933/" target="_blank" rel="noopener noreferrer nofollow">https://sofmag.com/ufo-crash-magenta-italy-1933/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mussolini&#x27;s UFO file: The 1933 Magenta Crash Declassified9 Nov 2025 — The craft was spirited under armed escort to the SIAI-Marchetti han...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=fY6sBD_IWEs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=fY6sBD_IWEs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David [Grusch](&amp;#123;&amp;#123; &#x27;grusch/&#x27; | relative_url &amp;#125;&amp;#125;) - In 1933 an UFO crashed in Italy and Mussolini...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=fY6sBD_IWEs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=fY6sBD_IWEs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David [Grusch](&amp;#123;&amp;#123; &#x27;grusch/&#x27; | relative_url &amp;#125;&amp;#125;) - In 1933 an UFO crashed in Italy and Mussolini...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=FGiwgyLY7Aw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=FGiwgyLY7Aw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Magenta Project: The 1933 Magenta, Italy UFO Crash-Retrieval That Changed the World Updated Supercut...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=FGiwgyLY7Aw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=FGiwgyLY7Aw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Magenta Project: The 1933 Magenta, Italy UFO Crash-Retrieval That Changed the World Updated Supercut...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: The Magenta UFO case in Italy  
-   Link: <a href="http://www.youtube.com/watch?v=OsniQnH7phU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=OsniQnH7phU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 Magenta UFO Crash: Mussolini’s Alien Cover-Up in Italy | Secret Files &amp; Fascist Era Mystery...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=OsniQnH7phU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=OsniQnH7phU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 Magenta UFO Crash: Mussolini’s Alien Cover-Up in Italy | Secret Files &amp; Fascist Era Mystery...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: philarchive.org  
-   Link: <a href="https://philarchive.org/archive/MEYTIQ" target="_blank" rel="noopener noreferrer nofollow">https://philarchive.org/archive/MEYTIQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DownloadEvidence points to a 1933 UFO crash in Magenta, Italy. The destruction of records beginning in March 1945—more. Roberto Pinotti...</p></details>
+   Link:<a href="https://philarchive.org/archive/MEYTIQ" target="_blank" rel="noopener noreferrer nofollow">https://philarchive.org/archive/MEYTIQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DownloadEvidence points to a 1933 UFO crash in Magenta, Italy. The destruction of records beginning in March 1945—more. Roberto Pinotti...</p></details>
    Published: March 1945  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYH5XLWMym6/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYH5XLWMym6/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pinotti), an unidentified object crashed in [Lombardy](&amp;#123;&amp;#123; &#x27;lombardy/&#x27; | relative_url &amp;#125;&amp;#125;) on June 13, 1933. stored in the SIAI...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYH5XLWMym6/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYH5XLWMym6/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pinotti), an unidentified object crashed in [Lombardy](&amp;#123;&amp;#123; &#x27;lombardy/&#x27; | relative_url &amp;#125;&amp;#125;) on June 13, 1933. stored in the SIAI...</p></details>
    Published: June 13, 1933  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: David Grusch  
-   Link: <a href="http://www.youtube.com/watch?v=8TrRaXWzcbM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=8TrRaXWzcbM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Magenta UFO case in Italy...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=8TrRaXWzcbM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=8TrRaXWzcbM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Magenta UFO case in Italy...</p></details>

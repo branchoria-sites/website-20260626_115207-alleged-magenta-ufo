@@ -284,15 +284,15 @@ The alleged 1933 Magenta UFO crash gains much of its persuasive power from one r
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_ufo_files_e2e7f2_marconi_credibility_4d3f77-Illustration-1-dark.svg" | relative_url }}" alt="Marconi Anchor illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_ufo_files_e2e7f2_marconi_credibility_4d3f77-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_ufo_files_e2e7f2_marconi_credibility_4d3f77-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That rhetorical strength, however, is not itself evidence. The key historical question is not whether Marconi was important—his place in the history of science is beyond dispute—but whether independent documentary evidence shows that he actually directed or participated in the alleged secret UFO programme. On that point, the available evidence remains much weaker than the reputation attached to his name. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interestingengineering.com">[Interesting Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interestingengineering.com</span><span class="citation-popover-title">worlds first ufo crash happened in italy claim</span><span class="citation-popover-snippet">Interesting EngineeringWorld&#x27;s first UFO crash happened in Italy, 14 years before...10 Jul 2023 — Pinotti and many others believe that G...</span></span></span>
+That rhetorical strength, however, is not itself evidence. The key historical question is not whether Marconi was important—his place in the history of science is beyond dispute—but whether independent documentary evidence shows that he actually directed or participated in the alleged secret UFO programme. On that point, the available evidence remains much weaker than the reputation attached to his name.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interestingengineering.com">[Interesting Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interestingengineering.com</span><span class="citation-popover-title">worlds first ufo crash happened in italy claim</span><span class="citation-popover-snippet">Interesting EngineeringWorld&#x27;s first UFO crash happened in Italy, 14 years before...10 Jul 2023 — Pinotti and many others believe that G...</span></span></span>
 
 ## How Marconi enters the Magenta narrative
 
 Within the Magenta story, Marconi is presented as the scientific head of the alleged Gabinetto RS/33, a secret Fascist committee supposedly established after the recovery of an unidentified craft in northern Italy in 1933. Proponents argue that Mussolini would naturally have turned to the country's foremost inventor and internationally respected scientist to evaluate an unknown technology.
 
-The choice is not arbitrary. Marconi occupied an exceptional position in Fascist Italy. He was not only the inventor associated with practical radio communication and a Nobel Prize winner, but also a senator, president of the Royal Academy of Italy, and an internationally recognised symbol of Italian scientific prestige. Because he already advised the regime on technological matters, assigning him to a secret project can appear superficially credible even without direct evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Guglielmo_Marconi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Guglielmo Marconi</span><span class="citation-popover-snippet">May 4, 2001 — Guglielmo Giovanni Maria Marconi, 1st Marquess of Marconi (25 April 1874 – 20 July 1937), was an Italian radio-frequency en...</span><span class="citation-popover-meta">Published: May 4, 2001</span></span></span>
+The choice is not arbitrary. Marconi occupied an exceptional position in Fascist Italy. He was not only the inventor associated with practical radio communication and a Nobel Prize winner, but also a senator, president of the Royal Academy of Italy, and an internationally recognised symbol of Italian scientific prestige. Because he already advised the regime on technological matters, assigning him to a secret project can appear superficially credible even without direct evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Guglielmo_Marconi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Guglielmo Marconi</span><span class="citation-popover-snippet">May 4, 2001 — Guglielmo Giovanni Maria Marconi, 1st Marquess of Marconi (25 April 1874 – 20 July 1937), was an Italian radio-frequency en...</span><span class="citation-popover-meta">Published: May 4, 2001</span></span></span>
 
-Modern accounts of the Magenta case frequently repeat that Marconi chaired RS/33, yet these accounts generally trace back to the same body of alleged documents publicised by Italian ufologist Roberto Pinotti and collaborators rather than to independently located government archives. Even popular summaries of the case acknowledge that researchers outside the UFO community have found no independent evidence that the organisation itself existed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interestingengineering.com">[Interesting Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interestingengineering.com</span><span class="citation-popover-title">worlds first ufo crash happened in italy claim</span><span class="citation-popover-snippet">Interesting EngineeringWorld&#x27;s first UFO crash happened in Italy, 14 years before...10 Jul 2023 — Pinotti and many others believe that G...</span></span></span>
+Modern accounts of the Magenta case frequently repeat that Marconi chaired RS/33, yet these accounts generally trace back to the same body of alleged documents publicised by Italian ufologist Roberto Pinotti and collaborators rather than to independently located government archives. Even popular summaries of the case acknowledge that researchers outside the UFO community have found no independent evidence that the organisation itself existed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interestingengineering.com">[Interesting Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interestingengineering.com</span><span class="citation-popover-title">worlds first ufo crash happened in italy claim</span><span class="citation-popover-snippet">Interesting EngineeringWorld&#x27;s first UFO crash happened in Italy, 14 years before...10 Jul 2023 — Pinotti and many others believe that G...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ri8BHxcJYfw" title="The 1933 UFO Crash in Magenta, Italy w/ Michael Armentor | XK Podcast Ep. 013" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ri8BHxcJYfw" target="_blank" rel="noopener noreferrer">The 1933 UFO Crash in Magenta, Italy w/ Michael Armentor | XK Podcast Ep. 013</a></p><p class="youtube-embed-meta">Channel: Xpanded Knowledge &middot; Views: 261 &middot; Uploaded: October 2025 &middot; Length: 1 hour 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ri8BHxcJYfw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ri8BHxcJYfw">Open on YouTube</a></p></div></div></div>
@@ -335,7 +335,7 @@ Independent confirmation would ideally include evidence such as:
 
 </div>
 
-So far, the public case has not produced this kind of independent archival chain. Instead, the claim largely rests on the disputed documents circulated within Italian UFO research and later repeated by secondary accounts. Historians generally regard provenance—the documented history of a record's creation, [custody]({{ 'custody/' | relative_url }}) and preservation—as essential before assigning major historical significance to such material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interestingengineering.com">[Interesting Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interestingengineering.com</span><span class="citation-popover-title">worlds first ufo crash happened in italy claim</span><span class="citation-popover-snippet">Interesting EngineeringWorld&#x27;s first UFO crash happened in Italy, 14 years before...10 Jul 2023 — Pinotti and many others believe that G...</span></span></span>
+So far, the public case has not produced this kind of independent archival chain. Instead, the claim largely rests on the disputed documents circulated within Italian UFO research and later repeated by secondary accounts. Historians generally regard provenance—the documented history of a record's creation, [custody]({{ 'custody/' | relative_url }}) and preservation—as essential before assigning major historical significance to such material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interestingengineering.com">[Interesting Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interestingengineering.com</span><span class="citation-popover-title">worlds first ufo crash happened in italy claim</span><span class="citation-popover-snippet">Interesting EngineeringWorld&#x27;s first UFO crash happened in Italy, 14 years before...10 Jul 2023 — Pinotti and many others believe that G...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eKZ2U3lkJ9o" title="Secret UFO Files of Fascist Italy | Mussolini&#x27;s UFO Cabinet RS/33 Revealed | Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eKZ2U3lkJ9o" target="_blank" rel="noopener noreferrer">Secret UFO Files of Fascist Italy | Mussolini&#x27;s UFO Cabinet RS/33 Revealed | Full Documentary</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eKZ2U3lkJ9o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eKZ2U3lkJ9o">Open on YouTube</a></p></div></div></div>
@@ -354,7 +354,7 @@ In the Magenta case, Marconi's documented prominence helps explain why the story
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_ufo_files_e2e7f2_marconi_credibility_4d3f77-Illustration-3-dark.svg" | relative_url }}" alt="Marconi Anchor illustration 3" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_ufo_files_e2e7f2_marconi_credibility_4d3f77-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_ufo_files_e2e7f2_marconi_credibility_4d3f77-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Later publicity and continuing debate
 
-Interest in Marconi's alleged role increased after renewed attention to the Magenta story in 2023 and 2024. Media reports and interviews with members of the Marconi family were widely circulated in UFO discussions, with some presenting family recollections as support for the RS/33 narrative. Critics, however, noted that such recollections do not themselves establish the historical existence of the alleged programme and questioned whether they represented independent corroboration or simply reflected familiarity with the already-public UFO claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1cfxw8q/italian_magazine_oggi_confirms_that_mussolini/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Italian magazine OGGI confirms that Mussolini appointed a...April 29, 2024 — Italian magazine OGGI confirms that Mussolini appoint...</span><span class="citation-popover-meta">Published: April 29, 2024</span></span></span>
+Interest in Marconi's alleged role increased after renewed attention to the Magenta story in 2023 and 2024. Media reports and interviews with members of the Marconi family were widely circulated in UFO discussions, with some presenting family recollections as support for the RS/33 narrative. Critics, however, noted that such recollections do not themselves establish the historical existence of the alleged programme and questioned whether they represented independent corroboration or simply reflected familiarity with the already-public UFO claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1cfxw8q/italian_magazine_oggi_confirms_that_mussolini/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Italian magazine OGGI confirms that Mussolini appointed a...April 29, 2024 — Italian magazine OGGI confirms that Mussolini appoint...</span><span class="citation-popover-meta">Published: April 29, 2024</span></span></span>
 
 The distinction matters because family testimony about beliefs or conversations differs fundamentally from archival evidence showing that a government organisation actually existed.
 
@@ -362,201 +362,201 @@ The distinction matters because family testimony about beliefs or conversations 
 
 Marconi's name strengthens the Magenta narrative because it bridges the gap between extraordinary claims and accepted history. Readers already know he was a genuine scientific pioneer, an influential public figure and someone closely connected with the Italian state. That familiarity makes the alleged RS/33 committee feel less speculative than it would if it were linked only to obscure officials.
 
-From a historical perspective, however, Marconi's reputation should be treated as context rather than confirmation. His genuine achievements establish that he was capable of advising governments on advanced technology, but they do not demonstrate that he headed a secret UFO project. Until independent archival records emerge outside the disputed Magenta dossier, his name functions primarily as a credibility anchor within the story rather than as evidence that the underlying claims are authentic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interestingengineering.com">[Interesting Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interestingengineering.com</span><span class="citation-popover-title">worlds first ufo crash happened in italy claim</span><span class="citation-popover-snippet">Interesting EngineeringWorld&#x27;s first UFO crash happened in Italy, 14 years before...10 Jul 2023 — Pinotti and many others believe that G...</span></span></span>
+From a historical perspective, however, Marconi's reputation should be treated as context rather than confirmation. His genuine achievements establish that he was capable of advising governments on advanced technology, but they do not demonstrate that he headed a secret UFO project. Until independent archival records emerge outside the disputed Magenta dossier, his name functions primarily as a credibility anchor within the story rather than as evidence that the underlying claims are authentic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interestingengineering.com">[Interesting Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interestingengineering.com</span><span class="citation-popover-title">worlds first ufo crash happened in italy claim</span><span class="citation-popover-snippet">Interesting EngineeringWorld&#x27;s first UFO crash happened in Italy, 14 years before...10 Jul 2023 — Pinotti and many others believe that G...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ojvSWFiJiec" title="Fascist UFOs - Italian Mass Sightings | Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ojvSWFiJiec" target="_blank" rel="noopener noreferrer">Fascist UFOs - Italian Mass Sightings | Full Documentary</a></p><p class="youtube-embed-meta">Channel: Mediatime Network</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ojvSWFiJiec" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ojvSWFiJiec">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Marconi&#x27;s name strengthened the story. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Marconi&#x27;s name strengthened the story. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains how authority, reputation, and weak evidence can combine to make implausible stories persuasive.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how authority, reputation, and weak evidence can combine to make implausible stories persuasive.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broader context for evaluating UFO evidence and the standards expected for extraordinary historical claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for evaluating UFO evidence and the standards expected for extraordinary historical claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Marconi+Marc+Raboy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Marconi on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13055883-M.jpg" alt="Cover for Marconi" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Marconi+Marc+Raboy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Marconi">Marconi</a>
-        </h4>
-        <p class="fr-book-author">By Marc Raboy</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Marconi+Marc+Raboy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Marconi on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13055883-M.jpg" alt="Cover for Marconi" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Marconi+Marc+Raboy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Marconi">Marconi</a>
+</h4>
+<p class="fr-book-author">By Marc Raboy</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Radio, Wireless Telegraph, Marconi system, History, Electrical engineers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Marconi+Marc+Raboy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Radio, Wireless Telegraph, Marconi system, History, Electrical engineers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Marconi+Marc+Raboy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=My+father%2C+Marconi+%2F+Degna+Marconi+Degna+Marconi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open My father, Marconi / Degna Marconi on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=My+father%2C+Marconi+%2F+Degna+Marconi+Degna+Marconi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="My father, Marconi / Degna Marconi">My father, Marconi / Degna Marconi</a>
-        </h4>
-        <p class="fr-book-author">By Degna Marconi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=My+father%2C+Marconi+%2F+Degna+Marconi+Degna+Marconi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open My father, Marconi / Degna Marconi on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=My+father%2C+Marconi+%2F+Degna+Marconi+Degna+Marconi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="My father, Marconi / Degna Marconi">My father, Marconi / Degna Marconi</a>
+</h4>
+<p class="fr-book-author">By Degna Marconi</p>
         
-        <p class="fr-book-desc">First published 1962.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=My+father%2C+Marconi+%2F+Degna+Marconi+Degna+Marconi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1962.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=My+father%2C+Marconi+%2F+Degna+Marconi+Degna+Marconi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Marconi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Marconi</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Marconi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Marconi</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+radio+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi radio memorabilia" data-ebay-reference="marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO MARCONI MEMORIAL COMMEMORATING THE FIRST WIRELESS SIGNAL ACROSS WATER FRO"><img src="{{ '/assets/images/marketplace-covers/a65775424795e091a601.jpg' | relative_url }}" alt="Listing image for PHOTO MARCONI MEMORIAL COMMEMORATING THE FIRST WIRELESS SIGNAL ACROSS WATER FRO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+radio+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi radio memorabilia" data-ebay-reference="marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO MARCONI MEMORIAL COMMEMORATING THE FIRST WIRELESS SIGNAL ACROSS WATER FRO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+radio+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi radio memorabilia" data-ebay-reference="marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Marconi radio memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: Marconi radio memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+radio+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi radio memorabilia" data-ebay-reference="marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+radio+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi radio memorabilia" data-ebay-reference="marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO MARCONI MEMORIAL COMMEMORATING THE FIRST WIRELESS SIGNAL ACROSS WATER FRO"><img src="{{ '/assets/images/marketplace-covers/a65775424795e091a601.jpg' | relative_url }}" alt="Listing image for PHOTO MARCONI MEMORIAL COMMEMORATING THE FIRST WIRELESS SIGNAL ACROSS WATER FRO" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+radio+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi radio memorabilia" data-ebay-reference="marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO MARCONI MEMORIAL COMMEMORATING THE FIRST WIRELESS SIGNAL ACROSS WATER FRO</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+radio+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi radio memorabilia" data-ebay-reference="marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Marconi radio memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: Marconi radio memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+radio+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi radio memorabilia" data-ebay-reference="marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+radio+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi radio memorabilia" data-ebay-reference="marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OLD POSTCARD SIZE PHOTO OF GLACE BAY NOVA SCOTIA MARCONI WIRELESS STATION 1920"><img src="{{ '/assets/images/marketplace-covers/6b2930d33d93e2579d15.jpg' | relative_url }}" alt="Listing image for OLD POSTCARD SIZE PHOTO OF GLACE BAY NOVA SCOTIA MARCONI WIRELESS STATION 1920" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+radio+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi radio memorabilia" data-ebay-reference="marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia" target="_blank" rel="sponsored noopener noreferrer">OLD POSTCARD SIZE PHOTO OF GLACE BAY NOVA SCOTIA MARCONI WIRELESS STATION 1920</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+radio+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi radio memorabilia" data-ebay-reference="marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Marconi radio memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: Marconi radio memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+radio+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi radio memorabilia" data-ebay-reference="marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+radio+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi radio memorabilia" data-ebay-reference="marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OLD POSTCARD SIZE PHOTO OF GLACE BAY NOVA SCOTIA MARCONI WIRELESS STATION 1920"><img src="{{ '/assets/images/marketplace-covers/6b2930d33d93e2579d15.jpg' | relative_url }}" alt="Listing image for OLD POSTCARD SIZE PHOTO OF GLACE BAY NOVA SCOTIA MARCONI WIRELESS STATION 1920" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+radio+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi radio memorabilia" data-ebay-reference="marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia" target="_blank" rel="sponsored noopener noreferrer">OLD POSTCARD SIZE PHOTO OF GLACE BAY NOVA SCOTIA MARCONI WIRELESS STATION 1920</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+radio+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi radio memorabilia" data-ebay-reference="marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Marconi radio memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: Marconi radio memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+radio+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi radio memorabilia" data-ebay-reference="marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+radio+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi radio memorabilia" data-ebay-reference="marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OLD 8x6 HISTORIC PHOTO OF GLACE BAY NOVA SCOTIA MARCONI WIRELESS STATION 1920"><img src="{{ '/assets/images/marketplace-covers/2c5fa232728e33014a52.jpg' | relative_url }}" alt="Listing image for OLD 8x6 HISTORIC PHOTO OF GLACE BAY NOVA SCOTIA MARCONI WIRELESS STATION 1920" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+radio+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi radio memorabilia" data-ebay-reference="marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia" target="_blank" rel="sponsored noopener noreferrer">OLD 8x6 HISTORIC PHOTO OF GLACE BAY NOVA SCOTIA MARCONI WIRELESS STATION 1920</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+radio+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi radio memorabilia" data-ebay-reference="marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Marconi radio memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: Marconi radio memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+radio+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi radio memorabilia" data-ebay-reference="marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+radio+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi radio memorabilia" data-ebay-reference="marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OLD 8x6 HISTORIC PHOTO OF GLACE BAY NOVA SCOTIA MARCONI WIRELESS STATION 1920"><img src="{{ '/assets/images/marketplace-covers/2c5fa232728e33014a52.jpg' | relative_url }}" alt="Listing image for OLD 8x6 HISTORIC PHOTO OF GLACE BAY NOVA SCOTIA MARCONI WIRELESS STATION 1920" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+radio+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi radio memorabilia" data-ebay-reference="marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia" target="_blank" rel="sponsored noopener noreferrer">OLD 8x6 HISTORIC PHOTO OF GLACE BAY NOVA SCOTIA MARCONI WIRELESS STATION 1920</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+radio+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi radio memorabilia" data-ebay-reference="marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Marconi radio memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: Marconi radio memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+radio+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi radio memorabilia" data-ebay-reference="marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+radio+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi radio memorabilia" data-ebay-reference="marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for rp08903 - Marconi Wireless Station , Seaforth - print 6x4"><img src="{{ '/assets/images/marketplace-covers/41a6c8927972a6fb0ec8.jpg' | relative_url }}" alt="Listing image for rp08903 - Marconi Wireless Station , Seaforth - print 6x4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+radio+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi radio memorabilia" data-ebay-reference="marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia" target="_blank" rel="sponsored noopener noreferrer">rp08903 - Marconi Wireless Station , Seaforth - print 6x4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+radio+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi radio memorabilia" data-ebay-reference="marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Marconi radio memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: Marconi radio memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+radio+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi radio memorabilia" data-ebay-reference="marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+radio+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi radio memorabilia" data-ebay-reference="marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+radio+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi radio memorabilia" data-ebay-reference="marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for rp08903 - Marconi Wireless Station , Seaforth - print 6x4"><img src="{{ '/assets/images/marketplace-covers/41a6c8927972a6fb0ec8.jpg' | relative_url }}" alt="Listing image for rp08903 - Marconi Wireless Station , Seaforth - print 6x4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+radio+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi radio memorabilia" data-ebay-reference="marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia" target="_blank" rel="sponsored noopener noreferrer">rp08903 - Marconi Wireless Station , Seaforth - print 6x4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+radio+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi radio memorabilia" data-ebay-reference="marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Marconi radio memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: Marconi radio memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+radio+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi radio memorabilia" data-ebay-reference="marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Marconi+radio+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Marconi radio memorabilia" data-ebay-reference="marconi-anchor-why-marconi-s-name-strengthened-the-story-alleged-magenta-ufo-marconi-radio-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -572,7 +572,7 @@ From a historical perspective, however, Marconi's reputation should be treated a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -592,7 +592,7 @@ From a historical perspective, however, Marconi's reputation should be treated a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -624,7 +624,7 @@ From a historical perspective, however, Marconi's reputation should be treated a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -676,7 +676,7 @@ From a historical perspective, however, Marconi's reputation should be treated a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -721,7 +721,7 @@ From a historical perspective, however, Marconi's reputation should be treated a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -762,85 +762,85 @@ From a historical perspective, however, Marconi's reputation should be treated a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Guglielmo Marconi  
-   Link: <a href="https://en.wikipedia.org/wiki/Guglielmo_Marconi" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Guglielmo_Marconi</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 4, 2001 — Guglielmo Giovanni Maria Marconi, 1st Marquess of Marconi (25 April 1874 – 20 July 1937), was an Italian radio-frequency en...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Guglielmo_Marconi" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Guglielmo_Marconi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 4, 2001 — Guglielmo Giovanni Maria Marconi, 1st Marquess of Marconi (25 April 1874 – 20 July 1937), was an Italian radio-frequency en...</p></details>
    Published: May 4, 2001  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Incidente di Magenta  
-   Link: <a href="https://it.wikipedia.org/wiki/Incidente_di_Magenta" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Incidente_di_Magenta</a>  
+   Link:<a href="https://it.wikipedia.org/wiki/Incidente_di_Magenta" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Incidente_di_Magenta</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1cfxw8q/italian_magazine_oggi_confirms_that_mussolini/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cfxw8q/italian_magazine_oggi_confirms_that_mussolini/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Italian magazine OGGI confirms that Mussolini appointed a...April 29, 2024 — Italian magazine OGGI confirms that Mussolini appoint...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1cfxw8q/italian_magazine_oggi_confirms_that_mussolini/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cfxw8q/italian_magazine_oggi_confirms_that_mussolini/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Italian magazine OGGI confirms that Mussolini appointed a...April 29, 2024 — Italian magazine OGGI confirms that Mussolini appoint...</p></details>
    Published: April 29, 2024  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: interestingengineering.com  
    Title: worlds first ufo crash happened in italy claim  
-   Link: <a href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow">https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Interesting EngineeringWorld&#x27;s first UFO crash happened in Italy, 14 years before...10 Jul 2023 — Pinotti and many others believe that G...</p></details>
+   Link:<a href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow">https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interesting EngineeringWorld&#x27;s first UFO crash happened in Italy, 14 years before...10 Jul 2023 — Pinotti and many others believe that G...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/224347362_Marconi_in_Switzerland_True_story_or_fairy_tale" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/224347362_Marconi_in_Switzerland_True_story_or_fairy_tale</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>95 Marconi carried out original wireless transmission experiments...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/224347362_Marconi_in_Switzerland_True_story_or_fairy_tale" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/224347362_Marconi_in_Switzerland_True_story_or_fairy_tale</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>95 Marconi carried out original wireless transmission experiments...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arteventinews.it  
    Title: curiosando su marconi guglielmo marconi e gli ufo  
-   Link: <a href="https://arteventinews.it/2025/01/20/curiosando-su-marconi-guglielmo-marconi-e-gli-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://arteventinews.it/2025/01/20/curiosando-su-marconi-guglielmo-marconi-e-gli-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GUGLIELMO MARCONI E GLI UFO20 Jan 2025 — Nel 1933, a Magenta, cadde un UFO. Su ordini di Mussolini venne portato in gran segreto nei capa...</p></details>
+   Link:<a href="https://arteventinews.it/2025/01/20/curiosando-su-marconi-guglielmo-marconi-e-gli-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://arteventinews.it/2025/01/20/curiosando-su-marconi-guglielmo-marconi-e-gli-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GUGLIELMO MARCONI E GLI UFO20 Jan 2025 — Nel 1933, a Magenta, cadde un UFO. Su ordini di Mussolini venne portato in gran segreto nei capa...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: misterobufo.corriere.it  
    Title: it Gli americani accreditano l'Ufo di Mussolini  
-   Link: <a href="https://misterobufo.corriere.it/2024/10/07/gli-americani-accreditano-lufo-di-mussolini-il-primo-crash-della-storia-sarebbe-dunque-avvenuto-a-magenta-non-a-[roswell" target="_blank" rel="noopener noreferrer nofollow">https://misterobufo.corriere.it/2024/10/07/gli-americani-accreditano-lufo-di-mussolini-il-primo-crash-della-storia-sarebbe-dunque-avvenuto-a-magenta-non-a-[roswell</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>americani accreditano l&#x27;Ufo di Mussolini - Mistero BUFO7 Oct 2024 — Il fascismo, che aveva ipotizzato una macchina segreta di un Paese eu...</p></details>
+   Link:<a href="https://misterobufo.corriere.it/2024/10/07/gli-americani-accreditano-lufo-di-mussolini-il-primo-crash-della-storia-sarebbe-dunque-avvenuto-a-magenta-non-a-[roswell" target="_blank" rel="noopener noreferrer nofollow">https://misterobufo.corriere.it/2024/10/07/gli-americani-accreditano-lufo-di-mussolini-il-primo-crash-della-storia-sarebbe-dunque-avvenuto-a-magenta-non-a-[roswell</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>americani accreditano l&#x27;Ufo di Mussolini - Mistero BUFO7 Oct 2024 — Il fascismo, che aveva ipotizzato una macchina segreta di un Paese eu...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: unilad.com  
    Title: worlds first ufo crash 250661 20230703  
-   Link: <a href="https://www.unilad.com/news/worlds-first-ufo-crash-250661-20230703" target="_blank" rel="noopener noreferrer nofollow">https://www.unilad.com/news/worlds-first-ufo-crash-250661-20230703</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Researcher has incredible evidence files surrounding...3 Jul 2023 — This UFO supposedly crashed down to Earth near Milan in 1933 and Pin...</p></details>
+   Link:<a href="https://www.unilad.com/news/worlds-first-ufo-crash-250661-20230703" target="_blank" rel="noopener noreferrer nofollow">https://www.unilad.com/news/worlds-first-ufo-crash-250661-20230703</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Researcher has incredible evidence files surrounding...3 Jul 2023 — This UFO supposedly crashed down to Earth near Milan in 1933 and Pin...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sofmag.com  
    Title: ufo crash magenta italy 1933  
-   Link: <a href="https://sofmag.com/ufo-crash-magenta-italy-1933/" target="_blank" rel="noopener noreferrer nofollow">https://sofmag.com/ufo-crash-magenta-italy-1933/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mussolini&#x27;s UFO file: The 1933 Magenta Crash Declassified9 Nov 2025 — Guided by his OVRA secret police, Mussolini established the Gabinet...</p></details>
+   Link:<a href="https://sofmag.com/ufo-crash-magenta-italy-1933/" target="_blank" rel="noopener noreferrer nofollow">https://sofmag.com/ufo-crash-magenta-italy-1933/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mussolini&#x27;s UFO file: The 1933 Magenta Crash Declassified9 Nov 2025 — Guided by his OVRA secret police, Mussolini established the Gabinet...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ri8BHxcJYfw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ri8BHxcJYfw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Road to Disclosure FULL SHOW | Reality Check with Ross Coulthart...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ri8BHxcJYfw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ri8BHxcJYfw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Road to Disclosure FULL SHOW | Reality Check with Ross Coulthart...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Fascist UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=ojvSWFiJiec" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ojvSWFiJiec</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1933 Magenta UFO crash Marconi [Cabinet](&amp;#123;&amp;#123; &#x27;rs-33/&#x27; | relative_url &amp;#125;&amp;#125;) RS33 La VERA STORIA dell&#x27;UFO di MUSSOLINI AstroViktor...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ojvSWFiJiec" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ojvSWFiJiec</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1933 Magenta UFO crash Marconi [Cabinet](&amp;#123;&amp;#123; &#x27;rs-33/&#x27; | relative_url &amp;#125;&amp;#125;) RS33 La VERA STORIA dell&#x27;UFO di MUSSOLINI AstroViktor...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Road to Disclosure FULL SHOW | Reality Check with Ross Coulthart  
-   Link: <a href="https://www.youtube.com/watch?v=wAur0awdEjw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wAur0awdEjw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fascist UFOs - Italian Mass Sightings | Full Documentary...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wAur0awdEjw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wAur0awdEjw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fascist UFOs - Italian Mass Sightings | Full Documentary...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: fgm.it  
    Title: 16 marconi en  
-   Link: <a href="https://www.fgm.it/en/foundation-en/16-marconi-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fgm.it/en/foundation-en/16-marconi-en.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FoundationIn 1894, Marconi started experimenting with electromagnetic waves (the subject of research in many European research labs at th...</p></details>
+   Link:<a href="https://www.fgm.it/en/foundation-en/16-marconi-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fgm.it/en/foundation-en/16-marconi-en.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FoundationIn 1894, Marconi started experimenting with electromagnetic waves (the subject of research in many European research labs at th...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=FGiwgyLY7Aw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FGiwgyLY7Aw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 UFO Crash in Magenta, Italy w/ Michael Armentor | XK Podcast Ep. 013...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FGiwgyLY7Aw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FGiwgyLY7Aw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 UFO Crash in Magenta, Italy w/ Michael Armentor | XK Podcast Ep. 013...</p></details>

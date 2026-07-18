@@ -280,7 +280,7 @@ One of the more restrained arguments surrounding the alleged 1933 Magenta UFO cr
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_3a5c90_aviation_secrecy_mag_ca55e4-Illustration-1-dark.svg" | relative_url }}" alt="Aviation secrecy illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_3a5c90_aviation_secrecy_mag_ca55e4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_3a5c90_aviation_secrecy_mag_ca55e4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Fascist Italy promoted aviation
 
-Aviation occupied a privileged place in Benito Mussolini's vision of a modern Fascist state. The independent Regia Aeronautica, established in 1923, was celebrated as proof that Italy belonged among the world's leading technological powers. Record-breaking flights, air displays and celebrated aviators such as Italo Balbo became central to state propaganda, projecting speed, innovation and military strength. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Regia_Aeronautica" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Regia Aeronautica</span><span class="citation-popover-snippet">Regia Aeronautica</span></span></span>
+Aviation occupied a privileged place in Benito Mussolini's vision of a modern Fascist state. The independent Regia Aeronautica, established in 1923, was celebrated as proof that Italy belonged among the world's leading technological powers. Record-breaking flights, air displays and celebrated aviators such as Italo Balbo became central to state propaganda, projecting speed, innovation and military strength.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Regia_Aeronautica" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Regia Aeronautica</span><span class="citation-popover-snippet">Regia Aeronautica</span></span></span>
 
 This public celebration of aviation had a less visible counterpart. While achievements were publicised, technical details of new aircraft, military capabilities and defence planning were often protected. Like other European powers during the inter-war period, Italy regarded advanced aeronautical research as strategically valuable. Aircraft factories, military airfields and development programmes therefore operated with varying degrees of confidentiality.
 
@@ -313,7 +313,7 @@ The strongest historical point in favour of the "aviation cover story" is also i
 
 If an unidentified object had fallen in northern Italy in 1933, military authorities would almost certainly have treated it as a potential defence matter before considering more exotic explanations. Contemporary governments were concerned about espionage, foreign aircraft development and technological surprise. A highly unusual flying object might reasonably have been assumed to be an advanced aircraft from another nation.
 
-This logic appears in [later retellings]({{ 'later-retellings/' | relative_url }}) of the Magenta story, which often claim that Mussolini's government initially suspected a French, British or German secret weapon before concluding anything more unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Map of the Magenta 1933 UFO crash. Later the crashed UFO was stored i...</span></span></span>
+This logic appears in [later retellings]({{ 'later-retellings/' | relative_url }}) of the Magenta story, which often claim that Mussolini's government initially suspected a French, British or German secret weapon before concluding anything more unusual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Map of the Magenta 1933 UFO crash. Later the crashed UFO was stored i...</span></span></span>
 
 However, this reasoning establishes only that an aviation-based cover story would have been plausible. It does not demonstrate that one actually occurred.
 
@@ -343,7 +343,7 @@ The difficulty is methodological. If every missing document or lack of contempor
 
 </div>
 
-To date, the alleged Magenta documents remain disputed. Critics have questioned both their origin and authenticity, while no verified Italian state archive has produced records confirming the reported recovery operation. Even renewed interest following David Grusch's public references to the case has not produced independently authenticated archival confirmation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2023/06/david-grush-and-1933-italian-ufo-crash.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[kevinrandle.blogspot.com+2Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">david grush and 1933 italian ufo crash</span><span class="citation-popover-snippet">David Grusch and the 1933 Italian UFO Crash21 Jun 2023 — The trouble there, according to an Italian researcher, Giuseppe Stilo, writing i...</span></span></span>
+To date, the alleged Magenta documents remain disputed. Critics have questioned both their origin and authenticity, while no verified Italian state archive has produced records confirming the reported recovery operation. Even renewed interest following David Grusch's public references to the case has not produced independently authenticated archival confirmation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2023/06/david-grush-and-1933-italian-ufo-crash.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[kevinrandle.blogspot.com+2Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">david grush and 1933 italian ufo crash</span><span class="citation-popover-snippet">David Grusch and the 1933 Italian UFO Crash21 Jun 2023 — The trouble there, according to an Italian researcher, Giuseppe Stilo, writing i...</span></span></span>
 
 This means that aviation secrecy functions primarily as an explanatory mechanism rather than as supporting evidence. It answers the question, "How might such an operation have been concealed?" but not the more important historical question, "Did it actually happen?"
 
@@ -372,194 +372,194 @@ Seen in this light, aviation secrecy should be understood as a mechanism that co
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_3a5c90_aviation_secrecy_mag_ca55e4-Illustration-3-dark.svg" | relative_url }}" alt="Aviation secrecy illustration 3" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_3a5c90_aviation_secrecy_mag_ca55e4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_3a5c90_aviation_secrecy_mag_ca55e4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why aviation secrecy matters to Magenta. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why aviation secrecy matters to Magenta. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores how military secrecy intersects with UFO reports while emphasizing evidence and official sources.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how military secrecy intersects with UFO reports while emphasizing evidence and official sources.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
+</h4>
+<p class="fr-book-author">By Nick Cook</p>
         
-        <p class="fr-book-desc">Examines secret aerospace projects and the culture of military aviation secrecy relevant to the article&#x27;s historical framing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines secret aerospace projects and the culture of military aviation secrecy relevant to the article&#x27;s historical framing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Illustrates how genuine aerospace secrecy functions, helping readers distinguish real classified programs from unsupported claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates how genuine aerospace secrecy functions, helping readers distinguish real classified programs from unsupported claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
         
-        <p class="fr-book-desc">First published 2011.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+factory+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation factory photo print" data-ebay-reference="aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AVIATION PHOTOGRAPH OF BAC ONE ELEVEN INTERNAL FACTORY VIEW WEYBRIDGE BRISTOL"><img src="{{ '/assets/images/marketplace-covers/309ed78f0fa0df7c9e1b.jpg' | relative_url }}" alt="Listing image for AVIATION PHOTOGRAPH OF BAC ONE ELEVEN INTERNAL FACTORY VIEW WEYBRIDGE BRISTOL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+factory+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation factory photo print" data-ebay-reference="aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print" target="_blank" rel="sponsored noopener noreferrer">AVIATION PHOTOGRAPH OF BAC ONE ELEVEN INTERNAL FACTORY VIEW WEYBRIDGE BRISTOL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+factory+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation factory photo print" data-ebay-reference="aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation factory photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation factory photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+factory+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation factory photo print" data-ebay-reference="aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+factory+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation factory photo print" data-ebay-reference="aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AVIATION PHOTOGRAPH OF BAC ONE ELEVEN INTERNAL FACTORY VIEW WEYBRIDGE BRISTOL"><img src="{{ '/assets/images/marketplace-covers/309ed78f0fa0df7c9e1b.jpg' | relative_url }}" alt="Listing image for AVIATION PHOTOGRAPH OF BAC ONE ELEVEN INTERNAL FACTORY VIEW WEYBRIDGE BRISTOL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+factory+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation factory photo print" data-ebay-reference="aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print" target="_blank" rel="sponsored noopener noreferrer">AVIATION PHOTOGRAPH OF BAC ONE ELEVEN INTERNAL FACTORY VIEW WEYBRIDGE BRISTOL</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+factory+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation factory photo print" data-ebay-reference="aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation factory photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation factory photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+factory+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation factory photo print" data-ebay-reference="aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+factory+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation factory photo print" data-ebay-reference="aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo:WWII Era Aircraft Factory Hangar RAF Fighter Assembly 1940s"><img src="{{ '/assets/images/marketplace-covers/25d5358cc4622b1aaa1d.jpg' | relative_url }}" alt="Listing image for Photo:WWII Era Aircraft Factory Hangar RAF Fighter Assembly 1940s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+factory+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation factory photo print" data-ebay-reference="aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print" target="_blank" rel="sponsored noopener noreferrer">Photo:WWII Era Aircraft Factory Hangar RAF Fighter Assembly 1940s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+factory+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation factory photo print" data-ebay-reference="aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation factory photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation factory photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+factory+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation factory photo print" data-ebay-reference="aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+factory+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation factory photo print" data-ebay-reference="aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo:WWII Era Aircraft Factory Hangar RAF Fighter Assembly 1940s"><img src="{{ '/assets/images/marketplace-covers/25d5358cc4622b1aaa1d.jpg' | relative_url }}" alt="Listing image for Photo:WWII Era Aircraft Factory Hangar RAF Fighter Assembly 1940s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+factory+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation factory photo print" data-ebay-reference="aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print" target="_blank" rel="sponsored noopener noreferrer">Photo:WWII Era Aircraft Factory Hangar RAF Fighter Assembly 1940s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+factory+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation factory photo print" data-ebay-reference="aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation factory photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation factory photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+factory+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation factory photo print" data-ebay-reference="aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+factory+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation factory photo print" data-ebay-reference="aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviation Factory Discussion - Original Photo"><img src="{{ '/assets/images/marketplace-covers/06ec12664188044a222e.jpg' | relative_url }}" alt="Listing image for Aviation Factory Discussion - Original Photo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+factory+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation factory photo print" data-ebay-reference="aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print" target="_blank" rel="sponsored noopener noreferrer">Aviation Factory Discussion - Original Photo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+factory+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation factory photo print" data-ebay-reference="aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation factory photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation factory photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+factory+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation factory photo print" data-ebay-reference="aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+factory+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation factory photo print" data-ebay-reference="aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviation Factory Discussion - Original Photo"><img src="{{ '/assets/images/marketplace-covers/06ec12664188044a222e.jpg' | relative_url }}" alt="Listing image for Aviation Factory Discussion - Original Photo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+factory+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation factory photo print" data-ebay-reference="aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print" target="_blank" rel="sponsored noopener noreferrer">Aviation Factory Discussion - Original Photo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+factory+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation factory photo print" data-ebay-reference="aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation factory photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation factory photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+factory+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation factory photo print" data-ebay-reference="aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+factory+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation factory photo print" data-ebay-reference="aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo:Aircraft Assembly Line Women Workers 1930s Aviation Factory"><img src="{{ '/assets/images/marketplace-covers/7839fb9b5e2923612e61.jpg' | relative_url }}" alt="Listing image for Photo:Aircraft Assembly Line Women Workers 1930s Aviation Factory" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+factory+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation factory photo print" data-ebay-reference="aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print" target="_blank" rel="sponsored noopener noreferrer">Photo:Aircraft Assembly Line Women Workers 1930s Aviation Factory</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+factory+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation factory photo print" data-ebay-reference="aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation factory photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation factory photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+factory+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation factory photo print" data-ebay-reference="aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+factory+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation factory photo print" data-ebay-reference="aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+factory+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation factory photo print" data-ebay-reference="aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo:Aircraft Assembly Line Women Workers 1930s Aviation Factory"><img src="{{ '/assets/images/marketplace-covers/7839fb9b5e2923612e61.jpg' | relative_url }}" alt="Listing image for Photo:Aircraft Assembly Line Women Workers 1930s Aviation Factory" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+factory+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation factory photo print" data-ebay-reference="aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print" target="_blank" rel="sponsored noopener noreferrer">Photo:Aircraft Assembly Line Women Workers 1930s Aviation Factory</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+factory+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation factory photo print" data-ebay-reference="aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation factory photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation factory photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+factory+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation factory photo print" data-ebay-reference="aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+factory+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation factory photo print" data-ebay-reference="aviation-secrecy-why-aviation-secrecy-matters-to-magenta-alleged-magenta-ufo-aviation-factory-photo-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -575,7 +575,7 @@ Seen in this light, aviation secrecy should be understood as a mechanism that co
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -595,7 +595,7 @@ Seen in this light, aviation secrecy should be understood as a mechanism that co
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -627,7 +627,7 @@ Seen in this light, aviation secrecy should be understood as a mechanism that co
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -679,7 +679,7 @@ Seen in this light, aviation secrecy should be understood as a mechanism that co
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -724,7 +724,7 @@ Seen in this light, aviation secrecy should be understood as a mechanism that co
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -765,94 +765,94 @@ Seen in this light, aviation secrecy should be understood as a mechanism that co
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Regia Aeronautica  
-   Link: <a href="https://en.wikipedia.org/wiki/Regia_Aeronautica" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Regia_Aeronautica</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Regia_Aeronautica" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Regia_Aeronautica</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: kevinrandle.blogspot.com  
    Title: david grush and 1933 italian ufo crash  
-   Link: <a href="https://kevinrandle.blogspot.com/2023/06/david-grush-and-1933-italian-ufo-crash.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2023/06/david-grush-and-1933-italian-ufo-crash.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch and the 1933 Italian UFO Crash21 Jun 2023 — The trouble there, according to an Italian researcher, Giuseppe Stilo, writing i...</p></details>
+   Link:<a href="https://kevinrandle.blogspot.com/2023/06/david-grush-and-1933-italian-ufo-crash.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2023/06/david-grush-and-1933-italian-ufo-crash.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch and the 1933 Italian UFO Crash21 Jun 2023 — The trouble there, according to an Italian researcher, Giuseppe Stilo, writing i...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: UFO sightings in Italy  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in ItalyThis is a list of alleged sightings of unidentified flying objects or UFOs in Italy.... ISSN 0009-8353. ↑ Rober...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in ItalyThis is a list of alleged sightings of unidentified flying objects or UFOs in Italy.... ISSN 0009-8353. ↑ Rober...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: history.state.gov  
-   Link: <a href="https://history.state.gov/historicaldocuments/frus1933v01/ch20" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1933v01/ch20</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(Documents 728–737)Foreign Relations of the United States, Diplomatic Papers, 1933, General, Volume I... alien seamen (Documents 808–815...</p></details>
+   Link:<a href="https://history.state.gov/historicaldocuments/frus1933v01/ch20" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1933v01/ch20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(Documents 728–737)Foreign Relations of the United States, Diplomatic Papers, 1933, General, Volume I... alien seamen (Documents 808–815...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: theblackvault.com  
    Title: the ufo files of mussolini [fascist ufo files](&#123;&#123; 'fascist-files/' | relative_url &#125;&#125;) by roberto pinotti  
-   Link: <a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Map of the Magenta 1933 UFO crash. Later the crashed UFO was stored i...</p></details>
+   Link:<a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — Map of the Magenta 1933 UFO crash. Later the crashed UFO was stored i...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: popularmechanics.com  
    Title: Secret documents suggest a suspicious cover-up  
-   Link: <a href="https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Popular MechanicsResearcher Says He Has Evidence of a 1933 UFO Crash...Jul 6, 2023 — An Italian researcher says the first UFO crashed in...</p></details>
+   Link:<a href="https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Popular MechanicsResearcher Says He Has Evidence of a 1933 UFO Crash...Jul 6, 2023 — An Italian researcher says the first UFO crashed in...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40EscapeVelocity1/1933-magenta-italy-discussions-by-john-ramirez-and-robert-salas-and-jesse-michels-talking-about-fd28c8da2def" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40EscapeVelocity1/1933-magenta-italy-discussions-by-john-ramirez-and-robert-salas-and-jesse-michels-talking-about-fd28c8da2def</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1933 Magenta, Italy discussions by John Ramirez and...The incident rose to prominence again when UFO informant, David Grusch, claimed th...</p></details>
+   Link:<a href="https://medium.com/%40EscapeVelocity1/1933-magenta-italy-discussions-by-john-ramirez-and-robert-salas-and-jesse-michels-talking-about-fd28c8da2def" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40EscapeVelocity1/1933-magenta-italy-discussions-by-john-ramirez-and-robert-salas-and-jesse-michels-talking-about-fd28c8da2def</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1933 Magenta, Italy discussions by John Ramirez and...The incident rose to prominence again when UFO informant, David Grusch, claimed th...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/673336086071389/posts/2680048568733454/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/673336086071389/posts/2680048568733454/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Italian Secret Projects Regia Aeronautica aircraft bookAnd this volume, we repeat, is the demonstration of how we can and we should carry...</p></details>
+   Link:<a href="https://www.facebook.com/groups/673336086071389/posts/2680048568733454/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/673336086071389/posts/2680048568733454/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Italian Secret Projects Regia Aeronautica aircraft bookAnd this volume, we repeat, is the demonstration of how we can and we should carry...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: bayonetsandbrushes.co.uk  
    Title: outclassed in the skies the italian air force of world war two reconsidered  
-   Link: <a href="https://bayonetsandbrushes.co.uk/outclassed-in-the-skies-the-italian-air-force-of-world-war-two-reconsidered/" target="_blank" rel="noopener noreferrer nofollow">https://bayonetsandbrushes.co.uk/outclassed-in-the-skies-the-italian-air-force-of-world-war-two-reconsidered/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>“Outclassed in the Skies?” The Italian Air Force of World...15 Apr 2026 — The Italian Air Force in World War Two — the Regia Aeronautica...</p></details>
+   Link:<a href="https://bayonetsandbrushes.co.uk/outclassed-in-the-skies-the-italian-air-force-of-world-war-two-reconsidered/" target="_blank" rel="noopener noreferrer nofollow">https://bayonetsandbrushes.co.uk/outclassed-in-the-skies-the-italian-air-force-of-world-war-two-reconsidered/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“Outclassed in the Skies?” The Italian Air Force of World...15 Apr 2026 — The Italian Air Force in World War Two — the Regia Aeronautica...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: wantedinrome.com  
    Title: the crash that predated [roswell](&#123;&#123; 'roswell/' | relative_url &#125;&#125;) mussolinis secret ufo files  
-   Link: <a href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...2 Mar 2026 — Italy&#x27;s Secret UFO Files: The Crash That Predated Roswell by 14 Y...</p></details>
+   Link:<a href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...2 Mar 2026 — Italy&#x27;s Secret UFO Files: The Crash That Predated Roswell by 14 Y...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: philarchive.org  
-   Link: <a href="https://philarchive.org/rec/MEYTIQ" target="_blank" rel="noopener noreferrer nofollow">https://philarchive.org/rec/MEYTIQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reframing the Roswell Incident Through Prior UFO...by N Meyler — Evidence points to a 1933 UFO crash in Magenta, Italy, recovered by the...</p></details>
+   Link:<a href="https://philarchive.org/rec/MEYTIQ" target="_blank" rel="noopener noreferrer nofollow">https://philarchive.org/rec/MEYTIQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reframing the Roswell Incident Through Prior UFO...by N Meyler — Evidence points to a 1933 UFO crash in Magenta, Italy, recovered by the...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ospreypublishing.com  
    Title: the regia aeronautica another victim of mussolini s regime  
-   Link: <a href="https://www.ospreypublishing.com/us/osprey-blog/2018/the-regia-aeronautica-another-victim-of-mussolini-s-regime/" target="_blank" rel="noopener noreferrer nofollow">https://www.ospreypublishing.com/us/osprey-blog/2018/the-regia-aeronautica-another-victim-of-mussolini-s-regime/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Regia Aeronautica: Another Victim of Mussolini&#x27;s Regime26 Feb 2018 — The Regia Aeronautica (the Italian Royal Air Force) was so ill-p...</p></details>
+   Link:<a href="https://www.ospreypublishing.com/us/osprey-blog/2018/the-regia-aeronautica-another-victim-of-mussolini-s-regime/" target="_blank" rel="noopener noreferrer nofollow">https://www.ospreypublishing.com/us/osprey-blog/2018/the-regia-aeronautica-another-victim-of-mussolini-s-regime/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Regia Aeronautica: Another Victim of Mussolini&#x27;s Regime26 Feb 2018 — The Regia Aeronautica (the Italian Royal Air Force) was so ill-p...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aol.com  
    Title: "Dave [Grusch] claims that the US has 'quite a few' alien  
-   Link: <a href="https://www.aol.com/researcher-says-first-ufo-crashed-100000766.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/researcher-says-first-ufo-crashed-100000766.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Researcher Says The First UFO Crashed In Italy In 1933...15 Jul 2023 — And noted UFO debunker Mick West pointed out that Grusch&#x27;s all...</p></details>
+   Link:<a href="https://www.aol.com/researcher-says-first-ufo-crashed-100000766.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/researcher-says-first-ufo-crashed-100000766.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Researcher Says The First UFO Crashed In Italy In 1933...15 Jul 2023 — And noted UFO debunker Mick West pointed out that Grusch&#x27;s all...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: newsweek.com  
    Title: [vatican](&#123;&#123; 'vatican/' | relative_url &#125;&#125;) pressure archives ufo cover david grusch 1816908  
-   Link: <a href="https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pressure on Vatican to Reveal Archives After &#x27;UFO Cover...2 Aug 2023 — Pressure is growing on the Vatican to shed light on whether it wa...</p></details>
+   Link:<a href="https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pressure on Vatican to Reveal Archives After &#x27;UFO Cover...2 Aug 2023 — Pressure is growing on the Vatican to shed light on whether it wa...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: air.unimi.it  
-   Link: <a href="https://air.unimi.it/retrieve/dfa8b99d-1c27-748b-e053-3a05fe0a3a96/Italy%27s%2520Aerial%2520Defenses%2520%28Baldoli%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://air.unimi.it/retrieve/dfa8b99d-1c27-748b-e053-3a05fe0a3a96/Italy%27s%2520Aerial%2520Defenses%2520%28Baldoli%29.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>World War. It analyzes a number of crucial factors: mass production of anti-.Read more...</p></details>
+   Link:<a href="https://air.unimi.it/retrieve/dfa8b99d-1c27-748b-e053-3a05fe0a3a96/Italy%27s%2520Aerial%2520Defenses%2520%28Baldoli%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://air.unimi.it/retrieve/dfa8b99d-1c27-748b-e053-3a05fe0a3a96/Italy%27s%2520Aerial%2520Defenses%2520%28Baldoli%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World War. It analyzes a number of crucial factors: mass production of anti-.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aol.com  
    Title: A Researcher Says the First UFO Really Crashed in Italy  
-   Link: <a href="https://www.aol.com/researcher-says-first-ufo-really-130000038.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/researcher-says-first-ufo-really-130000038.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO crash on Earth? An Italian researcher claims to have proof that backs up recent allegations that a crashed UFO was recovered in Italy...</p></details>
+   Link:<a href="https://www.aol.com/researcher-says-first-ufo-really-130000038.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/researcher-says-first-ufo-really-130000038.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO crash on Earth? An Italian researcher claims to have proof that backs up recent allegations that a crashed UFO was recovered in Italy...</p></details>

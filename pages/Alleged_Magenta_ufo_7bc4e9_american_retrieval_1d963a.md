@@ -453,11 +453,11 @@ The American-transfer branch of the Magenta crash story says the alleged object 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a-overview.webp" | relative_url }}" alt="Overview image for US Transfer" loading="eager" decoding="sync" fetchpriority="high">
 ## The wartime transfer claim
 
-The transfer claim comes mainly from later UFO literature around the so-called [Fascist UFO Files]({{ 'fascist-files/' | relative_url }}) rather than from a known wartime United States archive. Roberto Pinotti’s English-language account, reproduced by The Black Vault, says the alleged 1933 object was stored in SIAI Marchetti hangars at Vergiate, a plausible-sounding site because it was an aviation facility in the Varese area. Pinotti’s account then adds that, at the end of the war, the United States Air Force and Nazi intelligence personnel were “simultaneously infiltrated” into Sesto Calende to investigate rumours of terrestrial flying saucers kept at Vergiate. It further states that in April 1945 the 1st Armoured Division captured the SIAI Marchetti aviation facility where the Magenta UFO or debris was “probably kept” and that it was brought to the United States. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
+The transfer claim comes mainly from later UFO literature around the so-called [Fascist UFO Files]({{ 'fascist-files/' | relative_url }}) rather than from a known wartime United States archive. Roberto Pinotti’s English-language account, reproduced by The Black Vault, says the alleged 1933 object was stored in SIAI Marchetti hangars at Vergiate, a plausible-sounding site because it was an aviation facility in the Varese area. Pinotti’s account then adds that, at the end of the war, the United States Air Force and Nazi intelligence personnel were “simultaneously infiltrated” into Sesto Calende to investigate rumours of terrestrial flying saucers kept at Vergiate. It further states that in April 1945 the 1st Armoured Division captured the SIAI Marchetti aviation facility where the Magenta UFO or debris was “probably kept” and that it was brought to the United States.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
 
-That wording is important. Even in the proponent account, the chain is partly inferential: the object was “probably” kept there, and its later movement to America is asserted without a displayed American custody record. The claim is therefore not equivalent to a documented seizure file. It is a narrative reconstruction built from alleged Italian papers, regional clues, wartime geography, rumours of post-war Allied interest and later UFO interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
+That wording is important. Even in the proponent account, the chain is partly inferential: the object was “probably” kept there, and its later movement to America is asserted without a displayed American custody record. The claim is therefore not equivalent to a documented seizure file. It is a narrative reconstruction built from alleged Italian papers, regional clues, wartime geography, rumours of post-war Allied interest and later UFO interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
 
-A second, more recent public version entered mainstream UAP discussion through David Grusch, the former United States intelligence officer who testified before Congress in July 2023. Grusch alleged a long-running United States crash-retrieval and reverse-engineering programme, and media summaries of his claims report that he said the first recovery occurred in Magenta, Italy, in 1933, with the United States acquiring the craft in 1944 or 1945 with Vatican assistance. The official House hearing page confirms the July 26, 2023 UAP hearing and its witnesses, including Grusch, while contemporary reporting records that his broader retrieval claims were not accompanied by public physical evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docs.house.gov">[House Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docs.house.gov</span><span class="citation-popover-snippet">“Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency” &#124; Committee Repository...</span></span></span>
+A second, more recent public version entered mainstream UAP discussion through David Grusch, the former United States intelligence officer who testified before Congress in July 2023. Grusch alleged a long-running United States crash-retrieval and reverse-engineering programme, and media summaries of his claims report that he said the first recovery occurred in Magenta, Italy, in 1933, with the United States acquiring the craft in 1944 or 1945 with Vatican assistance. The official House hearing page confirms the July 26, 2023 UAP hearing and its witnesses, including Grusch, while contemporary reporting records that his broader retrieval claims were not accompanied by public physical evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docs.house.gov">[House Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docs.house.gov</span><span class="citation-popover-snippet">“Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency” &#124; Committee Repository...</span></span></span>
 
 The 1944–1945 transfer story therefore has two overlapping public forms. The Pinotti-linked form emphasises the Italian industrial site and the Allied capture of northern facilities in 1945. The Grusch-linked form adds a Vatican back-channel and frames the episode as the first known case in a wider alleged United States retrieval programme. The two are compatible as folklore, but they are not the same evidentiary package.
 
@@ -467,9 +467,9 @@ The 1944–1945 transfer story therefore has two overlapping public forms. The P
 
 The dates are not incidental. They are chosen because the Allied campaign in Italy created a real historical pathway by which American forces, intelligence officers and technical specialists could gain access to former Fascist and German-controlled sites.
 
-Rome was liberated in June 1944, but northern Italy remained contested for almost another year. The United States Army’s official campaign history notes that the first Fifth Army units reached Rome on 4 June 1944, that crowds welcomed the Americans the following day, and that the campaign continued northward for eleven more months. U.S. Army Center of Military History <span class="citation-link-wrap"><a class="citation-inline-link" href="https://history.army.mil/portals/143/Images/Publications/catalog/72-20.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.army.mil">[history.army.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.army.mil</span><span class="citation-popover-title">U.S. Army Center of Military History Rome-Arno</span><span class="citation-popover-snippet">U.S. Army Center of Military History Rome-Arno</span></span></span> This matters because a 1944 retrieval from the Milan or Varese area would be difficult to reconcile with the military situation unless it involved intelligence channels rather than ordinary occupation of the site.
+Rome was liberated in June 1944, but northern Italy remained contested for almost another year. The United States Army’s official campaign history notes that the first Fifth Army units reached Rome on 4 June 1944, that crowds welcomed the Americans the following day, and that the campaign continued northward for eleven more months. U.S. Army Center of Military History<span class="citation-link-wrap"><a class="citation-inline-link" href="https://history.army.mil/portals/143/Images/Publications/catalog/72-20.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.army.mil">[history.army.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.army.mil</span><span class="citation-popover-title">U.S. Army Center of Military History Rome-Arno</span><span class="citation-popover-snippet">U.S. Army Center of Military History Rome-Arno</span></span></span> This matters because a 1944 retrieval from the Milan or Varese area would be difficult to reconcile with the military situation unless it involved intelligence channels rather than ordinary occupation of the site.
 
-By contrast, April 1945 fits the geography much better. The final Allied offensive in northern Italy opened the path into the Po Valley and towards the industrial north. The United States Army’s Po Valley campaign history describes the April 1945 push into northern Italy, while National Park Service material summarises the final offensive as culminating in the unconditional surrender of German and Axis forces in Italy on 2 May 1945. U.S. Army Center of Military History <span class="citation-link-wrap"><a class="citation-inline-link" href="https://history.army.mil/portals/143/Images/Publications/catalog/72-33.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.army.mil">[history.army.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.army.mil</span><span class="citation-popover-title">U.S. Army Center of Military History Po Valley</span><span class="citation-popover-snippet">U.S. Army Center of Military History Po Valley</span></span></span> That is why proponent versions often settle on April 1945: the claim needs a moment when Allied forces could physically reach the area where the object was supposedly stored.
+By contrast, April 1945 fits the geography much better. The final Allied offensive in northern Italy opened the path into the Po Valley and towards the industrial north. The United States Army’s Po Valley campaign history describes the April 1945 push into northern Italy, while National Park Service material summarises the final offensive as culminating in the unconditional surrender of German and Axis forces in Italy on 2 May 1945. U.S. Army Center of Military History<span class="citation-link-wrap"><a class="citation-inline-link" href="https://history.army.mil/portals/143/Images/Publications/catalog/72-33.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.army.mil">[history.army.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.army.mil</span><span class="citation-popover-title">U.S. Army Center of Military History Po Valley</span><span class="citation-popover-snippet">U.S. Army Center of Military History Po Valley</span></span></span> That is why proponent versions often settle on April 1945: the claim needs a moment when Allied forces could physically reach the area where the object was supposedly stored.
 
 The problem is that historical plausibility is not proof. Allied access to northern Italian aviation facilities in 1945 makes a transfer scenario possible in the ordinary logistical sense. It does not show that an unusual craft was present, that American forces identified it, that it was removed, or that a compartmented technical chain took custody of it.
 
@@ -480,7 +480,7 @@ The problem is that historical plausibility is not proof. Allied access to north
 
 If the United States acquired an extraordinary object from Italy in 1944 or 1945, the most likely documentary traces would not necessarily say “UFO”. Wartime records often used bland language, code names or technical categories. But a real recovery would still need a [custody chain]({{ 'custody-chain/' | relative_url }}).
 
-The most relevant American intelligence body for a late-war secret transfer is the Office of Strategic Services, or OSS, the wartime intelligence agency that conducted overt and covert intelligence collection, analysed raw intelligence and ran clandestine operations in support of military campaigns. The National Archives describes the OSS as established under the Joint Chiefs of Staff in 1942 and abolished on 1 October 1945, with intelligence functions passing through successor bodies that eventually led to the CIA. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/guide-fed-records/groups/226.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Records of the office of Strategic Services [OSS</span><span class="citation-popover-snippet">National Archives Records of the office of Strategic Services [OSS</span></span></span>
+The most relevant American intelligence body for a late-war secret transfer is the Office of Strategic Services, or OSS, the wartime intelligence agency that conducted overt and covert intelligence collection, analysed raw intelligence and ran clandestine operations in support of military campaigns. The National Archives describes the OSS as established under the Joint Chiefs of Staff in 1942 and abolished on 1 October 1945, with intelligence functions passing through successor bodies that eventually led to the CIA.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/guide-fed-records/groups/226.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Records of the office of Strategic Services [OSS</span><span class="citation-popover-snippet">National Archives Records of the office of Strategic Services [OSS</span></span></span>
 
 For the Magenta transfer claim, useful corroboration would probably look like one or more of the following:
 
@@ -495,7 +495,7 @@ For the Magenta transfer claim, useful corroboration would probably look like on
 
 </div>
 
-The absence of these records is not a trivial gap. The United States did document captured enemy technology, scientists, industrial facilities, art, intelligence networks and many forms of sensitive wartime material. The OSS record group alone is extensive, and the National Archives’ OSS guide identifies large bodies of files on intelligence operations, research, analysis, clandestine activity and post-war successor arrangements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/guide-fed-records/groups/226.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Records of the office of Strategic Services [OSS</span><span class="citation-popover-snippet">National Archives Records of the office of Strategic Services [OSS</span></span></span>
+The absence of these records is not a trivial gap. The United States did document captured enemy technology, scientists, industrial facilities, art, intelligence networks and many forms of sensitive wartime material. The OSS record group alone is extensive, and the National Archives’ OSS guide identifies large bodies of files on intelligence operations, research, analysis, clandestine activity and post-war successor arrangements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/guide-fed-records/groups/226.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Records of the office of Strategic Services [OSS</span><span class="citation-popover-snippet">National Archives Records of the office of Strategic Services [OSS</span></span></span>
 
 That makes the Magenta transfer claim testable in principle. It does not require immediate disclosure of an intact craft. It requires some independent sign that American authorities encountered, removed or evaluated an object matching the claim.
 
@@ -503,11 +503,11 @@ That makes the Magenta transfer claim testable in principle. It does not require
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a-Illustration-2-dark.svg" | relative_url }}" alt="US Transfer illustration 2" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Vatican back-channel problem
 
-The Vatican element is one of the most vivid parts of the later American-transfer story, but it is also one of the least settled. In the Grusch-linked version, Pope Pius XII is said to have known of the Italian-held object and to have passed information to the United States, enabling the Americans to recover it. Catholic and mainstream media reporting has repeated the allegation as a claim connected to Grusch and later UFO-Vatican interest, while also making clear that it remains unverified. OSV News - We've got the Church covered <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.osvnews.com/catholic-filmmaker-investigates-ufo-mysteries-at-the-vatican/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osvnews.com">[osvnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osvnews.com</span><span class="citation-popover-title">OSV News</span><span class="citation-popover-snippet">OSV News</span></span></span>
+The Vatican element is one of the most vivid parts of the later American-transfer story, but it is also one of the least settled. In the Grusch-linked version, Pope Pius XII is said to have known of the Italian-held object and to have passed information to the United States, enabling the Americans to recover it. Catholic and mainstream media reporting has repeated the allegation as a claim connected to Grusch and later UFO-Vatican interest, while also making clear that it remains unverified. OSV News - We've got the Church covered<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.osvnews.com/catholic-filmmaker-investigates-ufo-mysteries-at-the-vatican/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osvnews.com">[osvnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osvnews.com</span><span class="citation-popover-title">OSV News</span><span class="citation-popover-snippet">OSV News</span></span></span>
 
 The historical setting makes a Vatican channel imaginable: wartime Rome, diplomacy, intelligence contacts and the Vatican’s unique position as a sovereign religious and diplomatic actor all created opportunities for quiet communication. But the specific claim still needs records. A credible version would need evidence in Vatican, American diplomatic, OSS, presidential or military archives showing that information about an Italian-held craft was passed to United States authorities.
 
-There is also a contradiction inside the wider Magenta paper trail as described by sceptical researcher Pepijn van Erp. He notes that Pinotti’s own summary of one alleged protocol says transmission of reports was to be controlled by the RS/33 Cabinet and that other bodies, including a Pontifical University, were excluded. Van Erp argues that this sits awkwardly beside later claims that the Vatican was centrally involved in the United States recovery story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pepijnvanerp.nl">[Pepijn van Erp]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pepijnvanerp.nl</span><span class="citation-popover-title">Pepijn van Erp Mussolini&#x27;s UFO – Cabinet RS/33</span><span class="citation-popover-snippet">Pepijn van Erp Mussolini&#x27;s UFO – Cabinet RS/33</span></span></span>
+There is also a contradiction inside the wider Magenta paper trail as described by sceptical researcher Pepijn van Erp. He notes that Pinotti’s own summary of one alleged protocol says transmission of reports was to be controlled by the RS/33 Cabinet and that other bodies, including a Pontifical University, were excluded. Van Erp argues that this sits awkwardly beside later claims that the Vatican was centrally involved in the United States recovery story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pepijnvanerp.nl">[Pepijn van Erp]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pepijnvanerp.nl</span><span class="citation-popover-title">Pepijn van Erp Mussolini&#x27;s UFO – Cabinet RS/33</span><span class="citation-popover-snippet">Pepijn van Erp Mussolini&#x27;s UFO – Cabinet RS/33</span></span></span>
 
 That does not make Vatican involvement impossible. It does mean the Vatican detail cannot simply be treated as inherited from the earliest Italian document claims. It appears to be a later expansion of the story, and therefore needs its own evidence rather than borrowing credibility from the alleged RS/33 documents.
 
@@ -520,7 +520,7 @@ The two dates often appear together, but they do different work in the narrative
 
 A 1944 retrieval claim faces the harder military problem. Rome was in Allied hands from June 1944, but the northern industrial region around Milan, Varese, Vergiate and Sesto Calende was not yet under ordinary Allied control. A 1944 transfer would therefore require a clandestine intelligence operation, a Vatican or resistance channel, or some other route that bypassed the front line. That is not impossible in wartime Italy, where intelligence and resistance networks were active, but it raises the burden of proof.
 
-A 1945 retrieval claim is geographically easier. By April 1945, Allied forces were moving into northern Italy and the German position was collapsing. If an object had been stored at an aviation facility, this is the window in which American personnel could plausibly have reached it openly or semi-openly. Pinotti’s version specifically leans on this April 1945 timing and the capture of the SIAI Marchetti facility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
+A 1945 retrieval claim is geographically easier. By April 1945, Allied forces were moving into northern Italy and the German position was collapsing. If an object had been stored at an aviation facility, this is the window in which American personnel could plausibly have reached it openly or semi-openly. Pinotti’s version specifically leans on this April 1945 timing and the capture of the SIAI Marchetti facility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
 
 The distinction matters because weak [retellings]({{ 'retellings/' | relative_url }}) often merge the dates into a vague “1944–45” handover. For historical analysis, the difference is substantial. 1944 implies hidden wartime access before Allied occupation of the north. 1945 implies recovery during the collapse of the Italian front. Each version points to different records, different witnesses and different logistical pathways.
 
@@ -528,9 +528,9 @@ The distinction matters because weak [retellings]({{ 'retellings/' | relative_ur
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a-Illustration-3-dark.svg" | relative_url }}" alt="US Transfer illustration 3" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The official United States position
 
-The strongest official counterweight is the All-domain Anomaly Resolution Office, known as AARO, created within the United States Department of Defense to review UAP reports and historical claims. AARO’s 2024 historical report concluded that it had found no empirical evidence that the United States government or private companies possessed or reverse-engineered extraterrestrial technology. It also stated that claims involving named people, known locations, technological tests and documents were found to be inaccurate in the cases it reviewed, often because authentic classified programmes had been mistakenly associated with alien or extraterrestrial activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report</span></span></span>
+The strongest official counterweight is the All-domain Anomaly Resolution Office, known as AARO, created within the United States Department of Defense to review UAP reports and historical claims. AARO’s 2024 historical report concluded that it had found no empirical evidence that the United States government or private companies possessed or reverse-engineered extraterrestrial technology. It also stated that claims involving named people, known locations, technological tests and documents were found to be inaccurate in the cases it reviewed, often because authentic classified programmes had been mistakenly associated with alien or extraterrestrial activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report</span></span></span>
 
-AARO’s report is relevant to the Magenta transfer claim because the claim depends on a hidden United States custody chain beginning in 1944 or 1945. AARO did not publicly validate such a chain. Its broader assessment was that the alleged United States reverse-engineering narrative lacked evidence, and that no United States companies named by interviewees had recovered, possessed or reverse-engineered extraterrestrial technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report</span></span></span>
+AARO’s report is relevant to the Magenta transfer claim because the claim depends on a hidden United States custody chain beginning in 1944 or 1945. AARO did not publicly validate such a chain. Its broader assessment was that the alleged United States reverse-engineering narrative lacked evidence, and that no United States companies named by interviewees had recovered, possessed or reverse-engineered extraterrestrial technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report</span></span></span>
 
 This does not settle every archival question. AARO’s Volume 1 mainly addresses the historical record from 1945 onward and summarises its own interviews and programme reviews, while some proponents argue that the most sensitive records would remain hidden or compartmented. But for public evidence, the official United States position is clear: no verified retrieval or reverse-engineering programme has been established.
 
@@ -551,194 +551,194 @@ At present, the American retrieval branch remains a historically plausible route
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did America Take the Magenta Object?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did America Take the Magenta Object?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for military and government UFO claims, including alleged retrieval narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for military and government UFO claims, including alleged retrieval narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Surveys contemporary crash-retrieval allegations and their historical background.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Surveys contemporary crash-retrieval allegations and their historical background.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Examines documented government involvement with UFO reports using historical methodology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines documented government involvement with UFO reports using historical methodology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Crash+at+Corona+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
-        </h4>
-        <p class="fr-book-author">By Stanton T. Friedman, Don Berliner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Crash+at+Corona+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
+</h4>
+<p class="fr-book-author">By Stanton T. Friedman, Don Berliner</p>
         
-        <p class="fr-book-desc">First published 1993. Subjects: Unidentified flying objects, sightings and encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1993. Subjects: Unidentified flying objects, sightings and encounters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="us-transfer-did-america-take-the-magenta-object-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -754,7 +754,7 @@ At present, the American retrieval branch remains a historically plausible route
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -774,7 +774,7 @@ At present, the American retrieval branch remains a historically plausible route
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -806,7 +806,7 @@ At present, the American retrieval branch remains a historically plausible route
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -858,7 +858,7 @@ At present, the American retrieval branch remains a historically plausible route
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -903,7 +903,7 @@ At present, the American retrieval branch remains a historically plausible route
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -944,161 +944,161 @@ At present, the American retrieval branch remains a historically plausible route
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: theblackvault.com  
    Title: TH E UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti  
-   Link: <a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
+   Link:<a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: docs.house.gov  
-   Link: <a href="https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>“Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government [Transparency](&amp;#123;&amp;#123; &#x27;transparency/&#x27; | relative_url &amp;#125;&amp;#125;)” | Committee Repository...</p></details>
+   Link:<a href="https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government [Transparency](&amp;#123;&amp;#123; &#x27;transparency/&#x27; | relative_url &amp;#125;&amp;#125;)” | Committee Repository...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: history.army.mil  
    Title: U.S. Army Center of Military History Rome-Arno  
-   Link: <a href="https://history.army.mil/portals/143/Images/Publications/catalog/72-20.pdf" target="_blank" rel="noopener noreferrer nofollow">https://history.army.mil/portals/143/Images/Publications/catalog/72-20.pdf</a>  
+   Link:<a href="https://history.army.mil/portals/143/Images/Publications/catalog/72-20.pdf" target="_blank" rel="noopener noreferrer nofollow">https://history.army.mil/portals/143/Images/Publications/catalog/72-20.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: history.army.mil  
    Title: U.S. Army Center of Military History Po Valley  
-   Link: <a href="https://history.army.mil/portals/143/Images/Publications/catalog/72-33.pdf" target="_blank" rel="noopener noreferrer nofollow">https://history.army.mil/portals/143/Images/Publications/catalog/72-33.pdf</a>  
+   Link:<a href="https://history.army.mil/portals/143/Images/Publications/catalog/72-33.pdf" target="_blank" rel="noopener noreferrer nofollow">https://history.army.mil/portals/143/Images/Publications/catalog/72-33.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archives.gov  
    Title: National Archives Records of the office of Strategic Services [OSS]  
-   Link: <a href="https://www.archives.gov/research/guide-fed-records/groups/226.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/groups/226.html</a>  
+   Link:<a href="https://www.archives.gov/research/guide-fed-records/groups/226.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/groups/226.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
    Title: entry 213  
-   Link: <a href="https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-213.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-213.html</a>  
+   Link:<a href="https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-213.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-213.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: osvnews.com  
    Title: OSV News  
-   Link: <a href="https://www.osvnews.com/catholic-filmmaker-investigates-ufo-mysteries-at-the-vatican/" target="_blank" rel="noopener noreferrer nofollow">https://www.osvnews.com/catholic-filmmaker-investigates-ufo-mysteries-at-the-vatican/</a>  
+   Link:<a href="https://www.osvnews.com/catholic-filmmaker-investigates-ufo-mysteries-at-the-vatican/" target="_blank" rel="noopener noreferrer nofollow">https://www.osvnews.com/catholic-filmmaker-investigates-ufo-mysteries-at-the-vatican/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
    Title: Unclassified Final DSD AARO Historical Report  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archives.gov  
    Title: entry 214  
-   Link: <a href="https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-214.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-214.html</a>  
+   Link:<a href="https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-214.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-214.html</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: archives.gov  
    Title: entry 211  
-   Link: <a href="https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-211.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-211.html</a>  
+   Link:<a href="https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-211.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-211.html</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: history.army.mil  
-   Link: <a href="https://history.army.mil/portals/143/Images/Publications/catalog/72-34.pdf" target="_blank" rel="noopener noreferrer nofollow">https://history.army.mil/portals/143/Images/Publications/catalog/72-34.pdf</a>  
+   Link:<a href="https://history.army.mil/portals/143/Images/Publications/catalog/72-34.pdf" target="_blank" rel="noopener noreferrer nofollow">https://history.army.mil/portals/143/Images/Publications/catalog/72-34.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: [oversight](&#123;&#123; 'oversight/' | relative_url &#125;&#125;). house.gov  
    Title: Dave G HOC Speech FINAL For Trans  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: oversight.house.gov  
-   Link: <a href="https://oversight.house.gov/release/hearing-wrap-up-lack-of-transparency-and-reporting-mechanisms-have-eroded-public-trust-on-governments-handling-of-uap-encounters%EF%BF%BC/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/hearing-wrap-up-lack-of-transparency-and-reporting-mechanisms-have-eroded-public-trust-on-governments-handling-of-uap-encounters%EF%BF%BC/</a>  
+   Link:<a href="https://oversight.house.gov/release/hearing-wrap-up-lack-of-transparency-and-reporting-mechanisms-have-eroded-public-trust-on-governments-handling-of-uap-encounters%EF%BF%BC/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/hearing-wrap-up-lack-of-transparency-and-reporting-mechanisms-have-eroded-public-trust-on-governments-handling-of-uap-encounters%EF%BF%BC/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/bub_gb_P3OIFS_yzyUC/bub_gb_P3OIFS_yzyUC_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/bub_gb_P3OIFS_yzyUC/bub_gb_P3OIFS_yzyUC_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/bub_gb_P3OIFS_yzyUC/bub_gb_P3OIFS_yzyUC_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/bub_gb_P3OIFS_yzyUC/bub_gb_P3OIFS_yzyUC_djvu.txt</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nps.gov  
    Title: po valley  
-   Link: <a href="https://www.nps.gov/places/po-valley.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/places/po-valley.htm</a>  
+   Link:<a href="https://www.nps.gov/places/po-valley.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/places/po-valley.htm</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pepijnvanerp.nl  
    Title: Pepijn van Erp Mussolini's UFO – [Cabinet](&#123;&#123; 'rs-33/' | relative_url &#125;&#125;) RS/33  
-   Link: <a href="https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/" target="_blank" rel="noopener noreferrer nofollow">https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/</a>  
+   Link:<a href="https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/" target="_blank" rel="noopener noreferrer nofollow">https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Office of Strategic Services  
-   Link: <a href="https://en.wikipedia.org/wiki/Office_of_Strategic_Services" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Office_of_Strategic_Services</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Office_of_Strategic_Services" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Office_of_Strategic_Services</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: osssociety.org  
-   Link: <a href="https://www.osssociety.org/national_archives_oss.html" target="_blank" rel="noopener noreferrer nofollow">https://www.osssociety.org/national_archives_oss.html</a>  
+   Link:<a href="https://www.osssociety.org/national_archives_oss.html" target="_blank" rel="noopener noreferrer nofollow">https://www.osssociety.org/national_archives_oss.html</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: collections.arolsen-archives.org  
-   Link: <a href="https://collections.arolsen-archives.org/en/document/120867811" target="_blank" rel="noopener noreferrer nofollow">https://collections.arolsen-archives.org/en/document/120867811</a>  
+   Link:<a href="https://collections.arolsen-archives.org/en/document/120867811" target="_blank" rel="noopener noreferrer nofollow">https://collections.arolsen-archives.org/en/document/120867811</a>  
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Road to Disclosure FULL SHOW | Reality Check with Ross Coulthart  
-   Link: <a href="https://www.youtube.com/watch?v=wAur0awdEjw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wAur0awdEjw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch Mussolini UFO 1945 retrieval UFO whistleblower David Grusch: &#x27;We are not alone&#x27; | Official Ross Coulthart NewsNation intervi...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wAur0awdEjw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wAur0awdEjw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch Mussolini UFO 1945 retrieval UFO whistleblower David Grusch: &#x27;We are not alone&#x27; | Official Ross Coulthart NewsNation intervi...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=RBAISwCZ2v0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RBAISwCZ2v0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fascist UFOs - Italian Mass Sightings | Full Documentary...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RBAISwCZ2v0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RBAISwCZ2v0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fascist UFOs - Italian Mass Sightings | Full Documentary...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Fascist UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=ojvSWFiJiec" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ojvSWFiJiec</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Road to Disclosure FULL SHOW | Reality Check with Ross Coulthart...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ojvSWFiJiec" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ojvSWFiJiec</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Road to Disclosure FULL SHOW | Reality Check with Ross Coulthart...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: The TRUE STORY of MUSSOLINI's UFO  
-   Link: <a href="https://www.youtube.com/watch?v=HEWhhyrujGI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HEWhhyrujGI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower David Grusch: &#x27;We are not alone&#x27; | Official Ross Coulthart NewsNation interview...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HEWhhyrujGI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HEWhhyrujGI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower David Grusch: &#x27;We are not alone&#x27; | Official Ross Coulthart NewsNation interview...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: abmc.gov  
    Title: liberating rome and central italy world war ii online interactive released  
-   Link: <a href="https://www.abmc.gov/news-events/news/liberating-rome-and-central-italy-world-war-ii-online-interactive-released/" target="_blank" rel="noopener noreferrer nofollow">https://www.abmc.gov/news-events/news/liberating-rome-and-central-italy-world-war-ii-online-interactive-released/</a>  
+   Link:<a href="https://www.abmc.gov/news-events/news/liberating-rome-and-central-italy-world-war-ii-online-interactive-released/" target="_blank" rel="noopener noreferrer nofollow">https://www.abmc.gov/news-events/news/liberating-rome-and-central-italy-world-war-ii-online-interactive-released/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/histimages/posts/3933160033603110/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/histimages/posts/3933160033603110/</a>  
+   Link:<a href="https://www.facebook.com/groups/histimages/posts/3933160033603110/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/histimages/posts/3933160033603110/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: commons.wikimedia.org  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3A2023_House_Oversight_and_Accountability_Hearing_on_UAP_%E2%80%93_Unidentified_Anomalous_Phenomena_%E2%80%93_Implications_on_National_Security%2C_Public_Safety%2C_and_Government_Transparency.webm" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3A2023_House_Oversight_and_Accountability_Hearing_on_UAP_%E2%80%93_Unidentified_Anomalous_Phenomena_%E2%80%93_Implications_on_National_Security%2C_Public_Safety%2C_and_Government_Transparency.webm</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3A2023_House_Oversight_and_Accountability_Hearing_on_UAP_%E2%80%93_Unidentified_Anomalous_Phenomena_%E2%80%93_Implications_on_National_Security%2C_Public_Safety%2C_and_Government_Transparency.webm" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3A2023_House_Oversight_and_Accountability_Hearing_on_UAP_%E2%80%93_Unidentified_Anomalous_Phenomena_%E2%80%93_Implications_on_National_Security%2C_Public_Safety%2C_and_Government_Transparency.webm</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/15edb2n/full_transcript_of_congress_uap_hearing_with/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/15edb2n/full_transcript_of_congress_uap_hearing_with/</a>  
+   Link:<a href="https://www.reddit.com/r/aliens/comments/15edb2n/full_transcript_of_congress_uap_hearing_with/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/15edb2n/full_transcript_of_congress_uap_hearing_with/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1cfxw8q/italian_magazine_oggi_confirms_that_mussolini/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cfxw8q/italian_magazine_oggi_confirms_that_mussolini/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1cfxw8q/italian_magazine_oggi_confirms_that_mussolini/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cfxw8q/italian_magazine_oggi_confirms_that_mussolini/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt28955081/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt28955081/</a>  
+   Link:<a href="https://www.imdb.com/title/tt28955081/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt28955081/</a>  

@@ -447,17 +447,17 @@ image: /assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d-overvie
 
 ## Introduction
 
-For the [alleged Magenta UFO]({{ 'alleged-magenta-ufo/' | relative_url }}) wreckage to be verified, the key question is not whether a story about a recovery exists, but whether a traceable custody record links a specific object from the claimed 1933 recovery site to storage, later transfer and modern analysis. On the public record, that chain is missing. The Magenta narrative describes anonymous documents, alleged telegrams, possible storage at [SIAI-Marchetti]({{ 'siai/' | relative_url }}) facilities near Vergiate, and later removal by American forces, but it does not provide a continuous, independently checkable trail for any physical wreckage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
+For the [alleged Magenta UFO]({{ 'alleged-magenta-ufo/' | relative_url }}) wreckage to be verified, the key question is not whether a story about a recovery exists, but whether a traceable custody record links a specific object from the claimed 1933 recovery site to storage, later transfer and modern analysis. On the public record, that chain is missing. The Magenta narrative describes anonymous documents, alleged telegrams, possible storage at [SIAI-Marchetti]({{ 'siai/' | relative_url }}) facilities near Vergiate, and later removal by American forces, but it does not provide a continuous, independently checkable trail for any physical wreckage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d-overview.webp" | relative_url }}" alt="Overview image for Custody" loading="eager" decoding="sync" fetchpriority="high">
-That matters because chain of custody is the mechanism that turns a claimed object into testable evidence. In forensic and scientific settings, it means a chronological record of who collected an item, where it was stored, who handled it, why it moved, how it was packaged, and what safeguards prevented substitution, contamination or loss. NIST defines chain of custody as the chronological record of an item’s transfer, handling and storage from collection to return or disposal; forensic guidance similarly stresses that every transfer must be documented from the moment of collection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/glossary-term/20076" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">Chain Of Custody &#124; NIST</span><span class="citation-popover-snippet">Chain Of Custody &#124; NIST</span></span></span>
+That matters because chain of custody is the mechanism that turns a claimed object into testable evidence. In forensic and scientific settings, it means a chronological record of who collected an item, where it was stored, who handled it, why it moved, how it was packaged, and what safeguards prevented substitution, contamination or loss. NIST defines chain of custody as the chronological record of an item’s transfer, handling and storage from collection to return or disposal; forensic guidance similarly stresses that every transfer must be documented from the moment of collection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/glossary-term/20076" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">Chain Of Custody &#124; NIST</span><span class="citation-popover-snippet">Chain Of Custody &#124; NIST</span></span></span>
 
 ## What a credible Magenta custody trail would need to show
 
-A credible custody trail for claimed Magenta wreckage would start at the recovery point, not decades later with [photocopies]({{ 'photocopies/' | relative_url }}) or recollections. The minimum useful record would identify the recovery location, date and time, first responders, condition of the object, photographs or sketches made on site, collection notes, packaging method, transport route, receiving officer and storage facility. In ordinary evidence handling, the collector is expected to label the sample container with a unique identifier, collection details, collector identity and witness signatures; each later handover requires signatures, dates and times. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK551677/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIChain of Custody</span><span class="citation-popover-snippet">NCBIChain of Custody</span></span></span>
+A credible custody trail for claimed Magenta wreckage would start at the recovery point, not decades later with [photocopies]({{ 'photocopies/' | relative_url }}) or recollections. The minimum useful record would identify the recovery location, date and time, first responders, condition of the object, photographs or sketches made on site, collection notes, packaging method, transport route, receiving officer and storage facility. In ordinary evidence handling, the collector is expected to label the sample container with a unique identifier, collection details, collector identity and witness signatures; each later handover requires signatures, dates and times.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK551677/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIChain of Custody</span><span class="citation-popover-snippet">NCBIChain of Custody</span></span></span>
 
-For Magenta, the most important missing link is the first physical custody step: who actually took possession of the alleged wreckage in 1933. Pinotti’s account says he and Alfredo Lissoni received anonymous material in the 1990s about a craft that had crashed or landed near Magenta in 1933, and that the material included [telegrams]({{ 'telegrams/' | relative_url }}) and a secrecy protocol. That is a document-provenance claim, not a wreckage-provenance chain. It may be relevant to historical inquiry, but it does not identify a recoverable object with a unique evidence number, a named custodian and a documented storage path from the field. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
+For Magenta, the most important missing link is the first physical custody step: who actually took possession of the alleged wreckage in 1933. Pinotti’s account says he and Alfredo Lissoni received anonymous material in the 1990s about a craft that had crashed or landed near Magenta in 1933, and that the material included [telegrams]({{ 'telegrams/' | relative_url }}) and a secrecy protocol. That is a document-provenance claim, not a wreckage-provenance chain. It may be relevant to historical inquiry, but it does not identify a recoverable object with a unique evidence number, a named custodian and a documented storage path from the field.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
 
 A strong chain would also separate three different evidentiary streams that are often blurred in retellings: the alleged wreckage itself, documents allegedly discussing the event, and later testimony or hearsay about what happened. Each stream needs its own provenance. A telegram, even if authentic to the Fascist period, would not by itself prove that a specific piece of metal now in someone’s possession came from Magenta. Conversely, an unusual alloy sample would not prove the Magenta story unless its recovery and custody history could be traced back to the alleged site.
 
@@ -465,19 +465,19 @@ A strong chain would also separate three different evidentiary streams that are 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d-Illustration-1-dark.svg" | relative_url }}" alt="Custody illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Recovery-to-storage documentation
 
-The Magenta story usually places the alleged object first near Magenta, then in hangars associated with SIAI-Marchetti at Vergiate or Sesto Calende. In Pinotti’s published account, the crashed UFO was later stored at SIAI-Marchetti in Vergiate, while Lissoni’s “Varese trail” is described as a hypothesis based on regional clues, wartime aviation facilities and rumours of post-war searches. The account also says that in April 1945 the US 1st Armoured Division captured the SIAI-Marchetti Aviation Facility where the object or debris was “probably” kept and brought to the United States. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
+The Magenta story usually places the alleged object first near Magenta, then in hangars associated with SIAI-Marchetti at Vergiate or Sesto Calende. In Pinotti’s published account, the crashed UFO was later stored at SIAI-Marchetti in Vergiate, while Lissoni’s “Varese trail” is described as a hypothesis based on regional clues, wartime aviation facilities and rumours of post-war searches. The account also says that in April 1945 the US 1st Armoured Division captured the SIAI-Marchetti Aviation Facility where the object or debris was “probably” kept and brought to the United States.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
 
 Those words are important. “Stored”, “hypothesis” and “probably” are not custody entries. A verifiable recovery-to-storage file would need to show the receiving institution, the exact hangar or room, inventory markings, access logs, security seals, inspection records, maintenance or concealment decisions, and any later transfer orders. The more extraordinary the claim, the more damaging a vague storage stage becomes, because a large object allegedly kept through Fascist collapse, German occupation, Italian resistance activity and Allied capture would have passed through many possible points of loss, substitution or misidentification.
 
-In evidence management, custody is not simply possession; it is accountable possession. The National Institute of Justice explains that chain of custody exists to prevent substitution, tampering, mistaken identity, damage, alteration, contamination, misplacement or falsification, and that each person handling evidence must be identified while all periods of custody are accounted for. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/pretrial/pretrial-motions/chain-custody" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[National Institute of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-snippet">Open source on ojp.gov.</span></span></span> For Magenta, the public narrative has named locations and agencies, but not the continuous accountability record that would let a later examiner say: this is the same object, or fragment, recovered in 1933.
+In evidence management, custody is not simply possession; it is accountable possession. The National Institute of Justice explains that chain of custody exists to prevent substitution, tampering, mistaken identity, damage, alteration, contamination, misplacement or falsification, and that each person handling evidence must be identified while all periods of custody are accounted for.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/pretrial/pretrial-motions/chain-custody" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[National Institute of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-snippet">Open source on ojp.gov.</span></span></span> For Magenta, the public narrative has named locations and agencies, but not the continuous accountability record that would let a later examiner say: this is the same object, or fragment, recovered in 1933.
 
 ## Sample handling and provenance
 
 If an alleged Magenta fragment surfaced today, the first scientific question would not be “is it alien?” but “what exactly is this sample, and how do we know where it came from?” That would require a provenance file and a contamination file. The provenance file would document ownership and custody; the contamination file would document every environment and material that could have changed the sample before analysis.
 
-Modern astromaterials curation shows how demanding that standard is. NASA describes extraterrestrial sample curation as the interface between sample return missions and the research community, including documentation, preservation, preparation and distribution. Its lunar sample review process covers sample and hardware handling, contamination control, documentation, facilities design and security responsibilities for principal investigators. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/citations/20140000765" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+Modern astromaterials curation shows how demanding that standard is. NASA describes extraterrestrial sample curation as the interface between sample return missions and the research community, including documentation, preservation, preparation and distribution. Its lunar sample review process covers sample and hardware handling, contamination control, documentation, facilities design and security responsibilities for principal investigators.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/citations/20140000765" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
-The OSIRIS-REx asteroid sample programme is a useful contrast because it shows what serious provenance looks like before a sample is even collected. Its curation planning included sample characterisation, cataloguing, allocation, detailed handling and containment approaches, plus witness plates and archived materials to track possible contamination sources from spacecraft construction, cleanrooms, recovery and later curation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.astrochem.org/docs/2023%20Righter%20-%20Curation%20planning%20and%20facilities%20for%20asteroid%20Bennu%20samples-MAPS.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astrochem.org">[astrochem.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astrochem.org</span><span class="citation-popover-snippet">Open source on astrochem.org.</span></span></span> In other words, scientists did not merely collect unusual material and test it; they built a record of the sample’s environment so that later results could be interpreted.
+The OSIRIS-REx asteroid sample programme is a useful contrast because it shows what serious provenance looks like before a sample is even collected. Its curation planning included sample characterisation, cataloguing, allocation, detailed handling and containment approaches, plus witness plates and archived materials to track possible contamination sources from spacecraft construction, cleanrooms, recovery and later curation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.astrochem.org/docs/2023%20Righter%20-%20Curation%20planning%20and%20facilities%20for%20asteroid%20Bennu%20samples-MAPS.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astrochem.org">[astrochem.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astrochem.org</span><span class="citation-popover-snippet">Open source on astrochem.org.</span></span></span> In other words, scientists did not merely collect unusual material and test it; they built a record of the sample’s environment so that later results could be interpreted.
 
 A claimed Magenta fragment would need a comparable, though historically adapted, package of evidence: photographs of the fragment before any destructive testing; mass, dimensions and surface description; sealed packaging history; laboratory intake records; a list of tools and containers used; contamination controls; split samples sent to independent laboratories; and clear documentation of any material consumed in testing. Without that, unusual isotopic ratios, machining marks or alloy composition could still be argued over as contamination, industrial origin, later alteration or misattribution.
 
@@ -486,19 +486,19 @@ A claimed Magenta fragment would need a comparable, though historically adapted,
 
 ## Why anonymous documents cannot carry physical custody
 
-The public Magenta case rests heavily on documents said to have arrived anonymously. Pinotti’s account says the material began arriving in early 1996, including handwritten notes on stationery bearing the seal of the Kingdom’s Senate, and that additional caches were sent by an anonymous “Mr X”. It also says an original thirty-page dossier sent to a newspaper was lost, while a first batch of photocopied material sent elsewhere was considered fake by a sceptical investigator. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
+The public Magenta case rests heavily on documents said to have arrived anonymously. Pinotti’s account says the material began arriving in early 1996, including handwritten notes on stationery bearing the seal of the Kingdom’s Senate, and that additional caches were sent by an anonymous “Mr X”. It also says an original thirty-page dossier sent to a newspaper was lost, while a first batch of photocopied material sent elsewhere was considered fake by a sceptical investigator.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
 
 That is a serious custody problem even before the alleged wreckage is considered. Anonymous transmission can preserve a source’s safety, but it weakens evidentiary weight because it removes the sender’s identity, original archive location, removal history and opportunity to test whether the papers came from one coherent file or from later assembly. A document can sometimes be authenticated physically through paper, ink, typeface, stamps and archival comparison, but even an authentic period document would still need interpretation. It might prove that an office issued a secrecy order; it would not automatically prove that non-human wreckage existed.
 
-Pinotti’s account says forensic testing by Antonio Garavaglia authenticated “the most important” of the papers, specifically a drawing connected with the 1936 Mestre case, and that copies of eighteen Fascist-era documents were released to Italian media. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span> That claim, if documented in full, would matter for the history of the papers. But for claimed Magenta wreckage, the decisive question remains separate: where is the physical object, and what documented custody links it to the claimed 1933 event?
+Pinotti’s account says forensic testing by Antonio Garavaglia authenticated “the most important” of the papers, specifically a drawing connected with the 1936 Mestre case, and that copies of eighteen Fascist-era documents were released to Italian media.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span> That claim, if documented in full, would matter for the history of the papers. But for claimed Magenta wreckage, the decisive question remains separate: where is the physical object, and what documented custody links it to the claimed 1933 event?
 
 ## What would count as a strong later transfer record
 
-The alleged later transfer to American control is one of the most consequential parts of the Magenta story because it tries to explain why no Italian-held wreckage is publicly available. Some versions connect the transfer to the end of the Second World War; David Grusch later alleged that Pope Pius XII backchannelled knowledge of the object to the United States, which then obtained it. Newsweek reported that the [Vatican]({{ 'vatican/' | relative_url }}) had not publicly responded to its request for comment at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">Pressure on Vatican to Reveal Archives After ‘UFO Cover Up’ Claims</span><span class="citation-popover-snippet">Pressure on Vatican to Reveal Archives After ‘UFO Cover Up’ Claims</span></span></span>
+The alleged later transfer to American control is one of the most consequential parts of the Magenta story because it tries to explain why no Italian-held wreckage is publicly available. Some versions connect the transfer to the end of the Second World War; David Grusch later alleged that Pope Pius XII backchannelled knowledge of the object to the United States, which then obtained it. Newsweek reported that the [Vatican]({{ 'vatican/' | relative_url }}) had not publicly responded to its request for comment at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">Pressure on Vatican to Reveal Archives After ‘UFO Cover Up’ Claims</span><span class="citation-popover-snippet">Pressure on Vatican to Reveal Archives After ‘UFO Cover Up’ Claims</span></span></span>
 
 A strong transfer record would need more than a claim of Allied seizure. It would require wartime capture inventories, transport orders, intelligence exploitation files, customs or military shipping records, receiving logs at a US facility, later storage identifiers, and ideally matching descriptions across Italian and American records. For a large object, the trail should be difficult to erase entirely: transport crates, specialist personnel, engineering reports, site security, translation work and disposal decisions would all create possible documentary traces.
 
-The available official US position does not fill that gap. AARO’s 2024 historical report said US investigations had reviewed reports of physical UFO evidence, including metallic debris, and found nothing of foreign or extraterrestrial origin; it also stated that AARO found no evidence of a US Air Force policy to cover up extraterrestrial knowledge, material or interactions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF) That does not prove the Magenta story impossible, but it means the public evidentiary burden remains on those claiming a recovered object and transfer chain.
+The available official US position does not fill that gap. AARO’s 2024 historical report said US investigations had reviewed reports of physical UFO evidence, including metallic debris, and found nothing of foreign or extraterrestrial origin; it also stated that AARO found no evidence of a US Air Force policy to cover up extraterrestrial knowledge, material or interactions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF) That does not prove the Magenta story impossible, but it means the public evidentiary burden remains on those claiming a recovered object and transfer chain.
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d-Illustration-2-dark.svg" | relative_url }}" alt="Custody illustration 2" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -509,12 +509,12 @@ Custody breaks do not always make investigation impossible. Historians often wor
 The strongest custody breaks in the public Magenta record are:
 
 * **No named first custodian.** The story does not publicly identify the recovery officer or unit that first took accountable possession of the alleged wreckage.
-* **No continuous storage log.** Vergiate and Sesto Calende appear as alleged or hypothesised storage sites, not as documented evidence repositories with surviving inventory records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
-* **Anonymous document provenance.** The papers reached researchers through an unnamed sender decades after the alleged event, and at least one related dossier is described as lost. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
+* **No continuous storage log.** Vergiate and Sesto Calende appear as alleged or hypothesised storage sites, not as documented evidence repositories with surviving inventory records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
+* **Anonymous document provenance.** The papers reached researchers through an unnamed sender decades after the alleged event, and at least one related dossier is described as lost.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
 * **No public object to examine.** The claim concerns wreckage, but no publicly available sample has a documented chain from 1933 recovery to modern laboratory custody.
 * **No matched Italian-US transfer file.** The alleged 1945 American acquisition is not supported in public by paired Italian departure records and US receiving records.
 
-These gaps matter because chain of custody is a defence against the most ordinary explanations for extraordinary evidence: mislabelled material, contaminated samples, later forgeries, confused memories, wartime rumours, hoaxes, and genuine documents interpreted beyond what they can support. Forensic guidance is blunt about the issue: without proof of an intact custody chain, evidence may be excluded or given less weight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/pretrial/pretrial-motions/chain-custody" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[National Institute of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-snippet">Open source on ojp.gov.</span></span></span>
+These gaps matter because chain of custody is a defence against the most ordinary explanations for extraordinary evidence: mislabelled material, contaminated samples, later forgeries, confused memories, wartime rumours, hoaxes, and genuine documents interpreted beyond what they can support. Forensic guidance is blunt about the issue: without proof of an intact custody chain, evidence may be excluded or given less weight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/pretrial/pretrial-motions/chain-custody" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[National Institute of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-snippet">Open source on ojp.gov.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FGiwgyLY7Aw" title="The 1933 Magenta, Italy UFO Crash" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FGiwgyLY7Aw" target="_blank" rel="noopener noreferrer">The 1933 Magenta, Italy UFO Crash</a></p><p class="youtube-embed-meta">Channel: UAP Gerb</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FGiwgyLY7Aw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FGiwgyLY7Aw">Open on YouTube</a></p></div></div></div>
@@ -523,9 +523,9 @@ These gaps matter because chain of custody is a defence against the most ordinar
 
 A future claim about Magenta wreckage should be assessed in stages rather than accepted or dismissed on atmosphere alone. The first stage is provenance: does the claimant show where the item came from, who held it, and how it moved? The second is integrity: was it sealed, labelled, stored and protected from contamination or substitution? The third is independent analysis: do multiple qualified laboratories reach compatible results from documented split samples? The fourth is historical fit: do the custody dates, locations and institutional names match archival records from Fascist Italy, wartime aviation facilities and Allied occupation records?
 
-The standard should be strict but not impossible. A fragment with partial provenance could still be worth scientific analysis, but the conclusion would have to be limited. It might be “an unusual aluminium alloy of uncertain origin”, not “the Magenta craft”. To make the stronger claim, the sample would need the same kind of accountability expected in evidence handling: unique identifier, collector, date, location, transfer signatures, delivery method, storage conditions and authorisation for analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK551677/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIChain of Custody</span><span class="citation-popover-snippet">NCBIChain of Custody</span></span></span>
+The standard should be strict but not impossible. A fragment with partial provenance could still be worth scientific analysis, but the conclusion would have to be limited. It might be “an unusual aluminium alloy of uncertain origin”, not “the Magenta craft”. To make the stronger claim, the sample would need the same kind of accountability expected in evidence handling: unique identifier, collector, date, location, transfer signatures, delivery method, storage conditions and authorisation for analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK551677/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIChain of Custody</span><span class="citation-popover-snippet">NCBIChain of Custody</span></span></span>
 
-For extraterrestrial-material claims, ethical and scientific provenance also matters beyond the laboratory. The Meteoritical Society urges meteorite recoverers to comply with applicable laws, obtain official names for meteorites, satisfy registration requirements, and avoid acquiring or studying material known to have been recovered or acquired illegally. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://meteoritical.org/society/governance/position-statements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meteoritical.org">[Meteoritical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meteoritical.org</span><span class="citation-popover-title">Society Position and Support Statements:: Meteoritical Society</span><span class="citation-popover-snippet">Society Position and Support Statements:: Meteoritical Society</span></span></span> A Magenta claimant who bypassed lawful provenance, refused independent custody review or offered only private “trust me” access would be asking readers to accept a lower standard than is expected for ordinary meteorites.
+For extraterrestrial-material claims, ethical and scientific provenance also matters beyond the laboratory. The Meteoritical Society urges meteorite recoverers to comply with applicable laws, obtain official names for meteorites, satisfy registration requirements, and avoid acquiring or studying material known to have been recovered or acquired illegally.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://meteoritical.org/society/governance/position-statements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meteoritical.org">[Meteoritical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meteoritical.org</span><span class="citation-popover-title">Society Position and Support Statements:: Meteoritical Society</span><span class="citation-popover-snippet">Society Position and Support Statements:: Meteoritical Society</span></span></span> A Magenta claimant who bypassed lawful provenance, refused independent custody review or offered only private “trust me” access would be asking readers to accept a lower standard than is expected for ordinary meteorites.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CQiBnRAFXEo" title="Magenta 1933: The UFO Crash Before Roswell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CQiBnRAFXEo" target="_blank" rel="noopener noreferrer">Magenta 1933: The UFO Crash Before Roswell</a></p><p class="youtube-embed-meta">Channel: That’s a Thing!?</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CQiBnRAFXEo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CQiBnRAFXEo">Open on YouTube</a></p></div></div></div>
@@ -540,194 +540,194 @@ That does not make every Magenta-related document worthless. The alleged telegra
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d-Illustration-3-dark.svg" | relative_url }}" alt="Custody illustration 3" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Would Magenta Wreckage Be Verified?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Would Magenta Wreckage Be Verified?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores how evidence and documentation affect extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how evidence and documentation affect extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Provides context for how alleged physical evidence is discussed and interpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how alleged physical evidence is discussed and interpreted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Frames UFO claims using a systematic investigative approach.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Frames UFO claims using a systematic investigative approach.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Forensic+Science+%3A+from+the+Crime+Scene+to+the+Crime+Lab+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensic Science : from the Crime Scene to the Crime Lab on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Forensic+Science+%3A+from+the+Crime+Scene+to+the+Crime+Lab+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic Science : from the Crime Scene to the Crime Lab">Forensic Science : from the Crime Scene to the Crime Lab</a>
-        </h4>
-        <p class="fr-book-author">By Richard Saferstein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Forensic+Science+%3A+from+the+Crime+Scene+to+the+Crime+Lab+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensic Science : from the Crime Scene to the Crime Lab on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Forensic+Science+%3A+from+the+Crime+Scene+to+the+Crime+Lab+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic Science : from the Crime Scene to the Crime Lab">Forensic Science : from the Crime Scene to the Crime Lab</a>
+</h4>
+<p class="fr-book-author">By Richard Saferstein</p>
         
-        <p class="fr-book-desc">First published 2013.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Forensic+Science+%3A+from+the+Crime+Scene+to+the+Crime+Lab+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2013.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Forensic+Science+%3A+from+the+Crime+Scene+to+the+Crime+Lab+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="custody-how-would-magenta-wreckage-be-verified-alleged-magenta-ufo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -743,7 +743,7 @@ That does not make every Magenta-related document worthless. The alleged telegra
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -763,7 +763,7 @@ That does not make every Magenta-related document worthless. The alleged telegra
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -795,7 +795,7 @@ That does not make every Magenta-related document worthless. The alleged telegra
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -847,7 +847,7 @@ That does not make every Magenta-related document worthless. The alleged telegra
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -892,7 +892,7 @@ That does not make every Magenta-related document worthless. The alleged telegra
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -933,149 +933,149 @@ That does not make every Magenta-related document worthless. The alleged telegra
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nist.gov  
    Title: Chain Of Custody | NIST  
-   Link: <a href="https://www.nist.gov/glossary-term/20076" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/glossary-term/20076</a>  
+   Link:<a href="https://www.nist.gov/glossary-term/20076" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/glossary-term/20076</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIChain of Custody  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK551677/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK551677/</a>  
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK551677/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK551677/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/citations/20140000765" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20140000765</a>  
+   Link:<a href="https://ntrs.nasa.gov/citations/20140000765" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20140000765</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: astrochem.org  
-   Link: <a href="https://www.astrochem.org/docs/2023%20Righter%20-%20Curation%20planning%20and%20facilities%20for%20asteroid%20Bennu%20samples-MAPS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.astrochem.org/docs/2023%20Righter%20-%20Curation%20planning%20and%20facilities%20for%20asteroid%20Bennu%20samples-MAPS.pdf</a>  
+   Link:<a href="https://www.astrochem.org/docs/2023%20Righter%20-%20Curation%20planning%20and%20facilities%20for%20asteroid%20Bennu%20samples-MAPS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.astrochem.org/docs/2023%20Righter%20-%20Curation%20planning%20and%20facilities%20for%20asteroid%20Bennu%20samples-MAPS.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: newsweek.com  
    Title: Pressure on Vatican to Reveal Archives After ‘UFO Cover Up’ Claims  
-   Link: <a href="https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908</a>  
+   Link:<a href="https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: meteoritical.org  
    Title: Society Position and Support Statements:: Meteoritical Society  
-   Link: <a href="https://meteoritical.org/society/governance/position-statements" target="_blank" rel="noopener noreferrer nofollow">https://meteoritical.org/society/governance/position-statements</a>  
+   Link:<a href="https://meteoritical.org/society/governance/position-statements" target="_blank" rel="noopener noreferrer nofollow">https://meteoritical.org/society/governance/position-statements</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nist.gov  
-   Link: <a href="https://www.nist.gov/forensic-science/interdisciplinary-topics/evidence-management/biological-evidence-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/forensic-science/interdisciplinary-topics/evidence-management/biological-evidence-guidance</a>  
+   Link:<a href="https://www.nist.gov/forensic-science/interdisciplinary-topics/evidence-management/biological-evidence-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/forensic-science/interdisciplinary-topics/evidence-management/biological-evidence-guidance</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nist.gov  
-   Link: <a href="https://www.nist.gov/document/2021-n-0018standard-scene-collection-and-preservation-physical-evidencedraft-osac" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/document/2021-n-0018standard-scene-collection-and-preservation-physical-evidencedraft-osac</a>  
+   Link:<a href="https://www.nist.gov/document/2021-n-0018standard-scene-collection-and-preservation-physical-evidencedraft-osac" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/document/2021-n-0018standard-scene-collection-and-preservation-physical-evidencedraft-osac</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: csrc.nist.gov  
    Title: govchain of custody  
-   Link: <a href="https://csrc.nist.gov/glossary/term/chain_of_custody" target="_blank" rel="noopener noreferrer nofollow">https://csrc.nist.gov/glossary/term/chain_of_custody</a>  
+   Link:<a href="https://csrc.nist.gov/glossary/term/chain_of_custody" target="_blank" rel="noopener noreferrer nofollow">https://csrc.nist.gov/glossary/term/chain_of_custody</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/citations/20150001928" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20150001928</a>  
+   Link:<a href="https://ntrs.nasa.gov/citations/20150001928" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20150001928</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nasa.gov  
    Title: 02 allton corrected apollo  
-   Link: <a href="https://www.nasa.gov/wp-content/uploads/2019/04/02_allton_corrected_apollo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2019/04/02_allton_corrected_apollo.pdf</a>  
+   Link:<a href="https://www.nasa.gov/wp-content/uploads/2019/04/02_allton_corrected_apollo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2019/04/02_allton_corrected_apollo.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nodis3.gsfc.nasa.gov  
    Title: display Dir.cfm  
-   Link: <a href="https://nodis3.gsfc.nasa.gov/displayDir.cfm?Internal_ID=N_PD_1387_002H_&amp;page_name=main" target="_blank" rel="noopener noreferrer nofollow">https://nodis3.gsfc.nasa.gov/displayDir.cfm?Internal_ID=N_PD_1387_002H_&amp;page_name=main</a>  
+   Link:<a href="https://nodis3.gsfc.nasa.gov/displayDir.cfm?Internal_ID=N_PD_1387_002H_&amp;page_name=main" target="_blank" rel="noopener noreferrer nofollow">https://nodis3.gsfc.nasa.gov/displayDir.cfm?Internal_ID=N_PD_1387_002H_&amp;page_name=main</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: mass.gov  
-   Link: <a href="https://www.mass.gov/doc/fsob-chain-of-custody-report/download" target="_blank" rel="noopener noreferrer nofollow">https://www.mass.gov/doc/fsob-chain-of-custody-report/download</a>  
+   Link:<a href="https://www.mass.gov/doc/fsob-chain-of-custody-report/download" target="_blank" rel="noopener noreferrer nofollow">https://www.mass.gov/doc/fsob-chain-of-custody-report/download</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: theblackvault.com  
    Title: The Black Vault THE UFO FILES OF MUSSOLINI: [Fascist UFO Files](&#123;&#123; 'fascist-files/' | relative_url &#125;&#125;) by Roberto Pinotti  
-   Link: <a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
+   Link:<a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nij.ojp.gov  
-   Link: <a href="https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/pretrial/pretrial-motions/chain-custody" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/pretrial/pretrial-motions/chain-custody</a>  
+   Link:<a href="https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/pretrial/pretrial-motions/chain-custody" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/pretrial/pretrial-motions/chain-custody</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11745348/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11745348/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11745348/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11745348/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: hal.science  
-   Link: <a href="https://hal.science/hal-04652105v1/document" target="_blank" rel="noopener noreferrer nofollow">https://hal.science/hal-04652105v1/document</a>  
+   Link:<a href="https://hal.science/hal-04652105v1/document" target="_blank" rel="noopener noreferrer nofollow">https://hal.science/hal-04652105v1/document</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cnsa.gov.cn  
-   Link: <a href="https://www.cnsa.gov.cn/english/n6465645/n6465648/c6811126/content.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cnsa.gov.cn/english/n6465645/n6465648/c6811126/content.html</a>  
+   Link:<a href="https://www.cnsa.gov.cn/english/n6465645/n6465648/c6811126/content.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cnsa.gov.cn/english/n6465645/n6465648/c6811126/content.html</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: komprise.com  
-   Link: <a href="https://www.komprise.com/glossary_terms/chain-of-custody/" target="_blank" rel="noopener noreferrer nofollow">https://www.komprise.com/glossary_terms/chain-of-custody/</a>  
+   Link:<a href="https://www.komprise.com/glossary_terms/chain-of-custody/" target="_blank" rel="noopener noreferrer nofollow">https://www.komprise.com/glossary_terms/chain-of-custody/</a>  
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=LLnVXIzsFt8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LLnVXIzsFt8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Magenta Project: The 1933 Magenta, Italy UFO Crash-Retrieval That Changed the World Updated Supercut...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LLnVXIzsFt8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LLnVXIzsFt8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Magenta Project: The 1933 Magenta, Italy UFO Crash-Retrieval That Changed the World Updated Supercut...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=fY6sBD_IWEs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fY6sBD_IWEs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Italy’s UFO Crash Before [Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;)? The 1933 Magenta Incident Revealed...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fY6sBD_IWEs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fY6sBD_IWEs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Italy’s UFO Crash Before [Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;)? The 1933 Magenta Incident Revealed...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: science.gov  
-   Link: <a href="https://www.science.gov/topicpages/s/sample%2Bcuration%2Bfacility" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/s/sample%2Bcuration%2Bfacility</a>  
+   Link:<a href="https://www.science.gov/topicpages/s/sample%2Bcuration%2Bfacility" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/s/sample%2Bcuration%2Bfacility</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=l7S8KnXePJI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l7S8KnXePJI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Magenta 1933: The UFO Crash Before Roswell...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=l7S8KnXePJI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l7S8KnXePJI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Magenta 1933: The UFO Crash Before Roswell...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ASTMInternational/posts/a-new-standard-being-developed-by-astms-forensic-sciences-committee-e30-aims-to-/1152141223612324/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ASTMInternational/posts/a-new-standard-being-developed-by-astms-forensic-sciences-committee-e30-aims-to-/1152141223612324/</a>  
+   Link:<a href="https://www.facebook.com/ASTMInternational/posts/a-new-standard-being-developed-by-astms-forensic-sciences-committee-e30-aims-to-/1152141223612324/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ASTMInternational/posts/a-new-standard-being-developed-by-astms-forensic-sciences-committee-e30-aims-to-/1152141223612324/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/astm-international_forensicscience-fsps-evidence-activity-7358503064711884800-h1VM" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/astm-international_forensicscience-fsps-evidence-activity-7358503064711884800-h1VM</a>  
+   Link:<a href="https://www.linkedin.com/posts/astm-international_forensicscience-fsps-evidence-activity-7358503064711884800-h1VM" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/astm-international_forensicscience-fsps-evidence-activity-7358503064711884800-h1VM</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/412514508/ASTM-Standards-for-Forensic-Sciences-John-Lentini-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/412514508/ASTM-Standards-for-Forensic-Sciences-John-Lentini-pdf</a>  
+   Link:<a href="https://www.scribd.com/document/412514508/ASTM-Standards-for-Forensic-Sciences-John-Lentini-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/412514508/ASTM-Standards-for-Forensic-Sciences-John-Lentini-pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: rcademy.com  
-   Link: <a href="https://rcademy.com/blockchain-based-evidence-chain-of-custody/" target="_blank" rel="noopener noreferrer nofollow">https://rcademy.com/blockchain-based-evidence-chain-of-custody/</a>  
+   Link:<a href="https://rcademy.com/blockchain-based-evidence-chain-of-custody/" target="_blank" rel="noopener noreferrer nofollow">https://rcademy.com/blockchain-based-evidence-chain-of-custody/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: study.com  
-   Link: <a href="https://study.com/academy/lesson/what-is-the-chain-of-custody-definition-procedures-importance.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/what-is-the-chain-of-custody-definition-procedures-importance.html</a>  
+   Link:<a href="https://study.com/academy/lesson/what-is-the-chain-of-custody-definition-procedures-importance.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/what-is-the-chain-of-custody-definition-procedures-importance.html</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40mail2mohan.ch/creation-of-mock-chain-of-custody-and-evidence-handling-forms-663a8746893b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40mail2mohan.ch/creation-of-mock-chain-of-custody-and-evidence-handling-forms-663a8746893b</a>  
+   Link:<a href="https://medium.com/%40mail2mohan.ch/creation-of-mock-chain-of-custody-and-evidence-handling-forms-663a8746893b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40mail2mohan.ch/creation-of-mock-chain-of-custody-and-evidence-handling-forms-663a8746893b</a>  

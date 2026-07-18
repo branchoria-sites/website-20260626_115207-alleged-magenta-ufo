@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /alleged-magenta-ufo-7bc4e9-aaro/
 description: Focused pages that expand on AARO.
-date: '2026-06-26'
+date: '2026'
 layout: default
 parent_basename: Alleged_Magenta_ufo_7bc4e9_aaro_official_view_8814fc
 parent_title: AARO
@@ -16,7 +16,7 @@ parent_permalink: /aaro/
 
 # Explore Topics in AARO
 
-The following pages expand on the main **[AARO]({{ '/aaro/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[AARO]({{ '/aaro/' | relative_url }})** page and cover its key branches in.
 
 - [AARO Tests]({{ '/aaro-tests/' | relative_url }})
 - [Kona Blue]({{ '/kona-blue/' | relative_url }})

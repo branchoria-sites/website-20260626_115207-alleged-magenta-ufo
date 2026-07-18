@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /alleged-magenta-ufo-7bc4e9-skeptical/
 description: Focused pages that expand on Sceptics.
-date: '2026-06-26'
+date: '2026'
 layout: default
 parent_basename: Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef
 parent_title: Sceptics
@@ -16,7 +16,7 @@ parent_permalink: /sceptics/
 
 # Explore Topics in Sceptics
 
-The following pages expand on the main **[Sceptics]({{ '/sceptics/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Sceptics]({{ '/sceptics/' | relative_url }})** page and cover its key branches in.
 
 - [Craft Shape]({{ '/craft-shape/' | relative_url }})
 - [Dates Places]({{ '/dates-places/' | relative_url }})

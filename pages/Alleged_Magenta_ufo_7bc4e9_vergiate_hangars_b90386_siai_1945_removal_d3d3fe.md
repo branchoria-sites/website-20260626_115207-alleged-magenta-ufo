@@ -280,15 +280,15 @@ image: /assets/images/Alleged_Magenta_ufo_7bc4e9_vergiate_hangars_b90386_siai_19
 
 ## Introduction
 
-Within the [alleged Magenta UFO]({{ 'alleged-magenta-ufo/' | relative_url }}) narrative, the claimed removal of the recovered object from [SIAI-Marchetti]({{ 'siai/' | relative_url }})'s facilities after the Second World War is the point where the story shifts from an Italian secret to an alleged American one. According to later UFO accounts, the object stored at Vergiate did not remain in Italy indefinitely but was taken by Allied or American personnel in 1945, laying the foundation for later claims of long-running US possession of non-human technology. This alleged transfer is central to the overall narrative because it provides the supposed bridge between Fascist-era secrecy and post-war American crash-retrieval stories. However, unlike the claim that the object was stored at Vergiate, the alleged 1945 removal is supported by even less publicly verifiable evidence. No authenticated transport orders, Allied seizure records, customs manifests, military inventories or contemporaneous witness statements have been produced that document such an operation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Italy</span><span class="citation-popover-snippet">UFO sightings in Italy</span></span></span>
+Within the [alleged Magenta UFO]({{ 'alleged-magenta-ufo/' | relative_url }}) narrative, the claimed removal of the recovered object from [SIAI-Marchetti]({{ 'siai/' | relative_url }})'s facilities after the Second World War is the point where the story shifts from an Italian secret to an alleged American one. According to later UFO accounts, the object stored at Vergiate did not remain in Italy indefinitely but was taken by Allied or American personnel in 1945, laying the foundation for later claims of long-running US possession of non-human technology. This alleged transfer is central to the overall narrative because it provides the supposed bridge between Fascist-era secrecy and post-war American crash-retrieval stories. However, unlike the claim that the object was stored at Vergiate, the alleged 1945 removal is supported by even less publicly verifiable evidence. No authenticated transport orders, Allied seizure records, customs manifests, military inventories or contemporaneous witness statements have been produced that document such an operation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Italy</span><span class="citation-popover-snippet">UFO sightings in Italy</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_vergiate_hangars_b90386_siai_1945_removal_d3d3fe-Illustration-1-dark.svg" | relative_url }}" alt="1945 Removal illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_vergiate_hangars_b90386_siai_1945_removal_d3d3fe-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_vergiate_hangars_b90386_siai_1945_removal_d3d3fe-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the 1945 removal claim says
 
-The public version of the claim appears primarily in the work of Italian UFO researchers, particularly Roberto Pinotti, and has since been repeated by later authors and commentators. In these accounts, the recovered object allegedly remained hidden in SIAI-Marchetti [hangars]({{ 'hangars/' | relative_url }}) near [Vergiate]({{ 'vergiate/' | relative_url }}) until the collapse of Fascist Italy and the Allied advance into northern Italy. The story then asserts that Allied forces—sometimes identified broadly as American forces, sometimes linked more specifically to intelligence services—removed the object from Italian control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Italy</span><span class="citation-popover-snippet">UFO sightings in Italy</span></span></span>
+The public version of the claim appears primarily in the work of Italian UFO researchers, particularly Roberto Pinotti, and has since been repeated by later authors and commentators. In these accounts, the recovered object allegedly remained hidden in SIAI-Marchetti [hangars]({{ 'hangars/' | relative_url }}) near [Vergiate]({{ 'vergiate/' | relative_url }}) until the collapse of Fascist Italy and the Allied advance into northern Italy. The story then asserts that Allied forces—sometimes identified broadly as American forces, sometimes linked more specifically to intelligence services—removed the object from Italian control.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Italy</span><span class="citation-popover-snippet">UFO sightings in Italy</span></span></span>
 
-The allegation gained renewed attention in 2023 after former US intelligence officer David [Grusch]({{ 'grusch/' | relative_url }}) referred publicly to claims that the United States had obtained a craft recovered in Italy during the closing stages of the war. Although his statements revived interest in the Magenta case, they did not include documentary evidence describing how such a transfer supposedly occurred, who authorised it, or where the object was transported immediately afterwards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">researcher says he has evidence of 1933 ufo crash in italy</span><span class="citation-popover-snippet">“Dave [Grusch] claims that the US has &#x27;quite a few&#x27; alien...Read more...</span></span></span>
+The allegation gained renewed attention in 2023 after former US intelligence officer David [Grusch]({{ 'grusch/' | relative_url }}) referred publicly to claims that the United States had obtained a craft recovered in Italy during the closing stages of the war. Although his statements revived interest in the Magenta case, they did not include documentary evidence describing how such a transfer supposedly occurred, who authorised it, or where the object was transported immediately afterwards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">researcher says he has evidence of 1933 ufo crash in italy</span><span class="citation-popover-snippet">“Dave [Grusch] claims that the US has &#x27;quite a few&#x27; alien...Read more...</span></span></span>
 
 Crucially, different versions of the story describe the transfer differently. Some refer simply to "the Allies," while others specify American personnel or the Office of Strategic Services (OSS), the wartime US intelligence organisation. These variations illustrate that the claimed chain of custody has never been presented in a single, internally consistent documentary form.
 
@@ -299,7 +299,7 @@ Crucially, different versions of the story describe the transfer differently. So
 
 The strongest way to evaluate the claim is not by asking whether wartime seizures occurred—they unquestionably did—but by asking what evidence would normally survive if an extraordinary aerospace object had been removed from an important industrial facility.
 
-By 1945, Allied technical intelligence organisations had developed systematic procedures for locating, documenting and transporting captured [aviation]({{ 'aviation/' | relative_url }}) technology. Programmes such as Operation LUSTY (LUftwaffe Secret TechnologY) were specifically organised to identify valuable aircraft, scientific documents, experimental equipment and engineering personnel across occupied Europe. These operations generated inventories, technical reports, shipping records and extensive administrative documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196144/operation-lusty/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalmuseum.af.mil">[nationalmuseum.af.mil+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalmuseum.af.mil</span><span class="citation-popover-title">Operation LUSTY</span><span class="citation-popover-snippet">National Museum of the USAF - Air ForceOperation LUSTY began with the aim of exploiting captured German scientific documents, research fa...</span></span></span>
+By 1945, Allied technical intelligence organisations had developed systematic procedures for locating, documenting and transporting captured [aviation]({{ 'aviation/' | relative_url }}) technology. Programmes such as Operation LUSTY (LUftwaffe Secret TechnologY) were specifically organised to identify valuable aircraft, scientific documents, experimental equipment and engineering personnel across occupied Europe. These operations generated inventories, technical reports, shipping records and extensive administrative documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196144/operation-lusty/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalmuseum.af.mil">[nationalmuseum.af.mil+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalmuseum.af.mil</span><span class="citation-popover-title">Operation LUSTY</span><span class="citation-popover-snippet">National Museum of the USAF - Air ForceOperation LUSTY began with the aim of exploiting captured German scientific documents, research fa...</span></span></span>
 
 If an unknown craft had been seized from a major aircraft manufacturer such as SIAI-Marchetti, historians would ordinarily expect at least some combination of:
 
@@ -315,7 +315,7 @@ If an unknown craft had been seized from a major aircraft manufacturer such as S
 
 </div>
 
-Comparable documentation survives for numerous captured German aircraft and experimental technologies recovered during Operation LUSTY and related programmes, demonstrating that significant aviation recoveries generally left substantial paper trails. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196144/operation-lusty/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalmuseum.af.mil">[nationalmuseum.af.mil+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalmuseum.af.mil</span><span class="citation-popover-title">Operation LUSTY</span><span class="citation-popover-snippet">National Museum of the USAF - Air ForceOperation LUSTY began with the aim of exploiting captured German scientific documents, research fa...</span></span></span>
+Comparable documentation survives for numerous captured German aircraft and experimental technologies recovered during Operation LUSTY and related programmes, demonstrating that significant aviation recoveries generally left substantial paper trails.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196144/operation-lusty/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalmuseum.af.mil">[nationalmuseum.af.mil+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalmuseum.af.mil</span><span class="citation-popover-title">Operation LUSTY</span><span class="citation-popover-snippet">National Museum of the USAF - Air ForceOperation LUSTY began with the aim of exploiting captured German scientific documents, research fa...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_vergiate_hangars_b90386_siai_1945_removal_d3d3fe-Illustration-2-dark.svg" | relative_url }}" alt="1945 Removal illustration 2" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_vergiate_hangars_b90386_siai_1945_removal_d3d3fe-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_vergiate_hangars_b90386_siai_1945_removal_d3d3fe-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -323,7 +323,7 @@ Comparable documentation survives for numerous captured German aircraft and expe
 
 The central weakness of the removal claim is not that it would have been impossible for the Allies to confiscate unusual material. Northern Italy contained strategically important aircraft factories, and Allied occupation authorities certainly inspected aviation facilities after the war. Rather, the weakness lies in the absence of evidence connecting those genuine historical activities to the specific alleged object from Magenta.
 
-No publicly available Allied archive has produced an authenticated record describing an unidentified craft recovered from SIAI-Marchetti at Vergiate. Likewise, no declassified US technical intelligence file has been shown to describe an anomalous vehicle seized from Italian custody. Existing Operation LUSTY documentation focuses on identifiable German aviation technology rather than unexplained artefacts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196144/operation-lusty/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalmuseum.af.mil">[nationalmuseum.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalmuseum.af.mil</span><span class="citation-popover-title">Operation LUSTY</span><span class="citation-popover-snippet">National Museum of the USAF - Air ForceOperation LUSTY began with the aim of exploiting captured German scientific documents, research fa...</span></span></span>
+No publicly available Allied archive has produced an authenticated record describing an unidentified craft recovered from SIAI-Marchetti at Vergiate. Likewise, no declassified US technical intelligence file has been shown to describe an anomalous vehicle seized from Italian custody. Existing Operation LUSTY documentation focuses on identifiable German aviation technology rather than unexplained artefacts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196144/operation-lusty/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalmuseum.af.mil">[nationalmuseum.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalmuseum.af.mil</span><span class="citation-popover-title">Operation LUSTY</span><span class="citation-popover-snippet">National Museum of the USAF - Air ForceOperation LUSTY began with the aim of exploiting captured German scientific documents, research fa...</span></span></span>
 
 Equally significant is the lack of a documented transport sequence. The public versions of the story generally move directly from "stored at Vergiate" to "taken by the Americans" without identifying:
 
@@ -348,7 +348,7 @@ Those missing links make independent historical verification extremely difficult
 
 [Supporters]({{ 'supporters/' | relative_url }}) of the claim sometimes argue that highly classified intelligence operations would naturally leave little or no accessible record. That possibility cannot be dismissed categorically because intelligence organisations have conducted secret transfers throughout history.
 
-However, historians also note that even classified wartime programmes often leave indirect traces over time. Personnel records, logistics paperwork, operational correspondence and later declassification frequently reveal at least fragments of large technical recovery efforts. In the case of Operation LUSTY, thousands of captured aircraft, documents and engineering items eventually became documented through military archives and later historical research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196144/operation-lusty/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalmuseum.af.mil">[nationalmuseum.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalmuseum.af.mil</span><span class="citation-popover-title">Operation LUSTY</span><span class="citation-popover-snippet">National Museum of the USAF - Air ForceOperation LUSTY began with the aim of exploiting captured German scientific documents, research fa...</span></span></span>
+However, historians also note that even classified wartime programmes often leave indirect traces over time. Personnel records, logistics paperwork, operational correspondence and later declassification frequently reveal at least fragments of large technical recovery efforts. In the case of Operation LUSTY, thousands of captured aircraft, documents and engineering items eventually became documented through military archives and later historical research.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196144/operation-lusty/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalmuseum.af.mil">[nationalmuseum.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalmuseum.af.mil</span><span class="citation-popover-title">Operation LUSTY</span><span class="citation-popover-snippet">National Museum of the USAF - Air ForceOperation LUSTY began with the aim of exploiting captured German scientific documents, research fa...</span></span></span>
 
 By contrast, the alleged Vergiate removal has not yet been matched with comparable archival evidence despite decades of research into post-war Allied exploitation of Axis aviation industries.
 
@@ -358,201 +358,201 @@ By contrast, the alleged Vergiate removal has not yet been matched with comparab
 
 The alleged 1945 removal performs an essential narrative function. Without it, the Magenta story remains confined to an alleged Fascist-era recovery whose subsequent fate is unknown. The claimed Allied transfer provides the mechanism by which later American crash-retrieval allegations could be connected to an earlier Italian event.
 
-At present, however, that mechanism remains an assertion rather than a documented historical chain of custody. The existence of genuine Allied technical intelligence programmes demonstrates that the removal of valuable aerospace material from Europe was entirely plausible as a wartime practice. What has not been demonstrated is that such programmes ever encountered, catalogued or transported the specific object alleged to have been stored at SIAI-Marchetti's Vergiate facilities. The historical record therefore supports the reality of extensive Allied technology seizures after 1945 while leaving the specific Vergiate removal claim unverified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196144/operation-lusty/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalmuseum.af.mil">[nationalmuseum.af.mil+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalmuseum.af.mil</span><span class="citation-popover-title">Operation LUSTY</span><span class="citation-popover-snippet">National Museum of the USAF - Air ForceOperation LUSTY began with the aim of exploiting captured German scientific documents, research fa...</span></span></span>
+At present, however, that mechanism remains an assertion rather than a documented historical chain of custody. The existence of genuine Allied technical intelligence programmes demonstrates that the removal of valuable aerospace material from Europe was entirely plausible as a wartime practice. What has not been demonstrated is that such programmes ever encountered, catalogued or transported the specific object alleged to have been stored at SIAI-Marchetti's Vergiate facilities. The historical record therefore supports the reality of extensive Allied technology seizures after 1945 while leaving the specific Vergiate removal claim unverified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196144/operation-lusty/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalmuseum.af.mil">[nationalmuseum.af.mil+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalmuseum.af.mil</span><span class="citation-popover-title">Operation LUSTY</span><span class="citation-popover-snippet">National Museum of the USAF - Air ForceOperation LUSTY began with the aim of exploiting captured German scientific documents, research fa...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZXScEN1OeeI" title="The Racing Plane That Became Italy&#x27;s Best Bomber | Savoia-Marchetti SM.79" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZXScEN1OeeI" target="_blank" rel="noopener noreferrer">The Racing Plane That Became Italy&#x27;s Best Bomber | Savoia-Marchetti SM.79</a></p><p class="youtube-embed-meta">Channel: Rex&#x27;s Hangar</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZXScEN1OeeI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZXScEN1OeeI">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the Allies Remove Anything from Vergiate?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the Allies Remove Anything from Vergiate?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides balanced coverage of government and military UFO claims, matching the article&#x27;s focus on evidence and official records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides balanced coverage of government and military UFO claims, matching the article&#x27;s focus on evidence and official records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Discusses contemporary claims about recovered craft, providing context for the alleged 1945 transfer narrative.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses contemporary claims about recovered craft, providing context for the alleged 1945 transfer narrative.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Examines historical government involvement and documentary evidence, aligning with the article&#x27;s emphasis on chain of custody and records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines historical government involvement and documentary evidence, aligning with the article&#x27;s emphasis on chain of custody and records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Covers major UFO cases, personalities, and historical claims, including disputed narratives and their sources.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers major UFO cases, personalities, and historical claims, including disputed narratives and their sources.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="1945-removal-did-the-allies-remove-anything-from-vergiate-alleged-magenta-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -568,7 +568,7 @@ At present, however, that mechanism remains an assertion rather than a documente
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -588,7 +588,7 @@ At present, however, that mechanism remains an assertion rather than a documente
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -620,7 +620,7 @@ At present, however, that mechanism remains an assertion rather than a documente
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -672,7 +672,7 @@ At present, however, that mechanism remains an assertion rather than a documente
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -717,7 +717,7 @@ At present, however, that mechanism remains an assertion rather than a documente
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -758,94 +758,94 @@ At present, however, that mechanism remains an assertion rather than a documente
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: UFO sightings in Italy  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nationalmuseum.af.mil  
    Title: Operation LUSTY  
-   Link: <a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196144/operation-lusty/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196144/operation-lusty/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Museum of the USAF - Air ForceOperation LUSTY began with the aim of exploiting captured German scientific documents, research fa...</p></details>
+   Link:<a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196144/operation-lusty/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196144/operation-lusty/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Museum of the USAF - Air ForceOperation LUSTY began with the aim of exploiting captured German scientific documents, research fa...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Operation LUSTY  
-   Link: <a href="https://en.wikipedia.org/wiki/Operation_LUSTY" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Operation_LUSTY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Operation LUSTY - WikipediaOperation LUSTY (&quot;Luftwaffe Secret Technology&quot;) was the United States Army Air Forces&#x27; effort to capture an...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Operation_LUSTY" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Operation_LUSTY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Operation LUSTY - WikipediaOperation LUSTY (&quot;Luftwaffe Secret Technology&quot;) was the United States Army Air Forces&#x27; effort to capture an...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: David Grusch  
-   Link: <a href="https://www.youtube.com/watch?v=8TrRaXWzcbM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8TrRaXWzcbM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 Magenta, Italy UFO Crash...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8TrRaXWzcbM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8TrRaXWzcbM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 Magenta, Italy UFO Crash...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: popularmechanics.com  
    Title: researcher says he has evidence of 1933 ufo crash in italy  
-   Link: <a href="https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>“Dave [Grusch] claims that the US has &#x27;quite a few&#x27; alien...Read more...</p></details>
+   Link:<a href="https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“Dave [Grusch] claims that the US has &#x27;quite a few&#x27; alien...Read more...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: research.si.edu  
-   Link: <a href="https://research.si.edu/publication-details/?id=104231" target="_blank" rel="noopener noreferrer nofollow">https://research.si.edu/publication-details/?id=104231</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;s Secret Aeronautical Technology, 1944-45.&quot; Aerospace Power Journal, 16, (1) 28-40...</p></details>
+   Link:<a href="https://research.si.edu/publication-details/?id=104231" target="_blank" rel="noopener noreferrer nofollow">https://research.si.edu/publication-details/?id=104231</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;s Secret Aeronautical Technology, 1944-45.&quot; Aerospace Power Journal, 16, (1) 28-40...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
    Title: david grusch gave us a hint 1933 italy ufo crash  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/15j8k3t/david_grusch_gave_us_a_hint_1933_italy_ufo_crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15j8k3t/david_grusch_gave_us_a_hint_1933_italy_ufo_crash/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>David grusch gave us a hint, 1933 Italy UFO crashr/UFOs - David Grusch&#x27;s Most Overlooked Statement - The 1933 UFO Recovery from Magenta...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/15j8k3t/david_grusch_gave_us_a_hint_1933_italy_ufo_crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15j8k3t/david_grusch_gave_us_a_hint_1933_italy_ufo_crash/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David grusch gave us a hint, 1933 Italy UFO crashr/UFOs - David Grusch&#x27;s Most Overlooked Statement - The 1933 UFO Recovery from Magenta...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
    Title: Operation Lusty: US captures Luftwaffe aircraft  
-   Link: <a href="https://www.facebook.com/groups/399005652699740/posts/791112123489089/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/399005652699740/posts/791112123489089/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>August 29, 2025 — On June 10, 1945, its pilots (maybe a mix of US and ex- Luftwaffe pilots) flew ten aircraft from Lechfeld to Ch...</p></details>
+   Link:<a href="https://www.facebook.com/groups/399005652699740/posts/791112123489089/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/399005652699740/posts/791112123489089/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 29, 2025 — On June 10, 1945, its pilots (maybe a mix of US and ex- Luftwaffe pilots) flew ten aircraft from Lechfeld to Ch...</p></details>
    Published: August 29, 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: curiositystream.com  
    Title: Operation Lusty: Hunt for the First Nazi Jet  
-   Link: <a href="https://curiositystream.com/title/video/7787" target="_blank" rel="noopener noreferrer nofollow">https://curiositystream.com/title/video/7787</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Curiosity StreamMarch 17, 2024 — In the closing days of World War II, a daring band of American pilots embarks on a secret mission to cap...</p></details>
+   Link:<a href="https://curiositystream.com/title/video/7787" target="_blank" rel="noopener noreferrer nofollow">https://curiositystream.com/title/video/7787</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Curiosity StreamMarch 17, 2024 — In the closing days of World War II, a daring band of American pilots embarks on a secret mission to cap...</p></details>
    Published: March 17, 2024  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: militaryaviationmuseum.org  
    Title: The aircraft were followed by truck  
-   Link: <a href="https://www.militaryaviationmuseum.org/me-262-vera-operation-lusty/" target="_blank" rel="noopener noreferrer nofollow">https://www.militaryaviationmuseum.org/me-262-vera-operation-lusty/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Me 262: Vera &amp; Operation LUSTY | Military Aviation MuseumJuly 4, 2025 — Two more Me 262s joined them at Melun Villaroche, these having be...</p></details>
+   Link:<a href="https://www.militaryaviationmuseum.org/me-262-vera-operation-lusty/" target="_blank" rel="noopener noreferrer nofollow">https://www.militaryaviationmuseum.org/me-262-vera-operation-lusty/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Me 262: Vera &amp; Operation LUSTY | Military Aviation MuseumJuly 4, 2025 — Two more Me 262s joined them at Melun Villaroche, these having be...</p></details>
    Published: July 4, 2025  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=xdPdQ2_P8K0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xdPdQ2_P8K0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mussolini UFO 1933 David Grusch Magenta David Grusch - In 1933 an UFO crashed in Italy and Mussolini Alieninfoo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xdPdQ2_P8K0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xdPdQ2_P8K0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mussolini UFO 1933 David Grusch Magenta David Grusch - In 1933 an UFO crashed in Italy and Mussolini Alieninfoo...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: academia.edu  
    Title: UF Os and Intelligence: A [Timeline](&#123;&#123; 'timeline/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>By George M. Eberhart“UFOs and Intelligence” is an up-to-date retrospective of UFO history (from Agobard of Lyons to the newly appointed...</p></details>
+   Link:<a href="https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>By George M. Eberhart“UFOs and Intelligence” is an up-to-date retrospective of UFO history (from Agobard of Lyons to the newly appointed...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sofmag.com  
    Title: ufo crash magenta italy 1933  
-   Link: <a href="https://sofmag.com/ufo-crash-magenta-italy-1933/" target="_blank" rel="noopener noreferrer nofollow">https://sofmag.com/ufo-crash-magenta-italy-1933/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>recovered the craft in 1944–1945 with Vatican and Five Eyes assistance, Grusch alleged that a secretive UFO program hid “non-...Read more...</p></details>
+   Link:<a href="https://sofmag.com/ufo-crash-magenta-italy-1933/" target="_blank" rel="noopener noreferrer nofollow">https://sofmag.com/ufo-crash-magenta-italy-1933/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>recovered the craft in 1944–1945 with Vatican and Five Eyes assistance, Grusch alleged that a secretive UFO program hid “non-...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: hef.ru.nl  
    Title: nl Aircraft Manufacturers  
-   Link: <a href="https://www.hef.ru.nl/~pfk/aircraft/manufacturer-SIAIMarchetti.php" target="_blank" rel="noopener noreferrer nofollow">https://www.hef.ru.nl/~pfk/aircraft/manufacturer-SIAIMarchetti.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Manufacturers - SIAI-Marchetti gallerySIAI-Marchetti was an Italian aircraft manufacturer. The original company was founded in 1915 as SI...</p></details>
+   Link:<a href="https://www.hef.ru.nl/~pfk/aircraft/manufacturer-SIAIMarchetti.php" target="_blank" rel="noopener noreferrer nofollow">https://www.hef.ru.nl/~pfk/aircraft/manufacturer-SIAIMarchetti.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Manufacturers - SIAI-Marchetti gallerySIAI-Marchetti was an Italian aircraft manufacturer. The original company was founded in 1915 as SI...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: scribd.com  
    Title: Ufos and Intelligence  
-   Link: <a href="https://www.scribd.com/document/838955243/Ufos-and-Intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/838955243/Ufos-and-Intelligence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehensive UFO History Timeline | PDFIt disappears below some low clouds. (Lorenzen, UFOs: The Whole Story, Signet, 1969, pp. 20–21; “...</p></details>
+   Link:<a href="https://www.scribd.com/document/838955243/Ufos-and-Intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/838955243/Ufos-and-Intelligence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehensive UFO History Timeline | PDFIt disappears below some low clouds. (Lorenzen, UFOs: The Whole Story, Signet, 1969, pp. 20–21; “...</p></details>

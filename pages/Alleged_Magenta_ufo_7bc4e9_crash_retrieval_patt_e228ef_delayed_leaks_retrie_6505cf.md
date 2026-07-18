@@ -280,7 +280,7 @@ image: /assets/images/Alleged_Magenta_ufo_7bc4e9_crash_retrieval_patt_e228ef_del
 
 ## Introduction
 
-Claims about alleged UFO crash-retrieval programmes, including the story of the alleged 1933 Magenta incident, often rely less on records created at the time than on material that surfaced years or even decades later. Anonymous document packets, retired officials' recollections, second-hand testimony and whistleblower accounts have become central to many retrieval narratives because they appear after the period when events could have been independently documented or easily investigated. This pattern helps explain why such stories remain influential long after the alleged events. At the same time, it creates a fundamental evidential problem: the greater the delay, the harder it becomes to establish authenticity, reconstruct provenance, identify original [witnesses]({{ 'witnesses/' | relative_url }}) or distinguish genuine historical material from later interpretation, embellishment or forgery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-d...</span></span></span>
+Claims about alleged UFO crash-retrieval programmes, including the story of the alleged 1933 Magenta incident, often rely less on records created at the time than on material that surfaced years or even decades later. Anonymous document packets, retired officials' recollections, second-hand testimony and whistleblower accounts have become central to many retrieval narratives because they appear after the period when events could have been independently documented or easily investigated. This pattern helps explain why such stories remain influential long after the alleged events. At the same time, it creates a fundamental evidential problem: the greater the delay, the harder it becomes to establish authenticity, reconstruct provenance, identify original [witnesses]({{ 'witnesses/' | relative_url }}) or distinguish genuine historical material from later interpretation, embellishment or forgery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-d...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_crash_retrieval_patt_e228ef_delayed_leaks_retrie_6505cf-Illustration-1-dark.svg" | relative_url }}" alt="Late Leaks illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_crash_retrieval_patt_e228ef_delayed_leaks_retrie_6505cf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_crash_retrieval_patt_e228ef_delayed_leaks_retrie_6505cf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -290,7 +290,7 @@ Delayed disclosure is not unique to UFO claims. Governments classify military pr
 
 Within UFO literature, however, delayed disclosure also serves a narrative function. If an alleged retrieval programme was highly compartmentalised, the absence of contemporary public records is interpreted not as evidence against the claim but as evidence that secrecy worked. As a result, later recollections and leaked papers become the primary evidence rather than supplementary confirmation.
 
-The alleged Magenta case illustrates this pattern. Public awareness of the story did not emerge in the 1930s or immediately after the Second World War. Instead, the narrative developed largely from documents reportedly received anonymously during the 1990s and subsequently promoted by Italian UFO researcher Roberto Pinotti and collaborators. According to their account, multiple recipients received similar document collections concerning an alleged Fascist-era investigation into a recovered craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — This material dealt with a purported flying saucer that had either cr...</span></span></span>
+The alleged Magenta case illustrates this pattern. Public awareness of the story did not emerge in the 1930s or immediately after the Second World War. Instead, the narrative developed largely from documents reportedly received anonymously during the 1990s and subsequently promoted by Italian UFO researcher Roberto Pinotti and collaborators. According to their account, multiple recipients received similar document collections concerning an alleged Fascist-era investigation into a recovered craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — This material dealt with a purported flying saucer that had either cr...</span></span></span>
 
 The delay itself does not prove either authenticity or fabrication. Instead, it changes the type of evidence available. Researchers are no longer evaluating an alleged crash directly but assessing the history of documents that appeared decades afterwards.
 
@@ -301,7 +301,7 @@ The delay itself does not prove either authenticity or fabrication. Instead, it 
 
 Late-emerging retrieval stories generally depend on one or more of three evidence types.
 
-**Anonymous documents.** [Anonymous papers]({{ 'anonymous-papers/' | relative_url }}) may contain apparent official formatting, period language, signatures or bureaucratic terminology. In the Magenta case, supporters argue that the alleged telegrams and memoranda resemble Fascist-era administrative documents. Critics respond that appearance alone cannot establish provenance when original archival custody is absent and the identity of the source is unknown. Without an unbroken chain showing where documents originated and how they were preserved, authentication becomes substantially more difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — This material dealt with a purported flying saucer that had either cr...</span></span></span>
+**Anonymous documents.** [Anonymous papers]({{ 'anonymous-papers/' | relative_url }}) may contain apparent official formatting, period language, signatures or bureaucratic terminology. In the Magenta case, supporters argue that the alleged telegrams and memoranda resemble Fascist-era administrative documents. Critics respond that appearance alone cannot establish provenance when original archival custody is absent and the identity of the source is unknown. Without an unbroken chain showing where documents originated and how they were preserved, authentication becomes substantially more difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — This material dealt with a purported flying saucer that had either cr...</span></span></span>
 
 **Retired witnesses.** Many crash-retrieval accounts rely on testimony given after military or intelligence careers have ended. Retirement may remove professional constraints and encourage people to speak publicly. However, memories also become less reliable over long periods, particularly when recalling complex events several decades earlier. Historians routinely treat retrospective testimony as valuable but requiring corroboration from independent contemporary records whenever possible.
 
@@ -319,7 +319,7 @@ Delayed leaks make each of these questions harder to answer.
 
 Original recipients may have died, archives may have been destroyed, administrative records may be incomplete, and [physical evidence]({{ 'evidence-gap/' | relative_url }}) may no longer exist for forensic examination. Even when documents appear authentic in style or vocabulary, historians normally seek additional confirmation through archive catalogues, related correspondence, institutional filing systems or references in independent records.
 
-The Magenta documents illustrate this challenge. Debate has focused not only on whether the papers resemble authentic Fascist-era communications but also on whether they can be connected to documented government record-keeping practices or traced through a verifiable archival chain. Without that provenance, historians remain cautious about treating the documents as established historical evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — This material dealt with a purported flying saucer that had either cr...</span></span></span>
+The Magenta documents illustrate this challenge. Debate has focused not only on whether the papers resemble authentic Fascist-era communications but also on whether they can be connected to documented government record-keeping practices or traced through a verifiable archival chain. Without that provenance, historians remain cautious about treating the documents as established historical evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — This material dealt with a purported flying saucer that had either cr...</span></span></span>
 
 Long delays also complicate witness verification. Independent observers who might once have confirmed or contradicted an account may no longer be available, while surviving participants may have encountered decades of media coverage that unintentionally reshapes memory.
 
@@ -342,9 +342,9 @@ This difference reflects contrasting standards of proof rather than a disagreeme
 
 Recent public discussion has renewed interest in historical retrieval stories because modern whistleblower allegations sometimes reference earlier cases, including Magenta, as part of a longer claimed history of recovered craft.
 
-These contemporary claims differ from the anonymous document packets of earlier decades because some witnesses have testified under formal legal whistleblower procedures or briefed government officials. Nevertheless, much of the publicly available evidence still consists of descriptions of information reportedly obtained from other people rather than publicly released physical evidence or archival documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/questions-pentagon-ufo-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">questions pentagon ufo report</span><span class="citation-popover-snippet">The 4 Big Questions the Pentagon&#x27;s New UFO Report Fails...Mar 11, 2024 — AARO investigators, for instance, dug through the claims o...</span></span></span>
+These contemporary claims differ from the anonymous document packets of earlier decades because some witnesses have testified under formal legal whistleblower procedures or briefed government officials. Nevertheless, much of the publicly available evidence still consists of descriptions of information reportedly obtained from other people rather than publicly released physical evidence or archival documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/questions-pentagon-ufo-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">questions pentagon ufo report</span><span class="citation-popover-snippet">The 4 Big Questions the Pentagon&#x27;s New UFO Report Fails...Mar 11, 2024 — AARO investigators, for instance, dug through the claims o...</span></span></span>
 
-The U.S. Department of Defense's All-domain Anomaly Resolution Office (AARO), after reviewing historical allegations, interviews and archival records, reported that it found no verifiable evidence that the U.S. government possessed extraterrestrial technology or operated confirmed secret crash-retrieval programmes. The report also argued that some narratives developed through repeated circulation of claims within overlapping networks of witnesses rather than through independently verified evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-d...</span></span></span>
+The U.S. Department of Defense's All-domain Anomaly Resolution Office (AARO), after reviewing historical allegations, interviews and archival records, reported that it found no verifiable evidence that the U.S. government possessed extraterrestrial technology or operated confirmed secret crash-retrieval programmes. The report also argued that some narratives developed through repeated circulation of claims within overlapping networks of witnesses rather than through independently verified evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-d...</span></span></span>
 
 The existence of competing interpretations does not eliminate the historical questions surrounding Magenta or similar cases. Instead, it underscores why delayed disclosures require especially careful evaluation of provenance, corroboration and evidential independence before they can be treated as reliable historical records.
 
@@ -353,194 +353,194 @@ The existence of competing interpretations does not eliminate the historical que
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Late Leaks Keep Retrieval Stories Alive. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Late Leaks Keep Retrieval Stories Alive. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines government testimony, official sources, and the evidential challenges surrounding UFO claims and delayed disclosures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines government testimony, official sources, and the evidential challenges surrounding UFO claims and delayed disclosures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Explores how UFO narratives, testimony, secrecy, and belief persist despite limited historical evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how UFO narratives, testimony, secrecy, and belief persist despite limited historical evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Offers tools for assessing late-emerging claims, witness testimony, and weak historical evidence using critical thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers tools for assessing late-emerging claims, witness testimony, and weak historical evidence using critical thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides historical context on evaluating UFO reports and the quality of evidence behind extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context on evaluating UFO reports and the quality of evidence behind extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP"><img src="{{ '/assets/images/marketplace-covers/cb030376ffee8e848aa3.jpg' | relative_url }}" alt="Listing image for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP"><img src="{{ '/assets/images/marketplace-covers/cb030376ffee8e848aa3.jpg' | relative_url }}" alt="Listing image for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model"><img src="{{ '/assets/images/marketplace-covers/b626ecf0eef6236661c6.jpg' | relative_url }}" alt="Listing image for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model"><img src="{{ '/assets/images/marketplace-covers/b626ecf0eef6236661c6.jpg' | relative_url }}" alt="Listing image for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display"><img src="{{ '/assets/images/marketplace-covers/3ccfc0d32b189563b8e0.jpg' | relative_url }}" alt="Listing image for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display"><img src="{{ '/assets/images/marketplace-covers/3ccfc0d32b189563b8e0.jpg' | relative_url }}" alt="Listing image for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="late-leaks-why-late-leaks-keep-retrieval-stories-alive-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -556,7 +556,7 @@ The existence of competing interpretations does not eliminate the historical que
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -576,7 +576,7 @@ The existence of competing interpretations does not eliminate the historical que
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -608,7 +608,7 @@ The existence of competing interpretations does not eliminate the historical que
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -660,7 +660,7 @@ The existence of competing interpretations does not eliminate the historical que
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -705,7 +705,7 @@ The existence of competing interpretations does not eliminate the historical que
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -746,107 +746,107 @@ The existence of competing interpretations does not eliminate the historical que
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-d...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-d...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wired.com  
    Title: questions pentagon ufo report  
-   Link: <a href="https://www.wired.com/story/questions-pentagon-ufo-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/questions-pentagon-ufo-report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 4 Big Questions the Pentagon&#x27;s New UFO Report Fails...Mar 11, 2024 — AARO investigators, for instance, dug through the claims o...</p></details>
+   Link:<a href="https://www.wired.com/story/questions-pentagon-ufo-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/questions-pentagon-ufo-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 4 Big Questions the Pentagon&#x27;s New UFO Report Fails...Mar 11, 2024 — AARO investigators, for instance, dug through the claims o...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Report Discounts Sightings of Extraterrestrial...Mar 8, 2024 — &quot;AARO has found no verifiable evidence that any UAP...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Report Discounts Sightings of Extraterrestrial...Mar 8, 2024 — &quot;AARO has found no verifiable evidence that any UAP...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — AARO recognizes the importance of NARA in supporting AARO&#x27;s mission to review and document historical UA...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — AARO recognizes the importance of NARA in supporting AARO&#x27;s mission to review and document historical UA...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThis unresolved report contributes to AARO&#x27;s historical and locational trend analyses. + Expand row details, PR-017, Unresolve...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThis unresolved report contributes to AARO&#x27;s historical and locational trend analyses. + Expand row details, PR-017, Unresolve...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: catalog.archives.gov  
-   Link: <a href="https://catalog.archives.gov/id/326996858" target="_blank" rel="noopener noreferrer nofollow">https://catalog.archives.gov/id/326996858</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;) Incident - Archives&#x27; catalogNo information is available for this page...</p></details>
+   Link:<a href="https://catalog.archives.gov/id/326996858" target="_blank" rel="noopener noreferrer nofollow">https://catalog.archives.gov/id/326996858</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;) Incident - Archives&#x27; catalogNo information is available for this page...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theblackvault.com  
    Title: the ufo files of mussolini fascist ufo files by roberto pinotti  
-   Link: <a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — This material dealt with a purported flying saucer that had either cr...</p></details>
+   Link:<a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultTHE UFO FILES OF MUSSOLINI: Fascist...10 Aug 2020 — This material dealt with a purported flying saucer that had either cr...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Calling out AARO&#x27;s bullshit in detail: r/UFOsThe allegations are that the [reverse-engineering](&amp;#123;&amp;#123; &#x27;reverse-engineering/&#x27; | relative_url &amp;#125;&amp;#125;) is being compartmentalised within legitima...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Calling out AARO&#x27;s bullshit in detail: r/UFOsThe allegations are that the [reverse-engineering](&amp;#123;&amp;#123; &#x27;reverse-engineering/&#x27; | relative_url &amp;#125;&amp;#125;) is being compartmentalised within legitima...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/whistleblower-complaint-shakes-intelligence-community-amid-allegations-of-wrongdoing/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/whistleblower-complaint-shakes-intelligence-community-amid-allegations-of-wrongdoing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblower Complaint Shakes Intelligence Community...3 Feb 2026 — A recent whistleblower complaint reportedly alleges wrongdoing by D...</p></details>
+   Link:<a href="https://thedebrief.org/whistleblower-complaint-shakes-intelligence-community-amid-allegations-of-wrongdoing/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/whistleblower-complaint-shakes-intelligence-community-amid-allegations-of-wrongdoing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblower Complaint Shakes Intelligence Community...3 Feb 2026 — A recent whistleblower complaint reportedly alleges wrongdoing by D...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: the latest aaro report on uaps which was released in late 2024 touched on hundre  
-   Link: <a href="https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The latest AARO report on UAPs, which was released in...The latest AARO report on UAPs, which was released in late 2024, touched on hund...</p></details>
+   Link:<a href="https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The latest AARO report on UAPs, which was released in...The latest AARO report on UAPs, which was released in late 2024, touched on hund...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: defensescoop.com  
    Title: uap aaro chief unveils pentagon annual caseload analysis new efforts  
-   Link: <a href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s...Nov 14, 2024 — The newly released, almost 20-page document includes explanati...</p></details>
+   Link:<a href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s...Nov 14, 2024 — The newly released, almost 20-page document includes explanati...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: metabunk.org  
    Title: claim a ufo crashed in 1933 italy and the us recovered it.13282  
-   Link: <a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — Roberto Pinotti - The Black Vault Case Files In his book, Pinotti...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — Roberto Pinotti - The Black Vault Case Files In his book, Pinotti...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theguardian.com  
    Title: The Guardian A whistleblower claims the US has alien vehicles  
-   Link: <a href="https://www.theguardian.com/us-news/2023/jun/09/ufo-alien-vehicles-us-whistleblower-evidence-where-is-proof" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jun/09/ufo-alien-vehicles-us-whistleblower-evidence-where-is-proof</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>9, 2023 — “AARO&#x27;s historical review of records and testimonies is ongoing and due to Congress by June 2024. AARO welcomes the...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2023/jun/09/ufo-alien-vehicles-us-whistleblower-evidence-where-is-proof" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jun/09/ufo-alien-vehicles-us-whistleblower-evidence-where-is-proof</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>9, 2023 — “AARO&#x27;s historical review of records and testimonies is ongoing and due to Congress by June 2024. AARO welcomes the...</p></details>
    Published: June 2024  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: wantedinrome.com  
    Title: the crash that predated roswell mussolinis secret ufo files  
-   Link: <a href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...2 Mar 2026 — Italy&#x27;s Secret UFO Files: The Crash That Predated Roswell by 14 Y...</p></details>
+   Link:<a href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...2 Mar 2026 — Italy&#x27;s Secret UFO Files: The Crash That Predated Roswell by 14 Y...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: docs.house.gov  
    Title: “AARO's Historical Report,” The Debrief,  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...Nov 13, 2024 — But critics say that AARO&#x27;s 63-page history of the US government&#x27;s investig...</p></details>
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...Nov 13, 2024 — But critics say that AARO&#x27;s 63-page history of the US government&#x27;s investig...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_[grusch" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_[grusch</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lation that Mussolini&#x27;s government retrieved a crashed UFO/UAP in 1933.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_[grusch" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_[grusch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lation that Mussolini&#x27;s government retrieved a crashed UFO/UAP in 1933.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
    Title: Descendant of a direct witness of UFO Magenta Crash  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1rfmsvl/descendant_of_a_direct_witness_of_ufo_magenta/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1rfmsvl/descendant_of_a_direct_witness_of_ufo_magenta/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Magenta, Italy UFO crash-retrieval story. 254. 53. 4 alien species have been pulled from crashed UFOs, ex-government researcher claims ·...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1rfmsvl/descendant_of_a_direct_witness_of_ufo_magenta/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1rfmsvl/descendant_of_a_direct_witness_of_ufo_magenta/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Magenta, Italy UFO crash-retrieval story. 254. 53. 4 alien species have been pulled from crashed UFOs, ex-government researcher claims ·...</p></details>

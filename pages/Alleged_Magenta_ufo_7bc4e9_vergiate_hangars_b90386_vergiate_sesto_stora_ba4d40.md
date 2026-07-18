@@ -278,15 +278,15 @@ The alleged 1933 Magenta UFO recovery is most often said to have been stored at 
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_vergiate_hangars_b90386_vergiate_sesto_stora_ba4d40-Illustration-1-dark.svg" | relative_url }}" alt="Two Sites illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_vergiate_hangars_b90386_vergiate_sesto_stora_ba4d40-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_vergiate_hangars_b90386_vergiate_sesto_stora_ba4d40-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The available historical evidence confirms that both Vergiate and Sesto Calende belonged to the same northern Italian [aviation]({{ 'aviation/' | relative_url }}) corridor and both were genuinely associated with SIAI-Marchetti. What has never emerged is an authenticated wartime document, company record, or independent witness that identifies a particular building at either site as the storage location. As a result, the debate is less about choosing the "correct" hangar than about understanding why the narrative remains geographically imprecise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lia.fondazioneleonardo.com/archivi/s/lia/item-set/20067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lia.fondazioneleonardo.com">[lia.fondazioneleonardo.com+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lia.fondazioneleonardo.com</span><span class="citation-popover-snippet">Archivio Storico SIAI MarchettiL&#x27;archivio della SIAI Marchetti consta in un corpus documentale che comprende oltre 50.000 tra disegni tec...</span></span></span>
+The available historical evidence confirms that both Vergiate and Sesto Calende belonged to the same northern Italian [aviation]({{ 'aviation/' | relative_url }}) corridor and both were genuinely associated with SIAI-Marchetti. What has never emerged is an authenticated wartime document, company record, or independent witness that identifies a particular building at either site as the storage location. As a result, the debate is less about choosing the "correct" hangar than about understanding why the narrative remains geographically imprecise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lia.fondazioneleonardo.com/archivi/s/lia/item-set/20067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lia.fondazioneleonardo.com">[lia.fondazioneleonardo.com+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lia.fondazioneleonardo.com</span><span class="citation-popover-snippet">Archivio Storico SIAI MarchettiL&#x27;archivio della SIAI Marchetti consta in un corpus documentale che comprende oltre 50.000 tra disegni tec...</span></span></span>
 
 ## Why the two locations get blurred together
 
-The confusion is not accidental. SIAI (Società Idrovolanti Alta Italia) was founded in 1915 at Sesto Calende on Lake Maggiore, where its original seaplane base and workshops were established. As the company expanded, industrial activity spread to nearby Vergiate, whose airfield became increasingly important for aircraft manufacture, assembly and testing. The two towns lie only a few kilometres apart and became closely linked within a single aerospace district. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.museoagusta.it/la-siai-marchetti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: museoagusta.it">[museoagusta.it+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">museoagusta.it</span><span class="citation-popover-title">la siai marchetti</span><span class="citation-popover-snippet">La Società Idrovolanti Alta Italia viene fondata nel 1915 a Sesto Calende da Domenico Santoni e Luigi Capé. L&#x27;idroscalo viene stabilito i...</span></span></span>
+The confusion is not accidental. SIAI (Società Idrovolanti Alta Italia) was founded in 1915 at Sesto Calende on Lake Maggiore, where its original seaplane base and workshops were established. As the company expanded, industrial activity spread to nearby Vergiate, whose airfield became increasingly important for aircraft manufacture, assembly and testing. The two towns lie only a few kilometres apart and became closely linked within a single aerospace district.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.museoagusta.it/la-siai-marchetti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: museoagusta.it">[museoagusta.it+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">museoagusta.it</span><span class="citation-popover-title">la siai marchetti</span><span class="citation-popover-snippet">La Società Idrovolanti Alta Italia viene fondata nel 1915 a Sesto Calende da Domenico Santoni e Luigi Capé. L&#x27;idroscalo viene stabilito i...</span></span></span>
 
 This historical geography explains why later writers sometimes use the names almost interchangeably. Someone familiar only with the broader SIAI-Marchetti industrial area could plausibly refer to "the Vergiate [hangars]({{ 'hangars/' | relative_url }})" while another writer might describe the same industrial network as being at Sesto Calende.
 
-The published UFO narrative itself reflects this uncertainty. Roberto Pinotti's presentations generally identify Vergiate as the storage site, whereas Alfredo Lissoni has described the object as possibly being hidden in the nearest discreet SIAI-Marchetti hangars at either Vergiate or Sesto Calende. The [wording]({{ 'wording/' | relative_url }}) is significant because it acknowledges uncertainty instead of identifying a specific facility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://researchomnia.blogspot.com/2017/04/the-truth-about-ufo-in-1933-italy.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchomnia.blogspot.com">[researchomnia.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchomnia.blogspot.com</span><span class="citation-popover-title">the truth about ufo in 1933 italy</span><span class="citation-popover-snippet">THE TRUTH ABOUT THE UFO IN 1933 ITALY12 Apr 2017 — First of all we have to remember that Roberto Pinotti, Italy&#x27;s leading UFO expert and...</span></span></span>
+The published UFO narrative itself reflects this uncertainty. Roberto Pinotti's presentations generally identify Vergiate as the storage site, whereas Alfredo Lissoni has described the object as possibly being hidden in the nearest discreet SIAI-Marchetti hangars at either Vergiate or Sesto Calende. The [wording]({{ 'wording/' | relative_url }}) is significant because it acknowledges uncertainty instead of identifying a specific facility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://researchomnia.blogspot.com/2017/04/the-truth-about-ufo-in-1933-italy.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchomnia.blogspot.com">[researchomnia.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchomnia.blogspot.com</span><span class="citation-popover-title">the truth about ufo in 1933 italy</span><span class="citation-popover-snippet">THE TRUTH ABOUT THE UFO IN 1933 ITALY12 Apr 2017 — First of all we have to remember that Roberto Pinotti, Italy&#x27;s leading UFO expert and...</span></span></span>
 
 ## What each site could plausibly offer in 1933
 
@@ -300,21 +300,21 @@ From a purely historical standpoint, both locations possess characteristics that
 * Established aircraft manufacturing facilities.
 * Large hangars and production buildings.
 * An operational airfield connected with aircraft testing.
-* Military-industrial activity that naturally involved restricted access. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Vergiate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+* Military-industrial activity that naturally involved restricted access.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Vergiate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 </div>
 
 These features explain why Vergiate became the dominant location in the UFO narrative. A large aircraft works appears intuitively suitable for storing an unusual airframe while allowing engineers to examine it.
 
-**Sesto Calende offered:** <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.museoagusta.it/la-siai-marchetti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: museoagusta.it">[museoagusta.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">museoagusta.it</span><span class="citation-popover-title">la siai marchetti</span><span class="citation-popover-snippet">La Società Idrovolanti Alta Italia viene fondata nel 1915 a Sesto Calende da Domenico Santoni e Luigi Capé. L&#x27;idroscalo viene stabilito i...</span></span></span>
+**Sesto Calende offered:**<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.museoagusta.it/la-siai-marchetti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: museoagusta.it">[museoagusta.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">museoagusta.it</span><span class="citation-popover-title">la siai marchetti</span><span class="citation-popover-snippet">La Società Idrovolanti Alta Italia viene fondata nel 1915 a Sesto Calende da Domenico Santoni e Luigi Capé. L&#x27;idroscalo viene stabilito i...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* The original SIAI headquarters and seaplane works. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hef.ru.nl/~pfk/aircraft/manufacturer-SIAIMarchetti.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hef.ru.nl">[hef.ru.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hef.ru.nl</span><span class="citation-popover-title">nl Aircraft Manufacturers</span><span class="citation-popover-snippet">The original company was founded in 1915 as SIAI (Società Idrovolanti Alta Italia - Seaplane company of...Read more...</span></span></span>
+* The original SIAI headquarters and seaplane works.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hef.ru.nl/~pfk/aircraft/manufacturer-SIAIMarchetti.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hef.ru.nl">[hef.ru.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hef.ru.nl</span><span class="citation-popover-title">nl Aircraft Manufacturers</span><span class="citation-popover-snippet">The original company was founded in 1915 as SIAI (Società Idrovolanti Alta Italia - Seaplane company of...Read more...</span></span></span>
 * Existing workshops, engineering staff and aviation infrastructure.
 * Long-standing company archives and administrative functions.
-* Direct historical association with the company's earliest operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.museoagusta.it/la-siai-marchetti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: museoagusta.it">[museoagusta.it+2fondazioneleonardo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">museoagusta.it</span><span class="citation-popover-title">la siai marchetti</span><span class="citation-popover-snippet">La Società Idrovolanti Alta Italia viene fondata nel 1915 a Sesto Calende da Domenico Santoni e Luigi Capé. L&#x27;idroscalo viene stabilito i...</span></span></span>
+* Direct historical association with the company's earliest operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.museoagusta.it/la-siai-marchetti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: museoagusta.it">[museoagusta.it+2fondazioneleonardo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">museoagusta.it</span><span class="citation-popover-title">la siai marchetti</span><span class="citation-popover-snippet">La Società Idrovolanti Alta Italia viene fondata nel 1915 a Sesto Calende da Domenico Santoni e Luigi Capé. L&#x27;idroscalo viene stabilito i...</span></span></span>
 
 </div>
 
@@ -346,7 +346,7 @@ Equally, the alleged recovery has never been linked to:
 
 </div>
 
-Without such evidence, the choice between Vergiate and Sesto Calende becomes largely inferential rather than documentary. Historians therefore cannot establish which location—if either—served as the alleged storage site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lia.fondazioneleonardo.com/archivi/s/lia/item-set/20067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lia.fondazioneleonardo.com">[lia.fondazioneleonardo.com+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lia.fondazioneleonardo.com</span><span class="citation-popover-snippet">Archivio Storico SIAI MarchettiL&#x27;archivio della SIAI Marchetti consta in un corpus documentale che comprende oltre 50.000 tra disegni tec...</span></span></span>
+Without such evidence, the choice between Vergiate and Sesto Calende becomes largely inferential rather than documentary. Historians therefore cannot establish which location—if either—served as the alleged storage site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lia.fondazioneleonardo.com/archivi/s/lia/item-set/20067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lia.fondazioneleonardo.com">[lia.fondazioneleonardo.com+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lia.fondazioneleonardo.com</span><span class="citation-popover-snippet">Archivio Storico SIAI MarchettiL&#x27;archivio della SIAI Marchetti consta in un corpus documentale che comprende oltre 50.000 tra disegni tec...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_vergiate_hangars_b90386_vergiate_sesto_stora_ba4d40-Illustration-2-dark.svg" | relative_url }}" alt="Two Sites illustration 2" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_vergiate_hangars_b90386_vergiate_sesto_stora_ba4d40-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_vergiate_hangars_b90386_vergiate_sesto_stora_ba4d40-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -354,11 +354,11 @@ Without such evidence, the choice between Vergiate and Sesto Calende becomes lar
 
 The uncertainty over location illustrates a broader evidential problem within the Magenta story.
 
-If a highly secret object had been transferred into one of Italy's leading aircraft factories, historians would normally expect at least some trace to survive, such as administrative paperwork, wartime correspondence, engineering references, logistics records or later corroborating testimony from identifiable personnel. None has been publicly produced for either Vergiate or Sesto Calende. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lia.fondazioneleonardo.com/archivi/s/lia/item-set/20067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lia.fondazioneleonardo.com">[lia.fondazioneleonardo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lia.fondazioneleonardo.com</span><span class="citation-popover-snippet">Archivio Storico SIAI MarchettiL&#x27;archivio della SIAI Marchetti consta in un corpus documentale che comprende oltre 50.000 tra disegni tec...</span></span></span>
+If a highly secret object had been transferred into one of Italy's leading aircraft factories, historians would normally expect at least some trace to survive, such as administrative paperwork, wartime correspondence, engineering references, logistics records or later corroborating testimony from identifiable personnel. None has been publicly produced for either Vergiate or Sesto Calende.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lia.fondazioneleonardo.com/archivi/s/lia/item-set/20067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lia.fondazioneleonardo.com">[lia.fondazioneleonardo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lia.fondazioneleonardo.com</span><span class="citation-popover-snippet">Archivio Storico SIAI MarchettiL&#x27;archivio della SIAI Marchetti consta in un corpus documentale che comprende oltre 50.000 tra disegni tec...</span></span></span>
 
 Instead, the location appears to have become more specific only in later [retellings]({{ 'retellings/' | relative_url }}). Early public discussions focused primarily on the alleged Fascist documents and the existence of the supposed RS/33 committee. The precise hangar is never independently established through archival material.
 
-Critics have also pointed out that an authentic industrial location can make an extraordinary story appear more credible without actually supplying evidence for the extraordinary element itself. The existence of real SIAI-Marchetti facilities proves only that suitable buildings existed—not that an anomalous craft was ever housed inside them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — One could even make the argument that if this story is tr...</span></span></span>
+Critics have also pointed out that an authentic industrial location can make an extraordinary story appear more credible without actually supplying evidence for the extraordinary element itself. The existence of real SIAI-Marchetti facilities proves only that suitable buildings existed—not that an anomalous craft was ever housed inside them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — One could even make the argument that if this story is tr...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IkI9-mpt3Z4" title="Archivio SIAI Marchetti di Sesto Calende/Архив авиационной фирмы СИАИ Маркетти" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IkI9-mpt3Z4" target="_blank" rel="noopener noreferrer">Archivio SIAI Marchetti di Sesto Calende/Архив авиационной фирмы СИАИ Маркетти</a></p><p class="youtube-embed-meta">Channel: Итальянский на лету</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IkI9-mpt3Z4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IkI9-mpt3Z4">Open on YouTube</a></p></div></div></div>
@@ -369,184 +369,184 @@ Based on publicly available evidence, there is no firm historical basis for iden
 
 Vergiate remains the best-known site because it appears consistently in Roberto Pinotti's published version of the narrative and because it was unquestionably an important aviation centre. However, the close historical relationship between Vergiate and Sesto Calende explains why some researchers regard the latter as an equally plausible candidate if the story were true.
 
-The more important conclusion is that the uncertainty itself undermines the claim. After decades of discussion, the public record still cannot identify a documented building, a verified chain of custody, or independent archival evidence tying the alleged recovered object to either location. The debate therefore remains one of comparative plausibility rather than demonstrated historical fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2researchomnia.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Italy</span><span class="citation-popover-snippet">In 2000, Roberto Pinotti published material regarding the so-called &quot;Fascist UFO... A spaceship was allegedly stored in the hangars of t...</span></span></span>
+The more important conclusion is that the uncertainty itself undermines the claim. After decades of discussion, the public record still cannot identify a documented building, a verified chain of custody, or independent archival evidence tying the alleged recovered object to either location. The debate therefore remains one of comparative plausibility rather than demonstrated historical fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2researchomnia.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Italy</span><span class="citation-popover-snippet">In 2000, Roberto Pinotti published material regarding the so-called &quot;Fascist UFO... A spaceship was allegedly stored in the hangars of t...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_vergiate_hangars_b90386_vergiate_sesto_stora_ba4d40-Illustration-3-dark.svg" | relative_url }}" alt="Two Sites illustration 3" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_vergiate_hangars_b90386_vergiate_sesto_stora_ba4d40-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_vergiate_hangars_b90386_vergiate_sesto_stora_ba4d40-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Vergiate Really the Right Hangar?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Vergiate Really the Right Hangar?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Covers famous alleged crash-retrieval narratives, providing context for claims such as the alleged 1933 Italian incident.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers famous alleged crash-retrieval narratives, providing context for claims such as the alleged 1933 Italian incident.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how UFO reports are evaluated and why evidence quality and documentation matter.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how UFO reports are evaluated and why evidence quality and documentation matter.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Places extraordinary claims within a broader historical and cultural framework rather than focusing on a single case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places extraordinary claims within a broader historical and cultural framework rather than focusing on a single case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasizes documented testimony and evidentiary standards relevant to assessing disputed historical claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes documented testimony and evidentiary standards relevant to assessing disputed historical claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="two-sites-was-vergiate-really-the-right-hangar-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -562,7 +562,7 @@ The more important conclusion is that the uncertainty itself undermines the clai
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -582,7 +582,7 @@ The more important conclusion is that the uncertainty itself undermines the clai
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -614,7 +614,7 @@ The more important conclusion is that the uncertainty itself undermines the clai
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -666,7 +666,7 @@ The more important conclusion is that the uncertainty itself undermines the clai
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -711,7 +711,7 @@ The more important conclusion is that the uncertainty itself undermines the clai
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -752,114 +752,114 @@ The more important conclusion is that the uncertainty itself undermines the clai
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: lia.fondazioneleonardo.com  
-   Link: <a href="https://lia.fondazioneleonardo.com/archivi/s/lia/item-set/20067" target="_blank" rel="noopener noreferrer nofollow">https://lia.fondazioneleonardo.com/archivi/s/lia/item-set/20067</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Archivio Storico SIAI MarchettiL&#x27;archivio della SIAI Marchetti consta in un corpus documentale che comprende oltre 50.000 tra disegni tec...</p></details>
+   Link:<a href="https://lia.fondazioneleonardo.com/archivi/s/lia/item-set/20067" target="_blank" rel="noopener noreferrer nofollow">https://lia.fondazioneleonardo.com/archivi/s/lia/item-set/20067</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Archivio Storico SIAI MarchettiL&#x27;archivio della SIAI Marchetti consta in un corpus documentale che comprende oltre 50.000 tra disegni tec...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Incidente di Magenta  
-   Link: <a href="https://it.wikipedia.org/wiki/Incidente_di_Magenta" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Incidente_di_Magenta</a>  
+   Link:<a href="https://it.wikipedia.org/wiki/Incidente_di_Magenta" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Incidente_di_Magenta</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: UFO sightings in Italy  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2000, Roberto Pinotti published material regarding the so-called &quot;Fascist UFO... A spaceship was allegedly stored in the hangars of t...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 2000, Roberto Pinotti published material regarding the so-called &quot;Fascist UFO... A spaceship was allegedly stored in the hangars of t...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: museoagusta.it  
    Title: la siai marchetti  
-   Link: <a href="https://www.museoagusta.it/la-siai-marchetti/" target="_blank" rel="noopener noreferrer nofollow">https://www.museoagusta.it/la-siai-marchetti/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>La Società Idrovolanti Alta Italia viene fondata nel 1915 a Sesto Calende da Domenico Santoni e Luigi Capé. L&#x27;idroscalo viene stabilito i...</p></details>
+   Link:<a href="https://www.museoagusta.it/la-siai-marchetti/" target="_blank" rel="noopener noreferrer nofollow">https://www.museoagusta.it/la-siai-marchetti/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>La Società Idrovolanti Alta Italia viene fondata nel 1915 a Sesto Calende da Domenico Santoni e Luigi Capé. L&#x27;idroscalo viene stabilito i...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/SIAI-Marchetti</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/SIAI-Marchetti</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Vergiate" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Vergiate</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Vergiate" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Vergiate</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchomnia.blogspot.com  
    Title: the truth about ufo in 1933 italy  
-   Link: <a href="https://researchomnia.blogspot.com/2017/04/the-truth-about-ufo-in-1933-italy.html" target="_blank" rel="noopener noreferrer nofollow">https://researchomnia.blogspot.com/2017/04/the-truth-about-ufo-in-1933-italy.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE TRUTH ABOUT THE UFO IN 1933 ITALY12 Apr 2017 — First of all we have to remember that Roberto Pinotti, Italy&#x27;s leading UFO expert and...</p></details>
+   Link:<a href="https://researchomnia.blogspot.com/2017/04/the-truth-about-ufo-in-1933-italy.html" target="_blank" rel="noopener noreferrer nofollow">https://researchomnia.blogspot.com/2017/04/the-truth-about-ufo-in-1933-italy.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE TRUTH ABOUT THE UFO IN 1933 ITALY12 Apr 2017 — First of all we have to remember that Roberto Pinotti, Italy&#x27;s leading UFO expert and...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: leonardo.com  
-   Link: <a href="https://www.leonardo.com/en/focus-detail/-/detail/leonardo_centenario_am_1" target="_blank" rel="noopener noreferrer nofollow">https://www.leonardo.com/en/focus-detail/-/detail/leonardo_centenario_am_1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>s industry have been interwoven through the events of over a hundred years.Read more...</p></details>
+   Link:<a href="https://www.leonardo.com/en/focus-detail/-/detail/leonardo_centenario_am_1" target="_blank" rel="noopener noreferrer nofollow">https://www.leonardo.com/en/focus-detail/-/detail/leonardo_centenario_am_1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s industry have been interwoven through the events of over a hundred years.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: fondazioneleonardo.com  
-   Link: <a href="https://www.fondazioneleonardo.com/heritage/siai-marchetti" target="_blank" rel="noopener noreferrer nofollow">https://www.fondazioneleonardo.com/heritage/siai-marchetti</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SIAI MarchettiL&#x27;Archivio custodisce la storia della “Società Idrovolanti Alta Italia S.I.A.I”, un&#x27;azienda che nasce il 12 agosto del 1915...</p></details>
+   Link:<a href="https://www.fondazioneleonardo.com/heritage/siai-marchetti" target="_blank" rel="noopener noreferrer nofollow">https://www.fondazioneleonardo.com/heritage/siai-marchetti</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SIAI MarchettiL&#x27;Archivio custodisce la storia della “Società Idrovolanti Alta Italia S.I.A.I”, un&#x27;azienda che nasce il 12 agosto del 1915...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — One could even make the argument that if this story is tr...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — One could even make the argument that if this story is tr...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: hef.ru.nl  
    Title: nl Aircraft Manufacturers  
-   Link: <a href="https://www.hef.ru.nl/~pfk/aircraft/manufacturer-SIAIMarchetti.php" target="_blank" rel="noopener noreferrer nofollow">https://www.hef.ru.nl/~pfk/aircraft/manufacturer-SIAIMarchetti.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The original company was founded in 1915 as SIAI (Società Idrovolanti Alta Italia - Seaplane company of...Read more...</p></details>
+   Link:<a href="https://www.hef.ru.nl/~pfk/aircraft/manufacturer-SIAIMarchetti.php" target="_blank" rel="noopener noreferrer nofollow">https://www.hef.ru.nl/~pfk/aircraft/manufacturer-SIAIMarchetti.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The original company was founded in 1915 as SIAI (Società Idrovolanti Alta Italia - Seaplane company of...Read more...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SavoiaMarchettiHistoricalGroup/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SavoiaMarchettiHistoricalGroup/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Savoia Marchetti Historical Group | Somma LombardoIl gruppo è il punto di riferimento per la ricerca, il recupero e la conservazione dell...</p></details>
+   Link:<a href="https://www.facebook.com/SavoiaMarchettiHistoricalGroup/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SavoiaMarchettiHistoricalGroup/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Savoia Marchetti Historical Group | Somma LombardoIl gruppo è il punto di riferimento per la ricerca, il recupero e la conservazione dell...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: wantedinrome.com  
    Title: the crash that predated [roswell](&#123;&#123; 'roswell/' | relative_url &#125;&#125;) mussolinis secret ufo files  
-   Link: <a href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...2 Mar 2026 — A spaceship was allegedly stored in the hangars of the SIAI...</p></details>
+   Link:<a href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...2 Mar 2026 — A spaceship was allegedly stored in the hangars of the SIAI...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: david grusch gave us a hint 1933 italy ufo crash  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/15j8k3t/david_grusch_gave_us_a_hint_1933_italy_ufo_crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15j8k3t/david_grusch_gave_us_a_hint_1933_italy_ufo_crash/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David grusch gave us a hint, 1933 Italy UFO crashIn summary, the video discusses Dante&#x27;s discovery of the &quot;Alien... 1933 UFO Recovery fr...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/15j8k3t/david_grusch_gave_us_a_hint_1933_italy_ufo_crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15j8k3t/david_grusch_gave_us_a_hint_1933_italy_ufo_crash/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David grusch gave us a hint, 1933 Italy UFO crashIn summary, the video discusses Dante&#x27;s discovery of the &quot;Alien... 1933 UFO Recovery fr...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DR3tTzqiKy0/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DR3tTzqiKy0/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ivoli che hanno scritto la storia. Dal primo Chimera all&#x27;...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DR3tTzqiKy0/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DR3tTzqiKy0/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ivoli che hanno scritto la storia. Dal primo Chimera all&#x27;...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_grusch_and_the_italian_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_grusch_and_the_italian_ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch&#x27;s Most Overlooked Statement - The 1933 UFO Recovery from Magenta. 1:00. 824.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_grusch_and_the_italian_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_grusch_and_the_italian_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch&#x27;s Most Overlooked Statement - The 1933 UFO Recovery from Magenta. 1:00. 824.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=fY6sBD_IWEs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fY6sBD_IWEs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 Magenta UFO Crash in Italy – Mussolini’s Secret Recovery?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fY6sBD_IWEs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fY6sBD_IWEs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 Magenta UFO Crash in Italy – Mussolini’s Secret Recovery?...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=19oMz_WJZXs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=19oMz_WJZXs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Magenta Project: The 1933 Magenta, Italy UFO Crash-Retrieval That Changed the World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=19oMz_WJZXs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=19oMz_WJZXs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Magenta Project: The 1933 Magenta, Italy UFO Crash-Retrieval That Changed the World...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=l7S8KnXePJI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l7S8KnXePJI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1933 Magenta UFO crash The 1933 Magenta, Italy UFO Crash UAP Gerb...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=l7S8KnXePJI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l7S8KnXePJI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1933 Magenta UFO crash The 1933 Magenta, Italy UFO Crash UAP Gerb...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ehIYnh4jbxY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ehIYnh4jbxY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Italy’s UFO Crash Before Roswell? The 1933 Magenta Incident Revealed...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ehIYnh4jbxY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ehIYnh4jbxY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Italy’s UFO Crash Before Roswell? The 1933 Magenta Incident Revealed...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: sofmag.com  
    Title: ufo crash magenta italy 1933  
-   Link: <a href="https://sofmag.com/ufo-crash-magenta-italy-1933/" target="_blank" rel="noopener noreferrer nofollow">https://sofmag.com/ufo-crash-magenta-italy-1933/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Austin Lee... The craft was spirited under armed escort to the SIAI-Marchetti hangars...Read more...</p></details>
+   Link:<a href="https://sofmag.com/ufo-crash-magenta-italy-1933/" target="_blank" rel="noopener noreferrer nofollow">https://sofmag.com/ufo-crash-magenta-italy-1933/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Austin Lee... The craft was spirited under armed escort to the SIAI-Marchetti hangars...Read more...</p></details>

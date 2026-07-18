@@ -284,7 +284,7 @@ Guglielmo Marconi's genuine achievements in radio science are one of the reasons
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_marconi_claim_304998_marconi_radio_vs_ufo_2a56e4-Illustration-1-dark.svg" | relative_url }}" alt="Radio Research illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_marconi_claim_304998_marconi_radio_vs_ufo_2a56e4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_marconi_claim_304998_marconi_radio_vs_ufo_2a56e4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The central historical question is therefore not whether Marconi was an important scientist—he unquestionably was—but whether there is any evidence connecting his documented radio research with the much stronger claim that he led a secret UFO recovery programme. At present, those remain separate propositions supported by very different levels of evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/biography/Guglielmo-Marconi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica+2Google Arts &amp; Culture]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Guglielmo Marconi</span><span class="citation-popover-snippet">Encyclopedia BritannicaGuglielmo Marconi &#124; Biography, Inventions, Radio, &amp; FactsJuly 20, 1998 — 30 May 2026 — Italian physicist and inven...</span><span class="citation-popover-meta">Published: July 20, 1998</span></span></span>
+The central historical question is therefore not whether Marconi was an important scientist—he unquestionably was—but whether there is any evidence connecting his documented radio research with the much stronger claim that he led a secret UFO recovery programme. At present, those remain separate propositions supported by very different levels of evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/biography/Guglielmo-Marconi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica+2Google Arts &amp; Culture]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Guglielmo Marconi</span><span class="citation-popover-snippet">Encyclopedia BritannicaGuglielmo Marconi &#124; Biography, Inventions, Radio, &amp; FactsJuly 20, 1998 — 30 May 2026 — Italian physicist and inven...</span><span class="citation-popover-meta">Published: July 20, 1998</span></span></span>
 
 ## What Marconi was really researching
 
@@ -295,9 +295,9 @@ Among his major areas of work were:
 * **Short-wave radio**, demonstrating that shorter wavelengths could support reliable long-distance communications with much smaller equipment than earlier long-wave systems.
 * **Microwave transmission**, where he investigated highly directional radio beams and communication beyond the visible horizon.
 * **Radio navigation**, including "blind navigation" systems intended to help ships and aircraft determine position in poor visibility.
-* **Military communications**, where reliable wireless links had obvious strategic importance for naval and [aviation]({{ 'aviation/' | relative_url }}) operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://artsandculture.google.com/story/guglielmo-marconi-the-case-files-the-franklin-institute/PAWRXCwurMHuJg?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artsandculture.google.com">[Google Arts &amp; Culture+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artsandculture.google.com</span><span class="citation-popover-snippet">Google Arts &amp; CultureGuglielmo Marconi: The Case FilesHis newest topics were the possibilities of short-wave radio, sonar detection, and...</span></span></span>
+* **Military communications**, where reliable wireless links had obvious strategic importance for naval and [aviation]({{ 'aviation/' | relative_url }}) operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://artsandculture.google.com/story/guglielmo-marconi-the-case-files-the-franklin-institute/PAWRXCwurMHuJg?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artsandculture.google.com">[Google Arts &amp; Culture+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artsandculture.google.com</span><span class="citation-popover-snippet">Google Arts &amp; CultureGuglielmo Marconi: The Case FilesHis newest topics were the possibilities of short-wave radio, sonar detection, and...</span></span></span>
 
-None of these projects involved unidentified aircraft or recovered exotic technology. Instead, they reflected the rapid development of electromagnetic engineering during the interwar period. Marconi's published lectures, demonstrations and contemporary accounts consistently describe engineering problems involving radio propagation, antennas, directional transmission and communications rather than the study of unknown vehicles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/353351661_Later_Experimental_Work_of_Guglielmo_Marconi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">353351661 Later Experimental Work of Guglielmo Marconi</span><span class="citation-popover-snippet">ResearchGate(PDF) Later Experimental Work of Guglielmo Marconi.26 Jul 2021 — This paper describes experiments, carried out between 1928 a...</span></span></span>
+None of these projects involved unidentified aircraft or recovered exotic technology. Instead, they reflected the rapid development of electromagnetic engineering during the interwar period. Marconi's published lectures, demonstrations and contemporary accounts consistently describe engineering problems involving radio propagation, antennas, directional transmission and communications rather than the study of unknown vehicles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/353351661_Later_Experimental_Work_of_Guglielmo_Marconi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">353351661 Later Experimental Work of Guglielmo Marconi</span><span class="citation-popover-snippet">ResearchGate(PDF) Later Experimental Work of Guglielmo Marconi.26 Jul 2021 — This paper describes experiments, carried out between 1928 a...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S4I0y4wlAy0" title="Time To Remember - 4 Strange things are coming" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S4I0y4wlAy0" target="_blank" rel="noopener noreferrer">Time To Remember - 4 Strange things are coming</a></p><p class="youtube-embed-meta">Channel: RandomRadioJottings</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S4I0y4wlAy0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S4I0y4wlAy0">Open on YouTube</a></p></div></div></div>
@@ -354,7 +354,7 @@ That missing bridge would ideally consist of material such as:
 * institutional records linking his radio research with [Cabinet]({{ 'rs-33/' | relative_url }}) RS/33;
 * testimony from independent contemporaries supported by documentation.
 
-To date, publicly available evidence has not produced this kind of corroboration. Instead, claims about Marconi's leadership of RS/33 derive primarily from the disputed "[Fascist UFO Files]({{ 'fascist-files/' | relative_url }})" publicised decades after the alleged events, rather than from archival records generated during Marconi's documented scientific career. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wantedinrome.com">[Wanted in Rome]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wantedinrome.com</span><span class="citation-popover-title">Guglielmo Marconi, however, believed it was extraterrestrial in nature</span><span class="citation-popover-snippet">Wanted in RomeThe Secret Crash That Predated Roswell: Mussolini&#x27;s UFO ...March 2, 2026 — 2 Mar 2026 — Italy&#x27;s Secret UFO Files: The Crash...</span></span></span>
+To date, publicly available evidence has not produced this kind of corroboration. Instead, claims about Marconi's leadership of RS/33 derive primarily from the disputed "[Fascist UFO Files]({{ 'fascist-files/' | relative_url }})" publicised decades after the alleged events, rather than from archival records generated during Marconi's documented scientific career.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wantedinrome.com">[Wanted in Rome]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wantedinrome.com</span><span class="citation-popover-title">Guglielmo Marconi, however, believed it was extraterrestrial in nature</span><span class="citation-popover-snippet">Wanted in RomeThe Secret Crash That Predated Roswell: Mussolini&#x27;s UFO ...March 2, 2026 — 2 Mar 2026 — Italy&#x27;s Secret UFO Files: The Crash...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EvVqHqWv8Ww" title="Guglielmo Marconi – Le Onde che Hanno Cambiato il Mondo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EvVqHqWv8Ww" target="_blank" rel="noopener noreferrer">Guglielmo Marconi – Le Onde che Hanno Cambiato il Mondo</a></p><p class="youtube-embed-meta">Channel: Sussurri dalla Storia Italiana</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EvVqHqWv8Ww" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EvVqHqWv8Ww">Open on YouTube</a></p></div></div></div>
@@ -372,7 +372,7 @@ Historians therefore distinguish between:
 * **advanced but understood science**, supported by patents, experiments, demonstrations and publications; and
 * **extraordinary historical claims**, which require independent evidence showing that events actually occurred.
 
-Marconi's documented research firmly belongs in the first category. The alleged recovery of a non-human craft belongs in the second and therefore requires substantially stronger evidence than scientific prestige alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://artsandculture.google.com/story/guglielmo-marconi-the-case-files-the-franklin-institute/PAWRXCwurMHuJg?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artsandculture.google.com">[Google Arts &amp; Culture+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artsandculture.google.com</span><span class="citation-popover-snippet">Google Arts &amp; CultureGuglielmo Marconi: The Case FilesHis newest topics were the possibilities of short-wave radio, sonar detection, and...</span></span></span>
+Marconi's documented research firmly belongs in the first category. The alleged recovery of a non-human craft belongs in the second and therefore requires substantially stronger evidence than scientific prestige alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://artsandculture.google.com/story/guglielmo-marconi-the-case-files-the-franklin-institute/PAWRXCwurMHuJg?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artsandculture.google.com">[Google Arts &amp; Culture+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artsandculture.google.com</span><span class="citation-popover-snippet">Google Arts &amp; CultureGuglielmo Marconi: The Case FilesHis newest topics were the possibilities of short-wave radio, sonar detection, and...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_marconi_claim_304998_marconi_radio_vs_ufo_2a56e4-Illustration-3-dark.svg" | relative_url }}" alt="Radio Research illustration 3" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_marconi_claim_304998_marconi_radio_vs_ufo_2a56e4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_marconi_claim_304998_marconi_radio_vs_ufo_2a56e4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -382,201 +382,201 @@ Marconi's real scientific career explains why his name became central to the Mag
 
 Yet that historical plausibility should not be confused with historical confirmation.
 
-His work on short-wave radio, microwave transmission and navigation demonstrates exceptional expertise in electromagnetic engineering. It does not provide evidence that he examined a recovered extraterrestrial vehicle, nor does it establish the existence of Cabinet RS/33. The credibility of the UFO recovery claim therefore rests not on Marconi's scientific achievements but on whether independent documentary evidence can connect those achievements to the alleged investigation. At present, that evidential connection has not been publicly established. Wanted in Rome+3Google Arts &amp; Culture+3ResearchGate <span class="citation-link-wrap"><a class="citation-inline-link" href="https://artsandculture.google.com/story/guglielmo-marconi-the-case-files-the-franklin-institute/PAWRXCwurMHuJg?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artsandculture.google.com">[artsandculture.google.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artsandculture.google.com</span><span class="citation-popover-snippet">Google Arts &amp; CultureGuglielmo Marconi: The Case FilesHis newest topics were the possibilities of short-wave radio, sonar detection, and...</span></span></span>
+His work on short-wave radio, microwave transmission and navigation demonstrates exceptional expertise in electromagnetic engineering. It does not provide evidence that he examined a recovered extraterrestrial vehicle, nor does it establish the existence of Cabinet RS/33. The credibility of the UFO recovery claim therefore rests not on Marconi's scientific achievements but on whether independent documentary evidence can connect those achievements to the alleged investigation. At present, that evidential connection has not been publicly established. Wanted in Rome+3Google Arts &amp; Culture+3ResearchGate<span class="citation-link-wrap"><a class="citation-inline-link" href="https://artsandculture.google.com/story/guglielmo-marconi-the-case-files-the-franklin-institute/PAWRXCwurMHuJg?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artsandculture.google.com">[artsandculture.google.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artsandculture.google.com</span><span class="citation-popover-snippet">Google Arts &amp; CultureGuglielmo Marconi: The Case FilesHis newest topics were the possibilities of short-wave radio, sonar detection, and...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eKZ2U3lkJ9o" title="Secret UFO Files of Fascist Italy | Mussolini&#x27;s UFO Cabinet RS/33 Revealed | Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eKZ2U3lkJ9o" target="_blank" rel="noopener noreferrer">Secret UFO Files of Fascist Italy | Mussolini&#x27;s UFO Cabinet RS/33 Revealed | Full Documentary</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eKZ2U3lkJ9o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eKZ2U3lkJ9o">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Radio Genius or UFO Recovery Evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Radio Genius or UFO Recovery Evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for evaluating evidence standards in prominent UFO claims, including historical cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating evidence standards in prominent UFO claims, including historical cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
-        </h4>
-        <p class="fr-book-author">By Mark Pilkington</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
+</h4>
+<p class="fr-book-author">By Mark Pilkington</p>
         
-        <p class="fr-book-desc">Helps readers understand how genuine military research can become intertwined with UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how genuine military research can become intertwined with UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Empire+of+the+air+Lewis%2C+Tom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Empire of the air on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9474265-M.jpg" alt="Cover for Empire of the air" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Empire+of+the+air+Lewis%2C+Tom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Empire of the air">Empire of the air</a>
-        </h4>
-        <p class="fr-book-author">By Lewis, Tom</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Empire+of+the+air+Lewis%2C+Tom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Empire of the air on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9474265-M.jpg" alt="Cover for Empire of the air" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Empire+of+the+air+Lewis%2C+Tom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Empire of the air">Empire of the air</a>
+</h4>
+<p class="fr-book-author">By Lewis, Tom</p>
         
-        <p class="fr-book-desc">First published 1991. Subjects: Radio, Biography, History, Sarnoff, david, 1891-1971, Radio, biography.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Empire+of+the+air+Lewis%2C+Tom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1991. Subjects: Radio, Biography, History, Sarnoff, david, 1891-1971, Radio, biography.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Empire+of+the+air+Lewis%2C+Tom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Marconi+Marc+Raboy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Marconi on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13055883-M.jpg" alt="Cover for Marconi" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Marconi+Marc+Raboy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Marconi">Marconi</a>
-        </h4>
-        <p class="fr-book-author">By Marc Raboy</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Marconi+Marc+Raboy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Marconi on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13055883-M.jpg" alt="Cover for Marconi" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Marconi+Marc+Raboy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Marconi">Marconi</a>
+</h4>
+<p class="fr-book-author">By Marc Raboy</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Radio, Wireless Telegraph, Marconi system, History, Electrical engineers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Marconi+Marc+Raboy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Radio, Wireless Telegraph, Marconi system, History, Electrical engineers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Marconi+Marc+Raboy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Empire+of+the+air&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Empire of the air</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Empire+of+the+air&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Empire of the air</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display"><img src="{{ '/assets/images/marketplace-covers/3ccfc0d32b189563b8e0.jpg' | relative_url }}" alt="Listing image for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display"><img src="{{ '/assets/images/marketplace-covers/3ccfc0d32b189563b8e0.jpg' | relative_url }}" alt="Listing image for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model"><img src="{{ '/assets/images/marketplace-covers/b626ecf0eef6236661c6.jpg' | relative_url }}" alt="Listing image for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model"><img src="{{ '/assets/images/marketplace-covers/b626ecf0eef6236661c6.jpg' | relative_url }}" alt="Listing image for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting"><img src="{{ '/assets/images/marketplace-covers/64fd2e61ffabf1eeab61.jpg' | relative_url }}" alt="Listing image for Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting"><img src="{{ '/assets/images/marketplace-covers/64fd2e61ffabf1eeab61.jpg' | relative_url }}" alt="Listing image for Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="radio-research-radio-genius-or-ufo-recovery-evidence-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -592,7 +592,7 @@ His work on short-wave radio, microwave transmission and navigation demonstrates
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -612,7 +612,7 @@ His work on short-wave radio, microwave transmission and navigation demonstrates
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -644,7 +644,7 @@ His work on short-wave radio, microwave transmission and navigation demonstrates
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -696,7 +696,7 @@ His work on short-wave radio, microwave transmission and navigation demonstrates
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -741,7 +741,7 @@ His work on short-wave radio, microwave transmission and navigation demonstrates
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -782,83 +782,83 @@ His work on short-wave radio, microwave transmission and navigation demonstrates
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: britannica.com  
    Title: Guglielmo Marconi  
-   Link: <a href="https://www.britannica.com/biography/Guglielmo-Marconi" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/biography/Guglielmo-Marconi</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaGuglielmo Marconi | Biography, Inventions, Radio, &amp; FactsJuly 20, 1998 — 30 May 2026 — Italian physicist and inven...</p></details>
+   Link:<a href="https://www.britannica.com/biography/Guglielmo-Marconi" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/biography/Guglielmo-Marconi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaGuglielmo Marconi | Biography, Inventions, Radio, &amp; FactsJuly 20, 1998 — 30 May 2026 — Italian physicist and inven...</p></details>
    Published: July 20, 1998  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: artsandculture.google.com  
-   Link: <a href="https://artsandculture.google.com/story/guglielmo-marconi-the-case-files-the-franklin-institute/PAWRXCwurMHuJg?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://artsandculture.google.com/story/guglielmo-marconi-the-case-files-the-franklin-institute/PAWRXCwurMHuJg?hl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Arts &amp; CultureGuglielmo Marconi: The Case FilesHis newest topics were the possibilities of short-wave radio, sonar detection, and...</p></details>
+   Link:<a href="https://artsandculture.google.com/story/guglielmo-marconi-the-case-files-the-franklin-institute/PAWRXCwurMHuJg?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://artsandculture.google.com/story/guglielmo-marconi-the-case-files-the-franklin-institute/PAWRXCwurMHuJg?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google Arts &amp; CultureGuglielmo Marconi: The Case FilesHis newest topics were the possibilities of short-wave radio, sonar detection, and...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
    Title: 353351661 Later Experimental Work of Guglielmo Marconi  
-   Link: <a href="https://www.researchgate.net/publication/353351661_Later_Experimental_Work_of_Guglielmo_Marconi" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353351661_Later_Experimental_Work_of_Guglielmo_Marconi</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Later Experimental Work of Guglielmo Marconi.26 Jul 2021 — This paper describes experiments, carried out between 1928 a...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/353351661_Later_Experimental_Work_of_Guglielmo_Marconi" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353351661_Later_Experimental_Work_of_Guglielmo_Marconi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Later Experimental Work of Guglielmo Marconi.26 Jul 2021 — This paper describes experiments, carried out between 1928 a...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Guglielmo Marconi  
-   Link: <a href="https://en.wikipedia.org/wiki/Guglielmo_Marconi" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Guglielmo_Marconi</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Guglielmo MarconiGuglielmo Giovanni Maria Marconi, 1st Marquess of Marconi (25 April 1874 – 20 July 1937), was an Italian radio-freque...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Guglielmo_Marconi" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Guglielmo_Marconi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guglielmo MarconiGuglielmo Giovanni Maria Marconi, 1st Marquess of Marconi (25 April 1874 – 20 July 1937), was an Italian radio-freque...</p></details>
    Published: April 1874  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wantedinrome.com  
    Title: Guglielmo Marconi, however, believed it was extraterrestrial in nature  
-   Link: <a href="https://www.wantedinrome.com/news/the-crash-that-predated-[roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.wantedinrome.com/news/the-crash-that-predated-[roswell</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wanted in RomeThe Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...March 2, 2026 — 2 Mar 2026 — Italy&#x27;s Secret UFO Files: The Crash...</p></details>
+   Link:<a href="https://www.wantedinrome.com/news/the-crash-that-predated-[roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.wantedinrome.com/news/the-crash-that-predated-[roswell</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wanted in RomeThe Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...March 2, 2026 — 2 Mar 2026 — Italy&#x27;s Secret UFO Files: The Crash...</p></details>
    Published: March 2, 2026  
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
    Title: italy recovered a ufo in 1933 family members  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1ch9y8d/italy_recovered_a_ufo_in_1933_family_members/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1ch9y8d/italy_recovered_a_ufo_in_1933_family_members/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Italy recovered a UFO in 1933: family members confirm that...FBI VAULT UFO PART 04: Old news paper from 1917, when did we start seeing U...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1ch9y8d/italy_recovered_a_ufo_in_1933_family_members/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1ch9y8d/italy_recovered_a_ufo_in_1933_family_members/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Italy recovered a UFO in 1933: family members confirm that...FBI VAULT UFO PART 04: Old news paper from 1917, when did we start seeing U...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ethw.org  
    Title: Archives:Papers of Guglielmo Marconi  
-   Link: <a href="https://ethw.org/Archives%3APapers_of_Guglielmo_Marconi" target="_blank" rel="noopener noreferrer nofollow">https://ethw.org/Archives%3APapers_of_Guglielmo_Marconi</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>31 Mar 2014 — Papers of Guglielmo Marconi: Archival documents. American Institute of Electrical Engineers, Statement regarding 28th anniv...</p></details>
+   Link:<a href="https://ethw.org/Archives%3APapers_of_Guglielmo_Marconi" target="_blank" rel="noopener noreferrer nofollow">https://ethw.org/Archives%3APapers_of_Guglielmo_Marconi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>31 Mar 2014 — Papers of Guglielmo Marconi: Archival documents. American Institute of Electrical Engineers, Statement regarding 28th anniv...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sofmag.com  
    Title: ufo crash magenta italy 1933  
-   Link: <a href="https://sofmag.com/ufo-crash-magenta-italy-1933/" target="_blank" rel="noopener noreferrer nofollow">https://sofmag.com/ufo-crash-magenta-italy-1933/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>recovered the craft in 1944–1945 with [Vatican](&amp;#123;&amp;#123; &#x27;vatican/&#x27; | relative_url &amp;#125;&amp;#125;) and Five Eyes assistance, [Grusch](&amp;#123;&amp;#123; &#x27;grusch/&#x27; | relative_url &amp;#125;&amp;#125;) alleged that a secretive UFO program hid “non...</p></details>
+   Link:<a href="https://sofmag.com/ufo-crash-magenta-italy-1933/" target="_blank" rel="noopener noreferrer nofollow">https://sofmag.com/ufo-crash-magenta-italy-1933/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>recovered the craft in 1944–1945 with [Vatican](&amp;#123;&amp;#123; &#x27;vatican/&#x27; | relative_url &amp;#125;&amp;#125;) and Five Eyes assistance, [Grusch](&amp;#123;&amp;#123; &#x27;grusch/&#x27; | relative_url &amp;#125;&amp;#125;) alleged that a secretive UFO program hid “non...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Guglielmo Marconi – The Waves That Changed the World  
-   Link: <a href="https://www.youtube.com/watch?v=EvVqHqWv8Ww" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EvVqHqWv8Ww</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Time To Remember - 4 Strange things are coming...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EvVqHqWv8Ww" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EvVqHqWv8Ww</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Time To Remember - 4 Strange things are coming...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Secret UFO Files of Fascist Italy | Mussolini's UFO Cabinet RS/33 Revealed  
-   Link: <a href="https://www.youtube.com/watch?v=eKZ2U3lkJ9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eKZ2U3lkJ9o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The TRUE STORY of MUSSOLINI&#x27;s UFO...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eKZ2U3lkJ9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eKZ2U3lkJ9o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The TRUE STORY of MUSSOLINI&#x27;s UFO...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: m.youtube.com  
    Title: The Magenta UFO case in Italy  
-   Link: <a href="https://m.youtube.com/watch?v=OsniQnH7phU" target="_blank" rel="noopener noreferrer nofollow">https://m.youtube.com/watch?v=OsniQnH7phU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guglielmo Marconi – The Waves That Changed the World...</p></details>
+   Link:<a href="https://m.youtube.com/watch?v=OsniQnH7phU" target="_blank" rel="noopener noreferrer nofollow">https://m.youtube.com/watch?v=OsniQnH7phU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guglielmo Marconi – The Waves That Changed the World...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: The TRUE STORY of MUSSOLINI's UFO  
-   Link: <a href="https://www.youtube.com/watch?v=HEWhhyrujGI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HEWhhyrujGI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Magenta UFO case in Italy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HEWhhyrujGI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HEWhhyrujGI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Magenta UFO case in Italy...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Time To Remember  
-   Link: <a href="https://www.youtube.com/watch?v=S4I0y4wlAy0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S4I0y4wlAy0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=S4I0y4wlAy0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S4I0y4wlAy0</a>  

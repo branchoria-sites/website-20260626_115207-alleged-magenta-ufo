@@ -280,17 +280,17 @@ image: /assets/images/Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603_magenta_m
 
 ## Introduction
 
-The alleged 1933 Magenta UFO crash remained largely confined to specialist UFO literature for decades. That changed after former US intelligence officer David [Grusch]({{ 'grusch/' | relative_url }}) went public in June 2023 with broad allegations about secret crash-retrieval programmes. Although Magenta was only one element of a much larger story, the combination of Grusch's credentials, high-profile interviews and later congressional testimony transformed it from an obscure Italian claim into a widely recognised reference point within the modern UAP (Unidentified Anomalous Phenomena) disclosure debate. The key development was not the emergence of new public evidence for Magenta itself, but the way mainstream media amplified its visibility while generally emphasising that the claims remained unverified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
+The alleged 1933 Magenta UFO crash remained largely confined to specialist UFO literature for decades. That changed after former US intelligence officer David [Grusch]({{ 'grusch/' | relative_url }}) went public in June 2023 with broad allegations about secret crash-retrieval programmes. Although Magenta was only one element of a much larger story, the combination of Grusch's credentials, high-profile interviews and later congressional testimony transformed it from an obscure Italian claim into a widely recognised reference point within the modern UAP (Unidentified Anomalous Phenomena) disclosure debate. The key development was not the emergence of new public evidence for Magenta itself, but the way mainstream media amplified its visibility while generally emphasising that the claims remained unverified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603_magenta_media_reviva_762bdd-Illustration-1-dark.svg" | relative_url }}" alt="Media Push illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603_magenta_media_reviva_762bdd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603_magenta_media_reviva_762bdd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How interviews amplified the Magenta claim
 
-The first major shift occurred when investigative journalists Leslie Kean and Ralph Blumenthal published Grusch's allegations in *The Debrief* in June 2023. The original story concentrated on alleged US crash-retrieval programmes rather than the Italian case specifically, but subsequent television appearances gave Grusch room to discuss individual historical examples, including the alleged 1933 recovery near Magenta and claims that the [Vatican]({{ 'vatican/' | relative_url }}) helped transfer the recovered object to the United States after the Second World War. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
+The first major shift occurred when investigative journalists Leslie Kean and Ralph Blumenthal published Grusch's allegations in *The Debrief* in June 2023. The original story concentrated on alleged US crash-retrieval programmes rather than the Italian case specifically, but subsequent television appearances gave Grusch room to discuss individual historical examples, including the alleged 1933 recovery near Magenta and claims that the [Vatican]({{ 'vatican/' | relative_url }}) helped transfer the recovered object to the United States after the Second World War.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
 
-Ross Coulthart's televised interview on NewsNation became especially influential because it reached audiences well beyond the established UFO community. Clips from the interview spread rapidly across social media, podcasts and news aggregators, allowing the Magenta story to circulate alongside Grusch's broader allegations about recovered craft. Later reporting noted that the interview became one of NewsNation's most widely discussed broadcasts and was repeatedly referenced during subsequent congressional attention to UAP issues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/NewsNation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">News Nation</span><span class="citation-popover-snippet">News Nation</span></span></span>
+Ross Coulthart's televised interview on NewsNation became especially influential because it reached audiences well beyond the established UFO community. Clips from the interview spread rapidly across social media, podcasts and news aggregators, allowing the Magenta story to circulate alongside Grusch's broader allegations about recovered craft. Later reporting noted that the interview became one of NewsNation's most widely discussed broadcasts and was repeatedly referenced during subsequent congressional attention to UAP issues.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/NewsNation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">News Nation</span><span class="citation-popover-snippet">News Nation</span></span></span>
 
-The congressional hearing on 26 July 2023 then provided another media multiplier. Magenta itself was not the focus of the hearing, but journalists covering Grusch's testimony frequently revisited earlier interviews in which he had referenced the Italian case. As a result, readers encountering news about congressional [oversight]({{ 'oversight/' | relative_url }}) often encountered the Magenta narrative for the first time through background explainers and profile pieces rather than through Italian UFO literature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ufo hearing congress evidence david grusch</span><span class="citation-popover-snippet">The GuardianUS conducted &#x27;multi-decade&#x27; secret UFO program, ex-...26 Jul 2023 — Whistleblower David Grusch claims &#x27;non-human&#x27; beings fou...</span></span></span>
+The congressional hearing on 26 July 2023 then provided another media multiplier. Magenta itself was not the focus of the hearing, but journalists covering Grusch's testimony frequently revisited earlier interviews in which he had referenced the Italian case. As a result, readers encountering news about congressional [oversight]({{ 'oversight/' | relative_url }}) often encountered the Magenta narrative for the first time through background explainers and profile pieces rather than through Italian UFO literature.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ufo hearing congress evidence david grusch</span><span class="citation-popover-snippet">The GuardianUS conducted &#x27;multi-decade&#x27; secret UFO program, ex-...26 Jul 2023 — Whistleblower David Grusch claims &#x27;non-human&#x27; beings fou...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/D7hNQgu1b24" title="David Grusch: Missing scientist case &#x27;concerning&#x27;, producer says | Elizabeth Vargas Reports" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=D7hNQgu1b24" target="_blank" rel="noopener noreferrer">David Grusch: Missing scientist case &#x27;concerning&#x27;, producer says | Elizabeth Vargas Reports</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 173.1K &middot; Uploaded: May 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=D7hNQgu1b24" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=D7hNQgu1b24">Open on YouTube</a></p></div></div></div>
@@ -308,11 +308,11 @@ Despite the dramatic subject matter, most established news organisations avoided
 
 </div>
 
-This distinction became a defining feature of mainstream coverage. Journalists typically reported that Grusch had made the claims while noting that he had not produced publicly verifiable evidence confirming the alleged 1933 recovery or the existence of recovered extraterrestrial craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/2023/jun/09/ufo-alien-vehicles-us-whistleblower-evidence-where-is-proof" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ufo alien vehicles us whistleblower evidence where is proof</span><span class="citation-popover-snippet">The GuardianA whistleblower claims the US has alien vehicles. But...Jun 9, 2023 — Experts in UFO lore suggest the assertions should be t...</span></span></span>
+This distinction became a defining feature of mainstream coverage. Journalists typically reported that Grusch had made the claims while noting that he had not produced publicly verifiable evidence confirming the alleged 1933 recovery or the existence of recovered extraterrestrial craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/2023/jun/09/ufo-alien-vehicles-us-whistleblower-evidence-where-is-proof" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ufo alien vehicles us whistleblower evidence where is proof</span><span class="citation-popover-snippet">The GuardianA whistleblower claims the US has alien vehicles. But...Jun 9, 2023 — Experts in UFO lore suggest the assertions should be t...</span></span></span>
 
-Coverage also routinely included official responses. The Department of Defense's All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) repeatedly stated that it had found no verifiable evidence supporting claims of secret programmes possessing extraterrestrial technology. Including these responses meant that many reports framed Magenta as part of an unresolved oversight dispute rather than a confirmed historical discovery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stories.uq.edu.au">[UQ Stories]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stories.uq.edu.au</span><span class="citation-popover-snippet">UQ StoriesUFOs, a secret program, and an alleged cover upUS Congress is investigating the supposed existence of a secret UFO retrieval pr...</span></span></span>
+Coverage also routinely included official responses. The Department of Defense's All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) repeatedly stated that it had found no verifiable evidence supporting claims of secret programmes possessing extraterrestrial technology. Including these responses meant that many reports framed Magenta as part of an unresolved oversight dispute rather than a confirmed historical discovery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stories.uq.edu.au">[UQ Stories]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stories.uq.edu.au</span><span class="citation-popover-snippet">UQ StoriesUFOs, a secret program, and an alleged cover upUS Congress is investigating the supposed existence of a secret UFO retrieval pr...</span></span></span>
 
-Another common feature was historical context. Newspapers and broadcasters often explained that the Magenta narrative originated decades earlier within Italian UFO research and only re-entered international discussion because Grusch connected it to alleged classified crash-retrieval programmes. This helped readers understand that the media attention reflected renewed interest rather than newly discovered documentary evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.yahoo.com/researcher-says-first-ufo-really-191900523.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.yahoo.com">[Yahoo News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.yahoo.com</span><span class="citation-popover-snippet">Yahoo NewsA Researcher Says the First UFO Really Crashed in Italy...Jul 6, 2023 — And noted UFO debunker Mick West pointed out that Grus...</span></span></span>
+Another common feature was historical context. Newspapers and broadcasters often explained that the Magenta narrative originated decades earlier within Italian UFO research and only re-entered international discussion because Grusch connected it to alleged classified crash-retrieval programmes. This helped readers understand that the media attention reflected renewed interest rather than newly discovered documentary evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.yahoo.com/researcher-says-first-ufo-really-191900523.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.yahoo.com">[Yahoo News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.yahoo.com</span><span class="citation-popover-snippet">Yahoo NewsA Researcher Says the First UFO Really Crashed in Italy...Jul 6, 2023 — And noted UFO debunker Mick West pointed out that Grus...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603_magenta_media_reviva_762bdd-Illustration-2-dark.svg" | relative_url }}" alt="Media Push illustration 2" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603_magenta_media_reviva_762bdd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603_magenta_media_reviva_762bdd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -322,10 +322,10 @@ The media cycle created an unusual situation in which public awareness expanded 
 
 Several mechanisms contributed to this:
 
-* **Institutional credibility.** Coverage consistently highlighted Grusch's intelligence background, encouraging audiences to treat his statements more seriously than traditional UFO anecdotes, even when journalists stressed that his evidence remained largely second-hand. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stories.uq.edu.au">[UQ Stories]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stories.uq.edu.au</span><span class="citation-popover-snippet">UQ StoriesUFOs, a secret program, and an alleged cover upUS Congress is investigating the supposed existence of a secret UFO retrieval pr...</span></span></span>
-* **Congressional legitimacy.** Once Grusch testified under oath before Congress, stories about historical crash claims—including Magenta—were increasingly discussed within the context of government [transparency]({{ 'transparency/' | relative_url }}) rather than purely paranormal reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ufo hearing congress evidence david grusch</span><span class="citation-popover-snippet">The GuardianUS conducted &#x27;multi-decade&#x27; secret UFO program, ex-...26 Jul 2023 — Whistleblower David Grusch claims &#x27;non-human&#x27; beings fou...</span></span></span>
-* **Digital amplification.** Television interviews, news clips and commentary spread quickly through online platforms, allowing a niche historical claim to reach audiences who had never encountered Italian UFO research before. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/NewsNation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">News Nation</span><span class="citation-popover-snippet">News Nation</span></span></span>
-* **Secondary reporting.** International outlets frequently summarised Grusch's earlier interviews when explaining the wider UAP debate, meaning the Magenta allegation travelled through repeated references rather than new investigative reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
+* **Institutional credibility.** Coverage consistently highlighted Grusch's intelligence background, encouraging audiences to treat his statements more seriously than traditional UFO anecdotes, even when journalists stressed that his evidence remained largely second-hand.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stories.uq.edu.au">[UQ Stories]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stories.uq.edu.au</span><span class="citation-popover-snippet">UQ StoriesUFOs, a secret program, and an alleged cover upUS Congress is investigating the supposed existence of a secret UFO retrieval pr...</span></span></span>
+* **Congressional legitimacy.** Once Grusch testified under oath before Congress, stories about historical crash claims—including Magenta—were increasingly discussed within the context of government [transparency]({{ 'transparency/' | relative_url }}) rather than purely paranormal reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ufo hearing congress evidence david grusch</span><span class="citation-popover-snippet">The GuardianUS conducted &#x27;multi-decade&#x27; secret UFO program, ex-...26 Jul 2023 — Whistleblower David Grusch claims &#x27;non-human&#x27; beings fou...</span></span></span>
+* **Digital amplification.** Television interviews, news clips and commentary spread quickly through online platforms, allowing a niche historical claim to reach audiences who had never encountered Italian UFO research before.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/NewsNation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">News Nation</span><span class="citation-popover-snippet">News Nation</span></span></span>
+* **Secondary reporting.** International outlets frequently summarised Grusch's earlier interviews when explaining the wider UAP debate, meaning the Magenta allegation travelled through repeated references rather than new investigative reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
 
 The result was a marked increase in recognition without a corresponding increase in publicly available corroboration.
 
@@ -336,9 +336,9 @@ The result was a marked increase in recognition without a corresponding increase
 
 An important consequence of the 2023 media wave was the interaction between mainstream journalism and long-established UFO research.
 
-Once major news organisations covered Grusch's allegations, specialist researchers revisited older Italian documents, translations and claims associated with Roberto Pinotti and the alleged Fascist-era RS/33 files. At the same time, sceptical investigators examined the provenance of those documents and questioned whether [later retellings]({{ 'later-retellings/' | relative_url }}) had gradually expanded beyond what earlier sources actually claimed. The renewed attention therefore produced both greater public awareness and more systematic scrutiny. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">claim a ufo crashed in 1933 italy and the us recovered it.13282</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating ar...</span></span></span>
+Once major news organisations covered Grusch's allegations, specialist researchers revisited older Italian documents, translations and claims associated with Roberto Pinotti and the alleged Fascist-era RS/33 files. At the same time, sceptical investigators examined the provenance of those documents and questioned whether [later retellings]({{ 'later-retellings/' | relative_url }}) had gradually expanded beyond what earlier sources actually claimed. The renewed attention therefore produced both greater public awareness and more systematic scrutiny.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">claim a ufo crashed in 1933 italy and the us recovered it.13282</span><span class="citation-popover-snippet">Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating ar...</span></span></span>
 
-This dynamic differed from earlier periods, when discussion of Magenta remained largely confined to UFO books and conferences. After 2023, the story entered broader debates about whistleblowers, government secrecy and congressional oversight, even though the historical evidence for the alleged 1933 crash itself remained substantially unchanged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stories.uq.edu.au">[UQ Stories]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stories.uq.edu.au</span><span class="citation-popover-snippet">UQ StoriesUFOs, a secret program, and an alleged cover upUS Congress is investigating the supposed existence of a secret UFO retrieval pr...</span></span></span>
+This dynamic differed from earlier periods, when discussion of Magenta remained largely confined to UFO books and conferences. After 2023, the story entered broader debates about whistleblowers, government secrecy and congressional oversight, even though the historical evidence for the alleged 1933 crash itself remained substantially unchanged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stories.uq.edu.au">[UQ Stories]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stories.uq.edu.au</span><span class="citation-popover-snippet">UQ StoriesUFOs, a secret program, and an alleged cover upUS Congress is investigating the supposed existence of a secret UFO retrieval pr...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603_magenta_media_reviva_762bdd-Illustration-3-dark.svg" | relative_url }}" alt="Media Push illustration 3" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603_magenta_media_reviva_762bdd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603_magenta_media_reviva_762bdd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -346,201 +346,201 @@ This dynamic differed from earlier periods, when discussion of Magenta remained 
 
 The lasting significance of the 2023 media coverage lies less in what it proved than in how it changed public awareness.
 
-Before Grusch, the alleged Magenta crash was a relatively obscure episode familiar mainly to researchers of Italian UFO claims. After his interviews and congressional testimony, it became one of the historical examples most frequently cited whenever crash-retrieval allegations were discussed in mainstream news. Coverage by major outlets generally presented the story cautiously—emphasising both Grusch's official background and the absence of publicly verified supporting evidence—but the repeated exposure ensured that Magenta became part of the wider public vocabulary surrounding UAP disclosure rather than remaining an isolated claim within specialist UFO circles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2UQ Stories]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
+Before Grusch, the alleged Magenta crash was a relatively obscure episode familiar mainly to researchers of Italian UFO claims. After his interviews and congressional testimony, it became one of the historical examples most frequently cited whenever crash-retrieval allegations were discussed in mainstream news. Coverage by major outlets generally presented the story cautiously—emphasising both Grusch's official background and the absence of publicly verified supporting evidence—but the repeated exposure ensured that Magenta became part of the wider public vocabulary surrounding UAP disclosure rather than remaining an isolated claim within specialist UFO circles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2UQ Stories]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vdRGFDIu3qc" title="UFO Disclosure? Part 3 - AARO, Grusch, and the UFO Crash Myth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vdRGFDIu3qc" target="_blank" rel="noopener noreferrer">UFO Disclosure? Part 3 - AARO, Grusch, and the UFO Crash Myth</a></p><p class="youtube-embed-meta">Channel: Think Anomalous</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vdRGFDIu3qc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vdRGFDIu3qc">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Media Coverage Reintroduced Magenta. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Media Coverage Reintroduced Magenta. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explains the modern UAP debate that helped bring historical cases like Magenta into wider public discussion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the modern UAP debate that helped bring historical cases like Magenta into wider public discussion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Provides context for the media ecosystem and interviews that amplified UAP stories including historical crash claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for the media ecosystem and interviews that amplified UAP stories including historical crash claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Covers the contemporary disclosure movement that formed the backdrop for renewed attention to Magenta.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the contemporary disclosure movement that formed the backdrop for renewed attention to Magenta.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Explores how UFO narratives spread through culture, institutions, and media rather than focusing only on evidence claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how UFO narratives spread through culture, institutions, and media rather than focusing only on evidence claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be"><img src="{{ '/assets/images/marketplace-covers/7f6dc0764d286cc66210.jpg' | relative_url }}" alt="Listing image for LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be"><img src="{{ '/assets/images/marketplace-covers/7f6dc0764d286cc66210.jpg' | relative_url }}" alt="Listing image for LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool"><img src="{{ '/assets/images/marketplace-covers/fb160c0bd6265f087d7a.jpg' | relative_url }}" alt="Listing image for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool"><img src="{{ '/assets/images/marketplace-covers/fb160c0bd6265f087d7a.jpg' | relative_url }}" alt="Listing image for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque"><img src="{{ '/assets/images/marketplace-covers/ca65b55c57bdf2da97e6.jpg' | relative_url }}" alt="Listing image for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque"><img src="{{ '/assets/images/marketplace-covers/ca65b55c57bdf2da97e6.jpg' | relative_url }}" alt="Listing image for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque"><img src="{{ '/assets/images/marketplace-covers/0962c22fe0162a244ccf.jpg' | relative_url }}" alt="Listing image for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque"><img src="{{ '/assets/images/marketplace-covers/0962c22fe0162a244ccf.jpg' | relative_url }}" alt="Listing image for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="media-push-how-media-coverage-reintroduced-magenta-alleged-magenta-ufo-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -556,7 +556,7 @@ Before Grusch, the alleged Magenta crash was a relatively obscure episode famili
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -576,7 +576,7 @@ Before Grusch, the alleged Magenta crash was a relatively obscure episode famili
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -608,7 +608,7 @@ Before Grusch, the alleged Magenta crash was a relatively obscure episode famili
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -660,7 +660,7 @@ Before Grusch, the alleged Magenta crash was a relatively obscure episode famili
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -705,7 +705,7 @@ Before Grusch, the alleged Magenta crash was a relatively obscure episode famili
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -746,96 +746,96 @@ Before Grusch, the alleged Magenta crash was a relatively obscure episode famili
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: David Grusch UFO whistleblower claims  
-   Link: <a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: News Nation  
-   Link: <a href="https://en.wikipedia.org/wiki/NewsNation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NewsNation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/NewsNation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NewsNation</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: news.yahoo.com  
-   Link: <a href="https://news.yahoo.com/researcher-says-first-ufo-really-191900523.html" target="_blank" rel="noopener noreferrer nofollow">https://news.yahoo.com/researcher-says-first-ufo-really-191900523.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Yahoo NewsA Researcher Says the First UFO Really Crashed in Italy...Jul 6, 2023 — And noted UFO debunker Mick West pointed out that Grus...</p></details>
+   Link:<a href="https://news.yahoo.com/researcher-says-first-ufo-really-191900523.html" target="_blank" rel="noopener noreferrer nofollow">https://news.yahoo.com/researcher-says-first-ufo-really-191900523.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Yahoo NewsA Researcher Says the First UFO Really Crashed in Italy...Jul 6, 2023 — And noted UFO debunker Mick West pointed out that Grus...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: metabunk.org  
    Title: claim a ufo crashed in 1933 italy and the us recovered it.13282  
-   Link: <a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating ar...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — While the Italian UFO crash story has been circulating ar...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: stories.uq.edu.au  
-   Link: <a href="https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html" target="_blank" rel="noopener noreferrer nofollow">https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UQ StoriesUFOs, a secret program, and an alleged cover upUS Congress is investigating the supposed existence of a secret UFO retrieval pr...</p></details>
+   Link:<a href="https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html" target="_blank" rel="noopener noreferrer nofollow">https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UQ StoriesUFOs, a secret program, and an alleged cover upUS Congress is investigating the supposed existence of a secret UFO retrieval pr...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: theguardian.com  
    Title: ufo hearing congress evidence david grusch  
-   Link: <a href="https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianUS conducted &#x27;multi-decade&#x27; secret UFO program, ex-...26 Jul 2023 — Whistleblower David [Grusch claims](&amp;#123;&amp;#123; &#x27;grusch-claim/&#x27; | relative_url &amp;#125;&amp;#125;) &#x27;non-human&#x27; beings fou...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianUS conducted &#x27;multi-decade&#x27; secret UFO program, ex-...26 Jul 2023 — Whistleblower David [Grusch claims](&amp;#123;&amp;#123; &#x27;grusch-claim/&#x27; | relative_url &amp;#125;&amp;#125;) &#x27;non-human&#x27; beings fou...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theguardian.com  
    Title: ufo alien vehicles us whistleblower evidence where is proof  
-   Link: <a href="https://www.theguardian.com/us-news/2023/jun/09/ufo-alien-vehicles-us-whistleblower-evidence-where-is-proof" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jun/09/ufo-alien-vehicles-us-whistleblower-evidence-where-is-proof</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianA whistleblower claims the US has alien vehicles. But...Jun 9, 2023 — Experts in UFO lore suggest the assertions should be t...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2023/jun/09/ufo-alien-vehicles-us-whistleblower-evidence-where-is-proof" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jun/09/ufo-alien-vehicles-us-whistleblower-evidence-where-is-proof</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianA whistleblower claims the US has alien vehicles. But...Jun 9, 2023 — Experts in UFO lore suggest the assertions should be t...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
    Title: david grusch 1933 was the first ufo crash recovery in europe in magenta italy th  
-   Link: <a href="https://www.facebook.com/Interstellaruap/posts/david-grusch-1933-was-the-first-ufo-crash-recovery-in-europe-in-magenta-italy-th/122117462811272336/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Interstellaruap/posts/david-grusch-1933-was-the-first-ufo-crash-recovery-in-europe-in-magenta-italy-th/122117462811272336/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch: &quot;1933 was the first UFO Crash recovery...Translated article: [https://tinyurl.com/LAP1933](https://tinyurl.com/LAP1933) 1933 case on the Black Vault: htt...</p></details>
+   Link:<a href="https://www.facebook.com/Interstellaruap/posts/david-grusch-1933-was-the-first-ufo-crash-recovery-in-europe-in-magenta-italy-th/122117462811272336/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Interstellaruap/posts/david-grusch-1933-was-the-first-ufo-crash-recovery-in-europe-in-magenta-italy-th/122117462811272336/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch: &quot;1933 was the first UFO Crash recovery...Translated article: [https://tinyurl.com/LAP1933](https://tinyurl.com/LAP1933) 1933 case on the Black Vault: htt...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: ufo whistleblower david grusch alleges the loudoun county sheriffs office in vir  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/ufo-whistleblower-david-grusch-alleges-the-loudoun-county-sheriffs-office-in-vir/724944426579244/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/ufo-whistleblower-david-grusch-alleges-the-loudoun-county-sheriffs-office-in-vir/724944426579244/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower David Grusch alleges the Loudoun...... his explosive claims, which he told NewsNation about exclusively in 2023. #UFO...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/ufo-whistleblower-david-grusch-alleges-the-loudoun-county-sheriffs-office-in-vir/724944426579244/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/ufo-whistleblower-david-grusch-alleges-the-loudoun-county-sheriffs-office-in-vir/724944426579244/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower David Grusch alleges the Loudoun...... his explosive claims, which he told NewsNation about exclusively in 2023. #UFO...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nypost.com  
    Title: pentagon whistleblower claims vatican helped us retrive ufo from mussolini  
-   Link: <a href="https://nypost.com/2023/06/13/pentagon-whistleblower-claims-vatican-helped-us-retrive-ufo-from-mussolini/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2023/06/13/pentagon-whistleblower-claims-vatican-helped-us-retrive-ufo-from-mussolini/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>alien existence and that UFO sightings over Italy during Musolini&#x27;s dictatorship were widely known. Advertisement. David Grusch, an Air F...</p></details>
+   Link:<a href="https://nypost.com/2023/06/13/pentagon-whistleblower-claims-vatican-helped-us-retrive-ufo-from-mussolini/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2023/06/13/pentagon-whistleblower-claims-vatican-helped-us-retrive-ufo-from-mussolini/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>alien existence and that UFO sightings over Italy during Musolini&#x27;s dictatorship were widely known. Advertisement. David Grusch, an Air F...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=vdRGFDIu3qc&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vdRGFDIu3qc&amp;vl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO, Grusch, and the UFO Crash Myth“NASA UFO report finds no evidence of &#x27;extraterrestrial origin&#x27; for UAP... Grusch&#x27;s alien beings cla...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vdRGFDIu3qc&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vdRGFDIu3qc&amp;vl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO, Grusch, and the UFO Crash Myth“NASA UFO report finds no evidence of &#x27;extraterrestrial origin&#x27; for UAP... Grusch&#x27;s alien beings cla...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=D7hNQgu1b24" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D7hNQgu1b24</a>  
+   Link:<a href="https://www.youtube.com/watch?v=D7hNQgu1b24" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D7hNQgu1b24</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: osvnews.com  
    Title: catholic filmmaker investigates ufo mysteries at the vatican  
-   Link: <a href="https://www.osvnews.com/catholic-filmmaker-investigates-ufo-mysteries-at-the-vatican/" target="_blank" rel="noopener noreferrer nofollow">https://www.osvnews.com/catholic-filmmaker-investigates-ufo-mysteries-at-the-vatican/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nov 25, 2025 — VATICAN CITY (CNS) — A widely discussed new documentary about UFOs, &quot;Age of Disclosure,&quot; includes an allegation from a for...</p></details>
+   Link:<a href="https://www.osvnews.com/catholic-filmmaker-investigates-ufo-mysteries-at-the-vatican/" target="_blank" rel="noopener noreferrer nofollow">https://www.osvnews.com/catholic-filmmaker-investigates-ufo-mysteries-at-the-vatican/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nov 25, 2025 — VATICAN CITY (CNS) — A widely discussed new documentary about UFOs, &quot;Age of Disclosure,&quot; includes an allegation from a for...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: wantedinrome.com  
    Title: the crash that predated [roswell](&#123;&#123; 'roswell/' | relative_url &#125;&#125;) mussolinis secret ufo files  
-   Link: <a href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...2 Mar 2026 — The story took on new dimensions in 2023, when former US intellig...</p></details>
+   Link:<a href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...2 Mar 2026 — The story took on new dimensions in 2023, when former US intellig...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/1owsgpr/new_and_recent_interviews_on_the_1933_magenta/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1owsgpr/new_and_recent_interviews_on_the_1933_magenta/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New and recent interviews on the 1933 Magenta, Italy UFO...Descendant of a direct witness of UFO Magenta Crash came out...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/1owsgpr/new_and_recent_interviews_on_the_1933_magenta/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1owsgpr/new_and_recent_interviews_on_the_1933_magenta/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New and recent interviews on the 1933 Magenta, Italy UFO...Descendant of a direct witness of UFO Magenta Crash came out...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=DqOyfWLEwPQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DqOyfWLEwPQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LIVE: Military whistleblower exposes &quot;non-human intelligence&quot; evidence to congress | FOX 10 Phoenix...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DqOyfWLEwPQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DqOyfWLEwPQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LIVE: Military whistleblower exposes &quot;non-human intelligence&quot; evidence to congress | FOX 10 Phoenix...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYsQYvtt1XV/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYsQYvtt1XV/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>script. Let&#x27;s talk about the types of UFOs that the...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYsQYvtt1XV/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYsQYvtt1XV/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>script. Let&#x27;s talk about the types of UFOs that the...Read more...</p></details>

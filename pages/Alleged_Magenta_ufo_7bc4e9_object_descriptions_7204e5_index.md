@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /alleged-magenta-ufo-7bc4e9-object/
 description: Focused pages that expand on Object Shape.
-date: '2026-06-26'
+date: '2026'
 layout: default
 parent_basename: Alleged_Magenta_ufo_7bc4e9_object_descriptions_7204e5
 parent_title: Object Shape
@@ -16,7 +16,7 @@ parent_permalink: /object-shape/
 
 # Explore Topics in Object Shape
 
-The following pages expand on the main **[Object Shape]({{ '/object-shape/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Object Shape]({{ '/object-shape/' | relative_url }})** page and cover its key branches in.
 
 - [1936 Blur]({{ '/1936-blur/' | relative_url }})
 - [Nazi Bell]({{ '/nazi-bell/' | relative_url }})

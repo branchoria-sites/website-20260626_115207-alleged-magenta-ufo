@@ -274,17 +274,17 @@ image: /assets/images/Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59_v_we
 
 ## Introduction
 
-The German V-1 flying bomb and V-2 rocket were genuine technological breakthroughs, and their existence has played an outsized role in later stories about alleged Nazi super-technology. Within [retellings]({{ 'retellings/' | relative_url }}) of the [alleged Magenta UFO]({{ 'alleged-magenta-ufo/' | relative_url }}) crash, they often function as a credibility trap: because Germany really did field advanced weapons that seemed astonishing for their time, it becomes easier to imagine that even more extraordinary projects—such as recovered alien craft or anti-gravity vehicles—might also have existed. The historical record, however, does not support that leap. The V-weapons demonstrate that Nazi Germany possessed impressive rocket engineering, but they do not provide evidence that the Axis recovered or reverse-engineered extraterrestrial technology. Instead, they show how real innovation and wartime propaganda combined to create fertile ground for later myths. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iwm.org.uk/history/second-world-war/bombing/v-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iwm.org.uk">[Imperial War Museums]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iwm.org.uk</span><span class="citation-popover-snippet">Open source on iwm.org.uk.</span></span></span>
+The German V-1 flying bomb and V-2 rocket were genuine technological breakthroughs, and their existence has played an outsized role in later stories about alleged Nazi super-technology. Within [retellings]({{ 'retellings/' | relative_url }}) of the [alleged Magenta UFO]({{ 'alleged-magenta-ufo/' | relative_url }}) crash, they often function as a credibility trap: because Germany really did field advanced weapons that seemed astonishing for their time, it becomes easier to imagine that even more extraordinary projects—such as recovered alien craft or anti-gravity vehicles—might also have existed. The historical record, however, does not support that leap. The V-weapons demonstrate that Nazi Germany possessed impressive rocket engineering, but they do not provide evidence that the Axis recovered or reverse-engineered extraterrestrial technology. Instead, they show how real innovation and wartime propaganda combined to create fertile ground for later myths.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iwm.org.uk/history/second-world-war/bombing/v-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iwm.org.uk">[Imperial War Museums]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iwm.org.uk</span><span class="citation-popover-snippet">Open source on iwm.org.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59_v_weapons_credibilit_81a587-Illustration-1-dark.svg" | relative_url }}" alt="V Weapons illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59_v_weapons_credibilit_81a587-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59_v_weapons_credibilit_81a587-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What V-1 and V-2 weapons proved historically
 
-The V-1 and V-2 programmes were remarkable achievements in military engineering. The V-1 introduced one of the first operational cruise missiles, while the V-2 became the world's first operational long-range ballistic missile. Developed largely at Peenemünde under the direction of engineers including Wernher von Braun, these weapons represented years of conventional research in aerodynamics, propulsion, guidance systems and manufacturing rather than sudden unexplained technological leaps. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iwm.org.uk/history/second-world-war/bombing/v-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iwm.org.uk">[Imperial War Museums]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iwm.org.uk</span><span class="citation-popover-snippet">Open source on iwm.org.uk.</span></span></span>
+The V-1 and V-2 programmes were remarkable achievements in military engineering. The V-1 introduced one of the first operational cruise missiles, while the V-2 became the world's first operational long-range ballistic missile. Developed largely at Peenemünde under the direction of engineers including Wernher von Braun, these weapons represented years of conventional research in aerodynamics, propulsion, guidance systems and manufacturing rather than sudden unexplained technological leaps.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iwm.org.uk/history/second-world-war/bombing/v-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iwm.org.uk">[Imperial War Museums]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iwm.org.uk</span><span class="citation-popover-snippet">Open source on iwm.org.uk.</span></span></span>
 
-Their historical importance is undeniable. The V-2 travelled faster than the speed of sound, making interception impossible with contemporary air defences. Both weapon systems influenced post-war American and Soviet missile programmes after German personnel, documents and hardware were captured in 1945. Modern rocketry owes part of its lineage to this work, although it emerged through documented engineering development rather than mysterious discoveries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/V-2_rocket" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">V-2 rocket</span><span class="citation-popover-snippet">V-2 rocket</span></span></span>
+Their historical importance is undeniable. The V-2 travelled faster than the speed of sound, making interception impossible with contemporary air defences. Both weapon systems influenced post-war American and Soviet missile programmes after German personnel, documents and hardware were captured in 1945. Modern rocketry owes part of its lineage to this work, although it emerged through documented engineering development rather than mysterious discoveries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/V-2_rocket" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">V-2 rocket</span><span class="citation-popover-snippet">V-2 rocket</span></span></span>
 
-Equally important is what these programmes did **not** demonstrate. The V-weapons relied on technologies that historians can trace through surviving design documents, test records, production facilities and engineering correspondence. Their development was difficult, expensive and often unreliable. They do not exhibit unexplained principles of propulsion or flight that would suggest access to non-human technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iwm.org.uk/history/second-world-war/bombing/v-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iwm.org.uk">[Imperial War Museums]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iwm.org.uk</span><span class="citation-popover-snippet">Open source on iwm.org.uk.</span></span></span>
+Equally important is what these programmes did **not** demonstrate. The V-weapons relied on technologies that historians can trace through surviving design documents, test records, production facilities and engineering correspondence. Their development was difficult, expensive and often unreliable. They do not exhibit unexplained principles of propulsion or flight that would suggest access to non-human technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iwm.org.uk/history/second-world-war/bombing/v-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iwm.org.uk">[Imperial War Museums]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iwm.org.uk</span><span class="citation-popover-snippet">Open source on iwm.org.uk.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VSD7vpHKUxA" title="Why the V1 Flying Bomb couldn&#x27;t turn the tide of WW2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VSD7vpHKUxA" target="_blank" rel="noopener noreferrer">Why the V1 Flying Bomb couldn&#x27;t turn the tide of WW2</a></p><p class="youtube-embed-meta">Channel: Imperial War Museums</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VSD7vpHKUxA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VSD7vpHKUxA">Open on YouTube</a></p></div></div></div>
@@ -293,7 +293,7 @@ Equally important is what these programmes did **not** demonstrate. The V-weapon
 
 As Germany's military position deteriorated, the Nazi regime increasingly promoted the prospect of revolutionary weapons that would supposedly reverse the course of the war. This messaging encouraged civilians and soldiers alike to believe that secret technological breakthroughs were imminent.
 
-The reality proved more complicated. While the V-1 and V-2 entered combat, many other celebrated "[wonder weapons]({{ 'wonder-weapons/' | relative_url }})" either remained prototypes or appeared too late and in insufficient numbers to influence the outcome of the conflict. The gap between propaganda and battlefield results became substantial, but the public memory often retained the aura of technological omnipotence rather than the practical limitations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Wunderwaffe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+The reality proved more complicated. While the V-1 and V-2 entered combat, many other celebrated "[wonder weapons]({{ 'wonder-weapons/' | relative_url }})" either remained prototypes or appeared too late and in insufficient numbers to influence the outcome of the conflict. The gap between propaganda and battlefield results became substantial, but the public memory often retained the aura of technological omnipotence rather than the practical limitations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Wunderwaffe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 This distinction matters because the propaganda itself helped establish a lasting narrative pattern:
 
@@ -325,7 +325,7 @@ In Magenta retellings, the reasoning often proceeds implicitly rather than expli
 
 The first two statements are historically supported. The third does not logically follow.
 
-Historians distinguish between documented technological innovation and claims requiring entirely different categories of evidence. Rocket programmes leave extensive archival traces, industrial infrastructure, surviving hardware and engineering documentation. Alleged recovered extraterrestrial craft do not possess comparable documentary support within the historical record surrounding either Germany or the alleged 1933 Magenta incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iwm.org.uk/history/second-world-war/bombing/v-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iwm.org.uk">[Imperial War Museums]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iwm.org.uk</span><span class="citation-popover-snippet">Open source on iwm.org.uk.</span></span></span>
+Historians distinguish between documented technological innovation and claims requiring entirely different categories of evidence. Rocket programmes leave extensive archival traces, industrial infrastructure, surviving hardware and engineering documentation. Alleged recovered extraterrestrial craft do not possess comparable documentary support within the historical record surrounding either Germany or the alleged 1933 Magenta incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iwm.org.uk/history/second-world-war/bombing/v-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iwm.org.uk">[Imperial War Museums]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iwm.org.uk</span><span class="citation-popover-snippet">Open source on iwm.org.uk.</span></span></span>
 
 This distinction is especially important because later UFO literature frequently blends authentic developments—such as the V-2, jet aircraft and advanced research facilities—with speculative narratives about anti-gravity devices or flying discs. The presence of genuine achievements can make fictional or unsupported additions appear more plausible by association rather than by evidence.
 
@@ -350,196 +350,196 @@ As a result, later writers could combine several authentic historical elements:
 
 Those ingredients produced stories that felt historically grounded even when unsupported elements—such as alien technology or anti-gravity propulsion—were added. The narrative gained credibility from proximity to real events rather than from direct evidence.
 
-Within the broader Magenta narrative, this is the principal relevance of the V-weapons. They explain why later audiences found claims of hidden Axis technology easier to imagine, not why those claims should be accepted. Real German rocket engineering demonstrates that Nazi Germany achieved significant advances in conventional aerospace technology. It does not establish that the alleged Magenta craft existed, that it was extraterrestrial, or that its technology influenced the V-weapon programme. Those remain separate historical questions requiring their own evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iwm.org.uk/history/second-world-war/bombing/v-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iwm.org.uk">[Imperial War Museums+2Google Arts &amp; Culture]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iwm.org.uk</span><span class="citation-popover-snippet">Open source on iwm.org.uk.</span></span></span>
+Within the broader Magenta narrative, this is the principal relevance of the V-weapons. They explain why later audiences found claims of hidden Axis technology easier to imagine, not why those claims should be accepted. Real German rocket engineering demonstrates that Nazi Germany achieved significant advances in conventional aerospace technology. It does not establish that the alleged Magenta craft existed, that it was extraterrestrial, or that its technology influenced the V-weapon programme. Those remain separate historical questions requiring their own evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iwm.org.uk/history/second-world-war/bombing/v-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iwm.org.uk">[Imperial War Museums+2Google Arts &amp; Culture]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iwm.org.uk</span><span class="citation-popover-snippet">Open source on iwm.org.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59_v_weapons_credibilit_81a587-Illustration-3-dark.svg" | relative_url }}" alt="V Weapons illustration 3" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59_v_weapons_credibilit_81a587-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59_v_weapons_credibilit_81a587-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Real Wonder Weapons Fed UFO Myths. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Real Wonder Weapons Fed UFO Myths. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Operation+paperclip+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Operation paperclip on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7273379-M.jpg" alt="Cover for Operation paperclip" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Operation+paperclip+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation paperclip">Operation paperclip</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Operation+paperclip+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Operation paperclip on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7273379-M.jpg" alt="Cover for Operation paperclip" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Operation+paperclip+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation paperclip">Operation paperclip</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Shows how real rocket scientists moved into American programmes, a key reason V-weapons fuel later myths.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Operation+paperclip+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how real rocket scientists moved into American programmes, a key reason V-weapons fuel later myths.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Operation+paperclip+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Secret+Weapons+of+World+War+II+William+B.+Breuer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Secret Weapons of World War II on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4725745-M.jpg" alt="Cover for Secret Weapons of World War II" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Secret+Weapons+of+World+War+II+William+B.+Breuer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Secret Weapons of World War II">Secret Weapons of World War II</a>
-        </h4>
-        <p class="fr-book-author">By William B. Breuer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Secret+Weapons+of+World+War+II+William+B.+Breuer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Secret Weapons of World War II on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4725745-M.jpg" alt="Cover for Secret Weapons of World War II" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Secret+Weapons+of+World+War+II+William+B.+Breuer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Secret Weapons of World War II">Secret Weapons of World War II</a>
+</h4>
+<p class="fr-book-author">By William B. Breuer</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Weltkrieg (1939-1945), Equipment and supplies, Geheimwaffe, World War, 1939-1945, Weapons systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Secret+Weapons+of+World+War+II+William+B.+Breuer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Weltkrieg (1939-1945), Equipment and supplies, Geheimwaffe, World War, 1939-1945, Weapons systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Secret+Weapons+of+World+War+II+William+B.+Breuer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rocket+and+the+Reich+Michael+J.+Neufeld&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rocket and the Reich on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/19039-M.jpg" alt="Cover for The Rocket and the Reich" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Rocket+and+the+Reich+Michael+J.+Neufeld&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rocket and the Reich">The Rocket and the Reich</a>
-        </h4>
-        <p class="fr-book-author">By Michael J. Neufeld</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rocket+and+the+Reich+Michael+J.+Neufeld&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rocket and the Reich on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/19039-M.jpg" alt="Cover for The Rocket and the Reich" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Rocket+and+the+Reich+Michael+J.+Neufeld&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rocket and the Reich">The Rocket and the Reich</a>
+</h4>
+<p class="fr-book-author">By Michael J. Neufeld</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Germany, Germany. Heer. Heeresversuchstelle Peenemünde, History, Liquid propellant rockets, Manufacture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Rocket+and+the+Reich+Michael+J.+Neufeld&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Germany, Germany. Heer. Heeresversuchstelle Peenemünde, History, Liquid propellant rockets, Manufacture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Rocket+and+the+Reich+Michael+J.+Neufeld&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Operation+Paperclip%3A+The+Secret+Intelligence+Program+that+Brought+Nazi+Scientists+to+America+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Operation Paperclip: The Secret Intelligence Program that Brought Nazi Scientists to America on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Operation+Paperclip%3A+The+Secret+Intelligence+Program+that+Brought+Nazi+Scientists+to+America+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation Paperclip: The Secret Intelligence Program that Brought Nazi Scientists to America">Operation Paperclip: The Secret Intelligence Program that Bro...</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Operation+Paperclip%3A+The+Secret+Intelligence+Program+that+Brought+Nazi+Scientists+to+America+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Operation Paperclip: The Secret Intelligence Program that Brought Nazi Scientists to America on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Operation+Paperclip%3A+The+Secret+Intelligence+Program+that+Brought+Nazi+Scientists+to+America+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation Paperclip: The Secret Intelligence Program that Brought Nazi Scientists to America">Operation Paperclip: The Secret Intelligence Program that Bro...</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Shows how real rocket scientists moved into American programmes, a key reason V-weapons fuel later myths.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Operation+Paperclip%3A+The+Secret+Intelligence+Program+that+Brought+Nazi+Scientists+to+America+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how real rocket scientists moved into American programmes, a key reason V-weapons fuel later myths.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Operation+Paperclip%3A+The+Secret+Intelligence+Program+that+Brought+Nazi+Scientists+to+America+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Operation+paperclip&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Operation paperclip</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Secret+Weapons+of+World+War+II&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Secret Weapons of World War II</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Rocket+and+the+Reich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Rocket and the Reich</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Operation+paperclip&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Operation paperclip</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Secret+Weapons+of+World+War+II&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Secret Weapons of World War II</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Rocket+and+the+Reich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Rocket and the Reich</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-search-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-search-grid">
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=v-weapons-how-real-wonder-weapons-fed-ufo-myths-alleged-magenta-ufo-ufo-collectible-figure-book-books-gerry-anderson-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="v-weapons-how-real-wonder-weapons-fed-ufo-myths-alleged-magenta-ufo-ufo-collectible-figure-book-books-gerry-anderson-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO collectible figure on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20collectible%20figure%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Collectible%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFigure%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ECollectible%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFigure%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO collectible figure on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Top pick</p>
-        <h4 class="fr-search-title">UFO collectible figure</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Collectible</span><span class="fr-search-tag">Figure</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=v-weapons-how-real-wonder-weapons-fed-ufo-myths-alleged-magenta-ufo-ufo-collectible-figure-book-books-gerry-anderson-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="v-weapons-how-real-wonder-weapons-fed-ufo-myths-alleged-magenta-ufo-ufo-collectible-figure-book-books-gerry-anderson-ser" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card fr-search-card-visual">
+<a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=v-weapons-how-real-wonder-weapons-fed-ufo-myths-alleged-magenta-ufo-ufo-collectible-figure-book-books-gerry-anderson-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="v-weapons-how-real-wonder-weapons-fed-ufo-myths-alleged-magenta-ufo-ufo-collectible-figure-book-books-gerry-anderson-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO collectible figure on eBay">
+<img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20collectible%20figure%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Collectible%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFigure%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ECollectible%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFigure%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO collectible figure on eBay" loading="lazy">
+</a>
+<div class="fr-search-info">
+<p class="fr-search-kicker">Top pick</p>
+<h4 class="fr-search-title">UFO collectible figure</h4>
+<p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+<div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Collectible</span><span class="fr-search-tag">Figure</span></div>
+<a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=v-weapons-how-real-wonder-weapons-fed-ufo-myths-alleged-magenta-ufo-ufo-collectible-figure-book-books-gerry-anderson-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="v-weapons-how-real-wonder-weapons-fed-ufo-myths-alleged-magenta-ufo-ufo-collectible-figure-book-books-gerry-anderson-ser" target="_blank" rel="sponsored noopener noreferrer">
           Browse eBay
-        </a>
-      </div>
-    </article>
+</a>
+</div>
+</article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=v-weapons-how-real-wonder-weapons-fed-ufo-myths-alleged-magenta-ufo-ufo-art-print-book-books-dvd-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -dvd -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="v-weapons-how-real-wonder-weapons-fed-ufo-myths-alleged-magenta-ufo-ufo-art-print-book-books-dvd-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO art print on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22122%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22132%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO art print on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">UFO art print</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=v-weapons-how-real-wonder-weapons-fed-ufo-myths-alleged-magenta-ufo-ufo-art-print-book-books-dvd-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -dvd -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="v-weapons-how-real-wonder-weapons-fed-ufo-myths-alleged-magenta-ufo-ufo-art-print-book-books-dvd-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card fr-search-card-visual">
+<a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=v-weapons-how-real-wonder-weapons-fed-ufo-myths-alleged-magenta-ufo-ufo-art-print-book-books-dvd-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -dvd -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="v-weapons-how-real-wonder-weapons-fed-ufo-myths-alleged-magenta-ufo-ufo-art-print-book-books-dvd-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO art print on eBay">
+<img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22122%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22132%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO art print on eBay" loading="lazy">
+</a>
+<div class="fr-search-info">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UFO art print</h4>
+<p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+<div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
+<a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=v-weapons-how-real-wonder-weapons-fed-ufo-myths-alleged-magenta-ufo-ufo-art-print-book-books-dvd-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -dvd -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="v-weapons-how-real-wonder-weapons-fed-ufo-myths-alleged-magenta-ufo-ufo-art-print-book-books-dvd-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">
           Browse eBay
-        </a>
-      </div>
-    </article>
+</a>
+</div>
+</article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=v-weapons-how-real-wonder-weapons-fed-ufo-myths-alleged-magenta-ufo-flying-saucer-wall-art-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="v-weapons-how-real-wonder-weapons-fed-ufo-myths-alleged-magenta-ufo-flying-saucer-wall-art-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer wall art on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20wall%20art%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EWall%20Art%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EWall%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer wall art on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">flying saucer wall art</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Wall</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=v-weapons-how-real-wonder-weapons-fed-ufo-myths-alleged-magenta-ufo-flying-saucer-wall-art-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="v-weapons-how-real-wonder-weapons-fed-ufo-myths-alleged-magenta-ufo-flying-saucer-wall-art-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card fr-search-card-visual">
+<a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=v-weapons-how-real-wonder-weapons-fed-ufo-myths-alleged-magenta-ufo-flying-saucer-wall-art-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="v-weapons-how-real-wonder-weapons-fed-ufo-myths-alleged-magenta-ufo-flying-saucer-wall-art-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer wall art on eBay">
+<img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20wall%20art%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EWall%20Art%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EWall%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer wall art on eBay" loading="lazy">
+</a>
+<div class="fr-search-info">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">flying saucer wall art</h4>
+<p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+<div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Wall</span></div>
+<a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=v-weapons-how-real-wonder-weapons-fed-ufo-myths-alleged-magenta-ufo-flying-saucer-wall-art-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="v-weapons-how-real-wonder-weapons-fed-ufo-myths-alleged-magenta-ufo-flying-saucer-wall-art-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
           Browse eBay
-        </a>
-      </div>
-    </article>
+</a>
+</div>
+</article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+decal+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=v-weapons-how-real-wonder-weapons-fed-ufo-myths-alleged-magenta-ufo-ufo-decal-book-books-dvd-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO decal -book -books -dvd -series -television -gerry -anderson -band -concert -tour -album -cd -lp" data-ebay-reference="v-weapons-how-real-wonder-weapons-fed-ufo-myths-alleged-magenta-ufo-ufo-decal-book-books-dvd-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO decal on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20decal%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Decal%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EDecal%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO decal on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">UFO decal</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Decal</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+decal+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=v-weapons-how-real-wonder-weapons-fed-ufo-myths-alleged-magenta-ufo-ufo-decal-book-books-dvd-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO decal -book -books -dvd -series -television -gerry -anderson -band -concert -tour -album -cd -lp" data-ebay-reference="v-weapons-how-real-wonder-weapons-fed-ufo-myths-alleged-magenta-ufo-ufo-decal-book-books-dvd-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card fr-search-card-visual">
+<a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+decal+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=v-weapons-how-real-wonder-weapons-fed-ufo-myths-alleged-magenta-ufo-ufo-decal-book-books-dvd-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO decal -book -books -dvd -series -television -gerry -anderson -band -concert -tour -album -cd -lp" data-ebay-reference="v-weapons-how-real-wonder-weapons-fed-ufo-myths-alleged-magenta-ufo-ufo-decal-book-books-dvd-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO decal on eBay">
+<img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20decal%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Decal%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EDecal%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO decal on eBay" loading="lazy">
+</a>
+<div class="fr-search-info">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UFO decal</h4>
+<p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+<div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Decal</span></div>
+<a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+decal+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=v-weapons-how-real-wonder-weapons-fed-ufo-myths-alleged-magenta-ufo-ufo-decal-book-books-dvd-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO decal -book -books -dvd -series -television -gerry -anderson -band -concert -tour -album -cd -lp" data-ebay-reference="v-weapons-how-real-wonder-weapons-fed-ufo-myths-alleged-magenta-ufo-ufo-decal-book-books-dvd-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">
           Browse eBay
-        </a>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=v-weapons-how-real-wonder-weapons-fed-ufo-myths-alleged-magenta-ufo-ufo-collectible-figure-book-books-gerry-anderson-ser&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+</a>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=v-weapons-how-real-wonder-weapons-fed-ufo-myths-alleged-magenta-ufo-ufo-collectible-figure-book-books-gerry-anderson-ser&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on eBay
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -555,7 +555,7 @@ Within the broader Magenta narrative, this is the principal relevance of the V-w
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -575,7 +575,7 @@ Within the broader Magenta narrative, this is the principal relevance of the V-w
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -607,7 +607,7 @@ Within the broader Magenta narrative, this is the principal relevance of the V-w
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -659,7 +659,7 @@ Within the broader Magenta narrative, this is the principal relevance of the V-w
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -704,7 +704,7 @@ Within the broader Magenta narrative, this is the principal relevance of the V-w
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -745,87 +745,87 @@ Within the broader Magenta narrative, this is the principal relevance of the V-w
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: artsandculture.google.com  
-   Link: <a href="https://artsandculture.google.com/story/the-myth-of-the-german-%E2%80%9Cwonder-weapons%E2%80%9D-smithsonian-national-air-and-space-museum/_wVR8zpg9UmgLg?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://artsandculture.google.com/story/the-myth-of-the-german-%E2%80%9Cwonder-weapons%E2%80%9D-smithsonian-national-air-and-space-museum/_wVR8zpg9UmgLg?hl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Arts &amp; CultureThe Myth of the German “Wonder Weapons”If the Nazis had begun firing V-1 cruise missiles and V-2 rockets at Britain...</p></details>
+   Link:<a href="https://artsandculture.google.com/story/the-myth-of-the-german-%E2%80%9Cwonder-weapons%E2%80%9D-smithsonian-national-air-and-space-museum/_wVR8zpg9UmgLg?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://artsandculture.google.com/story/the-myth-of-the-german-%E2%80%9Cwonder-weapons%E2%80%9D-smithsonian-national-air-and-space-museum/_wVR8zpg9UmgLg?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google Arts &amp; CultureThe Myth of the German “Wonder Weapons”If the Nazis had begun firing V-1 cruise missiles and V-2 rockets at Britain...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: V-2 rocket  
-   Link: <a href="https://en.wikipedia.org/wiki/V-2_rocket" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/V-2_rocket</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/V-2_rocket" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/V-2_rocket</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: V-1 and V-2 intelligence  
-   Link: <a href="https://en.wikipedia.org/wiki/V-1_and_V-2_intelligence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/V-1_and_V-2_intelligence</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/V-1_and_V-2_intelligence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/V-1_and_V-2_intelligence</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Wunderwaffe" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wunderwaffe</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Wunderwaffe" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wunderwaffe</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: [Die Glocke](&#123;&#123; 'die-glocke/' | relative_url &#125;&#125;) (conspiracy theory)  
-   Link: <a href="https://en.wikipedia.org/wiki/Die_Glocke_%28conspiracy_theory%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Die_Glocke_%28conspiracy_theory%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Die Glocke (conspiracy theory)He visits places where it is rumoured that secret UFO and antigravity... &quot;Review of In Search of Aliens...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Die_Glocke_%28conspiracy_theory%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Die_Glocke_%28conspiracy_theory%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Die Glocke (conspiracy theory)He visits places where it is rumoured that secret UFO and antigravity... &quot;Review of In Search of Aliens...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: iwm.org.uk  
-   Link: <a href="https://www.iwm.org.uk/history/second-world-war/bombing/v-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.iwm.org.uk/history/second-world-war/bombing/v-weapons</a>  
+   Link:<a href="https://www.iwm.org.uk/history/second-world-war/bombing/v-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.iwm.org.uk/history/second-world-war/bombing/v-weapons</a>  
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HistoryMemes/comments/1qc39dd/wunderwafe_versus_actual_german_wonder_weapons/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HistoryMemes/comments/1qc39dd/wunderwafe_versus_actual_german_wonder_weapons/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Wunderwafe&quot; versus actual German wonder weaponsThe V2 rockets were wildly inaccurate but caused immense psychological damage and were pr...</p></details>
+   Link:<a href="https://www.reddit.com/r/HistoryMemes/comments/1qc39dd/wunderwafe_versus_actual_german_wonder_weapons/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HistoryMemes/comments/1qc39dd/wunderwafe_versus_actual_german_wonder_weapons/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Wunderwafe&quot; versus actual German wonder weaponsThe V2 rockets were wildly inaccurate but caused immense psychological damage and were pr...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/joseph-p-farrell-ss-brotherhood-of-the-bell/Joseph%20P%20Farrell%20-%20SS%20Brotherhood%20of%20the%20Bell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/joseph-p-farrell-ss-brotherhood-of-the-bell/Joseph%20P%20Farrell%20-%20SS%20Brotherhood%20of%20the%20Bell.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SS Brotherhood of the Bellaliens – both extra- and sub-terrestrial – and Nazis! 32. Witkowski, The... Lyne also believes the Schauberger...</p></details>
+   Link:<a href="https://archive.org/download/joseph-p-farrell-ss-brotherhood-of-the-bell/Joseph%20P%20Farrell%20-%20SS%20Brotherhood%20of%20the%20Bell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/joseph-p-farrell-ss-brotherhood-of-the-bell/Joseph%20P%20Farrell%20-%20SS%20Brotherhood%20of%20the%20Bell.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SS Brotherhood of the Bellaliens – both extra- and sub-terrestrial – and Nazis! 32. Witkowski, The... Lyne also believes the Schauberger...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: shellsandpebbles.com  
-   Link: <a href="https://www.shellsandpebbles.com/2024/06/10/might-and-right-the-trope-of-wonder-weapons-in-historical-and-popular-imagination/" target="_blank" rel="noopener noreferrer nofollow">https://www.shellsandpebbles.com/2024/06/10/might-and-right-the-trope-of-wonder-weapons-in-historical-and-popular-imagination/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Might and Right: The Trope of Wonder Weapons in...10 Jun 2024 — Historians state that the phrase “wonder weapon” came from Goebbels&#x27;s Pr...</p></details>
+   Link:<a href="https://www.shellsandpebbles.com/2024/06/10/might-and-right-the-trope-of-wonder-weapons-in-historical-and-popular-imagination/" target="_blank" rel="noopener noreferrer nofollow">https://www.shellsandpebbles.com/2024/06/10/might-and-right-the-trope-of-wonder-weapons-in-historical-and-popular-imagination/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Might and Right: The Trope of Wonder Weapons in...10 Jun 2024 — Historians state that the phrase “wonder weapon” came from Goebbels&#x27;s Pr...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: Nazi regime's pseudoscience investigations Nazi UFOs Full Episode  
-   Link: <a href="https://www.facebook.com/groups/scififan/posts/25995675666723589/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/scififan/posts/25995675666723589/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nazi regime&#x27;s pseudoscience investigationsNazi UFOs Full Episode - UFO Hunters - HISTORY.com... The Nazis, who attempted to develop and...</p></details>
+   Link:<a href="https://www.facebook.com/groups/scififan/posts/25995675666723589/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/scififan/posts/25995675666723589/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nazi regime&#x27;s pseudoscience investigationsNazi UFOs Full Episode - UFO Hunters - HISTORY.com... The Nazis, who attempted to develop and...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: prussia.online  
-   Link: <a href="https://prussia.online/Data/Book/se/[secret-labs" target="_blank" rel="noopener noreferrer nofollow">https://prussia.online/Data/Book/se/[secret-labs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Until the end of the war, the Nazi leaders had hoped for direct alien military...Read more...</p></details>
+   Link:<a href="https://prussia.online/Data/Book/se/[secret-labs" target="_blank" rel="noopener noreferrer nofollow">https://prussia.online/Data/Book/se/[secret-labs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Until the end of the war, the Nazi leaders had hoped for direct alien military...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: amyshirateitel.medium.com  
    Title: wernher von brauns hugely complicated legacy 38a7a0d83dbe  
-   Link: <a href="https://amyshirateitel.medium.com/wernher-von-brauns-hugely-complicated-legacy-38a7a0d83dbe" target="_blank" rel="noopener noreferrer nofollow">https://amyshirateitel.medium.com/wernher-von-brauns-hugely-complicated-legacy-38a7a0d83dbe</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>von Braun&#x27;s Hugely Complicated LegacyTo join an SS group, he&#x27;d have proved there were no “racial aliens” in his lineage. As a student at...</p></details>
+   Link:<a href="https://amyshirateitel.medium.com/wernher-von-brauns-hugely-complicated-legacy-38a7a0d83dbe" target="_blank" rel="noopener noreferrer nofollow">https://amyshirateitel.medium.com/wernher-von-brauns-hugely-complicated-legacy-38a7a0d83dbe</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>von Braun&#x27;s Hugely Complicated LegacyTo join an SS group, he&#x27;d have proved there were no “racial aliens” in his lineage. As a student at...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/nazi-international-the-nazis-postwar-plan-to-control-finance-conflict-physics-an/Nazi%20International%20The%20Nazis%E2%80%99%20Postwar%20Plan%20to%20Control%20Finance%2C%20Conflict%2C%20Physics%20and%20Space%20-%20Joseph%20Farrell_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/nazi-international-the-nazis-postwar-plan-to-control-finance-conflict-physics-an/Nazi%20International%20The%20Nazis%E2%80%99%20Postwar%20Plan%20to%20Control%20Finance%2C%20Conflict%2C%20Physics%20and%20Space%20-%20Joseph%20Farrell_djvu.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>orff The esoteric connection between Nazism, high technology, and advanced...Read more...</p></details>
+   Link:<a href="https://archive.org/stream/nazi-international-the-nazis-postwar-plan-to-control-finance-conflict-physics-an/Nazi%20International%20The%20Nazis%E2%80%99%20Postwar%20Plan%20to%20Control%20Finance%2C%20Conflict%2C%20Physics%20and%20Space%20-%20Joseph%20Farrell_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/nazi-international-the-nazis-postwar-plan-to-control-finance-conflict-physics-an/Nazi%20International%20The%20Nazis%E2%80%99%20Postwar%20Plan%20to%20Control%20Finance%2C%20Conflict%2C%20Physics%20and%20Space%20-%20Joseph%20Farrell_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>orff The esoteric connection between Nazism, high technology, and advanced...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: instagram.com  
    Title: The V-1 and V-2 are the weapons we hear about when it  
-   Link: <a href="https://www.instagram.com/reel/C5ExyAmPerO/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C5ExyAmPerO/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>German research and the fascination with unexplained aerospace concepts. #history #ww2 #germany #aliens #tech &amp;middot; View 1 comment &amp;mi...</p></details>
+   Link:<a href="https://www.instagram.com/reel/C5ExyAmPerO/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C5ExyAmPerO/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>German research and the fascination with unexplained aerospace concepts. #history #ww2 #germany #aliens #tech &amp;middot; View 1 comment &amp;mi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pearl-hifi.com  
-   Link: <a href="https://pearl-hifi.com/11_Spirited_Growth/01_Books/Farrell_Joseph/The_SS_Brotherhood_of_the_Bell__The_Nazis_Incredible_Secret_Technology.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pearl-hifi.com/11_Spirited_Growth/01_Books/Farrell_Joseph/The_SS_Brotherhood_of_the_Bell__The_Nazis_Incredible_Secret_Technology.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The SS Brotherhood of the Bell: The Nazis&#x27; Incredible...Lyne also believes the Schauberger component of the Nazi UFO Legend to be a...</p></details>
+   Link:<a href="https://pearl-hifi.com/11_Spirited_Growth/01_Books/Farrell_Joseph/The_SS_Brotherhood_of_the_Bell__The_Nazis_Incredible_Secret_Technology.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pearl-hifi.com/11_Spirited_Growth/01_Books/Farrell_Joseph/The_SS_Brotherhood_of_the_Bell__The_Nazis_Incredible_Secret_Technology.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The SS Brotherhood of the Bell: The Nazis&#x27; Incredible...Lyne also believes the Schauberger component of the Nazi UFO Legend to be a...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: onthefront.com  
    Title: nazi wonder weapons the v 1 and v 2 rockets  
-   Link: <a href="https://onthefront.com/berlin-world-war-2-tours-blog/2020/6/7/nazi-wonder-weapons-the-v-1-and-v-2-rockets" target="_blank" rel="noopener noreferrer nofollow">https://onthefront.com/berlin-world-war-2-tours-blog/2020/6/7/nazi-wonder-weapons-the-v-1-and-v-2-rockets</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nazi Wonder Weapons the V-1 and V-2 Rockets7 Jun 2020 — Explore the Peenemünde Army Research Facility, where during WW2 was the research...</p></details>
+   Link:<a href="https://onthefront.com/berlin-world-war-2-tours-blog/2020/6/7/nazi-wonder-weapons-the-v-1-and-v-2-rockets" target="_blank" rel="noopener noreferrer nofollow">https://onthefront.com/berlin-world-war-2-tours-blog/2020/6/7/nazi-wonder-weapons-the-v-1-and-v-2-rockets</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nazi Wonder Weapons the V-1 and V-2 Rockets7 Jun 2020 — Explore the Peenemünde Army Research Facility, where during WW2 was the research...</p></details>

@@ -273,7 +273,7 @@ image: /assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b_uap_whi
 
 ## Introduction
 
-The political significance of David [Grusch]({{ 'grusch/' | relative_url }})'s UAP allegations lies less in whether his underlying claims are ultimately proven and more in how they transformed the debate over unidentified anomalous phenomena (UAPs). Rather than focusing solely on extraordinary claims about recovered craft, lawmakers increasingly framed the issue as one of governance: can government employees safely report potentially sensitive information, and can Congress verify those reports through lawful [oversight]({{ 'oversight/' | relative_url }})? Within discussions surrounding alleged historical cases such as the Magenta crash, this shift matters because any meaningful investigation depends on insiders being able to disclose information without unlawful retaliation and on oversight bodies having access to classified programmes where appropriate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
+The political significance of David [Grusch]({{ 'grusch/' | relative_url }})'s UAP allegations lies less in whether his underlying claims are ultimately proven and more in how they transformed the debate over unidentified anomalous phenomena (UAPs). Rather than focusing solely on extraordinary claims about recovered craft, lawmakers increasingly framed the issue as one of governance: can government employees safely report potentially sensitive information, and can Congress verify those reports through lawful [oversight]({{ 'oversight/' | relative_url }})? Within discussions surrounding alleged historical cases such as the Magenta crash, this shift matters because any meaningful investigation depends on insiders being able to disclose information without unlawful retaliation and on oversight bodies having access to classified programmes where appropriate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b_uap_whistleblower_pr_15e11f-Illustration-1-dark.svg" | relative_url }}" alt="Whistleblowers illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b_uap_whistleblower_pr_15e11f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b_uap_whistleblower_pr_15e11f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -283,7 +283,7 @@ Grusch's public testimony made whistleblower protections a central mechanism in 
 
 Before 2023, most public discussion of alleged historical UAP recoveries centred on disputed documents, witness accounts and decades-old UFO literature. Grusch shifted attention towards institutional processes.
 
-His testimony before the House Committee on Oversight and Accountability described receiving information from numerous current and former officials who allegedly possessed knowledge of highly compartmented UAP-related activities. He also stated that he filed complaints through official channels, including an urgent concern process involving the Intelligence Community Inspector General (ICIG), and alleged retaliation after pursuing those concerns. Importantly, his public testimony distinguished between allegations he personally investigated and information provided by other witnesses rather than first-hand observation of recovered craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
+His testimony before the House Committee on Oversight and Accountability described receiving information from numerous current and former officials who allegedly possessed knowledge of highly compartmented UAP-related activities. He also stated that he filed complaints through official channels, including an urgent concern process involving the Intelligence Community Inspector General (ICIG), and alleged retaliation after pursuing those concerns. Importantly, his public testimony distinguished between allegations he personally investigated and information provided by other witnesses rather than first-hand observation of recovered craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
 
 This distinction changed the political conversation because the immediate oversight question became:
 
@@ -291,7 +291,7 @@ This distinction changed the political conversation because the immediate oversi
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Were qualified officials attempting to report information through lawful channels?
-* Were they protected from retaliation? <span class="citation-chip-wrap"><a class="citation-chip" href="https://whistleblowersblog.org/government-whistleblowers/whistleblower-claims-retaliation-during-testimony-at-house-hearing-on-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whistleblowersblog.org">[whistleblowersblog.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whistleblowersblog.org</span><span class="citation-popover-title">whistleblower claims retaliation during testimony at house hearing on ufos</span><span class="citation-popover-snippet">Whistleblower Network NewsWhistleblower Claims Retaliation During Testimony at...2 Aug 2023 — Under the Whistleblower Protection Act (WP...</span></span></span>
+* Were they protected from retaliation?<span class="citation-chip-wrap"><a class="citation-chip" href="https://whistleblowersblog.org/government-whistleblowers/whistleblower-claims-retaliation-during-testimony-at-house-hearing-on-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whistleblowersblog.org">[whistleblowersblog.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whistleblowersblog.org</span><span class="citation-popover-title">whistleblower claims retaliation during testimony at house hearing on ufos</span><span class="citation-popover-snippet">Whistleblower Network NewsWhistleblower Claims Retaliation During Testimony at...2 Aug 2023 — Under the Whistleblower Protection Act (WP...</span></span></span>
 * Could Congress independently examine the classified evidence behind their claims?
 
 </div>
@@ -302,7 +302,7 @@ Those governance questions can be investigated even before the underlying UAP al
 
 Whistleblower law does not exist to prove allegations. Its purpose is to allow individuals to report potential misconduct, fraud, abuse or legal violations without suffering unlawful retaliation.
 
-In the UAP debate, supporters of stronger protections argue that if highly classified programmes exist, individuals with relevant knowledge may be reluctant to speak if they fear professional or legal consequences. Members of both parties have therefore argued that reporting systems should encourage lawful disclosures to inspectors general, authorised investigators and Congress rather than unauthorised public leaks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
+In the UAP debate, supporters of stronger protections argue that if highly classified programmes exist, individuals with relevant knowledge may be reluctant to speak if they fear professional or legal consequences. Members of both parties have therefore argued that reporting systems should encourage lawful disclosures to inspectors general, authorised investigators and Congress rather than unauthorised public leaks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
 
 The oversight mechanism typically follows several stages:
 
@@ -327,7 +327,7 @@ That distinction is frequently misunderstood in public discussion.
 
 During his congressional testimony, Grusch stated that he experienced professional retaliation after raising concerns through authorised channels. He declined to discuss many details publicly because he said investigations remained ongoing.
 
-His allegations resonated because retaliation claims are familiar across many areas of government oversight, including procurement, intelligence, defence contracting and national security. A retaliation allegation is therefore evaluated independently from the truth of the underlying claim. Even if an allegation later proves incorrect, unlawful retaliation against a protected disclosure may still constitute misconduct. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://whistleblowersblog.org/government-whistleblowers/whistleblower-claims-retaliation-during-testimony-at-house-hearing-on-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whistleblowersblog.org">[Whistleblower Network News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whistleblowersblog.org</span><span class="citation-popover-title">whistleblower claims retaliation during testimony at house hearing on ufos</span><span class="citation-popover-snippet">Whistleblower Network NewsWhistleblower Claims Retaliation During Testimony at...2 Aug 2023 — Under the Whistleblower Protection Act (WP...</span></span></span>
+His allegations resonated because retaliation claims are familiar across many areas of government oversight, including procurement, intelligence, defence contracting and national security. A retaliation allegation is therefore evaluated independently from the truth of the underlying claim. Even if an allegation later proves incorrect, unlawful retaliation against a protected disclosure may still constitute misconduct.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://whistleblowersblog.org/government-whistleblowers/whistleblower-claims-retaliation-during-testimony-at-house-hearing-on-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whistleblowersblog.org">[Whistleblower Network News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whistleblowersblog.org</span><span class="citation-popover-title">whistleblower claims retaliation during testimony at house hearing on ufos</span><span class="citation-popover-snippet">Whistleblower Network NewsWhistleblower Claims Retaliation During Testimony at...2 Aug 2023 — Under the Whistleblower Protection Act (WP...</span></span></span>
 
 That legal distinction explains why some members of Congress treated whistleblower protection as an oversight priority regardless of their personal views on extraordinary UAP claims.
 
@@ -337,7 +337,7 @@ That legal distinction explains why some members of Congress treated whistleblow
 
 One practical outcome of congressional pressure was greater emphasis on formal reporting mechanisms rather than media disclosures.
 
-The Department of Defense's All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) established secure procedures allowing current and former government personnel, military members and contractors with direct knowledge of alleged government UAP programmes dating back to 1945 to submit information. According to the Department of Defense, the reporting process was designed to comply with existing federal whistleblower and privacy laws and to support AARO's historical review mandated by Congress. U.S. Department of War+2U.S. Department of War <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/3575027/department-of-defense-launches-secure-reporting-mechanism-on-the-all-domain-ano/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[war.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of defense launches secure reporting mechanism on the all domain ano</span><span class="citation-popover-snippet">Department of WarDepartment of Defense Launches Secure Reporting...31 Oct 2023 — These reports will be used to inform AARO&#x27;s congression...</span></span></span>
+The Department of Defense's All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) established secure procedures allowing current and former government personnel, military members and contractors with direct knowledge of alleged government UAP programmes dating back to 1945 to submit information. According to the Department of Defense, the reporting process was designed to comply with existing federal whistleblower and privacy laws and to support AARO's historical review mandated by Congress. U.S. Department of War+2U.S. Department of War<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/3575027/department-of-defense-launches-secure-reporting-mechanism-on-the-all-domain-ano/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[war.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of defense launches secure reporting mechanism on the all domain ano</span><span class="citation-popover-snippet">Department of WarDepartment of Defense Launches Secure Reporting...31 Oct 2023 — These reports will be used to inform AARO&#x27;s congression...</span></span></span>
 
 The policy objective was twofold:
 
@@ -350,11 +350,11 @@ Supporters viewed this as creating an institutional pathway for evidence. Critic
 
 Following Grusch's testimony, several senators and representatives argued that the central issue had become institutional accountability rather than simply unidentified objects.
 
-Senators including Marco Rubio and Kirsten Gillibrand publicly indicated that multiple individuals had provided information to congressional investigators or intelligence committees, although they did not suggest that those claims had been independently verified. Their concern focused on determining whether any programmes had operated outside normal congressional oversight mechanisms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
+Senators including Marco Rubio and Kirsten Gillibrand publicly indicated that multiple individuals had provided information to congressional investigators or intelligence committees, although they did not suggest that those claims had been independently verified. Their concern focused on determining whether any programmes had operated outside normal congressional oversight mechanisms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
 
-This perspective also influenced proposals such as the UAP Disclosure Act, which sought structured review and eventual release of historical UAP records while preserving national security protections where justified. Although the legislation was ultimately narrowed before enactment, it reflected congressional concern that existing oversight mechanisms might not provide complete visibility into historical records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
+This perspective also influenced proposals such as the UAP Disclosure Act, which sought structured review and eventual release of historical UAP records while preserving national security protections where justified. Although the legislation was ultimately narrowed before enactment, it reflected congressional concern that existing oversight mechanisms might not provide complete visibility into historical records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
 
-Members of Congress subsequently received classified briefings from the Intelligence Community Inspector General regarding UAP reporting issues. Several lawmakers emerged saying they remained frustrated by limited answers, illustrating that access to classified briefings does not necessarily resolve disagreements about transparency. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
+Members of Congress subsequently received classified briefings from the Intelligence Community Inspector General regarding UAP reporting issues. Several lawmakers emerged saying they remained frustrated by limited answers, illustrating that access to classified briefings does not necessarily resolve disagreements about transparency.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b_uap_whistleblower_pr_15e11f-Illustration-3-dark.svg" | relative_url }}" alt="Whistleblowers illustration 3" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b_uap_whistleblower_pr_15e11f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b_uap_whistleblower_pr_15e11f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -387,7 +387,7 @@ Several important limitations remain:
 
 </div>
 
-Consequently, the existence of protected whistleblowers should not be confused with confirmation of recovered non-human technology or specific historical crash narratives. Oversight mechanisms are designed to investigate such claims, not to prejudge them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
+Consequently, the existence of protected whistleblowers should not be confused with confirmation of recovered non-human technology or specific historical crash narratives. Oversight mechanisms are designed to investigate such claims, not to prejudge them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
 
 ## Why this matters for alleged cases such as Magenta
 
@@ -398,178 +398,178 @@ If archival records, intelligence files or compartmented programmes related to h
 That is why the politics of UAP transparency after Grusch became centred on governance. The debate increasingly asks not simply whether extraordinary claims are true, but whether democratic institutions possess reliable, lawful means to hear insiders, protect them when appropriate and verify their claims through accountable oversight rather than speculation alone.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why whistleblowers became central to UAP oversight. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why whistleblowers became central to UAP oversight. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Focuses on government investigations, disclosure, and institutional processes closely related to whistleblower-driven oversight.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on government investigations, disclosure, and institutional processes closely related to whistleblower-driven oversight.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides the broader oversight, witness, and official-testimony context that frames modern UAP whistleblower debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the broader oversight, witness, and official-testimony context that frames modern UAP whistleblower debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines insider testimony, alleged secret programs, and the evolution of the public transparency debate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines insider testimony, alleged secret programs, and the evolution of the public transparency debate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Provides historical background on classified defense programs and government secrecy relevant to oversight discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical background on classified defense programs and government secrecy relevant to oversight discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="whistleblowers-why-whistleblowers-became-central-to-uap-oversight-alleged-magenta-ufo-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -585,7 +585,7 @@ That is why the politics of UAP transparency after Grusch became centred on gove
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -605,7 +605,7 @@ That is why the politics of UAP transparency after Grusch became centred on gove
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -637,7 +637,7 @@ That is why the politics of UAP transparency after Grusch became centred on gove
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -689,7 +689,7 @@ That is why the politics of UAP transparency after Grusch became centred on gove
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -734,7 +734,7 @@ That is why the politics of UAP transparency after Grusch became centred on gove
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -775,115 +775,115 @@ That is why the politics of UAP transparency after Grusch became centred on gove
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: David Grusch UFO whistleblower claims  
-   Link: <a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: war.gov  
    Title: department of defense launches secure reporting mechanism on the all domain ano  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3575027/department-of-defense-launches-secure-reporting-mechanism-on-the-all-domain-ano/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3575027/department-of-defense-launches-secure-reporting-mechanism-on-the-all-domain-ano/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDepartment of Defense Launches Secure Reporting...31 Oct 2023 — These reports will be used to inform AARO&#x27;s congression...</p></details>
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3575027/department-of-defense-launches-secure-reporting-mechanism-on-the-all-domain-ano/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3575027/department-of-defense-launches-secure-reporting-mechanism-on-the-all-domain-ano/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDepartment of Defense Launches Secure Reporting...31 Oct 2023 — These reports will be used to inform AARO&#x27;s congression...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: war.gov  
    Title: the department of defense launches the all domain anomaly resolution office web  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarThe Department of Defense Launches the All-domain...Aug 31, 2023 —... Whistleblower Protections Enhancement Act of 201...</p></details>
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarThe Department of Defense Launches the All-domain...Aug 31, 2023 —... Whistleblower Protections Enhancement Act of 201...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Submit A ReportU.S. Government UAP-Related Program/Activity Reporting. AARO is accepting reports from current or former U.S. Government e...</p></details>
+   Link:<a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Submit A ReportU.S. Government UAP-Related Program/Activity Reporting. AARO is accepting reports from current or former U.S. Government e...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UAP_Program_Report/DD_3212.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UAP_Program_Report/DD_3212.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2107, Acceptance of Records for Historical Preservation; Section 1673 of the National. Defense Authorization Act for Fiscal...Read more...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/UAP_Program_Report/DD_3212.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UAP_Program_Report/DD_3212.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2107, Acceptance of Records for Historical Preservation; Section 1673 of the National. Defense Authorization Act for Fiscal...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: oversight.house.gov  
-   Link: <a href="https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Must Be More Transparent About UAPsSep 9, 2025 — Members also analyzed ways Congress can better protect whistleblowers who come forward w...</p></details>
+   Link:<a href="https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Must Be More Transparent About UAPsSep 9, 2025 — Members also analyzed ways Congress can better protect whistleblowers who come forward w...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: All domain Anomaly Resolution Office  
-   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution OfficeThe All-domain Anomaly Resolution Office (AARO) is an office within the United States Office of th...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution OfficeThe All-domain Anomaly Resolution Office (AARO) is an office within the United States Office of th...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: disclosure.org  
-   Link: <a href="https://disclosure.org/news/1971-australian-ufo-assessment-us-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://disclosure.org/news/1971-australian-ufo-assessment-us-intelligence</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>June 9, 2026. Representatives Luna, Burlison, Moskowitz, Burchett...Read more...</p></details>
+   Link:<a href="https://disclosure.org/news/1971-australian-ufo-assessment-us-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://disclosure.org/news/1971-australian-ufo-assessment-us-intelligence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 9, 2026. Representatives Luna, Burlison, Moskowitz, Burchett...Read more...</p></details>
    Published: June 9, 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: whistleblowersblog.org  
    Title: whistleblower claims retaliation during testimony at house hearing on ufos  
-   Link: <a href="https://whistleblowersblog.org/government-whistleblowers/whistleblower-claims-retaliation-during-testimony-at-house-hearing-on-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://whistleblowersblog.org/government-whistleblowers/whistleblower-claims-retaliation-during-testimony-at-house-hearing-on-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblower Network NewsWhistleblower Claims Retaliation During Testimony at...2 Aug 2023 — Under the Whistleblower Protection Act (WP...</p></details>
+   Link:<a href="https://whistleblowersblog.org/government-whistleblowers/whistleblower-claims-retaliation-during-testimony-at-house-hearing-on-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://whistleblowersblog.org/government-whistleblowers/whistleblower-claims-retaliation-during-testimony-at-house-hearing-on-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblower Network NewsWhistleblower Claims Retaliation During Testimony at...2 Aug 2023 — Under the Whistleblower Protection Act (WP...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/ufo-whistleblower-david-grusch-says-congress-lack-of-uap-transparency-is-the-gre/374077624999261/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/ufo-whistleblower-david-grusch-says-congress-lack-of-uap-transparency-is-the-gre/374077624999261/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower David Grusch says Congress&#x27; lack of...UFO whistleblower David Grusch says Congress&#x27; lack of UAP... whistleblowers dur...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/ufo-whistleblower-david-grusch-says-congress-lack-of-uap-transparency-is-the-gre/374077624999261/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/ufo-whistleblower-david-grusch-says-congress-lack-of-uap-transparency-is-the-gre/374077624999261/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower David Grusch says Congress&#x27; lack of...UFO whistleblower David Grusch says Congress&#x27; lack of UAP... whistleblowers dur...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: foxnews.com  
-   Link: <a href="https://www.foxnews.com/politics/ufo-whistleblower-claims-billions-secret-spending-hidden-from-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/politics/ufo-whistleblower-claims-billions-secret-spending-hidden-from-congress</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower claims billions in secret spending...2 days ago — UAP whistleblower David Grusch accuses intelligence agencies of hidi...</p></details>
+   Link:<a href="https://www.foxnews.com/politics/ufo-whistleblower-claims-billions-secret-spending-hidden-from-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/politics/ufo-whistleblower-claims-billions-secret-spending-hidden-from-congress</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower claims billions in secret spending...2 days ago — UAP whistleblower David Grusch accuses intelligence agencies of hidi...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2026/06/11/us-news/ufo-whistleblower-claims-billions-in-secret-spending-hidden-from-congress/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/06/11/us-news/ufo-whistleblower-claims-billions-in-secret-spending-hidden-from-congress/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower claims billions in secret spending...5 days ago — Unidentified aerial phenomena (UAP) whistleblower and former Air For...</p></details>
+   Link:<a href="https://nypost.com/2026/06/11/us-news/ufo-whistleblower-claims-billions-in-secret-spending-hidden-from-congress/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/06/11/us-news/ufo-whistleblower-claims-billions-in-secret-spending-hidden-from-congress/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower claims billions in secret spending...5 days ago — Unidentified aerial phenomena (UAP) whistleblower and former Air For...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: defensescoop.com  
    Title: military whistleblowers share new evidence alleged uap ufo hearing  
-   Link: <a href="https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Military whistleblowers share new evidence of alleged UAP...9 Sept 2025 — Tuesday marked the first UAP-focused hearing convened by the H...</p></details>
+   Link:<a href="https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Military whistleblowers share new evidence of alleged UAP...9 Sept 2025 — Tuesday marked the first UAP-focused hearing convened by the H...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: defensescoop.com  
    Title: uap ufo disclosure congress hearing whistleblower protection act  
-   Link: <a href="https://defensescoop.com/2025/09/03/uap-ufo-disclosure-congress-hearing-whistleblower-protection-act/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2025/09/03/uap-ufo-disclosure-congress-hearing-whistleblower-protection-act/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Next UAP disclosure hearing set, as lawmakers consider...Sep 3, 2025 — House lawmakers are reviewing new legislation that would codify d...</p></details>
+   Link:<a href="https://defensescoop.com/2025/09/03/uap-ufo-disclosure-congress-hearing-whistleblower-protection-act/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2025/09/03/uap-ufo-disclosure-congress-hearing-whistleblower-protection-act/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Next UAP disclosure hearing set, as lawmakers consider...Sep 3, 2025 — House lawmakers are reviewing new legislation that would codify d...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: avi-loeb.medium.com  
-   Link: <a href="https://avi-loeb.medium.com/reality-should-not-be-classified-a-call-for-action-on-uap-disclosure-6569862d1eba" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/reality-should-not-be-classified-a-call-for-action-on-uap-disclosure-6569862d1eba</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These agencies and contractors know that we know that they exist and we&#x27;re going to get them...Read more...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/reality-should-not-be-classified-a-call-for-action-on-uap-disclosure-6569862d1eba" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/reality-should-not-be-classified-a-call-for-action-on-uap-disclosure-6569862d1eba</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These agencies and contractors know that we know that they exist and we&#x27;re going to get them...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: aerospaceamerica.aiaa.org  
    Title: transparency safety and science the uap landscape in 2025  
-   Link: <a href="https://aerospaceamerica.aiaa.org/year-in-review/transparency-safety-and-science-the-uap-landscape-in-2025/" target="_blank" rel="noopener noreferrer nofollow">https://aerospaceamerica.aiaa.org/year-in-review/transparency-safety-and-science-the-uap-landscape-in-2025/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>aiaa.orgTransparency, safety and science: the UAP landscape in 2025Jan 2, 2026 — Lawmakers pressed for stricter oversight, whistleblower...</p></details>
+   Link:<a href="https://aerospaceamerica.aiaa.org/year-in-review/transparency-safety-and-science-the-uap-landscape-in-2025/" target="_blank" rel="noopener noreferrer nofollow">https://aerospaceamerica.aiaa.org/year-in-review/transparency-safety-and-science-the-uap-landscape-in-2025/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>aiaa.orgTransparency, safety and science: the UAP landscape in 2025Jan 2, 2026 — Lawmakers pressed for stricter oversight, whistleblower...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: integrityline.com  
    Title: ufo whistleblowers extraordinary congressional hearing  
-   Link: <a href="https://www.integrityline.com/expertise/blog/ufo-whistleblowers-extraordinary-congressional-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://www.integrityline.com/expertise/blog/ufo-whistleblowers-extraordinary-congressional-hearing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch and his Extraordinary Congressional Hearing5 Mar 2024 — Whistleblower David Grusch has suffered retaliation after making ext...</p></details>
+   Link:<a href="https://www.integrityline.com/expertise/blog/ufo-whistleblowers-extraordinary-congressional-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://www.integrityline.com/expertise/blog/ufo-whistleblowers-extraordinary-congressional-hearing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch and his Extraordinary Congressional Hearing5 Mar 2024 — Whistleblower David Grusch has suffered retaliation after making ext...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: finance.yahoo.com  
    Title: push uap ufo transparency intensifies 175200131  
-   Link: <a href="https://finance.yahoo.com/economy/policy/articles/push-uap-ufo-transparency-intensifies-175200131.html" target="_blank" rel="noopener noreferrer nofollow">https://finance.yahoo.com/economy/policy/articles/push-uap-ufo-transparency-intensifies-175200131.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FOR UAP (UFO) TRANSPARENCY INTENSIFIES...May 28, 2026 —... Congress to pass disclosure-related legislation... whistleblower protection...</p></details>
+   Link:<a href="https://finance.yahoo.com/economy/policy/articles/push-uap-ufo-transparency-intensifies-175200131.html" target="_blank" rel="noopener noreferrer nofollow">https://finance.yahoo.com/economy/policy/articles/push-uap-ufo-transparency-intensifies-175200131.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FOR UAP (UFO) TRANSPARENCY INTENSIFIES...May 28, 2026 —... Congress to pass disclosure-related legislation... whistleblower protection...</p></details>
    Published: May 28, 2026  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: morningstar.com  
    Title: PUS H FOR UAP (UFO) TRANSPARENCY INTENSIFIES  
-   Link: <a href="https://www.morningstar.com/news/pr-newswire/20260528ny70439/push-for-uap-ufo-transparency-intensifies-as-members-of-congress-and-whistleblowers-call-for-release-of-groundbreaking-conclusive-files" target="_blank" rel="noopener noreferrer nofollow">https://www.morningstar.com/news/pr-newswire/20260528ny70439/push-for-uap-ufo-transparency-intensifies-as-members-of-congress-and-whistleblowers-call-for-release-of-groundbreaking-conclusive-files</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Congress to pass disclosure-related legislation... whistleblower protections, and a call for foreign governments to join the effort.Read...</p></details>
+   Link:<a href="https://www.morningstar.com/news/pr-newswire/20260528ny70439/push-for-uap-ufo-transparency-intensifies-as-members-of-congress-and-whistleblowers-call-for-release-of-groundbreaking-conclusive-files" target="_blank" rel="noopener noreferrer nofollow">https://www.morningstar.com/news/pr-newswire/20260528ny70439/push-for-uap-ufo-transparency-intensifies-as-members-of-congress-and-whistleblowers-call-for-release-of-groundbreaking-conclusive-files</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Congress to pass disclosure-related legislation... whistleblower protections, and a call for foreign governments to join the effort.Read...</p></details>

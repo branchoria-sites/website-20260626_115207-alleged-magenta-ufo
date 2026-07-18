@@ -274,7 +274,7 @@ image: /assets/images/Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935_malpe
 
 ## Introduction
 
-The alleged 1933 Magenta UFO crash is often associated with north-western [Lombardy]({{ 'lombardy/' | relative_url }}) because the region already possessed a genuine aviation ecosystem. That context does not provide evidence that an extraterrestrial craft crashed or was recovered. Instead, it explains why [later retellings]({{ 'later-retellings/' | relative_url }}) found the story geographically persuasive. Around Malpensa, Vergiate, Sesto Calende and Varese stood aircraft factories, testing grounds, military aviation facilities and skilled engineering firms that were already well established by the interwar period. A claim that an unidentified object might be transported to nearby aeronautical workshops therefore sounds less arbitrary than it would in a region with no aviation infrastructure. The aviation belt gives the legend believable scenery, even though it does not supply the missing historical proof that the recovery itself ever occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+The alleged 1933 Magenta UFO crash is often associated with north-western [Lombardy]({{ 'lombardy/' | relative_url }}) because the region already possessed a genuine aviation ecosystem. That context does not provide evidence that an extraterrestrial craft crashed or was recovered. Instead, it explains why [later retellings]({{ 'later-retellings/' | relative_url }}) found the story geographically persuasive. Around Malpensa, Vergiate, Sesto Calende and Varese stood aircraft factories, testing grounds, military aviation facilities and skilled engineering firms that were already well established by the interwar period. A claim that an unidentified object might be transported to nearby aeronautical workshops therefore sounds less arbitrary than it would in a region with no aviation infrastructure. The aviation belt gives the legend believable scenery, even though it does not supply the missing historical proof that the recovery itself ever occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935_malpensa_aviation_be_ae7f37-Illustration-1-dark.svg" | relative_url }}" alt="Aviation Belt illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935_malpensa_aviation_be_ae7f37-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935_malpensa_aviation_be_ae7f37-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -284,10 +284,10 @@ North-western Lombardy became one of Italy's principal [aviation]({{ 'aviation/'
 
 Several firms became particularly important:
 
-* **Caproni**, whose aviation activities around Malpensa began in 1910 and whose aircraft played a major role in Italian aviation during the First World War and afterwards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Caproni" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
-* **SIAI**, later **[SIAI-Marchetti]({{ 'siai/' | relative_url }})**, founded in nearby Sesto Calende in 1915 and known for flying boats, transports and military aircraft throughout the interwar years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
-* **Macchi** and later **Aermacchi**, which expanded the region's aircraft manufacturing and flight-testing capabilities, particularly around Varese and Venegono. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Varese%E2%80%93Venegono_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Varese–Venegono Airport</span><span class="citation-popover-snippet">Varese–Venegono Airport</span></span></span>
-* **Agusta**, whose helicopter production eventually reinforced the area's long-standing aerospace identity, with Vergiate remaining an active aerospace site into the modern era. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Vergiate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+* **Caproni**, whose aviation activities around Malpensa began in 1910 and whose aircraft played a major role in Italian aviation during the First World War and afterwards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Caproni" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+* **SIAI**, later **[SIAI-Marchetti]({{ 'siai/' | relative_url }})**, founded in nearby Sesto Calende in 1915 and known for flying boats, transports and military aircraft throughout the interwar years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+* **Macchi** and later **Aermacchi**, which expanded the region's aircraft manufacturing and flight-testing capabilities, particularly around Varese and Venegono.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Varese%E2%80%93Venegono_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Varese–Venegono Airport</span><span class="citation-popover-snippet">Varese–Venegono Airport</span></span></span>
+* **Agusta**, whose helicopter production eventually reinforced the area's long-standing aerospace identity, with Vergiate remaining an active aerospace site into the modern era.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Vergiate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 This concentration of aviation expertise meant that advanced engineering, secure industrial compounds and specialised workshops already existed close to Magenta. For a storyteller, these real facilities make the alleged movement of unusual material appear operationally conceivable, even though no authenticated documentary record confirms that such a transfer ever happened.
 
@@ -298,7 +298,7 @@ This concentration of aviation expertise meant that advanced engineering, secure
 
 Modern readers often think of Malpensa primarily as Milan's international airport, but during the period relevant to the Magenta story its identity was quite different.
 
-The site originated as an aviation field rather than a commercial passenger hub. Flying activity began there in 1910 when the Caproni brothers tested one of Italy's earliest aircraft. Aircraft factories soon developed around the airfield, and during the 1920s and 1930s it hosted units of the Royal Italian Air Force as well as military training activities. During the German occupation after 1943 it also became an important Luftwaffe facility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Milan_Malpensa_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Milan Malpensa Airport</span><span class="citation-popover-snippet">Milan Malpensa Airport</span></span></span>
+The site originated as an aviation field rather than a commercial passenger hub. Flying activity began there in 1910 when the Caproni brothers tested one of Italy's earliest aircraft. Aircraft factories soon developed around the airfield, and during the 1920s and 1930s it hosted units of the Royal Italian Air Force as well as military training activities. During the German occupation after 1943 it also became an important Luftwaffe facility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Milan_Malpensa_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Milan Malpensa Airport</span><span class="citation-popover-snippet">Milan Malpensa Airport</span></span></span>
 
 This history matters because references in UFO literature to moving recovered material into nearby aviation facilities do not require inventing an industrial landscape that never existed. The factories, workshops, engineers and restricted airfields were already there. The historical reality concerns the aviation infrastructure itself—not evidence that it ever housed an unidentified craft.
 
@@ -306,7 +306,7 @@ This history matters because references in UFO literature to moving recovered ma
 
 Among the recurring claims in UFO literature is that recovered material was taken to SIAI-Marchetti facilities at Vergiate. The repeated appearance of Vergiate is notable because it reflects genuine geography rather than an invented location.
 
-Vergiate has been closely associated with aircraft manufacture since the early twentieth century. SIAI-Marchetti operated production works and its own airfield there, while aerospace activity continued after later corporate reorganisations under Agusta and Leonardo. Flight testing also remained part of the area's aviation role. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Vergiate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Vergiate has been closely associated with aircraft manufacture since the early twentieth century. SIAI-Marchetti operated production works and its own airfield there, while aerospace activity continued after later corporate reorganisations under Agusta and Leonardo. Flight testing also remained part of the area's aviation role.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Vergiate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 That makes Vergiate a logical setting within the narrative. If someone wished to invent a secret technical examination of an unknown aircraft in 1930s northern Italy, an established aircraft manufacturing centre would be a more convincing destination than an unrelated industrial town.
 
@@ -326,7 +326,7 @@ Several aspects reinforce that effect:
 * **Existing technical expertise.** Aircraft designers, engineers and metallurgists genuinely worked throughout the region.
 * **Military familiarity.** Airfields and aviation security were already normal features of the landscape.
 * **Short transport distances.** Magenta lies within practical reach of the Varese–Malpensa aviation district, making the alleged transfer seem manageable rather than implausibly long.
-* **Industrial secrecy.** Aircraft factories routinely handled confidential military projects, making later claims of restricted access sound familiar rather than exotic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Vergiate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+* **Industrial secrecy.** Aircraft factories routinely handled confidential military projects, making later claims of restricted access sound familiar rather than exotic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Vergiate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 </div>
 
@@ -340,7 +340,7 @@ Yet every one of these points concerns the background environment, not the centr
 
 The aviation belt surrounding Malpensa is one of the strongest contextual features supporting the internal logic of the Magenta legend. It explains why later authors repeatedly mention aircraft companies, [hangars]({{ 'hangars/' | relative_url }}) and engineering facilities instead of choosing arbitrary locations elsewhere in Italy.
 
-At the same time, historians distinguish between a story that fits its environment and one that is supported by evidence. The aviation landscape is well documented, but the alleged recovery chain remains dependent on disputed documents, later testimony and UFO literature rather than authenticated contemporary records establishing that an extraterrestrial or otherwise extraordinary craft was recovered in the region. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Italy</span><span class="citation-popover-snippet">January 31, 2007 — This is a list of alleged sightings of unidentified flying objects or UFOs in Italy.... ↑ 1950-Alien Encounter at Var...</span><span class="citation-popover-meta">Published: January 31, 2007</span></span></span>
+At the same time, historians distinguish between a story that fits its environment and one that is supported by evidence. The aviation landscape is well documented, but the alleged recovery chain remains dependent on disputed documents, later testimony and UFO literature rather than authenticated contemporary records establishing that an extraterrestrial or otherwise extraordinary craft was recovered in the region.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Italy</span><span class="citation-popover-snippet">January 31, 2007 — This is a list of alleged sightings of unidentified flying objects or UFOs in Italy.... ↑ 1950-Alien Encounter at Var...</span><span class="citation-popover-meta">Published: January 31, 2007</span></span></span>
 
 Understanding the Malpensa aviation belt therefore helps explain why the tale travels so well. It provides a realistic industrial backdrop that makes the narrative easier to imagine, while leaving the fundamental historical question—whether the alleged crash happened at all—unresolved.
 
@@ -349,194 +349,194 @@ Understanding the Malpensa aviation belt therefore helps explain why the tale tr
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Aviation Belt Behind the Legend. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Aviation Belt Behind the Legend. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasises evidence standards and documented cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasises evidence standards and documented cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rough+Guide+to+Italy+8+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rough Guide to Italy 8 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2025836-M.jpg" alt="Cover for The Rough Guide to Italy 8" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Italy+8+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rough Guide to Italy 8">The Rough Guide to Italy 8</a>
-        </h4>
-        <p class="fr-book-author">By Rough Guides</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rough+Guide+to+Italy+8+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rough Guide to Italy 8 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2025836-M.jpg" alt="Cover for The Rough Guide to Italy 8" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Italy+8+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rough Guide to Italy 8">The Rough Guide to Italy 8</a>
+</h4>
+<p class="fr-book-author">By Rough Guides</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Nonfiction, Travel.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Italy+8+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Nonfiction, Travel.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Italy+8+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lonely+Planet+Italy+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lonely Planet Italy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12431776-M.jpg" alt="Cover for Lonely Planet Italy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lonely+Planet+Italy+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lonely Planet Italy">Lonely Planet Italy</a>
-        </h4>
-        <p class="fr-book-author">By Lonely Planet</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lonely+Planet+Italy+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lonely Planet Italy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12431776-M.jpg" alt="Cover for Lonely Planet Italy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lonely+Planet+Italy+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lonely Planet Italy">Lonely Planet Italy</a>
+</h4>
+<p class="fr-book-author">By Lonely Planet</p>
         
-        <p class="fr-book-desc">First published 2020. Subjects: Italy, history, Italy, guidebooks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lonely+Planet+Italy+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2020. Subjects: Italy, history, Italy, guidebooks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lonely+Planet+Italy+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+History+of+Italian+Aviation+Gregory+Alegi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The History of Italian Aviation on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+History+of+Italian+Aviation+Gregory+Alegi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The History of Italian Aviation">The History of Italian Aviation</a>
-        </h4>
-        <p class="fr-book-author">By Gregory Alegi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+History+of+Italian+Aviation+Gregory+Alegi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The History of Italian Aviation on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+History+of+Italian+Aviation+Gregory+Alegi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The History of Italian Aviation">The History of Italian Aviation</a>
+</h4>
+<p class="fr-book-author">By Gregory Alegi</p>
         
-        <p class="fr-book-desc">Directly relates to Lombardy&#x27;s aviation industry.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+History+of+Italian+Aviation+Gregory+Alegi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relates to Lombardy&#x27;s aviation industry.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+History+of+Italian+Aviation+Gregory+Alegi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Rough+to+Italy+8+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Rough to Italy 8 books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lonely+Planet+Italy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lonely Planet Italy</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Rough+to+Italy+8+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Rough to Italy 8 books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Lonely+Planet+Italy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lonely Planet Italy</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for North American Aviation, Retro Vintage Metal Sign, Man Cave"><img src="{{ '/assets/images/marketplace-covers/8d058b417492878f6694.jpg' | relative_url }}" alt="Listing image for North American Aviation, Retro Vintage Metal Sign, Man Cave" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer">North American Aviation, Retro Vintage Metal Sign, Man Cave</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for North American Aviation, Retro Vintage Metal Sign, Man Cave"><img src="{{ '/assets/images/marketplace-covers/8d058b417492878f6694.jpg' | relative_url }}" alt="Listing image for North American Aviation, Retro Vintage Metal Sign, Man Cave" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer">North American Aviation, Retro Vintage Metal Sign, Man Cave</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation metal sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation metal sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENAMEL METAL SIGN, &#x27;PHILLIPS AVIATION&#x27;"><img src="{{ '/assets/images/marketplace-covers/da0ea65f564899132d54.jpg' | relative_url }}" alt="Listing image for ENAMEL METAL SIGN, &#x27;PHILLIPS AVIATION&#x27;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer">ENAMEL METAL SIGN, &#x27;PHILLIPS AVIATION&#x27;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENAMEL METAL SIGN, &#x27;PHILLIPS AVIATION&#x27;"><img src="{{ '/assets/images/marketplace-covers/da0ea65f564899132d54.jpg' | relative_url }}" alt="Listing image for ENAMEL METAL SIGN, &#x27;PHILLIPS AVIATION&#x27;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer">ENAMEL METAL SIGN, &#x27;PHILLIPS AVIATION&#x27;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation metal sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation metal sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire Supermarine&#x27;s Masterpiece of Fighter Design RAF Metal Sign RAF Aviation"><img src="{{ '/assets/images/marketplace-covers/734d59c511fc6e6eef1c.jpg' | relative_url }}" alt="Listing image for Spitfire Supermarine&#x27;s Masterpiece of Fighter Design RAF Metal Sign RAF Aviation" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Spitfire Supermarine&#x27;s Masterpiece of Fighter Design RAF Metal Sign RAF Aviation</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire Supermarine&#x27;s Masterpiece of Fighter Design RAF Metal Sign RAF Aviation"><img src="{{ '/assets/images/marketplace-covers/734d59c511fc6e6eef1c.jpg' | relative_url }}" alt="Listing image for Spitfire Supermarine&#x27;s Masterpiece of Fighter Design RAF Metal Sign RAF Aviation" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Spitfire Supermarine&#x27;s Masterpiece of Fighter Design RAF Metal Sign RAF Aviation</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation metal sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation metal sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire Metal Wall Sign 3 Pack WWII Aircraft Aviation Decor Round Tin Signs"><img src="{{ '/assets/images/marketplace-covers/80e158271727cec93af9.jpg' | relative_url }}" alt="Listing image for Spitfire Metal Wall Sign 3 Pack WWII Aircraft Aviation Decor Round Tin Signs" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Spitfire Metal Wall Sign 3 Pack WWII Aircraft Aviation Decor Round Tin Signs</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire Metal Wall Sign 3 Pack WWII Aircraft Aviation Decor Round Tin Signs"><img src="{{ '/assets/images/marketplace-covers/80e158271727cec93af9.jpg' | relative_url }}" alt="Listing image for Spitfire Metal Wall Sign 3 Pack WWII Aircraft Aviation Decor Round Tin Signs" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Spitfire Metal Wall Sign 3 Pack WWII Aircraft Aviation Decor Round Tin Signs</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation metal sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation metal sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="aviation-belt-the-aviation-belt-behind-the-legend-alleged-magenta-ufo-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -552,7 +552,7 @@ Understanding the Malpensa aviation belt therefore helps explain why the tale tr
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -572,7 +572,7 @@ Understanding the Malpensa aviation belt therefore helps explain why the tale tr
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -604,7 +604,7 @@ Understanding the Malpensa aviation belt therefore helps explain why the tale tr
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -656,7 +656,7 @@ Understanding the Malpensa aviation belt therefore helps explain why the tale tr
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -701,7 +701,7 @@ Understanding the Malpensa aviation belt therefore helps explain why the tale tr
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -742,80 +742,80 @@ Understanding the Malpensa aviation belt therefore helps explain why the tale tr
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/SIAI-Marchetti</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/SIAI-Marchetti" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/SIAI-Marchetti</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Milan Malpensa Airport  
-   Link: <a href="https://en.wikipedia.org/wiki/Milan_Malpensa_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Milan_Malpensa_Airport</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Milan_Malpensa_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Milan_Malpensa_Airport</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Caproni" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Caproni</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Caproni" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Caproni</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Varese–Venegono Airport  
-   Link: <a href="https://en.wikipedia.org/wiki/Varese%E2%80%93Venegono_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Varese%E2%80%93Venegono_Airport</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Varese%E2%80%93Venegono_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Varese%E2%80%93Venegono_Airport</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Vergiate" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Vergiate</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Vergiate" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Vergiate</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Caproni Ca.1 (1910)  
-   Link: <a href="https://en.wikipedia.org/wiki/Caproni_Ca.1_%281910%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Caproni_Ca.1_%281910%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Caproni_Ca.1_%281910%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Caproni_Ca.1_%281910%29</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: UFO sightings in Italy  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 31, 2007 — This is a list of alleged sightings of unidentified flying objects or UFOs in Italy.... ↑ 1950-Alien Encounter at Var...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 31, 2007 — This is a list of alleged sightings of unidentified flying objects or UFOs in Italy.... ↑ 1950-Alien Encounter at Var...</p></details>
    Published: January 31, 2007  
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: wantedinrome.com  
    Title: the crash that predated [roswell](&#123;&#123; 'roswell/' | relative_url &#125;&#125;) mussolinis secret ufo files  
-   Link: <a href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...2 Mar 2026 — In one instance, an Italian fighter plane intercepted a UFO betwe...</p></details>
+   Link:<a href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...2 Mar 2026 — In one instance, an Italian fighter plane intercepted a UFO betwe...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=KQ2znFihC6M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KQ2znFihC6M</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1933 Magenta UFO crash Italy Mussolini The 1933 Magenta UFO Crash in Italy – Mussolini’s Secret Recovery?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KQ2znFihC6M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KQ2znFihC6M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1933 Magenta UFO crash Italy Mussolini The 1933 Magenta UFO Crash in Italy – Mussolini’s Secret Recovery?...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=19oMz_WJZXs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=19oMz_WJZXs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roberto Pinotti talks 1933 Magenta, Italy crash-retrieval at the European UAP/NHI Disclosure Summit...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=19oMz_WJZXs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=19oMz_WJZXs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roberto Pinotti talks 1933 Magenta, Italy crash-retrieval at the European UAP/NHI Disclosure Summit...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/u6j041/in_1933_an_ufo_allegedly_crashed_in_italy_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/u6j041/in_1933_an_ufo_allegedly_crashed_in_italy_and/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>eyewitness to the Magenta U. F. O. crash allegedly... r/Presidents - The Magenta Project Documentary -- The History of U...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/u6j041/in_1933_an_ufo_allegedly_crashed_in_italy_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/u6j041/in_1933_an_ufo_allegedly_crashed_in_italy_and/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eyewitness to the Magenta U. F. O. crash allegedly... r/Presidents - The Magenta Project Documentary -- The History of U...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=l7S8KnXePJI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l7S8KnXePJI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 Magenta UFO Crash: Mussolini’s Alien Cover-Up in Italy | Secret Files &amp; Fascist Era Mystery...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=l7S8KnXePJI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l7S8KnXePJI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 Magenta UFO Crash: Mussolini’s Alien Cover-Up in Italy | Secret Files &amp; Fascist Era Mystery...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sofmag.com  
    Title: ufo crash magenta italy 1933  
-   Link: <a href="https://sofmag.com/ufo-crash-magenta-italy-1933/" target="_blank" rel="noopener noreferrer nofollow">https://sofmag.com/ufo-crash-magenta-italy-1933/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Austin Lee... The craft was spirited under armed escort to the SIAI-Marchetti...Read more...</p></details>
+   Link:<a href="https://sofmag.com/ufo-crash-magenta-italy-1933/" target="_blank" rel="noopener noreferrer nofollow">https://sofmag.com/ufo-crash-magenta-italy-1933/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Austin Lee... The craft was spirited under armed escort to the SIAI-Marchetti...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=FGiwgyLY7Aw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FGiwgyLY7Aw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Italy’s UFO Crash Before Roswell? The 1933 Magenta Incident Revealed #BeforeRoswell...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FGiwgyLY7Aw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FGiwgyLY7Aw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Italy’s UFO Crash Before Roswell? The 1933 Magenta Incident Revealed #BeforeRoswell...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=qS-zGxL3UuY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qS-zGxL3UuY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 Magenta, Italy UFO Crash...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qS-zGxL3UuY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qS-zGxL3UuY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 Magenta, Italy UFO Crash...</p></details>

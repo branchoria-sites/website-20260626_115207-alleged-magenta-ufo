@@ -278,7 +278,7 @@ If a large, secret recovery of an unidentified craft really occurred near Magent
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_document_authenticat_1ab9aa_magenta_record_echoe_92b7eb-Illustration-1-dark.svg" | relative_url }}" alt="Record Echoes illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_document_authenticat_1ab9aa_magenta_record_echoe_92b7eb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_document_authenticat_1ab9aa_magenta_record_echoe_92b7eb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For the alleged Magenta case, this distinction is especially important because the published story relies largely on documents that surfaced anonymously decades after the supposed event. The more extraordinary the claimed operation, the more one would expect corroboration from unrelated institutional records rather than repeated references within the same collection of disputed papers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://philarchive.org/archive/MEYTIQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philarchive.org">[PhilArchive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philarchive.org</span><span class="citation-popover-snippet">DownloadItalian UFO researcher Roberto Pinotti has investigated the 1933 case since 1996, after receiving anonymous documents...</span></span></span>
+For the alleged Magenta case, this distinction is especially important because the published story relies largely on documents that surfaced anonymously decades after the supposed event. The more extraordinary the claimed operation, the more one would expect corroboration from unrelated institutional records rather than repeated references within the same collection of disputed papers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://philarchive.org/archive/MEYTIQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philarchive.org">[PhilArchive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philarchive.org</span><span class="citation-popover-snippet">DownloadItalian UFO researcher Roberto Pinotti has investigated the 1933 case since 1996, after receiving anonymous documents...</span></span></span>
 
 ## Where a real recovery should leave traces
 
@@ -383,13 +383,13 @@ True independent corroboration requires records that:
 
 This principle is widely used in historical research because bureaucracies generate overlapping documentation naturally. A police mobilisation may appear separately in police logs, transport accounts, payroll records, ministry correspondence and local administrative files, even when none was intended for public release.
 
-For the Magenta case, the anonymous documents publicised by Roberto Pinotti represent one evidential stream rather than several independent ones. Subsequent books, documentaries and media reports generally trace back to the same underlying collection instead of introducing new archival discoveries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://philarchive.org/archive/MEYTIQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philarchive.org">[PhilArchive+2Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philarchive.org</span><span class="citation-popover-snippet">DownloadItalian UFO researcher Roberto Pinotti has investigated the 1933 case since 1996, after receiving anonymous documents...</span></span></span>
+For the Magenta case, the anonymous documents publicised by Roberto Pinotti represent one evidential stream rather than several independent ones. Subsequent books, documentaries and media reports generally trace back to the same underlying collection instead of introducing new archival discoveries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://philarchive.org/archive/MEYTIQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philarchive.org">[PhilArchive+2Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philarchive.org</span><span class="citation-popover-snippet">DownloadItalian UFO researcher Roberto Pinotti has investigated the 1933 case since 1996, after receiving anonymous documents...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_document_authenticat_1ab9aa_magenta_record_echoe_92b7eb-Illustration-3-dark.svg" | relative_url }}" alt="Record Echoes illustration 3" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_document_authenticat_1ab9aa_magenta_record_echoe_92b7eb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_document_authenticat_1ab9aa_magenta_record_echoe_92b7eb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What researchers have and have not found
 
-Public discussion of the Magenta incident has expanded considerably since 2023, particularly following comments by former U.S. intelligence officer David [Grusch]({{ 'grusch/' | relative_url }}) referencing an alleged Italian recovery. Nevertheless, publicly available reporting has not been accompanied by a corresponding release of independent archival documentation demonstrating police deployments, military logistics, prefectural coordination or authenticated government record series confirming the alleged recovery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-snippet">Popular MechanicsResearcher Says He Has Evidence of a 1933 UFO Crash...Jul 6, 2023 — An Italian researcher says the first UFO crashed in...</span></span></span>
+Public discussion of the Magenta incident has expanded considerably since 2023, particularly following comments by former U.S. intelligence officer David [Grusch]({{ 'grusch/' | relative_url }}) referencing an alleged Italian recovery. Nevertheless, publicly available reporting has not been accompanied by a corresponding release of independent archival documentation demonstrating police deployments, military logistics, prefectural coordination or authenticated government record series confirming the alleged recovery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-snippet">Popular MechanicsResearcher Says He Has Evidence of a 1933 UFO Crash...Jul 6, 2023 — An Italian researcher says the first UFO crashed in...</span></span></span>
 
 Critics have therefore focused not simply on whether the disputed documents could be genuine, but on the absence of the wider documentary ecosystem that a recovery of this scale would be expected to produce. [Supporters]({{ 'supporters/' | relative_url }}) respond that an exceptionally sensitive operation could have involved extensive destruction or continued secrecy.
 
@@ -400,194 +400,194 @@ From an archival perspective, however, the strongest future evidence would not b
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where a real recovery should leave traces. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where a real recovery should leave traces. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasises documentary evidence, official records, and corroboration rather than anecdote.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasises documentary evidence, official records, and corroboration rather than anecdote.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
         
-        <p class="fr-book-desc">First published 2011.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A field guide to lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10538773-M.jpg" alt="Cover for A field guide to lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A field guide to lies">A field guide to lies</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A field guide to lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10538773-M.jpg" alt="Cover for A field guide to lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A field guide to lies">A field guide to lies</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Critical thinking, Fallacies (Logic), Reasoning, Statistics, Social aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Critical thinking, Fallacies (Logic), Reasoning, Statistics, Social aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Landscape+of+History+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Landscape of History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/126604-M.jpg" alt="Cover for The Landscape of History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Landscape+of+History+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Landscape of History">The Landscape of History</a>
-        </h4>
-        <p class="fr-book-author">By John Lewis Gaddis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Landscape+of+History+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Landscape of History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/126604-M.jpg" alt="Cover for The Landscape of History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Landscape+of+History+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Landscape of History">The Landscape of History</a>
+</h4>
+<p class="fr-book-author">By John Lewis Gaddis</p>
         
-        <p class="fr-book-desc">First published 2002. Subjects: Historiography, Methodology, Philosophy, History, Aesthetics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Landscape+of+History+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2002. Subjects: Historiography, Methodology, Philosophy, History, Aesthetics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Landscape+of+History+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+field+to+lies+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A field to lies books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+field+to+lies+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A field to lies books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP"><img src="{{ '/assets/images/marketplace-covers/cb030376ffee8e848aa3.jpg' | relative_url }}" alt="Listing image for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP"><img src="{{ '/assets/images/marketplace-covers/cb030376ffee8e848aa3.jpg' | relative_url }}" alt="Listing image for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display"><img src="{{ '/assets/images/marketplace-covers/3ccfc0d32b189563b8e0.jpg' | relative_url }}" alt="Listing image for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display"><img src="{{ '/assets/images/marketplace-covers/3ccfc0d32b189563b8e0.jpg' | relative_url }}" alt="Listing image for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model"><img src="{{ '/assets/images/marketplace-covers/b626ecf0eef6236661c6.jpg' | relative_url }}" alt="Listing image for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model"><img src="{{ '/assets/images/marketplace-covers/b626ecf0eef6236661c6.jpg' | relative_url }}" alt="Listing image for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="record-echoes-where-a-real-recovery-should-leave-traces-alleged-magenta-ufo-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -603,7 +603,7 @@ From an archival perspective, however, the strongest future evidence would not b
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -623,7 +623,7 @@ From an archival perspective, however, the strongest future evidence would not b
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -655,7 +655,7 @@ From an archival perspective, however, the strongest future evidence would not b
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -707,7 +707,7 @@ From an archival perspective, however, the strongest future evidence would not b
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -752,7 +752,7 @@ From an archival perspective, however, the strongest future evidence would not b
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -793,87 +793,87 @@ From an archival perspective, however, the strongest future evidence would not b
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: philarchive.org  
-   Link: <a href="https://philarchive.org/archive/MEYTIQ" target="_blank" rel="noopener noreferrer nofollow">https://philarchive.org/archive/MEYTIQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DownloadItalian UFO researcher Roberto Pinotti has investigated the 1933 case since 1996, after receiving anonymous documents...</p></details>
+   Link:<a href="https://philarchive.org/archive/MEYTIQ" target="_blank" rel="noopener noreferrer nofollow">https://philarchive.org/archive/MEYTIQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DownloadItalian UFO researcher Roberto Pinotti has investigated the 1933 case since 1996, after receiving anonymous documents...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Incidente di Magenta  
-   Link: <a href="https://it.wikipedia.org/wiki/Incidente_di_Magenta" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Incidente_di_Magenta</a>  
+   Link:<a href="https://it.wikipedia.org/wiki/Incidente_di_Magenta" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Incidente_di_Magenta</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: UFO sightings in Italy  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in ItalyThis is a list of alleged sightings of unidentified flying objects or UFOs in Italy. Contents. 1 100 BC; 2 91 BC...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in ItalyThis is a list of alleged sightings of unidentified flying objects or UFOs in Italy. Contents. 1 100 BC; 2 91 BC...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: history.state.gov  
-   Link: <a href="https://history.state.gov/historicaldocuments/frus1933v01/ch20" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1933v01/ch20</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(Documents 728–737)Foreign Relations of the United States, Diplomatic Papers, 1933, General, Volume I Italy [728] Memorandum by the Secre...</p></details>
+   Link:<a href="https://history.state.gov/historicaldocuments/frus1933v01/ch20" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1933v01/ch20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(Documents 728–737)Foreign Relations of the United States, Diplomatic Papers, 1933, General, Volume I Italy [728] Memorandum by the Secre...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: popularmechanics.com  
-   Link: <a href="https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Popular MechanicsResearcher Says He Has Evidence of a 1933 UFO Crash...Jul 6, 2023 — An Italian researcher says the first UFO crashed in...</p></details>
+   Link:<a href="https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Popular MechanicsResearcher Says He Has Evidence of a 1933 UFO Crash...Jul 6, 2023 — An Italian researcher says the first UFO crashed in...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
    Title: david grusch 1933 was the first ufo crash recovery in europe in magenta italy th  
-   Link: <a href="https://www.facebook.com/Interstellaruap/posts/david-grusch-1933-was-the-first-ufo-crash-recovery-in-europe-in-magenta-italy-th/122117462811272336/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Interstellaruap/posts/david-grusch-1933-was-the-first-ufo-crash-recovery-in-europe-in-magenta-italy-th/122117462811272336/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch: &quot;1933 was the first UFO Crash recovery...Translated article: [https://tinyurl.com/LAP1933](https://tinyurl.com/LAP1933) 1933 case on the Black Vault: htt...</p></details>
+   Link:<a href="https://www.facebook.com/Interstellaruap/posts/david-grusch-1933-was-the-first-ufo-crash-recovery-in-europe-in-magenta-italy-th/122117462811272336/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Interstellaruap/posts/david-grusch-1933-was-the-first-ufo-crash-recovery-in-europe-in-magenta-italy-th/122117462811272336/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch: &quot;1933 was the first UFO Crash recovery...Translated article: [https://tinyurl.com/LAP1933](https://tinyurl.com/LAP1933) 1933 case on the Black Vault: htt...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: wantedinrome.com  
    Title: the crash that predated [roswell](&#123;&#123; 'roswell/' | relative_url &#125;&#125;) mussolinis secret ufo files  
-   Link: <a href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wanted in RomeThe Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...2 Mar 2026 — In one instance, an Italian fighter plane intercept...</p></details>
+   Link:<a href="https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wantedinrome.com/news/the-crash-that-predated-roswell-mussolinis-secret-ufo-files.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wanted in RomeThe Secret Crash That Predated Roswell: Mussolini&#x27;s UFO...2 Mar 2026 — In one instance, an Italian fighter plane intercept...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ufonews.su  
-   Link: <a href="https://ufonews.su/news123/587.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ufonews.su/news123/587.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fascist UFO Files are very important, for they demonstrate the existence of a governmental commission on UFOs “before” the official birth...</p></details>
+   Link:<a href="https://ufonews.su/news123/587.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ufonews.su/news123/587.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fascist UFO Files are very important, for they demonstrate the existence of a governmental commission on UFOs “before” the official birth...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theoriesofanything.com  
-   Link: <a href="https://theoriesofanything.com/research/historic-ufo-crashes-retrieval-allegations" target="_blank" rel="noopener noreferrer nofollow">https://theoriesofanything.com/research/historic-ufo-crashes-retrieval-allegations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ieval events from 1933 to the present, individually rated using the 5-tier system...</p></details>
+   Link:<a href="https://theoriesofanything.com/research/historic-ufo-crashes-retrieval-allegations" target="_blank" rel="noopener noreferrer nofollow">https://theoriesofanything.com/research/historic-ufo-crashes-retrieval-allegations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ieval events from 1933 to the present, individually rated using the 5-tier system...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: journalnews.com.ph  
    Title: This event took place 14 years before the well-known  
-   Link: <a href="https://journalnews.com.ph/extraordinary-document-reveals-sketch-of-1933-crashed-alien-craft-shared-by-italian-journalist-for-first-time/" target="_blank" rel="noopener noreferrer nofollow">https://journalnews.com.ph/extraordinary-document-reveals-sketch-of-1933-crashed-alien-craft-shared-by-italian-journalist-for-first-time/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Extraordinary Document Reveals Sketch of 1933 Crashed...Pinotti claimed that the reported UFO crash happened in Magenta, [Lombardy](&amp;#123;&amp;#123; &#x27;lombardy/&#x27; | relative_url &amp;#125;&amp;#125;), Italy...</p></details>
+   Link:<a href="https://journalnews.com.ph/extraordinary-document-reveals-sketch-of-1933-crashed-alien-craft-shared-by-italian-journalist-for-first-time/" target="_blank" rel="noopener noreferrer nofollow">https://journalnews.com.ph/extraordinary-document-reveals-sketch-of-1933-crashed-alien-craft-shared-by-italian-journalist-for-first-time/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extraordinary Document Reveals Sketch of 1933 Crashed...Pinotti claimed that the reported UFO crash happened in Magenta, [Lombardy](&amp;#123;&amp;#123; &#x27;lombardy/&#x27; | relative_url &amp;#125;&amp;#125;), Italy...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
    Title: the magenta project the story of the 1933 magenta  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/1fprchv/the_magenta_project_the_story_of_the_1933_magenta/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1fprchv/the_magenta_project_the_story_of_the_1933_magenta/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Story of the 1933 Magenta, Italy UFO Crash-Retrieval...In 1996, Roberto Pinotti, one of Italy&#x27;s leading UFO/UAP researchers, anonymo...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/1fprchv/the_magenta_project_the_story_of_the_1933_magenta/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1fprchv/the_magenta_project_the_story_of_the_1933_magenta/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Story of the 1933 Magenta, Italy UFO Crash-Retrieval...In 1996, Roberto Pinotti, one of Italy&#x27;s leading UFO/UAP researchers, anonymo...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
    Title: whistleblower david grusch and the italian ufo  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_grusch_and_the_italian_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_grusch_and_the_italian_ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>crash of...MAGENTA 33, a documentary on the 1933 Magenta, Italy UFO crash... r/Presidents - The Magenta Project Documentary -- The Hist...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_grusch_and_the_italian_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_grusch_and_the_italian_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>crash of...MAGENTA 33, a documentary on the 1933 Magenta, Italy UFO crash... r/Presidents - The Magenta Project Documentary -- The Hist...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
    Title: David Grusch's Most Overlooked Statement  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1fi5qwu/david_gruschs_most_overlooked_statement_the_1933/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fi5qwu/david_gruschs_most_overlooked_statement_the_1933/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 UFO...Is it time to consider some of these documents as authentic? r/UFOs... r/UFOs - The Magenta Project: The 1933 Magenta, I...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1fi5qwu/david_gruschs_most_overlooked_statement_the_1933/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fi5qwu/david_gruschs_most_overlooked_statement_the_1933/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 UFO...Is it time to consider some of these documents as authentic? r/UFOs... r/UFOs - The Magenta Project: The 1933 Magenta, I...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DVYMSf-CJ0F/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVYMSf-CJ0F/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e 13. Transcript. Grusch is not the only one to reference the...</p></details>
+   Link:<a href="https://www.instagram.com/p/DVYMSf-CJ0F/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVYMSf-CJ0F/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e 13. Transcript. Grusch is not the only one to reference the...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: the-residium.com  
    Title: dr roberto pinotti on the 1933 magenta  
-   Link: <a href="https://www.the-residium.com/p/dr-roberto-pinotti-on-the-1933-magenta" target="_blank" rel="noopener noreferrer nofollow">https://www.the-residium.com/p/dr-roberto-pinotti-on-the-1933-magenta</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roberto Pinotti on the 1933 Magenta UFO Crash29 Nov 2025 — Backing up the story of the Magenta crash are three sets of documents sent ano...</p></details>
+   Link:<a href="https://www.the-residium.com/p/dr-roberto-pinotti-on-the-1933-magenta" target="_blank" rel="noopener noreferrer nofollow">https://www.the-residium.com/p/dr-roberto-pinotti-on-the-1933-magenta</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roberto Pinotti on the 1933 Magenta UFO Crash29 Nov 2025 — Backing up the story of the Magenta crash are three sets of documents sent ano...</p></details>

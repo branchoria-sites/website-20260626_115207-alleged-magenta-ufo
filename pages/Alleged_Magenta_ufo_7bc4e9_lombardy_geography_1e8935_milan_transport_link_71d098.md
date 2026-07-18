@@ -288,7 +288,7 @@ That point, however, should not be confused with evidence. Transport geography c
 
 ## Milan as a northern transport hub
 
-By the early 1930s, Milan had become the centre of northern Italy's rail system. Multiple main lines radiated west towards Turin, north-west towards Gallarate and Varese, north towards Como and Switzerland, east towards Venice, and south towards Genoa. Freight yards around the city handled industrial traffic on a scale unmatched elsewhere in Italy, while interurban tramways and secondary railways linked surrounding towns with the metropolitan area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://londonreconnections.com/milan-medieval-city-to-metropolitana-city/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: londonreconnections.com">[London Reconnections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">londonreconnections.com</span><span class="citation-popover-title">London Reconnections Milan: Medieval City to Metropolitana City</span><span class="citation-popover-snippet">London ReconnectionsMilan: Medieval City to Metropolitana CityDecember 21, 2020 — 21 Dec 2020 — The story of rail transport in Milan woul...</span><span class="citation-popover-meta">Published: December 21, 2020</span></span></span>
+By the early 1930s, Milan had become the centre of northern Italy's rail system. Multiple main lines radiated west towards Turin, north-west towards Gallarate and Varese, north towards Como and Switzerland, east towards Venice, and south towards Genoa. Freight yards around the city handled industrial traffic on a scale unmatched elsewhere in Italy, while interurban tramways and secondary railways linked surrounding towns with the metropolitan area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://londonreconnections.com/milan-medieval-city-to-metropolitana-city/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: londonreconnections.com">[London Reconnections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">londonreconnections.com</span><span class="citation-popover-title">London Reconnections Milan: Medieval City to Metropolitana City</span><span class="citation-popover-snippet">London ReconnectionsMilan: Medieval City to Metropolitana CityDecember 21, 2020 — 21 Dec 2020 — The story of rail transport in Milan woul...</span><span class="citation-popover-meta">Published: December 21, 2020</span></span></span>
 
 For the Magenta narrative, this matters because the alleged crash site sits within that wider transport web rather than in an isolated rural district. A convoy moving from farmland west of Milan towards an aircraft factory or military installation would not require extraordinary engineering or lengthy cross-country travel. Existing roads and railway corridors already connected Magenta with Milan, Gallarate, [Vergiate]({{ 'vergiate/' | relative_url }}) and the wider Varese industrial district.
 
@@ -300,9 +300,9 @@ Several genuine features of northern Italian transport help explain why later wr
 
 **Rail offered the most efficient heavy transport.** By the 1930s, freight trains routinely carried industrial machinery, military equipment and aircraft components across Lombardy. If an unusually large object had required movement, rail would generally have been less conspicuous and more practical than a long convoy of road vehicles.
 
-**Road transport was improving rapidly.** Italy invested heavily in modern roads during the Fascist period, including the pioneering Milan–Lakes motorway opened in the 1920s. While later motorway networks did not yet exist, Milan already possessed unusually good road links towards the Varese and Lake Maggiore districts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.berghahnbooks.com/downloads/OpenAccess/MoraglioDriving/MoraglioDriving_02.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: berghahnbooks.com">[berghahnbooks.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">berghahnbooks.com</span><span class="citation-popover-title">Moraglio Driving 02</span><span class="citation-popover-snippet">5 1922: The Motorway from Milan to the Prealpine LakesThe idea of a more “efficient” use of the roads was not a twentieth-cen- tury inven...</span></span></span>
+**Road transport was improving rapidly.** Italy invested heavily in modern roads during the Fascist period, including the pioneering Milan–Lakes motorway opened in the 1920s. While later motorway networks did not yet exist, Milan already possessed unusually good road links towards the Varese and Lake Maggiore districts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.berghahnbooks.com/downloads/OpenAccess/MoraglioDriving/MoraglioDriving_02.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: berghahnbooks.com">[berghahnbooks.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">berghahnbooks.com</span><span class="citation-popover-title">Moraglio Driving 02</span><span class="citation-popover-snippet">5 1922: The Motorway from Milan to the Prealpine LakesThe idea of a more “efficient” use of the roads was not a twentieth-cen- tury inven...</span></span></span>
 
-**The Alpine corridor provided strategic connections.** Milan functioned as the gateway to routes leading through the Simplon, St Gotthard and other Alpine crossings. These corridors had long carried commercial and military traffic between Italy and central Europe. During the Second World War they became strategically significant enough that Allied bombing campaigns targeted rail approaches and Alpine tunnels serving Milan. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.americanalpineclub.org/articles/12194425500/Alpine-Invasion-Routes-from-Italy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.americanalpineclub.org">[AAC Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.americanalpineclub.org</span><span class="citation-popover-title">AAC Publications Alpine Invasion Routes from Italy</span><span class="citation-popover-snippet">AAC PublicationsAlpine Invasion Routes from Italy - AAC PublicationsTheir bombing of Turin and Milan interrupted the flow of materiel thr...</span></span></span>
+**The Alpine corridor provided strategic connections.** Milan functioned as the gateway to routes leading through the Simplon, St Gotthard and other Alpine crossings. These corridors had long carried commercial and military traffic between Italy and central Europe. During the Second World War they became strategically significant enough that Allied bombing campaigns targeted rail approaches and Alpine tunnels serving Milan.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.americanalpineclub.org/articles/12194425500/Alpine-Invasion-Routes-from-Italy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.americanalpineclub.org">[AAC Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.americanalpineclub.org</span><span class="citation-popover-title">AAC Publications Alpine Invasion Routes from Italy</span><span class="citation-popover-snippet">AAC PublicationsAlpine Invasion Routes from Italy - AAC PublicationsTheir bombing of Turin and Milan interrupted the flow of materiel thr...</span></span></span>
 
 Taken together, these factors mean that transporting sensitive military cargo through Lombardy was entirely feasible from an infrastructure perspective. None of those routes, however, was unique to any alleged recovered object; they were simply the normal arteries through which industry and government already operated.
 
@@ -312,7 +312,7 @@ Taken together, these factors mean that transporting sensitive military cargo th
 
 The story sometimes expands beyond an initial recovery by suggesting later movement during the Second World War, either to another Italian facility or eventually into Allied hands.
 
-From a logistical standpoint, wartime Italy demonstrates that covert movement of people and sensitive material was possible despite intense military pressures. Resistance organisations, intelligence services and escape networks repeatedly exploited northern Italy's railway system, road network and mountain routes to move personnel towards Switzerland, often passing through or around Milan despite German and Fascist security measures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.robertspublications.com/blog/april-25-liberation-day-anzac-day-on-the-milan-escape-route" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: robertspublications.com">[robertspublications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">robertspublications.com</span><span class="citation-popover-title">april 25 liberation day anzac day on the milan escape route</span><span class="citation-popover-snippet">April 25- Liberation Day/ ANZAC Day on the Milan Escape...27 Apr 2024 — The area around Luino had the advantage of be...</span></span></span>
+From a logistical standpoint, wartime Italy demonstrates that covert movement of people and sensitive material was possible despite intense military pressures. Resistance organisations, intelligence services and escape networks repeatedly exploited northern Italy's railway system, road network and mountain routes to move personnel towards Switzerland, often passing through or around Milan despite German and Fascist security measures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.robertspublications.com/blog/april-25-liberation-day-anzac-day-on-the-milan-escape-route" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: robertspublications.com">[robertspublications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">robertspublications.com</span><span class="citation-popover-title">april 25 liberation day anzac day on the milan escape route</span><span class="citation-popover-snippet">April 25- Liberation Day/ ANZAC Day on the Milan Escape...27 Apr 2024 — The area around Luino had the advantage of be...</span></span></span>
 
 That historical reality establishes an important point: even under occupation, transport networks remained functional enough for clandestine operations. Rail lines continued operating, freight continued moving and mountain crossings remained strategically important despite heavy surveillance.
 
@@ -329,7 +329,7 @@ At the same time, wartime conditions also imposed severe constraints:
 
 </div>
 
-Consequently, moving an exceptionally large object secretly would likely have become more difficult as the war progressed, particularly after northern Italy fell under German occupation following Italy's 1943 armistice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.americanalpineclub.org/articles/12194425500/Alpine-Invasion-Routes-from-Italy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.americanalpineclub.org">[AAC Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.americanalpineclub.org</span><span class="citation-popover-title">AAC Publications Alpine Invasion Routes from Italy</span><span class="citation-popover-snippet">AAC PublicationsAlpine Invasion Routes from Italy - AAC PublicationsTheir bombing of Turin and Milan interrupted the flow of materiel thr...</span></span></span>
+Consequently, moving an exceptionally large object secretly would likely have become more difficult as the war progressed, particularly after northern Italy fell under German occupation following Italy's 1943 armistice.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.americanalpineclub.org/articles/12194425500/Alpine-Invasion-Routes-from-Italy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.americanalpineclub.org">[AAC Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.americanalpineclub.org</span><span class="citation-popover-title">AAC Publications Alpine Invasion Routes from Italy</span><span class="citation-popover-snippet">AAC PublicationsAlpine Invasion Routes from Italy - AAC PublicationsTheir bombing of Turin and Milan interrupted the flow of materiel thr...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935_milan_transport_link_71d098-Illustration-3-dark.svg" | relative_url }}" alt="Transport Links illustration 3" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935_milan_transport_link_71d098-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935_milan_transport_link_71d098-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -350,178 +350,178 @@ The transport geography of Milan strengthens one narrow aspect of the Magenta na
 Beyond that limited conclusion, the evidence stops. The infrastructure explains how such a movement could have been organised if a recovery had occurred. It does not verify that any recovery happened, identify what was allegedly transported, establish where it was stored or demonstrate that later wartime transfers took place. The transport network supplies a credible mechanism, but not the missing proof.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could Northern Italy Move a Secret Object?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could Northern Italy Move a Secret Object?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Offers historical perspective on official UFO investigations following the era in which the Magenta story is set.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers historical perspective on official UFO investigations following the era in which the Magenta story is set.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rough+Guide+to+Italy+8+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rough Guide to Italy 8 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2025836-M.jpg" alt="Cover for The Rough Guide to Italy 8" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Italy+8+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rough Guide to Italy 8">The Rough Guide to Italy 8</a>
-        </h4>
-        <p class="fr-book-author">By Rough Guides</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rough+Guide+to+Italy+8+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rough Guide to Italy 8 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2025836-M.jpg" alt="Cover for The Rough Guide to Italy 8" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Italy+8+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rough Guide to Italy 8">The Rough Guide to Italy 8</a>
+</h4>
+<p class="fr-book-author">By Rough Guides</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Nonfiction, Travel.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Italy+8+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Nonfiction, Travel.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Italy+8+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lonely+Planet+Italy+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lonely Planet Italy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12431776-M.jpg" alt="Cover for Lonely Planet Italy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lonely+Planet+Italy+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lonely Planet Italy">Lonely Planet Italy</a>
-        </h4>
-        <p class="fr-book-author">By Lonely Planet</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lonely+Planet+Italy+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lonely Planet Italy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12431776-M.jpg" alt="Cover for Lonely Planet Italy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lonely+Planet+Italy+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lonely Planet Italy">Lonely Planet Italy</a>
+</h4>
+<p class="fr-book-author">By Lonely Planet</p>
         
-        <p class="fr-book-desc">First published 2020. Subjects: Italy, history, Italy, guidebooks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lonely+Planet+Italy+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2020. Subjects: Italy, history, Italy, guidebooks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lonely+Planet+Italy+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Lonely+Planet+Milan+%26+the+Lakes+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lonely Planet Milan &amp; the Lakes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lonely+Planet+Milan+%26+the+Lakes+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lonely Planet Milan &amp; the Lakes">Lonely Planet Milan &amp; the Lakes</a>
-        </h4>
-        <p class="fr-book-author">By Lonely Planet</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Lonely+Planet+Milan+%26+the+Lakes+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lonely Planet Milan &amp; the Lakes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lonely+Planet+Milan+%26+the+Lakes+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lonely Planet Milan &amp; the Lakes">Lonely Planet Milan &amp; the Lakes</a>
+</h4>
+<p class="fr-book-author">By Lonely Planet</p>
         
-        <p class="fr-book-desc">Strong coverage of Milan transport and regional links.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lonely+Planet+Milan+%26+the+Lakes+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong coverage of Milan transport and regional links.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lonely+Planet+Milan+%26+the+Lakes+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Rough+to+Italy+8+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Rough to Italy 8 books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lonely+Planet+Italy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lonely Planet Italy</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Rough+to+Italy+8+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Rough to Italy 8 books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Lonely+Planet+Italy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lonely Planet Italy</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Milan+railway+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Milan railway poster -book -books" data-ebay-reference="transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE ORIENT EXPRESS MILAN RAILWAY A3 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/11c6adce32125cd5ebe7.jpg' | relative_url }}" alt="Listing image for VINTAGE ORIENT EXPRESS MILAN RAILWAY A3 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Milan+railway+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Milan railway poster -book -books" data-ebay-reference="transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE ORIENT EXPRESS MILAN RAILWAY A3 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Milan+railway+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Milan railway poster -book -books" data-ebay-reference="transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Milan railway poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Milan railway poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Milan+railway+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Milan railway poster -book -books" data-ebay-reference="transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Milan+railway+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Milan railway poster -book -books" data-ebay-reference="transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE ORIENT EXPRESS MILAN RAILWAY A3 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/11c6adce32125cd5ebe7.jpg' | relative_url }}" alt="Listing image for VINTAGE ORIENT EXPRESS MILAN RAILWAY A3 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Milan+railway+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Milan railway poster -book -books" data-ebay-reference="transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE ORIENT EXPRESS MILAN RAILWAY A3 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Milan+railway+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Milan railway poster -book -books" data-ebay-reference="transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Milan railway poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Milan railway poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Milan+railway+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Milan railway poster -book -books" data-ebay-reference="transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Milan+railway+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Milan railway poster -book -books" data-ebay-reference="transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE RAILWAY TRAVEL WALL ART POSTER PRINTS A4 / A3 / A2"><img src="{{ '/assets/images/marketplace-covers/297e5315aee0b867474c.jpg' | relative_url }}" alt="Listing image for VINTAGE RAILWAY TRAVEL WALL ART POSTER PRINTS A4 / A3 / A2" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Milan+railway+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Milan railway poster -book -books" data-ebay-reference="transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE RAILWAY TRAVEL WALL ART POSTER PRINTS A4 / A3 / A2</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Milan+railway+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Milan railway poster -book -books" data-ebay-reference="transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Milan railway poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Milan railway poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Milan+railway+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Milan railway poster -book -books" data-ebay-reference="transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Milan+railway+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Milan railway poster -book -books" data-ebay-reference="transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE RAILWAY TRAVEL WALL ART POSTER PRINTS A4 / A3 / A2"><img src="{{ '/assets/images/marketplace-covers/297e5315aee0b867474c.jpg' | relative_url }}" alt="Listing image for VINTAGE RAILWAY TRAVEL WALL ART POSTER PRINTS A4 / A3 / A2" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Milan+railway+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Milan railway poster -book -books" data-ebay-reference="transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE RAILWAY TRAVEL WALL ART POSTER PRINTS A4 / A3 / A2</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Milan+railway+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Milan railway poster -book -books" data-ebay-reference="transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Milan railway poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Milan railway poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Milan+railway+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Milan railway poster -book -books" data-ebay-reference="transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Milan+railway+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Milan railway poster -book -books" data-ebay-reference="transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE ORIENT EXPRESS MILAN RAILWAY A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/6b705e5f9deb41a26cf5.jpg' | relative_url }}" alt="Listing image for VINTAGE ORIENT EXPRESS MILAN RAILWAY A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Milan+railway+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Milan railway poster -book -books" data-ebay-reference="transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE ORIENT EXPRESS MILAN RAILWAY A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Milan+railway+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Milan railway poster -book -books" data-ebay-reference="transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Milan railway poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Milan railway poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Milan+railway+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Milan railway poster -book -books" data-ebay-reference="transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Milan+railway+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Milan railway poster -book -books" data-ebay-reference="transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Milan+railway+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Milan railway poster -book -books" data-ebay-reference="transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE ORIENT EXPRESS MILAN RAILWAY A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/6b705e5f9deb41a26cf5.jpg' | relative_url }}" alt="Listing image for VINTAGE ORIENT EXPRESS MILAN RAILWAY A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Milan+railway+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Milan railway poster -book -books" data-ebay-reference="transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE ORIENT EXPRESS MILAN RAILWAY A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Milan+railway+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Milan railway poster -book -books" data-ebay-reference="transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Milan railway poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Milan railway poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Milan+railway+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Milan railway poster -book -books" data-ebay-reference="transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Milan+railway+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Milan railway poster -book -books" data-ebay-reference="transport-links-could-northern-italy-move-a-secret-object-alleged-magenta-ufo-milan-railway-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -537,7 +537,7 @@ Beyond that limited conclusion, the evidence stops. The infrastructure explains 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -557,7 +557,7 @@ Beyond that limited conclusion, the evidence stops. The infrastructure explains 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -589,7 +589,7 @@ Beyond that limited conclusion, the evidence stops. The infrastructure explains 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -641,7 +641,7 @@ Beyond that limited conclusion, the evidence stops. The infrastructure explains 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -686,7 +686,7 @@ Beyond that limited conclusion, the evidence stops. The infrastructure explains 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -727,84 +727,84 @@ Beyond that limited conclusion, the evidence stops. The infrastructure explains 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: berghahnbooks.com  
    Title: Moraglio Driving 02  
-   Link: <a href="https://www.berghahnbooks.com/downloads/OpenAccess/MoraglioDriving/MoraglioDriving_02.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.berghahnbooks.com/downloads/OpenAccess/MoraglioDriving/MoraglioDriving_02.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>5 1922: The Motorway from Milan to the Prealpine LakesThe idea of a more “efficient” use of the roads was not a twentieth-cen- tury inven...</p></details>
+   Link:<a href="https://www.berghahnbooks.com/downloads/OpenAccess/MoraglioDriving/MoraglioDriving_02.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.berghahnbooks.com/downloads/OpenAccess/MoraglioDriving/MoraglioDriving_02.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 1922: The Motorway from Milan to the Prealpine LakesThe idea of a more “efficient” use of the roads was not a twentieth-cen- tury inven...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: robertspublications.com  
    Title: april 25 liberation day anzac day on the milan escape route  
-   Link: <a href="https://www.robertspublications.com/blog/april-25-liberation-day-anzac-day-on-the-milan-escape-route" target="_blank" rel="noopener noreferrer nofollow">https://www.robertspublications.com/blog/april-25-liberation-day-anzac-day-on-the-milan-escape-route</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 25- Liberation Day/ ANZAC Day on the Milan Escape...27 Apr 2024 — The area around Luino had the advantage of be...</p></details>
+   Link:<a href="https://www.robertspublications.com/blog/april-25-liberation-day-anzac-day-on-the-milan-escape-route" target="_blank" rel="noopener noreferrer nofollow">https://www.robertspublications.com/blog/april-25-liberation-day-anzac-day-on-the-milan-escape-route</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 25- Liberation Day/ ANZAC Day on the Milan Escape...27 Apr 2024 — The area around Luino had the advantage of be...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: londonreconnections.com  
    Title: London Reconnections Milan: Medieval City to Metropolitana City  
-   Link: <a href="https://londonreconnections.com/milan-medieval-city-to-metropolitana-city/" target="_blank" rel="noopener noreferrer nofollow">https://londonreconnections.com/milan-medieval-city-to-metropolitana-city/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>London ReconnectionsMilan: Medieval City to Metropolitana CityDecember 21, 2020 — 21 Dec 2020 — The story of rail transport in Milan woul...</p></details>
+   Link:<a href="https://londonreconnections.com/milan-medieval-city-to-metropolitana-city/" target="_blank" rel="noopener noreferrer nofollow">https://londonreconnections.com/milan-medieval-city-to-metropolitana-city/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>London ReconnectionsMilan: Medieval City to Metropolitana CityDecember 21, 2020 — 21 Dec 2020 — The story of rail transport in Milan woul...</p></details>
    Published: December 21, 2020  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Lombardy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lombardy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Lombardy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lombardy</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: publications.americanalpineclub.org  
    Title: AAC Publications Alpine Invasion Routes from Italy  
-   Link: <a href="https://publications.americanalpineclub.org/articles/12194425500/Alpine-Invasion-Routes-from-Italy" target="_blank" rel="noopener noreferrer nofollow">https://publications.americanalpineclub.org/articles/12194425500/Alpine-Invasion-Routes-from-Italy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAC PublicationsAlpine Invasion Routes from Italy - AAC PublicationsTheir bombing of Turin and Milan interrupted the flow of materiel thr...</p></details>
+   Link:<a href="https://publications.americanalpineclub.org/articles/12194425500/Alpine-Invasion-Routes-from-Italy" target="_blank" rel="noopener noreferrer nofollow">https://publications.americanalpineclub.org/articles/12194425500/Alpine-Invasion-Routes-from-Italy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AAC PublicationsAlpine Invasion Routes from Italy - AAC PublicationsTheir bombing of Turin and Milan interrupted the flow of materiel thr...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: hiddenitaly.com.au  
-   Link: <a href="https://hiddenitaly.com.au/inspiration/crossing-the-alps-following-the-trails-to-freedom" target="_blank" rel="noopener noreferrer nofollow">https://hiddenitaly.com.au/inspiration/crossing-the-alps-following-the-trails-to-freedom</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Crossing the Alps following the Trails to Freedom | InspirationOn Sunday I start a six-day walk into Switzerland from Italy following a m...</p></details>
+   Link:<a href="https://hiddenitaly.com.au/inspiration/crossing-the-alps-following-the-trails-to-freedom" target="_blank" rel="noopener noreferrer nofollow">https://hiddenitaly.com.au/inspiration/crossing-the-alps-following-the-trails-to-freedom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Crossing the Alps following the Trails to Freedom | InspirationOn Sunday I start a six-day walk into Switzerland from Italy following a m...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=19oMz_WJZXs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=19oMz_WJZXs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Magenta Project: The 1933 Italy UFO Crash-Retrieval That Changed the World -- Updated Supercut...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=19oMz_WJZXs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=19oMz_WJZXs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Magenta Project: The 1933 Italy UFO Crash-Retrieval That Changed the World -- Updated Supercut...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: kiplingsociety.co.uk  
-   Link: <a href="https://www.kiplingsociety.co.uk/journalism/rg_mountains_onlyafew.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.kiplingsociety.co.uk/journalism/rg_mountains_onlyafew.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>iments. The corps is recruited from the people...Read more...</p></details>
+   Link:<a href="https://www.kiplingsociety.co.uk/journalism/rg_mountains_onlyafew.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.kiplingsociety.co.uk/journalism/rg_mountains_onlyafew.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>iments. The corps is recruited from the people...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=PiPeptPgLYs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PiPeptPgLYs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: SHOCKING FLYING SAUCER Crashes in WWII Italy (Special) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PiPeptPgLYs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PiPeptPgLYs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: SHOCKING FLYING SAUCER Crashes in WWII Italy (Special) | History...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=l7S8KnXePJI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l7S8KnXePJI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 Magenta UFO Crash: Mussolini’s Alien Cover-Up in Italy | Secret Files &amp; Fascist Era Mystery...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=l7S8KnXePJI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l7S8KnXePJI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 Magenta UFO Crash: Mussolini’s Alien Cover-Up in Italy | Secret Files &amp; Fascist Era Mystery...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: escapetoswitzerland.webador.com  
-   Link: <a href="https://escapetoswitzerland.webador.com/the-routes" target="_blank" rel="noopener noreferrer nofollow">https://escapetoswitzerland.webador.com/the-routes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Routes | Escape Routes to SwitzerlandFor a certain period of time (mid-December &#x27;43 - April &#x27;44) Lombardy was divided into two main a...</p></details>
+   Link:<a href="https://escapetoswitzerland.webador.com/the-routes" target="_blank" rel="noopener noreferrer nofollow">https://escapetoswitzerland.webador.com/the-routes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Routes | Escape Routes to SwitzerlandFor a certain period of time (mid-December &#x27;43 - April &#x27;44) Lombardy was divided into two main a...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: t2m.org  
    Title: t2m bibliography 2011  
-   Link: <a href="https://t2m.org/bibliography/t2m-bibliography-2011/" target="_blank" rel="noopener noreferrer nofollow">https://t2m.org/bibliography/t2m-bibliography-2011/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Apr 2013 — India&#x27;s railway and the culture of mobility, xxiv, 226 p. Minneapolis: University of Minnesota Press. Amtrak. (2011): Amtra...</p></details>
+   Link:<a href="https://t2m.org/bibliography/t2m-bibliography-2011/" target="_blank" rel="noopener noreferrer nofollow">https://t2m.org/bibliography/t2m-bibliography-2011/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>14 Apr 2013 — India&#x27;s railway and the culture of mobility, xxiv, 226 p. Minneapolis: University of Minnesota Press. Amtrak. (2011): Amtra...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2071-1050/12/3/1157" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2071-1050/12/3/1157</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roads, Tracks, Paths, and Ropeways of the First World...by MP Gatti · 2020 · Cited by 8 — This research aims at understanding how to...</p></details>
+   Link:<a href="https://www.mdpi.com/2071-1050/12/3/1157" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2071-1050/12/3/1157</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roads, Tracks, Paths, and Ropeways of the First World...by MP Gatti · 2020 · Cited by 8 — This research aims at understanding how to...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=FGiwgyLY7Aw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FGiwgyLY7Aw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Italy’s UFO Crash Before [Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;)? The 1933 Magenta Incident Revealed...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FGiwgyLY7Aw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FGiwgyLY7Aw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Italy’s UFO Crash Before [Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;)? The 1933 Magenta Incident Revealed...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Ancient Aliens: SHOCKING FLYING SAUCER Crashes in WWII Italy (Special) | History  
-   Link: <a href="https://www.youtube.com/watch?v=PzqM4L_3fXc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PzqM4L_3fXc</a>  
+   Link:<a href="https://www.youtube.com/watch?v=PzqM4L_3fXc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PzqM4L_3fXc</a>  

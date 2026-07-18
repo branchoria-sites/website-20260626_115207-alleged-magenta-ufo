@@ -280,11 +280,11 @@ The modern chronology of the [alleged Magenta UFO]({{ 'alleged-magenta-ufo/' | r
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_timeline_3d7ff6_1990s_document_batch_8b3865-Illustration-1-dark.svg" | relative_url }}" alt="1990 s Batches illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_timeline_3d7ff6_1990s_document_batch_8b3865-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_timeline_3d7ff6_1990s_document_batch_8b3865-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The anonymous document batches
 
-The best-known account comes from Italian UFO researchers Roberto Pinotti and Alfredo Lissoni, who stated that [anonymous mailings]({{ 'anonymous-source/' | relative_url }}) beginning in 1996 contained copies of internal Fascist-era [telegrams]({{ 'telegrams/' | relative_url }}), memoranda and related papers. According to their account, these documents referred to an alleged recovery of an unidentified craft, secrecy orders issued under Benito Mussolini, and the creation of the supposed RS/33 committee. The material was presented publicly around 2000 and formed the foundation of the modern Magenta narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...Aug 10, 2020 — According to the “Fascist UFO Files” we received, it was founded by Mussolini along...</span></span></span>
+The best-known account comes from Italian UFO researchers Roberto Pinotti and Alfredo Lissoni, who stated that [anonymous mailings]({{ 'anonymous-source/' | relative_url }}) beginning in 1996 contained copies of internal Fascist-era [telegrams]({{ 'telegrams/' | relative_url }}), memoranda and related papers. According to their account, these documents referred to an alleged recovery of an unidentified craft, secrecy orders issued under Benito Mussolini, and the creation of the supposed RS/33 committee. The material was presented publicly around 2000 and formed the foundation of the modern Magenta narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...Aug 10, 2020 — According to the “Fascist UFO Files” we received, it was founded by Mussolini along...</span></span></span>
 
-An important consequence of this publication history is that the public case did not emerge all at once. Rather than a single archive opened by an official institution, researchers described receiving multiple anonymous batches over time. Each additional document was used to fill perceived gaps in the developing narrative, linking the alleged incident with later claims about scientific investigations, official secrecy and eventual wartime transfer of the recovered object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...Aug 10, 2020 — According to the “Fascist UFO Files” we received, it was founded by Mussolini along...</span></span></span>
+An important consequence of this publication history is that the public case did not emerge all at once. Rather than a single archive opened by an official institution, researchers described receiving multiple anonymous batches over time. Each additional document was used to fill perceived gaps in the developing narrative, linking the alleged incident with later claims about scientific investigations, official secrecy and eventual wartime transfer of the recovered object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...Aug 10, 2020 — According to the “Fascist UFO Files” we received, it was founded by Mussolini along...</span></span></span>
 
-Because the originals were not released through a recognised state archive, independent researchers have generally worked from photographs, reproductions and published transcriptions rather than from an authenticated archival collection. That has made it difficult to establish precisely when individual documents first appeared, whether they formed one coherent archive, or whether later publications incorporated newly received material alongside earlier batches. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-snippet">The “Fascist UFO files” under scrutiny. IS IT APPROPRIATE TO CONSIDER AND TERM THEM “OFFICIAL DOCUMENTS”?Read more...</span></span></span>
+Because the originals were not released through a recognised state archive, independent researchers have generally worked from photographs, reproductions and published transcriptions rather than from an authenticated archival collection. That has made it difficult to establish precisely when individual documents first appeared, whether they formed one coherent archive, or whether later publications incorporated newly received material alongside earlier batches.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-snippet">The “Fascist UFO files” under scrutiny. IS IT APPROPRIATE TO CONSIDER AND TERM THEM “OFFICIAL DOCUMENTS”?Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FuHl3oc1PX0" title="UFO FILES di TRUMP: ho analizzato i 162 DOCUMENTI SEGRETI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FuHl3oc1PX0" target="_blank" rel="noopener noreferrer">UFO FILES di TRUMP: ho analizzato i 162 DOCUMENTI SEGRETI</a></p><p class="youtube-embed-meta">Channel: AstroViktor</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FuHl3oc1PX0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FuHl3oc1PX0">Open on YouTube</a></p></div></div></div>
@@ -293,16 +293,16 @@ Because the originals were not released through a recognised state archive, inde
 
 The chronology now associated with the Magenta case largely reflects the order in which the anonymous documents were interpreted rather than an independently verified historical sequence.
 
-For example, later summaries commonly present 13 June 1933 as the date of the alleged recovery because several widely circulated telegrams are dated to that day. Those telegrams became anchor points around which much of the narrative was organised. Other versions, however, also refer to 11 April 1933, producing an unresolved discrepancy that has never been conclusively explained through independent archival evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...Aug 10, 2020 — According to the “Fascist UFO Files” we received, it was founded by Mussolini along...</span></span></span>
+For example, later summaries commonly present 13 June 1933 as the date of the alleged recovery because several widely circulated telegrams are dated to that day. Those telegrams became anchor points around which much of the narrative was organised. Other versions, however, also refer to 11 April 1933, producing an unresolved discrepancy that has never been conclusively explained through independent archival evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...Aug 10, 2020 — According to the “Fascist UFO Files” we received, it was founded by Mussolini along...</span></span></span>
 
 This means the timeline is effectively document-driven:
 
 * dated telegrams are treated as chronological anchors;
 * undated memoranda are positioned relative to those telegrams;
 * descriptions of RS/33 are fitted into the resulting sequence;
-* later claims about storage, investigation and post-war recovery are connected to that reconstructed framework rather than to continuous historical documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...Aug 10, 2020 — According to the “Fascist UFO Files” we received, it was founded by Mussolini along...</span></span></span>
+* later claims about storage, investigation and post-war recovery are connected to that reconstructed framework rather than to continuous historical documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...Aug 10, 2020 — According to the “Fascist UFO Files” we received, it was founded by Mussolini along...</span></span></span>
 
-As additional interpretations appeared in books, articles and interviews, the reconstructed timeline became progressively more detailed. Some [later retellings]({{ 'later-retellings/' | relative_url }}) added precise times of day, descriptions of the craft, [Vatican]({{ 'vatican/' | relative_url }}) involvement or wartime transfer to American forces. Many of these details cannot be traced directly to the earliest publicly described document batch, illustrating how the chronology expanded as authors attempted to create a continuous narrative from fragmentary material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interestingengineering.com">[Interesting Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interestingengineering.com</span><span class="citation-popover-title">worlds first ufo crash happened in italy claim</span><span class="citation-popover-snippet">Interesting EngineeringWorld&#x27;s first UFO crash happened in Italy, 14 years before...Jul 10, 2023 — The world&#x27;s first crash of an unident...</span></span></span>
+As additional interpretations appeared in books, articles and interviews, the reconstructed timeline became progressively more detailed. Some [later retellings]({{ 'later-retellings/' | relative_url }}) added precise times of day, descriptions of the craft, [Vatican]({{ 'vatican/' | relative_url }}) involvement or wartime transfer to American forces. Many of these details cannot be traced directly to the earliest publicly described document batch, illustrating how the chronology expanded as authors attempted to create a continuous narrative from fragmentary material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interestingengineering.com">[Interesting Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interestingengineering.com</span><span class="citation-popover-title">worlds first ufo crash happened in italy claim</span><span class="citation-popover-snippet">Interesting EngineeringWorld&#x27;s first UFO crash happened in Italy, 14 years before...Jul 10, 2023 — The world&#x27;s first crash of an unident...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_timeline_3d7ff6_1990s_document_batch_8b3865-Illustration-2-dark.svg" | relative_url }}" alt="1990 s Batches illustration 2" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_timeline_3d7ff6_1990s_document_batch_8b3865-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_timeline_3d7ff6_1990s_document_batch_8b3865-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -310,9 +310,9 @@ As additional interpretations appeared in books, articles and interviews, the re
 
 The strength of any historical timeline depends on confidence in the underlying documents. In the Magenta case, that confidence remains the central point of disagreement.
 
-Supporters argue that the anonymous batches preserve genuine copies of lost Fascist records whose internal dates allow reconstruction of previously unknown events. From this perspective, the lack of surviving official files is itself consistent with an exceptionally secret programme, making privately preserved copies especially valuable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...Aug 10, 2020 — According to the “Fascist UFO Files” we received, it was founded by Mussolini along...</span></span></span>
+Supporters argue that the anonymous batches preserve genuine copies of lost Fascist records whose internal dates allow reconstruction of previously unknown events. From this perspective, the lack of surviving official files is itself consistent with an exceptionally secret programme, making privately preserved copies especially valuable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...Aug 10, 2020 — According to the “Fascist UFO Files” we received, it was founded by Mussolini along...</span></span></span>
 
-Critics reach the opposite conclusion. Archivists and historians have argued that the anonymous origin of the material prevents establishing an unbroken chain of custody. Without knowing who possessed the documents, how they were preserved, or whether they were altered before publication, every chronological conclusion drawn from them remains conditional. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-snippet">The “Fascist UFO files” under scrutiny. IS IT APPROPRIATE TO CONSIDER AND TERM THEM “OFFICIAL DOCUMENTS”?Read more...</span></span></span>
+Critics reach the opposite conclusion. Archivists and historians have argued that the anonymous origin of the material prevents establishing an unbroken chain of custody. Without knowing who possessed the documents, how they were preserved, or whether they were altered before publication, every chronological conclusion drawn from them remains conditional.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-snippet">The “Fascist UFO files” under scrutiny. IS IT APPROPRIATE TO CONSIDER AND TERM THEM “OFFICIAL DOCUMENTS”?Read more...</span></span></span>
 
 The provenance issue therefore affects more than the authenticity of individual pages. It also determines whether the reconstructed sequence itself deserves historical weight. If the document batches cannot be independently authenticated, then the timeline derived from them cannot be independently verified either.
 
@@ -322,201 +322,201 @@ The provenance issue therefore affects more than the authenticity of individual 
 
 Readers often focus on whether the alleged incident occurred on 11 April or 13 June 1933, but the deeper historical issue is that both dates entered public discussion through the same late-emerging documentary tradition.
 
-Without the anonymous 1990s mailings, there is no established public record describing a Magenta UFO recovery, an RS/33 committee connected to that recovery, or the associated chronology that later became widely repeated. Every subsequent version of the story ultimately traces back to those reported document batches, making them the essential foundation of the modern timeline regardless of whether one considers the documents authentic, mistaken or fabricated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...Aug 10, 2020 — According to the “Fascist UFO Files” we received, it was founded by Mussolini along...</span></span></span>
+Without the anonymous 1990s mailings, there is no established public record describing a Magenta UFO recovery, an RS/33 committee connected to that recovery, or the associated chronology that later became widely repeated. Every subsequent version of the story ultimately traces back to those reported document batches, making them the essential foundation of the modern timeline regardless of whether one considers the documents authentic, mistaken or fabricated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the ufo files of mussolini fascist ufo files by roberto pinotti</span><span class="citation-popover-snippet">THE UFO FILES OF MUSSOLINI: Fascist...Aug 10, 2020 — According to the “Fascist UFO Files” we received, it was founded by Mussolini along...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eKZ2U3lkJ9o" title="Secret UFO Files of Fascist Italy | Mussolini&#x27;s UFO Cabinet RS/33 Revealed | Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eKZ2U3lkJ9o" target="_blank" rel="noopener noreferrer">Secret UFO Files of Fascist Italy | Mussolini&#x27;s UFO Cabinet RS/33 Revealed | Full Documentary</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eKZ2U3lkJ9o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eKZ2U3lkJ9o">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How the 1990 s Mailings Rebuilt Magenta. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How the 1990 s Mailings Rebuilt Magenta. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for evaluating disputed UFO cases and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating disputed UFO cases and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Extraterrestrial Encounters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2WeeBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Extraterrestrial Encounters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Extraterrestrial Encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>
-        </h4>
-        <p class="fr-book-author">By Ronald Story</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Extraterrestrial Encounters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2WeeBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Extraterrestrial Encounters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Extraterrestrial Encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>
+</h4>
+<p class="fr-book-author">By Ronald Story</p>
         
-        <p class="fr-book-desc">Provides historical context for famous UFO cases, including how narratives differ across sources.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for famous UFO cases, including how narratives differ across sources.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Verdict+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Verdict on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eFzxAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Verdict" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Verdict+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Verdict">The UFO Verdict</a>
-        </h4>
-        <p class="fr-book-author">By Robert Sheaffer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Verdict+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Verdict on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eFzxAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Verdict" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Verdict+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Verdict">The UFO Verdict</a>
+</h4>
+<p class="fr-book-author">By Robert Sheaffer</p>
         
-        <p class="fr-book-desc">Addresses how UFO stories evolve and how claims should be critically assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Verdict+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses how UFO stories evolve and how claims should be critically assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Verdict+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Covers major historical UFO claims and their evolving narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers major historical UFO claims and their evolving narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Encyclopedia of Extraterrestrial Encounters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Verdict&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Verdict</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Encyclopedia of Extraterrestrial Encounters</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Verdict&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Verdict</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift"><img src="{{ '/assets/images/marketplace-covers/e3822e61b859bc0e7376.jpg' | relative_url }}" alt="Listing image for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift"><img src="{{ '/assets/images/marketplace-covers/e3822e61b859bc0e7376.jpg' | relative_url }}" alt="Listing image for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting"><img src="{{ '/assets/images/marketplace-covers/64fd2e61ffabf1eeab61.jpg' | relative_url }}" alt="Listing image for Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting"><img src="{{ '/assets/images/marketplace-covers/64fd2e61ffabf1eeab61.jpg' | relative_url }}" alt="Listing image for Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display"><img src="{{ '/assets/images/marketplace-covers/3ccfc0d32b189563b8e0.jpg' | relative_url }}" alt="Listing image for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display"><img src="{{ '/assets/images/marketplace-covers/3ccfc0d32b189563b8e0.jpg' | relative_url }}" alt="Listing image for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp" data-ebay-reference="1990-s-batches-how-the-1990-s-mailings-rebuilt-magenta-alleged-magenta-ufo-ufo-display-model-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -532,7 +532,7 @@ Without the anonymous 1990s mailings, there is no established public record desc
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -552,7 +552,7 @@ Without the anonymous 1990s mailings, there is no established public record desc
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -584,7 +584,7 @@ Without the anonymous 1990s mailings, there is no established public record desc
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -636,7 +636,7 @@ Without the anonymous 1990s mailings, there is no established public record desc
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -681,7 +681,7 @@ Without the anonymous 1990s mailings, there is no established public record desc
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -722,84 +722,84 @@ Without the anonymous 1990s mailings, there is no established public record desc
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: theblackvault.com  
    Title: the ufo files of mussolini [fascist ufo files](&#123;&#123; 'fascist-files/' | relative_url &#125;&#125;) by roberto pinotti  
-   Link: <a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE UFO FILES OF MUSSOLINI: Fascist...Aug 10, 2020 — According to the “Fascist UFO Files” we received, it was founded by Mussolini along...</p></details>
+   Link:<a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE UFO FILES OF MUSSOLINI: Fascist...Aug 10, 2020 — According to the “Fascist UFO Files” we received, it was founded by Mussolini along...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cisu.org  
-   Link: <a href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The “Fascist UFO files” under scrutiny. IS IT APPROPRIATE TO CONSIDER AND TERM THEM “OFFICIAL DOCUMENTS”?Read more...</p></details>
+   Link:<a href="https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/fascist-ufo-files-a-professional-archivists-opinion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The “Fascist UFO files” under scrutiny. IS IT APPROPRIATE TO CONSIDER AND TERM THEM “OFFICIAL DOCUMENTS”?Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cisu.org  
    Title: Centro Italiano Studi Ufologici Fascist UFO Files?  
-   Link: <a href="https://www.cisu.org/fascist-ufo-files-no-thank-you/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/fascist-ufo-files-no-thank-you/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fascist UFO Files? No, thank you!Fascist UFO Files? No, thank you! Fascists on Mars. HOW TO START FROM ANONYMOUS DOCUMENTS AND GET TO REW...</p></details>
+   Link:<a href="https://www.cisu.org/fascist-ufo-files-no-thank-you/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/fascist-ufo-files-no-thank-you/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fascist UFO Files? No, thank you!Fascist UFO Files? No, thank you! Fascists on Mars. HOW TO START FROM ANONYMOUS DOCUMENTS AND GET TO REW...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: interestingengineering.com  
    Title: worlds first ufo crash happened in italy claim  
-   Link: <a href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow">https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Interesting EngineeringWorld&#x27;s first UFO crash happened in Italy, 14 years before...Jul 10, 2023 — The world&#x27;s first crash of an unident...</p></details>
+   Link:<a href="https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim" target="_blank" rel="noopener noreferrer nofollow">https://interestingengineering.com/culture/worlds-first-ufo-crash-happened-in-italy-claim</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interesting EngineeringWorld&#x27;s first UFO crash happened in Italy, 14 years before...Jul 10, 2023 — The world&#x27;s first crash of an unident...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/david-john-stanton-iac-ncp-issup-icpt-isoccs-%F0%9F%95%89%EF%B8%8F-8184392a_the-1933-magenta-italy-ufo-crash-activity-7370550864215838723-_EEL" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/david-john-stanton-iac-ncp-issup-icpt-isoccs-%F0%9F%95%89%EF%B8%8F-8184392a_the-1933-magenta-italy-ufo-crash-activity-7370550864215838723-_EEL</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Magenta Italy UFO crash retrieval: a secret story revealedItalian UFO Researcher Roberto Pinotti came into possession of official fascist...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/david-john-stanton-iac-ncp-issup-icpt-isoccs-%F0%9F%95%89%EF%B8%8F-8184392a_the-1933-magenta-italy-ufo-crash-activity-7370550864215838723-_EEL" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/david-john-stanton-iac-ncp-issup-icpt-isoccs-%F0%9F%95%89%EF%B8%8F-8184392a_the-1933-magenta-italy-ufo-crash-activity-7370550864215838723-_EEL</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Magenta Italy UFO crash retrieval: a secret story revealedItalian UFO Researcher Roberto Pinotti came into possession of official fascist...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: metabunk.org  
    Title: claim a ufo crashed in 1933 italy and the us recovered it.13282  
-   Link: <a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: A UFO crashed in 1933 Italy and the US Recovered it15 Dec 2023 — THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_[grusch" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_[grusch</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fascist UFO Files&quot; in Italy. Later that year, the story broke in... Italian UFO Researcher Roberto Pinotti had official fascist gov&#x27;t do...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_[grusch" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_[grusch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fascist UFO Files&quot; in Italy. Later that year, the story broke in... Italian UFO Researcher Roberto Pinotti had official fascist gov&#x27;t do...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
    Title: david gruschs most overlooked statement the 1933  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1fi5qwu/david_gruschs_most_overlooked_statement_the_1933/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fi5qwu/david_gruschs_most_overlooked_statement_the_1933/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 UFO Recovery from Magenta Italy Was Not...... Fascist regime. Italian UFO Researcher Roberto Pinotti had official fascist gov&#x27;t...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1fi5qwu/david_gruschs_most_overlooked_statement_the_1933/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fi5qwu/david_gruschs_most_overlooked_statement_the_1933/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 UFO Recovery from Magenta Italy Was Not...... Fascist regime. Italian UFO Researcher Roberto Pinotti had official fascist gov&#x27;t...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
    Title: the magenta project the 1933 magenta italy ufo  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1fraqyk/the_magenta_project_the_1933_magenta_italy_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fraqyk/the_magenta_project_the_1933_magenta_italy_ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 Magenta, Italy UFO Crash-Retrieval That...... anonymous mail drop with alleged Fascist era papers on a ufo crash. None of the d...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1fraqyk/the_magenta_project_the_1933_magenta_italy_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fraqyk/the_magenta_project_the_1933_magenta_italy_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 Magenta, Italy UFO Crash-Retrieval That...... anonymous mail drop with alleged Fascist era papers on a ufo crash. None of the d...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: news.yahoo.com  
    Title: researcher says first ufo really 191900523  
-   Link: <a href="https://news.yahoo.com/researcher-says-first-ufo-really-191900523.html" target="_blank" rel="noopener noreferrer nofollow">https://news.yahoo.com/researcher-says-first-ufo-really-191900523.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO was recovered in Italy in 1933. It adds to a growing interest in... But the alien craft, Pinotti said, was captured by American...R...</p></details>
+   Link:<a href="https://news.yahoo.com/researcher-says-first-ufo-really-191900523.html" target="_blank" rel="noopener noreferrer nofollow">https://news.yahoo.com/researcher-says-first-ufo-really-191900523.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO was recovered in Italy in 1933. It adds to a growing interest in... But the alien craft, Pinotti said, was captured by American...R...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: kevinrandle.blogspot.com  
    Title: david grush and 1933 italian ufo crash  
-   Link: <a href="https://kevinrandle.blogspot.com/2023/06/david-grush-and-1933-italian-ufo-crash.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2023/06/david-grush-and-1933-italian-ufo-crash.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch and the 1933 Italian UFO Crash21 Jun 2023 — A second article, “Fascist files” Under Scrutiny, by Massimiliano Grandi, publis...</p></details>
+   Link:<a href="https://kevinrandle.blogspot.com/2023/06/david-grush-and-1933-italian-ufo-crash.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2023/06/david-grush-and-1933-italian-ufo-crash.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch and the 1933 Italian UFO Crash21 Jun 2023 — A second article, “Fascist files” Under Scrutiny, by Massimiliano Grandi, publis...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: the-residium.com  
    Title: dr roberto pinotti on the 1933 magenta  
-   Link: <a href="https://www.the-residium.com/p/dr-roberto-pinotti-on-the-1933-magenta" target="_blank" rel="noopener noreferrer nofollow">https://www.the-residium.com/p/dr-roberto-pinotti-on-the-1933-magenta</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roberto Pinotti on the 1933 Magenta UFO CrashNov 29, 2025 — Pinotti, I recommend a visit to the work archived by the team at The Black Va...</p></details>
+   Link:<a href="https://www.the-residium.com/p/dr-roberto-pinotti-on-the-1933-magenta" target="_blank" rel="noopener noreferrer nofollow">https://www.the-residium.com/p/dr-roberto-pinotti-on-the-1933-magenta</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roberto Pinotti on the 1933 Magenta UFO CrashNov 29, 2025 — Pinotti, I recommend a visit to the work archived by the team at The Black Va...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1it9dwy/david_grusch_was_right_new_evidence_confirms/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1it9dwy/david_grusch_was_right_new_evidence_confirms/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/UFOs - David Grusch Was Right: New Evidence Confirms...In one interview, he called &quot;The Fascist UFO Files&quot; that Pinotti had shown him...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1it9dwy/david_grusch_was_right_new_evidence_confirms/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1it9dwy/david_grusch_was_right_new_evidence_confirms/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r/UFOs - David Grusch Was Right: New Evidence Confirms...In one interview, he called &quot;The Fascist UFO Files&quot; that Pinotti had shown him...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchomnia.blogspot.com  
    Title: the truth about ufo in 1933 italy  
-   Link: <a href="https://researchomnia.blogspot.com/2017/04/the-truth-about-ufo-in-1933-italy.html" target="_blank" rel="noopener noreferrer nofollow">https://researchomnia.blogspot.com/2017/04/the-truth-about-ufo-in-1933-italy.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE TRUTH ABOUT THE UFO IN 1933 ITALYApr 12, 2017 — First of all we have to remember that Roberto Pinotti, Italy&#x27;s leading UFO expert and...</p></details>
+   Link:<a href="https://researchomnia.blogspot.com/2017/04/the-truth-about-ufo-in-1933-italy.html" target="_blank" rel="noopener noreferrer nofollow">https://researchomnia.blogspot.com/2017/04/the-truth-about-ufo-in-1933-italy.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE TRUTH ABOUT THE UFO IN 1933 ITALYApr 12, 2017 — First of all we have to remember that Roberto Pinotti, Italy&#x27;s leading UFO expert and...</p></details>

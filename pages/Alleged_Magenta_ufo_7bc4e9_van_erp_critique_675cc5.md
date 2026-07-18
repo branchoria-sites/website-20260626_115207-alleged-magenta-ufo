@@ -447,30 +447,30 @@ image: /assets/images/Alleged_Magenta_ufo_7bc4e9_van_erp_critique_675cc5-overvie
 
 ## Introduction
 
-Pepijn van Erp’s sceptical reading of the [alleged Magenta UFO]({{ 'alleged-magenta-ufo/' | relative_url }}) crash is not mainly a broad denial that every part of the story is false. Its sharper point is that the modern version appears to contain later embellishments that do not sit comfortably with the earlier Italian claims. In particular, van Erp highlights two details that became prominent after David Grusch’s 2023 public comments: the [Vatican]({{ 'vatican/' | relative_url }}) allegedly helping the United States obtain the craft, and the object being described as “bell-shaped”. Van Erp argues that both details look less like independent classified confirmation and more like elements that may have entered the story through later UFO lore, especially accounts associated with Billy Brophy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pepijnvanerp.nl">[Pepijn van Erp]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pepijnvanerp.nl</span><span class="citation-popover-title">Pepijn van Erp Mussolini’s UFO – Cabinet RS/33 – Pepijn van Erp</span><span class="citation-popover-snippet">Pepijn van Erp Mussolini’s UFO – Cabinet RS/33 – Pepijn van Erp</span></span></span>
+Pepijn van Erp’s sceptical reading of the [alleged Magenta UFO]({{ 'alleged-magenta-ufo/' | relative_url }}) crash is not mainly a broad denial that every part of the story is false. Its sharper point is that the modern version appears to contain later embellishments that do not sit comfortably with the earlier Italian claims. In particular, van Erp highlights two details that became prominent after David Grusch’s 2023 public comments: the [Vatican]({{ 'vatican/' | relative_url }}) allegedly helping the United States obtain the craft, and the object being described as “bell-shaped”. Van Erp argues that both details look less like independent classified confirmation and more like elements that may have entered the story through later UFO lore, especially accounts associated with Billy Brophy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pepijnvanerp.nl">[Pepijn van Erp]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pepijnvanerp.nl</span><span class="citation-popover-title">Pepijn van Erp Mussolini’s UFO – Cabinet RS/33 – Pepijn van Erp</span><span class="citation-popover-snippet">Pepijn van Erp Mussolini’s UFO – Cabinet RS/33 – Pepijn van Erp</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_van_erp_critique_675cc5-overview.webp" | relative_url }}" alt="Overview image for Van Erp" loading="eager" decoding="sync" fetchpriority="high">
-That matters because the Magenta case is already fragile. Roberto Pinotti’s proponent account says the story rests on anonymously supplied “[Fascist UFO Files]({{ 'fascist-files/' | relative_url }})”, connected to a supposed [Cabinet]({{ 'rs-33/' | relative_url }}) RS/33 created under Mussolini and allegedly headed by Guglielmo Marconi. Pinotti presents the files as historically significant, but even his account acknowledges anonymous delivery, lost material, fruitless searches for direct eyewitnesses and sceptical responses from early recipients. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span> Van Erp’s critique therefore focuses on source layering: when a weakly documented claim absorbs extra details over time, each new layer can make the story sound richer while making its evidential trail harder to trust.
+That matters because the Magenta case is already fragile. Roberto Pinotti’s proponent account says the story rests on anonymously supplied “[Fascist UFO Files]({{ 'fascist-files/' | relative_url }})”, connected to a supposed [Cabinet]({{ 'rs-33/' | relative_url }}) RS/33 created under Mussolini and allegedly headed by Guglielmo Marconi. Pinotti presents the files as historically significant, but even his account acknowledges anonymous delivery, lost material, fruitless searches for direct eyewitnesses and sceptical responses from early recipients.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span> Van Erp’s critique therefore focuses on source layering: when a weakly documented claim absorbs extra details over time, each new layer can make the story sound richer while making its evidential trail harder to trust.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/49f-NMGzbAs" title="The Story behind Die Glocke | And Why I Hate This Conspiracy Theory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=49f-NMGzbAs" target="_blank" rel="noopener noreferrer">The Story behind Die Glocke | And Why I Hate This Conspiracy Theory</a></p><p class="youtube-embed-meta">Channel: Zwalada</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=49f-NMGzbAs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=49f-NMGzbAs">Open on YouTube</a></p></div></div></div>
 
 ## What Van Erp Saw Changing in the Magenta Story
 
-The earliest public Magenta narrative, as presented by Pinotti and Alfredo Lissoni, centres on an alleged 1933 incident near Magenta, the supposed creation or involvement of Cabinet RS/33, censorship instructions, and possible storage of the object in aviation facilities around Vergiate or Sesto Calende. Pinotti’s English-language account says the material was first discussed publicly at the 2000 World UFO Symposium in San Marino, after anonymous papers began arriving in 1996. It describes a craft that “crashed or landed” near Magenta on 11 April 1933, but later also refers to 13 June 1933 as the date of a “landed UFO” recovery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
+The earliest public Magenta narrative, as presented by Pinotti and Alfredo Lissoni, centres on an alleged 1933 incident near Magenta, the supposed creation or involvement of Cabinet RS/33, censorship instructions, and possible storage of the object in aviation facilities around Vergiate or Sesto Calende. Pinotti’s English-language account says the material was first discussed publicly at the 2000 World UFO Symposium in San Marino, after anonymous papers began arriving in 1996. It describes a craft that “crashed or landed” near Magenta on 11 April 1933, but later also refers to 13 June 1933 as the date of a “landed UFO” recovery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
 
-Van Erp’s concern begins where later retellings add more cinematic precision. In Grusch’s 2023 version, the Italian object was not merely an unspecified “flying saucer” or unconventional aircraft; it became a roughly twelve-metre, bell-shaped craft recovered in Magenta and later obtained by American intelligence with Vatican involvement. Van Erp noted that he had not found the bell-shaped detail in the Italian sources he reviewed, and he treated that absence as significant rather than incidental. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pepijnvanerp.nl">[Pepijn van Erp]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pepijnvanerp.nl</span><span class="citation-popover-title">Pepijn van Erp Mussolini’s UFO – Cabinet RS/33 – Pepijn van Erp</span><span class="citation-popover-snippet">Pepijn van Erp Mussolini’s UFO – Cabinet RS/33 – Pepijn van Erp</span></span></span>
+Van Erp’s concern begins where later retellings add more cinematic precision. In Grusch’s 2023 version, the Italian object was not merely an unspecified “flying saucer” or unconventional aircraft; it became a roughly twelve-metre, bell-shaped craft recovered in Magenta and later obtained by American intelligence with Vatican involvement. Van Erp noted that he had not found the bell-shaped detail in the Italian sources he reviewed, and he treated that absence as significant rather than incidental.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pepijnvanerp.nl">[Pepijn van Erp]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pepijnvanerp.nl</span><span class="citation-popover-title">Pepijn van Erp Mussolini’s UFO – Cabinet RS/33 – Pepijn van Erp</span><span class="citation-popover-snippet">Pepijn van Erp Mussolini’s UFO – Cabinet RS/33 – Pepijn van Erp</span></span></span>
 
-The distinction is small but important. A sceptic does not need to prove that every new detail is invented. It is enough to ask whether the newer detail has an independent documentary path back to 1933, or whether it first appears in later UFO storytelling. For van Erp, the bell shape and Vatican role both look like clues that the modern story may have been assembled from multiple narratives rather than transmitted unchanged from a hidden official archive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pepijnvanerp.nl">[Pepijn van Erp]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pepijnvanerp.nl</span><span class="citation-popover-title">Pepijn van Erp Mussolini’s UFO – Cabinet RS/33 – Pepijn van Erp</span><span class="citation-popover-snippet">Pepijn van Erp Mussolini’s UFO – Cabinet RS/33 – Pepijn van Erp</span></span></span>
+The distinction is small but important. A sceptic does not need to prove that every new detail is invented. It is enough to ask whether the newer detail has an independent documentary path back to 1933, or whether it first appears in later UFO storytelling. For van Erp, the bell shape and Vatican role both look like clues that the modern story may have been assembled from multiple narratives rather than transmitted unchanged from a hidden official archive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pepijnvanerp.nl">[Pepijn van Erp]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pepijnvanerp.nl</span><span class="citation-popover-title">Pepijn van Erp Mussolini’s UFO – Cabinet RS/33 – Pepijn van Erp</span><span class="citation-popover-snippet">Pepijn van Erp Mussolini’s UFO – Cabinet RS/33 – Pepijn van Erp</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_van_erp_critique_675cc5-Illustration-1-dark.svg" | relative_url }}" alt="Van Erp illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_van_erp_critique_675cc5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_van_erp_critique_675cc5-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Vatican Contradiction
 
-The Vatican detail is the most revealing part of van Erp’s critique because it appears to reverse the logic of the original Italian papers. In Grusch’s public account, Pope Pius XII allegedly “backchannelled” information about the Italian craft to the United States, enabling American recovery near the end of the Second World War. Newsweek reported the same broad claim in 2023: Grusch alleged that Pius XII passed knowledge of the UFO to the United States, and that the Vatican knew about the matter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">Pressure on Vatican to Reveal Archives After &#x27;UFO Cover</span><span class="citation-popover-snippet">Pressure on Vatican to Reveal Archives After &#x27;UFO Cover</span></span></span>
+The Vatican detail is the most revealing part of van Erp’s critique because it appears to reverse the logic of the original Italian papers. In Grusch’s public account, Pope Pius XII allegedly “backchannelled” information about the Italian craft to the United States, enabling American recovery near the end of the Second World War. Newsweek reported the same broad claim in 2023: Grusch alleged that Pius XII passed knowledge of the UFO to the United States, and that the Vatican knew about the matter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">Pressure on Vatican to Reveal Archives After &#x27;UFO Cover</span><span class="citation-popover-snippet">Pressure on Vatican to Reveal Archives After &#x27;UFO Cover</span></span></span>
 
-Van Erp points out that this is hard to reconcile with the protocol described in Pinotti’s own material. According to van Erp’s translation and discussion, Pinotti’s report says the transmission of reports to the Air Force was to be authorised by Cabinet RS/33 and that any other body was to be excluded, “including the Pontifical University”. Van Erp’s reading is that the cited [wording]({{ 'wording/' | relative_url }}) excludes Papal or Vatican-linked academic channels from the information chain rather than placing them inside it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pepijnvanerp.nl">[Pepijn van Erp]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pepijnvanerp.nl</span><span class="citation-popover-title">Pepijn van Erp Mussolini’s UFO – Cabinet RS/33 – Pepijn van Erp</span><span class="citation-popover-snippet">Pepijn van Erp Mussolini’s UFO – Cabinet RS/33 – Pepijn van Erp</span></span></span>
+Van Erp points out that this is hard to reconcile with the protocol described in Pinotti’s own material. According to van Erp’s translation and discussion, Pinotti’s report says the transmission of reports to the Air Force was to be authorised by Cabinet RS/33 and that any other body was to be excluded, “including the Pontifical University”. Van Erp’s reading is that the cited [wording]({{ 'wording/' | relative_url }}) excludes Papal or Vatican-linked academic channels from the information chain rather than placing them inside it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pepijnvanerp.nl">[Pepijn van Erp]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pepijnvanerp.nl</span><span class="citation-popover-title">Pepijn van Erp Mussolini’s UFO – Cabinet RS/33 – Pepijn van Erp</span><span class="citation-popover-snippet">Pepijn van Erp Mussolini’s UFO – Cabinet RS/33 – Pepijn van Erp</span></span></span>
 
 That contradiction does not automatically settle the larger Magenta claim. A believer could argue that a secret Vatican backchannel might have existed outside the written protocol. Van Erp’s narrower point is more disciplined: the public documentary trail being used to support the case appears to say the opposite of what the later Vatican version needs it to say. If the earlier paper excludes pontifical institutions, then a later claim that the Pope was informed needs its own strong evidence. Without that, it looks like an added narrative bridge linking Mussolini’s Italy, wartime American intelligence and the Vatican’s aura of hidden archives.
 
@@ -481,25 +481,25 @@ The Vatican addition also changes the genre of the story. The original Magenta c
 
 ## The Bell-Shape Concern
 
-The second detail van Erp highlights is the “bell-shaped” craft. In the material he reviewed, the Italian Magenta sources did not describe the 1933 object that way. Pinotti’s account instead uses terms such as “flying saucer”, “unconventional flying vehicle”, “landed UFO” and “crashed UFO”, while the broader Fascist-file material includes other shapes from later alleged sightings, such as a metallic disc, a tube, and “Saturn-shaped” objects over Mestre and Venice in 1936. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
+The second detail van Erp highlights is the “bell-shaped” craft. In the material he reviewed, the Italian Magenta sources did not describe the 1933 object that way. Pinotti’s account instead uses terms such as “flying saucer”, “unconventional flying vehicle”, “landed UFO” and “crashed UFO”, while the broader Fascist-file material includes other shapes from later alleged sightings, such as a metallic disc, a tube, and “Saturn-shaped” objects over Mestre and Venice in 1936.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
 
-Van Erp connects the bell-shape detail to Billy Brophy, whose accounts mixed the Magenta story with other UFO and conspiracy motifs. In van Erp’s reading, Brophy seems to have joined Mussolini’s alleged UFO with the Nazi “Die Glocke” legend, a separate post-war conspiracy tradition about a supposed German bell-shaped anti-gravity or exotic-technology device. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pepijnvanerp.nl">[Pepijn van Erp]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pepijnvanerp.nl</span><span class="citation-popover-title">Pepijn van Erp Mussolini’s UFO – Cabinet RS/33 – Pepijn van Erp</span><span class="citation-popover-snippet">Pepijn van Erp Mussolini’s UFO – Cabinet RS/33 – Pepijn van Erp</span></span></span> Popular Mechanics describes “Die Glocke” as a persistent Nazi superweapon legend with little proof and no record of actual Allied capture, which is precisely why the resemblance matters: a bell-shaped Magenta craft may owe more to later Nazi-UFO lore than to the alleged Italian documents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/military/research/a36560537/die-glocke-nazi-bell-conspiracy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">die glocke nazi bell conspiracy</span><span class="citation-popover-snippet">die glocke nazi bell conspiracy</span></span></span>
+Van Erp connects the bell-shape detail to Billy Brophy, whose accounts mixed the Magenta story with other UFO and conspiracy motifs. In van Erp’s reading, Brophy seems to have joined Mussolini’s alleged UFO with the Nazi “Die Glocke” legend, a separate post-war conspiracy tradition about a supposed German bell-shaped anti-gravity or exotic-technology device.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pepijnvanerp.nl">[Pepijn van Erp]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pepijnvanerp.nl</span><span class="citation-popover-title">Pepijn van Erp Mussolini’s UFO – Cabinet RS/33 – Pepijn van Erp</span><span class="citation-popover-snippet">Pepijn van Erp Mussolini’s UFO – Cabinet RS/33 – Pepijn van Erp</span></span></span> Popular Mechanics describes “Die Glocke” as a persistent Nazi superweapon legend with little proof and no record of actual Allied capture, which is precisely why the resemblance matters: a bell-shaped Magenta craft may owe more to later Nazi-UFO lore than to the alleged Italian documents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/military/research/a36560537/die-glocke-nazi-bell-conspiracy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">die glocke nazi bell conspiracy</span><span class="citation-popover-snippet">die glocke nazi bell conspiracy</span></span></span>
 
-Douglas Dean Johnson’s investigation of Brophy strengthens van Erp’s concern about source contamination. Johnson documents Brophy’s shifting claims about his father’s alleged involvement in multiple UFO crashes, including letters published in Flying Saucer Review and later claims about the Trinity UFO-crash story. Johnson reproduces a 2010 Brophy account in which Brophy linked the 1933 Magenta crash to tall blond beings, Eisenhower, Cardinal McIntyre and Pope Pius XII. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://douglasjohnson.ghost.io/crash-story-file-the-morphing-fantasies-of-billy-brophy-about-his-airman-father/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: douglasjohnson.ghost.io">[Mirador]</a><span class="citation-popover" role="note"><span class="citation-popover-source">douglasjohnson.ghost.io</span><span class="citation-popover-snippet">Open source on ghost.io.</span></span></span>
+Douglas Dean Johnson’s investigation of Brophy strengthens van Erp’s concern about source contamination. Johnson documents Brophy’s shifting claims about his father’s alleged involvement in multiple UFO crashes, including letters published in Flying Saucer Review and later claims about the Trinity UFO-crash story. Johnson reproduces a 2010 Brophy account in which Brophy linked the 1933 Magenta crash to tall blond beings, Eisenhower, Cardinal McIntyre and Pope Pius XII.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://douglasjohnson.ghost.io/crash-story-file-the-morphing-fantasies-of-billy-brophy-about-his-airman-father/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: douglasjohnson.ghost.io">[Mirador]</a><span class="citation-popover" role="note"><span class="citation-popover-source">douglasjohnson.ghost.io</span><span class="citation-popover-snippet">Open source on ghost.io.</span></span></span>
 
-For the Magenta case, this is not a side issue. If the bell shape entered the story through Brophy or related lore, then Grusch’s use of the same detail does not necessarily corroborate an independent classified source. It may instead show that the public UFO ecosystem had already combined the Italian crash story with other motifs before Grusch repeated a cleaned-up version of it. Metabunk’s long discussion of the claim makes a similar source-layering argument, noting that modern versions combine elements such as the bell shape, the Pope, American recovery and even unrelated “Nordic” body stories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">claim a ufo crashed in 1933 italy and the us recovered it.13282</span><span class="citation-popover-snippet">claim a ufo crashed in 1933 italy and the us recovered it.13282</span></span></span>
+For the Magenta case, this is not a side issue. If the bell shape entered the story through Brophy or related lore, then Grusch’s use of the same detail does not necessarily corroborate an independent classified source. It may instead show that the public UFO ecosystem had already combined the Italian crash story with other motifs before Grusch repeated a cleaned-up version of it. Metabunk’s long discussion of the claim makes a similar source-layering argument, noting that modern versions combine elements such as the bell shape, the Pope, American recovery and even unrelated “Nordic” body stories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">claim a ufo crashed in 1933 italy and the us recovered it.13282</span><span class="citation-popover-snippet">claim a ufo crashed in 1933 italy and the us recovered it.13282</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_van_erp_critique_675cc5-Illustration-2-dark.svg" | relative_url }}" alt="Van Erp illustration 2" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_van_erp_critique_675cc5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_van_erp_critique_675cc5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Source Layering Matters
 
-Source layering is the process by which a story accumulates details from different tellers, eras and traditions until the final version appears fuller than the evidence behind it. In the Magenta case, this matters because the base claim is already dependent on late-arriving documents, anonymous sourcing and contested authenticity. Pinotti argues that forensic and historical checks support at least some of the papers, while also noting that an original dossier was lost, early recipients dismissed the material, and direct eyewitness searches were mostly unsuccessful. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
+Source layering is the process by which a story accumulates details from different tellers, eras and traditions until the final version appears fuller than the evidence behind it. In the Magenta case, this matters because the base claim is already dependent on late-arriving documents, anonymous sourcing and contested authenticity. Pinotti argues that forensic and historical checks support at least some of the papers, while also noting that an original dossier was lost, early recipients dismissed the material, and direct eyewitness searches were mostly unsuccessful.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span><span class="citation-popover-snippet">The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti</span></span></span>
 
 Van Erp’s critique does not require the reader to decide, in one leap, whether the entire Magenta case is a hoax. It asks a more practical question: which details can be traced to the alleged Italian material, and which appear only after the story has circulated through UFO conferences, magazines, books, interviews and internet commentary? The Vatican and bell-shape details are important because they are memorable, but their memorability may be part of the problem. They help the story travel.
 
-This is also why Grusch’s repetition of these details does not automatically strengthen them. If a later public figure repeats a claim that was already present in public UFO lore, the repetition can be mistaken for independent confirmation. Van Erp’s suspicion is that the route may run through public or semi-public UFO networks rather than through a clean classified archive. Metabunk frames the same risk in terms of “cobbled together” public versions that acquire new components over time, while Johnson’s work on Brophy shows how one prolific claimant could connect unrelated crash stories through his father and other figures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">claim a ufo crashed in 1933 italy and the us recovered it.13282</span><span class="citation-popover-snippet">claim a ufo crashed in 1933 italy and the us recovered it.13282</span></span></span>
+This is also why Grusch’s repetition of these details does not automatically strengthen them. If a later public figure repeats a claim that was already present in public UFO lore, the repetition can be mistaken for independent confirmation. Van Erp’s suspicion is that the route may run through public or semi-public UFO networks rather than through a clean classified archive. Metabunk frames the same risk in terms of “cobbled together” public versions that acquire new components over time, while Johnson’s work on Brophy shows how one prolific claimant could connect unrelated crash stories through his father and other figures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">claim a ufo crashed in 1933 italy and the us recovered it.13282</span><span class="citation-popover-snippet">claim a ufo crashed in 1933 italy and the us recovered it.13282</span></span></span>
 
-The broader UAP evidence environment makes that caution more important. NASA’s UAP information page says there are no data supporting the idea that UAP are evidence of alien technologies, while the 2024 AARO historical review reported no evidence for a United States government [reverse-engineering]({{ 'reverse-engineering/' | relative_url }}) narrative and said many claims were influenced by misidentification, secrecy around real programmes and circular reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span> Those findings do not directly adjudicate the 1933 Magenta documents, but they support van Erp’s methodological caution: extraordinary historical claims need traceable evidence, not merely stronger retellings.
+The broader UAP evidence environment makes that caution more important. NASA’s UAP information page says there are no data supporting the idea that UAP are evidence of alien technologies, while the 2024 AARO historical review reported no evidence for a United States government [reverse-engineering]({{ 'reverse-engineering/' | relative_url }}) narrative and said many claims were influenced by misidentification, secrecy around real programmes and circular reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span> Those findings do not directly adjudicate the 1933 Magenta documents, but they support van Erp’s methodological caution: extraordinary historical claims need traceable evidence, not merely stronger retellings.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W_amIBrImoQ" title="Vatican Linked To First UFO Crash? Pentagon Whistleblower Shocks World | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W_amIBrImoQ" target="_blank" rel="noopener noreferrer">Vatican Linked To First UFO Crash? Pentagon Whistleblower Shocks World | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 1.9K &middot; Uploaded: December 2025 &middot; Length: 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W_amIBrImoQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W_amIBrImoQ">Open on YouTube</a></p></div></div></div>
@@ -527,194 +527,194 @@ The result is a more cautious assessment of the alleged Magenta crash. Van Erp d
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_van_erp_critique_675cc5-Illustration-3-dark.svg" | relative_url }}" alt="Van Erp illustration 3" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_van_erp_critique_675cc5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_van_erp_critique_675cc5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Sceptics Say Was Added Later. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Sceptics Say Was Added Later. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for how modern UFO claims are assessed and debated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how modern UFO claims are assessed and debated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
+</h4>
+<p class="fr-book-author">By Peter A. Sturrock</p>
         
-        <p class="fr-book-desc">Focuses on evaluating UFO evidence and competing interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating UFO evidence and competing interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains critical thinking and source evaluation relevant to layered claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains critical thinking and source evaluation relevant to layered claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Verdict+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Verdict on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eFzxAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Verdict" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Verdict+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Verdict">The UFO Verdict</a>
-        </h4>
-        <p class="fr-book-author">By Robert Sheaffer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Verdict+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Verdict on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eFzxAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Verdict" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Verdict+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Verdict">The UFO Verdict</a>
+</h4>
+<p class="fr-book-author">By Robert Sheaffer</p>
         
-        <p class="fr-book-desc">Examines how UFO narratives develop and are investigated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Verdict+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how UFO narratives develop and are investigated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Verdict+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO embroidered patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO embroidered patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO embroidered patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO embroidered patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO embroidered patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO embroidered patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO embroidered patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO embroidered patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO embroidered patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO embroidered patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO embroidered patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO embroidered patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Patch Iron Sew On Clothes Alien NASA Space UFO Embroidered Badge"><img src="{{ '/assets/images/marketplace-covers/f36dd492ef5bc0292aaa.jpg' | relative_url }}" alt="Listing image for Flying Saucer Patch Iron Sew On Clothes Alien NASA Space UFO Embroidered Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Patch Iron Sew On Clothes Alien NASA Space UFO Embroidered Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO embroidered patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO embroidered patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Patch Iron Sew On Clothes Alien NASA Space UFO Embroidered Badge"><img src="{{ '/assets/images/marketplace-covers/f36dd492ef5bc0292aaa.jpg' | relative_url }}" alt="Listing image for Flying Saucer Patch Iron Sew On Clothes Alien NASA Space UFO Embroidered Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Patch Iron Sew On Clothes Alien NASA Space UFO Embroidered Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO embroidered patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO embroidered patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO embroidered patch" data-ebay-reference="van-erp-what-sceptics-say-was-added-later-alleged-magenta-ufo-ufo-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -730,7 +730,7 @@ The result is a more cautious assessment of the alleged Magenta crash. Van Erp d
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -750,7 +750,7 @@ The result is a more cautious assessment of the alleged Magenta crash. Van Erp d
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -782,7 +782,7 @@ The result is a more cautious assessment of the alleged Magenta crash. Van Erp d
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -834,7 +834,7 @@ The result is a more cautious assessment of the alleged Magenta crash. Van Erp d
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -879,7 +879,7 @@ The result is a more cautious assessment of the alleged Magenta crash. Van Erp d
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -920,113 +920,113 @@ The result is a more cautious assessment of the alleged Magenta crash. Van Erp d
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: metabunk.org  
    Title: claim a ufo crashed in 1933 italy and the us recovered it.13282  
-   Link: <a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
+   Link:<a href="https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-a-ufo-crashed-in-1933-italy-and-the-us-recovered-it.13282/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: newsweek.com  
    Title: Pressure on Vatican to Reveal Archives After 'UFO Cover  
-   Link: <a href="https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908</a>  
+   Link:<a href="https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/vatican-pressure-archives-ufo-cover-david-grusch-1816908</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.nasa.gov  
    Title: Science UAP FAQs  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: metabunk.org  
    Title: post 291380  
-   Link: <a href="https://www.metabunk.org/threads/the-debrief-intelligence-officials-say-u-s-has-retrieved-craft-of-non-human-origin.12977/post-291380" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/the-debrief-intelligence-officials-say-u-s-has-retrieved-craft-of-non-human-origin.12977/post-291380</a>  
+   Link:<a href="https://www.metabunk.org/threads/the-debrief-intelligence-officials-say-u-s-has-retrieved-craft-of-non-human-origin.12977/post-291380" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/the-debrief-intelligence-officials-say-u-s-has-retrieved-craft-of-non-human-origin.12977/post-291380</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: [aaro](&#123;&#123; 'aaro/' | relative_url &#125;&#125;). mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pepijnvanerp.nl  
    Title: Pepijn van Erp Mussolini’s UFO – Cabinet RS/33 – Pepijn van Erp  
-   Link: <a href="https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/" target="_blank" rel="noopener noreferrer nofollow">https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/</a>  
+   Link:<a href="https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/" target="_blank" rel="noopener noreferrer nofollow">https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: douglasjohnson.ghost.io  
-   Link: <a href="https://douglasjohnson.ghost.io/crash-story-file-the-morphing-fantasies-of-billy-brophy-about-his-airman-father/" target="_blank" rel="noopener noreferrer nofollow">https://douglasjohnson.ghost.io/crash-story-file-the-morphing-fantasies-of-billy-brophy-about-his-airman-father/</a>  
+   Link:<a href="https://douglasjohnson.ghost.io/crash-story-file-the-morphing-fantasies-of-billy-brophy-about-his-airman-father/" target="_blank" rel="noopener noreferrer nofollow">https://douglasjohnson.ghost.io/crash-story-file-the-morphing-fantasies-of-billy-brophy-about-his-airman-father/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theblackvault.com  
    Title: The Black Vault THE UFO FILES OF MUSSOLINI: Fascist UFO Files by Roberto Pinotti  
-   Link: <a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
+   Link:<a href="https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-ufo-files-of-mussolini-fascist-ufo-files-by-roberto-pinotti/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: popularmechanics.com  
    Title: die glocke [nazi bell](&#123;&#123; 'nazi-bell/' | relative_url &#125;&#125;) conspiracy  
-   Link: <a href="https://www.popularmechanics.com/military/research/a36560537/die-glocke-nazi-bell-conspiracy/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a36560537/die-glocke-nazi-bell-conspiracy/</a>  
+   Link:<a href="https://www.popularmechanics.com/military/research/a36560537/die-glocke-nazi-bell-conspiracy/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a36560537/die-glocke-nazi-bell-conspiracy/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: douglasjohnson.ghost.io  
    Title: io Crash Story File: The Sources of the Trinity Tale  
-   Link: <a href="https://douglasjohnson.ghost.io/crash-story-file-the-sources-of-the-trinity-tale/" target="_blank" rel="noopener noreferrer nofollow">https://douglasjohnson.ghost.io/crash-story-file-the-sources-of-the-trinity-tale/</a>  
+   Link:<a href="https://douglasjohnson.ghost.io/crash-story-file-the-sources-of-the-trinity-tale/" target="_blank" rel="noopener noreferrer nofollow">https://douglasjohnson.ghost.io/crash-story-file-the-sources-of-the-trinity-tale/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: evil.fandom.com  
    Title: Die Glocke  
-   Link: <a href="https://evil.fandom.com/wiki/Die_Glocke" target="_blank" rel="noopener noreferrer nofollow">https://evil.fandom.com/wiki/Die_Glocke</a>  
+   Link:<a href="https://evil.fandom.com/wiki/Die_Glocke" target="_blank" rel="noopener noreferrer nofollow">https://evil.fandom.com/wiki/Die_Glocke</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 20131128 mod whitehall library resources 2000to2009.csv  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7c7c9d40f0b62aff6c202d/20131128-mod-whitehall-library-resources-2000to2009.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c7c9d40f0b62aff6c202d/20131128-mod-whitehall-library-resources-2000to2009.csv</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7c7c9d40f0b62aff6c202d/20131128-mod-whitehall-library-resources-2000to2009.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c7c9d40f0b62aff6c202d/20131128-mod-whitehall-library-resources-2000to2009.csv</a>  
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Road to Disclosure FULL SHOW | Reality Check with Ross Coulthart  
-   Link: <a href="https://www.youtube.com/watch?v=wAur0awdEjw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wAur0awdEjw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Secret UFO Files of Fascist Italy | Mussolini&#x27;s UFO Cabinet RS/33 Revealed...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wAur0awdEjw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wAur0awdEjw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Secret UFO Files of Fascist Italy | Mussolini&#x27;s UFO Cabinet RS/33 Revealed...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
+   Link:<a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Esquire/posts/a-deep-dive-into-the-legend-of-die-glocke/10157967576181674/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Esquire/posts/a-deep-dive-into-the-legend-of-die-glocke/10157967576181674/</a>  
+   Link:<a href="https://www.facebook.com/Esquire/posts/a-deep-dive-into-the-legend-of-die-glocke/10157967576181674/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Esquire/posts/a-deep-dive-into-the-legend-of-die-glocke/10157967576181674/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BlitzwinkelHistory/videos/-hitlers-wonder-weapon-die-glocke-myth-or-realityfew-alleged-nazi-projects-have-/859522380052392/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BlitzwinkelHistory/videos/-hitlers-wonder-weapon-die-glocke-myth-or-realityfew-alleged-nazi-projects-have-/859522380052392/</a>  
+   Link:<a href="https://www.facebook.com/BlitzwinkelHistory/videos/-hitlers-wonder-weapon-die-glocke-myth-or-realityfew-alleged-nazi-projects-have-/859522380052392/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BlitzwinkelHistory/videos/-hitlers-wonder-weapon-die-glocke-myth-or-realityfew-alleged-nazi-projects-have-/859522380052392/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/CPlyvGVD19V/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/CPlyvGVD19V/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/p/CPlyvGVD19V/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/CPlyvGVD19V/?hl=en</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DNs1GYlUGXP/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DNs1GYlUGXP/?hl=en-gb</a>  
+   Link:<a href="https://www.instagram.com/reel/DNs1GYlUGXP/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DNs1GYlUGXP/?hl=en-gb</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AlternativeHistory/comments/1llhtiw/die_glocke_the_german_alien_reproduction_vehicle/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AlternativeHistory/comments/1llhtiw/die_glocke_the_german_alien_reproduction_vehicle/</a>  
+   Link:<a href="https://www.reddit.com/r/AlternativeHistory/comments/1llhtiw/die_glocke_the_german_alien_reproduction_vehicle/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AlternativeHistory/comments/1llhtiw/die_glocke_the_german_alien_reproduction_vehicle/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/praveenmohansangha/posts/189109495464587/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/praveenmohansangha/posts/189109495464587/</a>  
+   Link:<a href="https://www.facebook.com/groups/praveenmohansangha/posts/189109495464587/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/praveenmohansangha/posts/189109495464587/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DZjNWyDHb0E/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZjNWyDHb0E/</a>  
+   Link:<a href="https://www.instagram.com/reel/DZjNWyDHb0E/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZjNWyDHb0E/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1cfxw8q/italian_magazine_oggi_confirms_that_mussolini/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cfxw8q/italian_magazine_oggi_confirms_that_mussolini/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1cfxw8q/italian_magazine_oggi_confirms_that_mussolini/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cfxw8q/italian_magazine_oggi_confirms_that_mussolini/</a>  

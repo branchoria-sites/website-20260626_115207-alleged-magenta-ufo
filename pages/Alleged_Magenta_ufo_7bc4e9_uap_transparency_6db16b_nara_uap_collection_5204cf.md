@@ -284,28 +284,28 @@ The creation of a dedicated Unidentified Anomalous Phenomena (UAP) Records Colle
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b_nara_uap_collection_5204cf-Illustration-1-dark.svg" | relative_url }}" alt="NARA Search illustration 1" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b_nara_uap_collection_5204cf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b_nara_uap_collection_5204cf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For legacy claims such as the alleged 1933 Magenta crash, this shifts attention away from anecdote and towards documentary evidence. A centralised archive cannot establish that an alleged recovery happened simply by existing, but it can expose whether agencies possess relevant files, reveal chains of [custody]({{ 'custody/' | relative_url }}), identify missing records and make previously scattered material easier for Congress, historians and the public to examine. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Unidentified Anomalous Phenomena Records Collection</span><span class="citation-popover-snippet">National ArchivesUnidentified Anomalous Phenomena Records CollectionOctober 10, 2024 — 24 Apr 2025 — The Unidentified Anomalous Phenomena...</span><span class="citation-popover-meta">Published: October 10, 2024</span></span></span>
+For legacy claims such as the alleged 1933 Magenta crash, this shifts attention away from anecdote and towards documentary evidence. A centralised archive cannot establish that an alleged recovery happened simply by existing, but it can expose whether agencies possess relevant files, reveal chains of [custody]({{ 'custody/' | relative_url }}), identify missing records and make previously scattered material easier for Congress, historians and the public to examine.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Unidentified Anomalous Phenomena Records Collection</span><span class="citation-popover-snippet">National ArchivesUnidentified Anomalous Phenomena Records CollectionOctober 10, 2024 — 24 Apr 2025 — The Unidentified Anomalous Phenomena...</span><span class="citation-popover-meta">Published: October 10, 2024</span></span></span>
 
 ## What records the collection is meant to hold
 
-The UAP Records Collection was created under the UAP records provisions that survived into the National Defense Authorization Act (NDAA) for Fiscal Year 2024. Although the broader UAP Disclosure Act proposed in 2023 was significantly reduced during negotiations, Congress retained the requirement for a government-wide archive managed by NARA. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nyujlpp.org/wp-content/uploads/2025/03/JLPP-27-2-Yang.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nyujlpp.org">[nyujlpp.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nyujlpp.org</span><span class="citation-popover-snippet">ional Archives and Records Administration (“NARA”)...</span></span></span>
+The UAP Records Collection was created under the UAP records provisions that survived into the National Defense Authorization Act (NDAA) for Fiscal Year 2024. Although the broader UAP Disclosure Act proposed in 2023 was significantly reduced during negotiations, Congress retained the requirement for a government-wide archive managed by NARA.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nyujlpp.org/wp-content/uploads/2025/03/JLPP-27-2-Yang.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nyujlpp.org">[nyujlpp.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nyujlpp.org</span><span class="citation-popover-snippet">ional Archives and Records Administration (“NARA”)...</span></span></span>
 
 Under NARA's guidance, the collection is intended to contain copies of:
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Government records relating to unidentified anomalous phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[archives.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Unidentified Anomalous Phenomena Records Collection</span><span class="citation-popover-snippet">National ArchivesUnidentified Anomalous Phenomena Records CollectionOctober 10, 2024 — 24 Apr 2025 — The Unidentified Anomalous Phenomena...</span><span class="citation-popover-meta">Published: October 10, 2024</span></span></span>
+* Government records relating to unidentified anomalous phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[archives.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Unidentified Anomalous Phenomena Records Collection</span><span class="citation-popover-snippet">National ArchivesUnidentified Anomalous Phenomena Records CollectionOctober 10, 2024 — 24 Apr 2025 — The Unidentified Anomalous Phenomena...</span><span class="citation-popover-meta">Published: October 10, 2024</span></span></span>
 * Government-funded or government-provided records on UAP.
 * Records concerning technologies of unknown origin.
 * Records concerning non-human intelligence, or equivalent terminology used in government documentation.
-* Material transferred from all relevant federal agencies into a dedicated archival collection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Unidentified Anomalous Phenomena Records Collection</span><span class="citation-popover-snippet">National ArchivesUnidentified Anomalous Phenomena Records CollectionOctober 10, 2024 — 24 Apr 2025 — The Unidentified Anomalous Phenomena...</span><span class="citation-popover-meta">Published: October 10, 2024</span></span></span>
+* Material transferred from all relevant federal agencies into a dedicated archival collection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Unidentified Anomalous Phenomena Records Collection</span><span class="citation-popover-snippet">National ArchivesUnidentified Anomalous Phenomena Records CollectionOctober 10, 2024 — 24 Apr 2025 — The Unidentified Anomalous Phenomena...</span><span class="citation-popover-meta">Published: October 10, 2024</span></span></span>
 
 </div>
 
-Importantly, the collection is not limited to famous UFO incidents. It is structured around records management rather than around particular cases. Agencies are expected to identify relevant records wherever they exist in their own holdings and transmit copies into Record Group (RG) 615, the archival group created specifically for the UAP Records Collection. NARA has stated that new material will be added on a rolling basis as agencies complete identification and transfer work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has issued guidance to federal agencies...</span></span></span>
+Importantly, the collection is not limited to famous UFO incidents. It is structured around records management rather than around particular cases. Agencies are expected to identify relevant records wherever they exist in their own holdings and transmit copies into Record Group (RG) 615, the archival group created specifically for the UAP Records Collection. NARA has stated that new material will be added on a rolling basis as agencies complete identification and transfer work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has issued guidance to federal agencies...</span></span></span>
 
-This architecture reflects the model previously used for the JFK Assassination Records Collection, where documents from numerous agencies were gathered into a single searchable location without requiring every originating record to leave its original archival context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/jfk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives The President John F</span><span class="citation-popover-snippet">Kennedy Assassination Records...February 26, 2025 — The National Archives began a concerted effort to digitize all records in the Presid...</span><span class="citation-popover-meta">Published: February 26, 2025</span></span></span>
+This architecture reflects the model previously used for the JFK Assassination Records Collection, where documents from numerous agencies were gathered into a single searchable location without requiring every originating record to leave its original archival context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/jfk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives The President John F</span><span class="citation-popover-snippet">Kennedy Assassination Records...February 26, 2025 — The National Archives began a concerted effort to digitize all records in the Presid...</span><span class="citation-popover-meta">Published: February 26, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MN4g2aEBxdQ" title="UFO file release February 2010" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MN4g2aEBxdQ" target="_blank" rel="noopener noreferrer">UFO file release February 2010</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 454.7K &middot; Uploaded: February 2010 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MN4g2aEBxdQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MN4g2aEBxdQ">Open on YouTube</a></p></div></div></div>
@@ -335,7 +335,7 @@ These "[metadata]({{ 'metadata/' | relative_url }})" records may appear mundane,
 
 For example, if an intelligence agency claimed to have transferred files relating to an alleged foreign recovery into another archive, historians could attempt to reconstruct that pathway even if the substantive documents remained classified or were missing. Conversely, if no custody trail exists where one would reasonably be expected, that absence becomes relevant evidence, although not definitive proof that an event never occurred.
 
-This is why the archive is potentially valuable even if it never produces a single document explicitly confirming a crash retrieval. It allows researchers to test claims against the documented behaviour of government record-keeping. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has issued guidance to federal agencies...</span></span></span>
+This is why the archive is potentially valuable even if it never produces a single document explicitly confirming a crash retrieval. It allows researchers to test claims against the documented behaviour of government record-keeping.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has issued guidance to federal agencies...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b_nara_uap_collection_5204cf-Illustration-2-dark.svg" | relative_url }}" alt="NARA Search illustration 2" data-theme-src-dark="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b_nara_uap_collection_5204cf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b_nara_uap_collection_5204cf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -387,7 +387,7 @@ Likewise, the discovery of historical references to a claimed crash would not it
 
 The practical success of the collection depends less on NARA than on the agencies supplying material.
 
-NARA's role is primarily archival. It issues records-management guidance, receives transferred records, organises them into Record Group 615 and publishes releasable material through the National Archives Catalog. The originating agencies remain responsible for identifying relevant records, reviewing classification issues and transmitting copies to the collection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has issued guidance to federal agencies...</span></span></span>
+NARA's role is primarily archival. It issues records-management guidance, receives transferred records, organises them into Record Group 615 and publishes releasable material through the National Archives Catalog. The originating agencies remain responsible for identifying relevant records, reviewing classification issues and transmitting copies to the collection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has issued guidance to federal agencies...</span></span></span>
 
 This creates several implementation challenges:
 
@@ -412,181 +412,181 @@ Within debates over the alleged Magenta crash, the NARA UAP Records Collection r
 
 Its greatest value lies in replacing speculation about hidden files with a structured process for identifying what federal agencies acknowledge possessing. As additional Record Group 615 material becomes available, researchers can compare newly released documents with longstanding crash-retrieval narratives, evaluate documentary chains of custody and distinguish between claims supported by archival evidence and those resting solely on later testimony.
 
-Whether the archive ultimately strengthens or weakens particular legacy cases, it establishes a common evidential baseline. Instead of asking only whether extraordinary claims are true, investigators can increasingly ask a more historically tractable question: what records can actually be shown to exist, how did they enter government custody, and what do they genuinely say? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Unidentified Anomalous Phenomena Records Collection</span><span class="citation-popover-snippet">National ArchivesUnidentified Anomalous Phenomena Records CollectionOctober 10, 2024 — 24 Apr 2025 — The Unidentified Anomalous Phenomena...</span><span class="citation-popover-meta">Published: October 10, 2024</span></span></span>
+Whether the archive ultimately strengthens or weakens particular legacy cases, it establishes a common evidential baseline. Instead of asking only whether extraordinary claims are true, investigators can increasingly ask a more historically tractable question: what records can actually be shown to exist, how did they enter government custody, and what do they genuinely say?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Unidentified Anomalous Phenomena Records Collection</span><span class="citation-popover-snippet">National ArchivesUnidentified Anomalous Phenomena Records CollectionOctober 10, 2024 — 24 Apr 2025 — The Unidentified Anomalous Phenomena...</span><span class="citation-popover-meta">Published: October 10, 2024</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can archives test old UAP claims?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can archives test old UAP claims?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Connects archival records with UAP investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects archival records with UAP investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Discusses record access and transparency.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses record access and transparency.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages evidence-based interpretation of records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evidence-based interpretation of records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Archives+Laura+Millar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Archives on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12755577-M.jpg" alt="Cover for Archives" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Archives+Laura+Millar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Archives">Archives</a>
-        </h4>
-        <p class="fr-book-author">By Laura Millar</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Archives+Laura+Millar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Archives on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12755577-M.jpg" alt="Cover for Archives" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Archives+Laura+Millar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Archives">Archives</a>
+</h4>
+<p class="fr-book-author">By Laura Millar</p>
         
-        <p class="fr-book-desc">First published 2010. Subjects: Management, Cataloging, Archival materials, Administration, Collection and preservation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Archives+Laura+Millar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2010. Subjects: Management, Cataloging, Archival materials, Administration, Collection and preservation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Archives+Laura+Millar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="{{ '/assets/images/marketplace-covers/74ea261e7342b39a92bd.jpg' | relative_url }}" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="{{ '/assets/images/marketplace-covers/74ea261e7342b39a92bd.jpg' | relative_url }}" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="nara-search-can-archives-test-old-uap-claims-alleged-magenta-ufo-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -602,7 +602,7 @@ Whether the archive ultimately strengthens or weakens particular legacy cases, i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -622,7 +622,7 @@ Whether the archive ultimately strengthens or weakens particular legacy cases, i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -654,7 +654,7 @@ Whether the archive ultimately strengthens or weakens particular legacy cases, i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -706,7 +706,7 @@ Whether the archive ultimately strengthens or weakens particular legacy cases, i
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -751,7 +751,7 @@ Whether the archive ultimately strengthens or weakens particular legacy cases, i
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -792,128 +792,128 @@ Whether the archive ultimately strengthens or weakens particular legacy cases, i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Unidentified Anomalous Phenomena Records Collection  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/faqs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUnidentified Anomalous Phenomena Records CollectionOctober 10, 2024 — 24 Apr 2025 — The Unidentified Anomalous Phenomena...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/faqs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUnidentified Anomalous Phenomena Records CollectionOctober 10, 2024 — 24 Apr 2025 — The Unidentified Anomalous Phenomena...</p></details>
    Published: October 10, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has issued guidance to federal agencies...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has issued guidance to federal agencies...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nyujlpp.org  
-   Link: <a href="https://nyujlpp.org/wp-content/uploads/2025/03/JLPP-27-2-Yang.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nyujlpp.org/wp-content/uploads/2025/03/JLPP-27-2-Yang.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ional Archives and Records Administration (“NARA”)...</p></details>
+   Link:<a href="https://nyujlpp.org/wp-content/uploads/2025/03/JLPP-27-2-Yang.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nyujlpp.org/wp-content/uploads/2025/03/JLPP-27-2-Yang.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ional Archives and Records Administration (“NARA”)...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-615" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-615</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecord Group 615: Unidentified Anomalous Phenomena...NARA issued guidance to federal agencies regarding identification...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/rg-615" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-615</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecord Group 615: Unidentified Anomalous Phenomena...NARA issued guidance to federal agencies regarding identification...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archives.gov  
    Title: National Archives The President John F  
-   Link: <a href="https://www.archives.gov/research/jfk" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/jfk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kennedy Assassination Records...February 26, 2025 — The National Archives began a concerted effort to digitize all records in the Presid...</p></details>
+   Link:<a href="https://www.archives.gov/research/jfk" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/jfk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kennedy Assassination Records...February 26, 2025 — The National Archives began a concerted effort to digitize all records in the Presid...</p></details>
    Published: February 26, 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
    Title: nr25 07  
-   Link: <a href="https://www.archives.gov/press/press-releases/2025/nr25-07" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/press/press-releases/2025/nr25-07</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesNational Archives Releases UAP Records24 Apr 2025 — The National Archives and Records Administration (NARA) today releas...</p></details>
+   Link:<a href="https://www.archives.gov/press/press-releases/2025/nr25-07" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/press/press-releases/2025/nr25-07</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesNational Archives Releases UAP Records24 Apr 2025 — The National Archives and Records Administration (NARA) today releas...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>to make a definitive determination on the nature of the observed phenomena.Read more...</p></details>
+   Link:<a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to make a definitive determination on the nature of the observed phenomena.Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: war.gov  
    Title: department of war releases unidentified anomalous phenomena files in historic t  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of War Releases Unidentified Anomalous...8 May 2026 — Today, the Department of War announced the initial release of new, neve...</p></details>
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of War Releases Unidentified Anomalous...8 May 2026 — Today, the Department of War announced the initial release of new, neve...</p></details>
    Published: May 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: [aaro](&#123;&#123; 'aaro/' | relative_url &#125;&#125;). mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — In August 2025, AARO sponsored a workshop on UAP Narrative Data, Infrastructures, and Analysis in partne...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — In August 2025, AARO sponsored a workshop on UAP Narrative Data, Infrastructures, and Analysis in partne...</p></details>
    Published: August 2025  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: analytics.usa.gov  
-   Link: <a href="https://analytics.usa.gov/data/national-archives-records-administration/top-10000-pages-and-screens-30-days.csv" target="_blank" rel="noopener noreferrer nofollow">https://analytics.usa.gov/data/national-archives-records-administration/top-10000-pages-and-screens-30-days.csv</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives&quot;,www.archives.gov,/founding-docs/declaration-transcript,454265 Main Area,vetrecs.archives.gov,/veteranrequest/pg/landin...</p></details>
+   Link:<a href="https://analytics.usa.gov/data/national-archives-records-administration/top-10000-pages-and-screens-30-days.csv" target="_blank" rel="noopener noreferrer nofollow">https://analytics.usa.gov/data/national-archives-records-administration/top-10000-pages-and-screens-30-days.csv</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives&quot;,www.archives.gov,/founding-docs/declaration-transcript,454265 Main Area,vetrecs.archives.gov,/veteranrequest/pg/landin...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nextgov.com  
    Title: national archives tees new rules ufo records  
-   Link: <a href="https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives tees up new rules for UFO records6 Feb 2024 — New legislation mandates a governmentwide repository of records dealing w...</p></details>
+   Link:<a href="https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives tees up new rules for UFO records6 Feb 2024 — New legislation mandates a governmentwide repository of records dealing w...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Fp5hRKyvVLY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Fp5hRKyvVLY</a>  
+   Link:<a href="https://www.youtube.com/watch?v=Fp5hRKyvVLY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Fp5hRKyvVLY</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: meritalk.com  
    Title: nara starting work on ufo records repository  
-   Link: <a href="https://www.meritalk.com/articles/nara-starting-work-on-ufo-records-repository/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/nara-starting-work-on-ufo-records-repository/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>27 Feb 2024 — Federal agencies must begin reviewing, identifying, and organizing records relating to unidentified anomalous phenomena (UA...</p></details>
+   Link:<a href="https://www.meritalk.com/articles/nara-starting-work-on-ufo-records-repository/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/nara-starting-work-on-ufo-records-repository/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>27 Feb 2024 — Federal agencies must begin reviewing, identifying, and organizing records relating to unidentified anomalous phenomena (UA...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=AzPKcQEBoiY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AzPKcQEBoiY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Road to Disclosure FULL SHOW | Reality Check with Ross Coulthart...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AzPKcQEBoiY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AzPKcQEBoiY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Road to Disclosure FULL SHOW | Reality Check with Ross Coulthart...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nsa.gov  
    Title: Helpful Links  
-   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/Unidentified-Flying-Objects-UFOs/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/Unidentified-Flying-Objects-UFOs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NSA FOIA - Frequently Requested InformationThese historical documents are PDF images of formerly classified carbon paper and reports that...</p></details>
+   Link:<a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/Unidentified-Flying-Objects-UFOs/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/Unidentified-Flying-Objects-UFOs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NSA FOIA - Frequently Requested InformationThese historical documents are PDF images of formerly classified carbon paper and reports that...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Terrifying PROOF the Military Has Encountered UFOS  
-   Link: <a href="https://www.youtube.com/watch?v=OeVExwui-Hs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OeVExwui-Hs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ross Coulthart Q&amp;A: Obama&#x27;s UFO flip-flop, reptilians and consciousness | Reality Check...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OeVExwui-Hs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OeVExwui-Hs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ross Coulthart Q&amp;A: Obama&#x27;s UFO flip-flop, reptilians and consciousness | Reality Check...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Unpacking the UAP Disclosure Act: Versions, Passage & Political Pushback  
-   Link: <a href="https://www.youtube.com/watch?v=8bBM9_9jn30" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8bBM9_9jn30</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Terrifying PROOF the Military Has Encountered UFOS...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8bBM9_9jn30" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8bBM9_9jn30</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Terrifying PROOF the Military Has Encountered UFOS...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: President John F. Kennedy Assassination Records Collection Act of 1992  
-   Link: <a href="https://en.wikipedia.org/wiki/President_John_F._Kennedy_Assassination_Records_Collection_Act_of_1992" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/President_John_F._Kennedy_Assassination_Records_Collection_Act_of_1992</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/President_John_F._Kennedy_Assassination_Records_Collection_Act_of_1992" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/President_John_F._Kennedy_Assassination_Records_Collection_Act_of_1992</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Road to Disclosure FULL SHOW | Reality Check with Ross Coulthart  
-   Link: <a href="https://www.youtube.com/watch?v=wAur0awdEjw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wAur0awdEjw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO file release February 2010...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wAur0awdEjw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wAur0awdEjw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO file release February 2010...</p></details>
    Published: February 2010  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: National Defense Authorization Act for Fiscal Year 2024  
-   Link: <a href="https://en.wikipedia.org/wiki/National_Defense_Authorization_Act_for_Fiscal_Year_2024" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Defense_Authorization_Act_for_Fiscal_Year_2024</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/National_Defense_Authorization_Act_for_Fiscal_Year_2024" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Defense_Authorization_Act_for_Fiscal_Year_2024</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=MN4g2aEBxdQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MN4g2aEBxdQ</a>  
+   Link:<a href="https://www.youtube.com/watch?v=MN4g2aEBxdQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MN4g2aEBxdQ</a>  
    Published: February 2010  

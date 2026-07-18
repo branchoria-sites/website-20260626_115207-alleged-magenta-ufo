@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /alleged-magenta-ufo-7bc4e9-witness/
 description: Focused pages that expand on Witnesses.
-date: '2026-06-26'
+date: '2026'
 layout: default
 parent_basename: Alleged_Magenta_ufo_7bc4e9_witness_problem_6214cd
 parent_title: Witnesses
@@ -16,7 +16,7 @@ parent_permalink: /witnesses/
 
 # Explore Topics in Witnesses
 
-The following pages expand on the main **[Witnesses]({{ '/witnesses/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Witnesses]({{ '/witnesses/' | relative_url }})** page and cover its key branches in.
 
 - [Family Chain]({{ '/family-chain/' | relative_url }})
 - [Local Silence]({{ '/local-silence/' | relative_url }})

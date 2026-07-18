@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /alleged-magenta-ufo-7bc4e9-index/
 description: Focused pages that expand on Alleged Magenta UFO.
-date: '2026-06-26'
+date: '2026'
 layout: default
 parent_basename: Alleged_Magenta_ufo_7bc4e9
 parent_title: Alleged Magenta UFO
@@ -16,7 +16,7 @@ parent_permalink: /alleged-magenta-ufo/
 
 # Explore Topics in Alleged Magenta UFO
 
-The following pages expand on the main **[Alleged Magenta UFO]({{ '/alleged-magenta-ufo/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Alleged Magenta UFO]({{ '/alleged-magenta-ufo/' | relative_url }})** page and cover its key branches in.
 
 - [AARO]({{ '/aaro/' | relative_url }})
 - [Bodies Claim]({{ '/bodies-claim/' | relative_url }})
