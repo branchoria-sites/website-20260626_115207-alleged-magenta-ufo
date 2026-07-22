@@ -345,7 +345,7 @@ As a result, the distinction between 1944 and 1945 is more than a minor dating d
           <a href="https://www.amazon.com/s?k=The+Second+World+War+Antony+Beevor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Second World War">The Second World War</a>
         </h4>
         <p class="fr-book-author">By Antony Beevor</p>
-        
+
         <p class="fr-book-desc">Places the Italian campaign and late-war operations into the wider strategic context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Second+World+War+Antony+Beevor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -362,7 +362,7 @@ As a result, the distinction between 1944 and 1945 is more than a minor dating d
           <a href="https://www.amazon.com/s?k=The+Liberation+Trilogy+Boxed+Set+Rick+Atkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Liberation Trilogy Boxed Set">The Liberation Trilogy Boxed Set</a>
         </h4>
         <p class="fr-book-author">By Rick Atkinson</p>
-        
+
         <p class="fr-book-desc">Covers the broader Allied campaigns in North Africa, Italy, and Western Europe, helping readers understand operational timelines.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Liberation+Trilogy+Boxed+Set+Rick+Atkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +379,7 @@ As a result, the distinction between 1944 and 1945 is more than a minor dating d
           <a href="https://www.amazon.com/s?k=UFOs+and+Government+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
         </h4>
         <p class="fr-book-author">By Michael D. Swords</p>
-        
+
         <p class="fr-book-desc">Offers historical methodology and documentary context useful when assessing alleged government retrieval narratives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+and+Government+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ As a result, the distinction between 1944 and 1945 is more than a minor dating d
           <a href="https://www.amazon.com/s?k=The+Day+of+Battle+Rick+Atkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day of Battle">The Day of Battle</a>
         </h4>
         <p class="fr-book-author">By Rick Atkinson</p>
-        
+
         <p class="fr-book-desc">Explains the Allied campaign in Italy through 1944, providing the military context needed to assess the claimed timeline.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Day+of+Battle+Rick+Atkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

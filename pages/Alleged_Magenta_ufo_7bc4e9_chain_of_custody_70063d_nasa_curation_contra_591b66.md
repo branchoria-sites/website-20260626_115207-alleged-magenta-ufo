@@ -386,7 +386,7 @@ Applied to the alleged Magenta wreckage, this comparison shifts the central ques
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
 </h4>
 <p class="fr-book-author">By Carl Sagan</p>
-        
+
 <p class="fr-book-desc">Explains why extraordinary claims require rigorous evidence and documentation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ Applied to the alleged Magenta wreckage, this comparison shifts the central ques
 <a href="https://www.amazon.com/s?k=The+Scientific+Sherlock+Holmes%3A+Cracking+the+Case+with+Science+and+Forensics+James+O%27brien&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scientific Sherlock Holmes: Cracking the Case with Science and Forensics">The Scientific Sherlock Holmes: Cracking the Case with Scienc...</a>
 </h4>
 <p class="fr-book-author">By James O&#x27;brien</p>
-        
+
 <p class="fr-book-desc">First published 2017. Subjects: Forensic sciences, Chemistry, forensic, Criminal investigation, Detective and mystery stories, history an...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Scientific+Sherlock+Holmes%3A+Cracking+the+Case+with+Science+and+Forensics+James+O%27brien&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ Applied to the alleged Magenta wreckage, this comparison shifts the central ques
 <a href="https://www.amazon.com/s?k=Astrobiology+David+Catling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Astrobiology">Astrobiology</a>
 </h4>
 <p class="fr-book-author">By David Catling</p>
-        
+
 <p class="fr-book-desc">First published 2013. Subjects: Exobiology, Popular works, Astrobiologie, Popular Science and Mathematics.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Astrobiology+David+Catling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -437,7 +437,7 @@ Applied to the alleged Magenta wreckage, this comparison shifts the central ques
 <a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Packing for Mars">Packing for Mars</a>
 </h4>
 <p class="fr-book-author">By Mary Roach</p>
-        
+
 <p class="fr-book-desc">Explains the practical realities of space missions, handling procedures, and scientific operations that contrast with unsupported claims.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

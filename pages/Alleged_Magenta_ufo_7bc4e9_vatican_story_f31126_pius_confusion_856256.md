@@ -362,7 +362,7 @@ If a source cannot correctly identify which pope occupied the Vatican during the
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Supports evaluating contradictions such as confusion between Pius XI and Pius XII as evidence quality issues.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +379,7 @@ If a source cannot correctly identify which pope occupied the Vatican during the
           <a href="https://www.amazon.com/s?k=The+Pope+and+Mussolini+David+I.+Kertzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pope and Mussolini">The Pope and Mussolini</a>
         </h4>
         <p class="fr-book-author">By David I. Kertzer</p>
-        
+
         <p class="fr-book-desc">Provides historical context for distinguishing Pius XI from Pius XII in the 1933 timeline.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Pope+and+Mussolini+David+I.+Kertzer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ If a source cannot correctly identify which pope occupied the Vatican during the
           <a href="https://www.amazon.com/s?k=Pope+at+War+David+I.+Kertzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pope at War">Pope at War</a>
         </h4>
         <p class="fr-book-author">By David I. Kertzer</p>
-        
+
         <p class="fr-book-desc">Explores Pius XII&#x27;s wartime role, directly informing claims tied to the alleged 1944–1945 events.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Pope+at+War+David+I.+Kertzer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -413,7 +413,7 @@ If a source cannot correctly identify which pope occupied the Vatican during the
           <a href="https://www.amazon.com/s?k=Hitler%27s+Pope%3A+The+Secret+History+of+Pius+XII+John+Cornwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hitler&#x27;s Pope: The Secret History of Pius XII">Hitler&#x27;s Pope: The Secret History of Pius XII</a>
         </h4>
         <p class="fr-book-author">By John Cornwell</p>
-        
+
         <p class="fr-book-desc">Helps readers understand why Pius XII is central to wartime Vatican narratives and historical debate.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Hitler%27s+Pope%3A+The+Secret+History+of+Pius+XII+John+Cornwell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

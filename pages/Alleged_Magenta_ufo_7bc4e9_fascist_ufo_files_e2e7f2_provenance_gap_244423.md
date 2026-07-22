@@ -442,8 +442,8 @@ Equally, the gap prevents the papers from being treated as securely authenticate
           <a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides examples of stronger and weaker forms of documentary support for UFO claims.</p>
+
+        <p class="fr-book-desc">NEW YORK TIMES BESTSELLER • Impeccably researched, this riveting journalistic investigation separates fact from fiction, and documents th...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -459,7 +459,7 @@ Equally, the gap prevents the papers from being treated as securely authenticate
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Provides examples of stronger and weaker forms of documentary support for UFO claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -476,7 +476,7 @@ Equally, the gap prevents the papers from being treated as securely authenticate
           <a href="https://www.amazon.com/s?k=A+Manual+for+Writers+of+Research+Papers%2C+Theses%2C+and+Dissertations%2C+Ninth+Edition+Kate+L.+Turabian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Manual for Writers of Research Papers, Theses, and Dissertations, Ninth Edition">A Manual for Writers of Research Papers, Theses, and Disserta...</a>
         </h4>
         <p class="fr-book-author">By Kate L. Turabian, Wayne C. Booth et al.</p>
-        
+
         <p class="fr-book-desc">First published 2018. Subjects: Dissertations, academic, Academic writing, Academic writing--handbooks, manuals, etc, Dissertations, acad...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Manual+for+Writers+of+Research+Papers%2C+Theses%2C+and+Dissertations%2C+Ninth+Edition+Kate+L.+Turabian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -487,16 +487,16 @@ Equally, the gap prevents the papers from being treated as securely authenticate
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Archives+Laura+Millar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Archives on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12755577-M.jpg" alt="Cover for Archives" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Skeptic%27s+Guide+to+the+Universe+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptic&#x27;s Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Archives+Laura+Millar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Archives">Archives</a>
+          <a href="https://www.amazon.com/s?k=The+Skeptic%27s+Guide+to+the+Universe+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptic&#x27;s Guide to the Universe">The Skeptic&#x27;s Guide to the Universe</a>
         </h4>
-        <p class="fr-book-author">By Laura Millar</p>
-        
-        <p class="fr-book-desc">First published 2010. Subjects: Management, Cataloging, Archival materials, Administration, Collection and preservation.</p>
+        <p class="fr-book-author">By Steven Novella</p>
+
+        <p class="fr-book-desc">Shows how extraordinary claims should be assessed using evidence and source quality.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Archives+Laura+Millar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Skeptic%27s+Guide+to+the+Universe+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

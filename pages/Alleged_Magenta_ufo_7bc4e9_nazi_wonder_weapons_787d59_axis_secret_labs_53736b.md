@@ -409,7 +409,7 @@ As a result, the secret-lab motif is best understood as a mechanism that increas
           <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
         </h4>
         <p class="fr-book-author">By Nick Cook</p>
-        
+
         <p class="fr-book-desc">Directly fits the secret-research motif that makes Magenta-style stories feel plausible.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ As a result, the secret-lab motif is best understood as a mechanism that increas
           <a href="https://www.amazon.com/s?k=Operation+paperclip+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation paperclip">Operation paperclip</a>
         </h4>
         <p class="fr-book-author">By Annie Jacobsen</p>
-        
+
         <p class="fr-book-desc">Gives a real historical foundation for secret laboratories, captured expertise, and Cold War technical secrecy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Operation+paperclip+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -443,7 +443,7 @@ As a result, the secret-lab motif is best understood as a mechanism that increas
           <a href="https://www.amazon.com/s?k=Secret+Weapons+of+World+War+II+William+B.+Breuer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Secret Weapons of World War II">Secret Weapons of World War II</a>
         </h4>
         <p class="fr-book-author">By William B. Breuer</p>
-        
+
         <p class="fr-book-desc">Covers real and rumoured weapons programmes that create the backdrop for secret-lab storytelling.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Secret+Weapons+of+World+War+II+William+B.+Breuer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -460,7 +460,7 @@ As a result, the secret-lab motif is best understood as a mechanism that increas
           <a href="https://www.amazon.com/s?k=Most+secret+war+Jones%2C+R.+V.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Most secret war">Most secret war</a>
         </h4>
         <p class="fr-book-author">By Jones, R. V.</p>
-        
+
         <p class="fr-book-desc">Shows how real classified scientific intelligence operated, helping distinguish atmosphere from proof.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Most+secret+war+Jones%2C+R.+V.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

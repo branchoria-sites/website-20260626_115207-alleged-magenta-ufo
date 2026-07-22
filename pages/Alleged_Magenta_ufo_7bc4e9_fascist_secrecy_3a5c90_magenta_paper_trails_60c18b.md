@@ -412,7 +412,7 @@ For this reason, debates over the Magenta incident increasingly focus less on wh
           <a href="https://www.amazon.com/s?k=Area+51+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
         </h4>
         <p class="fr-book-author">By Annie Jacobsen</p>
-        
+
         <p class="fr-book-desc">Provides context for how classified military activities leave archival and bureaucratic footprints despite secrecy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Area+51+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -429,7 +429,7 @@ For this reason, debates over the Magenta incident increasingly focus less on wh
           <a href="https://www.amazon.com/s?k=Skunk+Works+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
         </h4>
         <p class="fr-book-author">By Leo Janos, Ben R. Rich</p>
-        
+
         <p class="fr-book-desc">Explains how highly secret projects still generate logistics, documentation, and organizational structures.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Skunk+Works+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -446,7 +446,7 @@ For this reason, debates over the Magenta incident increasingly focus less on wh
           <a href="https://www.amazon.com/s?k=How+we+know+what+isn%27t+so+Thomas+Gilovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How we know what isn&#x27;t so">How we know what isn&#x27;t so</a>
         </h4>
         <p class="fr-book-author">By Thomas Gilovich</p>
-        
+
         <p class="fr-book-desc">Helps readers evaluate extraordinary historical claims using evidence and reasoning rather than anecdote.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=How+we+know+what+isn%27t+so+Thomas+Gilovich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -463,7 +463,7 @@ For this reason, debates over the Magenta incident increasingly focus less on wh
           <a href="https://www.amazon.com/s?k=The+pursuit+of+Italy+Gilmour%2C+David&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pursuit of Italy">The pursuit of Italy</a>
         </h4>
         <p class="fr-book-author">By Gilmour, David</p>
-        
+
         <p class="fr-book-desc">Supplies historical context for Italian state institutions and the Fascist period relevant to evaluating the claim.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+pursuit+of+Italy+Gilmour%2C+David&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

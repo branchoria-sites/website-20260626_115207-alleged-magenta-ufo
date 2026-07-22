@@ -370,7 +370,7 @@ The aircraft's design can be traced to documented research beginning in 1931, it
           <a href="https://www.amazon.com/s?k=Skunk+Works+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
         </h4>
         <p class="fr-book-author">By Leo Janos, Ben R. Rich</p>
-        
+
         <p class="fr-book-desc">Shows how revolutionary aerospace technologies are documented and engineered.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Skunk+Works+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ The aircraft's design can be traced to documented research beginning in 1931, it
           <a href="https://www.amazon.com/s?k=The+Illustrated+Encyclopedia+of+Aircraft+David+Mondey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Illustrated Encyclopedia of Aircraft">The Illustrated Encyclopedia of Aircraft</a>
         </h4>
         <p class="fr-book-author">By David Mondey</p>
-        
+
         <p class="fr-book-desc">Places the motorjet experiment among other aircraft innovations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Illustrated+Encyclopedia+of+Aircraft+David+Mondey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ The aircraft's design can be traced to documented research beginning in 1931, it
           <a href="https://www.amazon.com/s?k=The+jet+race+and+the+Second+World+War+Sterling+Michael+Pavelec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The jet race and the Second World War">The jet race and the Second World War</a>
         </h4>
         <p class="fr-book-author">By Sterling Michael Pavelec</p>
-        
+
         <p class="fr-book-desc">Explains genuine jet and reaction-propulsion development without resorting to speculative origins.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+jet+race+and+the+Second+World+War+Sterling+Michael+Pavelec&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ The aircraft's design can be traced to documented research beginning in 1931, it
           <a href="https://www.amazon.com/s?k=Italian+civil+and+military+aircraft%2C+1930-1945+Jonathan+W.+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Italian civil and military aircraft, 1930-1945">Italian civil and military aircraft, 1930-1945</a>
         </h4>
         <p class="fr-book-author">By Jonathan W. Thompson</p>
-        
+
         <p class="fr-book-desc">Directly covers the Caproni Campini N.1 and its documented development.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Italian+civil+and+military+aircraft%2C+1930-1945+Jonathan+W.+Thompson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

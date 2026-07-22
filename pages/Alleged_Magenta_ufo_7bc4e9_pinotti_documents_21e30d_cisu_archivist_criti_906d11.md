@@ -372,7 +372,7 @@ As a result, Carucci's assessment continues to occupy a distinctive place in the
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Supports the evidential mindset needed when assessing extraordinary historical claims and disputed documents.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ As a result, Carucci's assessment continues to occupy a distinctive place in the
           <a href="https://www.amazon.com/s?k=Understanding+archives+and+manuscripts+James+M.+O%27Toole&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding archives and manuscripts">Understanding archives and manuscripts</a>
         </h4>
         <p class="fr-book-author">By James M. O&#x27;Toole, Richard J. Cox</p>
-        
+
         <p class="fr-book-desc">Covers archival principles that distinguish trustworthy records from isolated documents.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Understanding+archives+and+manuscripts+James+M.+O%27Toole&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ As a result, Carucci's assessment continues to occupy a distinctive place in the
           <a href="https://www.amazon.com/s?k=How+to+Lie+with+Maps+Mark+Monmonier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Maps">How to Lie with Maps</a>
         </h4>
         <p class="fr-book-author">By Mark Monmonier</p>
-        
+
         <p class="fr-book-desc">Encourages careful evaluation of documentary evidence and illustrates how authoritative-looking sources can mislead.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=How+to+Lie+with+Maps+Mark+Monmonier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -423,7 +423,7 @@ As a result, Carucci's assessment continues to occupy a distinctive place in the
           <a href="https://www.amazon.com/s?k=Archives+Laura+Millar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Archives">Archives</a>
         </h4>
         <p class="fr-book-author">By Laura Millar</p>
-        
+
         <p class="fr-book-desc">First published 2010. Subjects: Management, Cataloging, Archival materials, Administration, Collection and preservation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Archives+Laura+Millar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

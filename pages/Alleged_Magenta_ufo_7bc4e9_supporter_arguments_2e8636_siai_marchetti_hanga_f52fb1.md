@@ -377,7 +377,7 @@ Beyond that point, however, the argument reaches its evidential limit. The real 
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Helps distinguish logistical possibility from historical evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ Beyond that point, however, the argument reaches its evidential limit. The real 
           <a href="https://www.amazon.com/s?k=Skunk+Works+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
         </h4>
         <p class="fr-book-author">By Leo Janos, Ben R. Rich</p>
-        
+
         <p class="fr-book-desc">Illustrates how genuine secret aerospace projects are documented and managed.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Skunk+Works+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ Beyond that point, however, the argument reaches its evidential limit. The real 
           <a href="https://www.amazon.com/s?k=Jane%27s+Fighting+Aircraft+of+World+War+II+Leonard+Bridgman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jane&#x27;s Fighting Aircraft of World War II">Jane&#x27;s Fighting Aircraft of World War II</a>
         </h4>
         <p class="fr-book-author">By Leonard Bridgman</p>
-        
+
         <p class="fr-book-desc">Explains aircraft facilities and capabilities during the period.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Jane%27s+Fighting+Aircraft+of+World+War+II+Leonard+Bridgman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -428,7 +428,7 @@ Beyond that point, however, the argument reaches its evidential limit. The real 
           <a href="https://www.amazon.com/s?k=Mussolini%27s+Italy+R.+J.+B.+Bosworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mussolini&#x27;s Italy">Mussolini&#x27;s Italy</a>
         </h4>
         <p class="fr-book-author">By R. J. B. Bosworth</p>
-        
+
         <p class="fr-book-desc">Places industrial aviation sites within Fascist Italy&#x27;s political setting.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mussolini%27s+Italy+R.+J.+B.+Bosworth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

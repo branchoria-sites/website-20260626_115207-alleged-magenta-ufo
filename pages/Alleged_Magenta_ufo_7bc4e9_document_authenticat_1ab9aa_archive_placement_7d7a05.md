@@ -396,7 +396,7 @@ Within debates over the [alleged Magenta UFO]({{ 'alleged-magenta-ufo/' | relati
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Encourages evidence-based evaluation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -413,7 +413,7 @@ Within debates over the [alleged Magenta UFO]({{ 'alleged-magenta-ufo/' | relati
           <a href="https://www.amazon.com/s?k=Archives+Laura+Millar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Archives">Archives</a>
         </h4>
         <p class="fr-book-author">By Laura Millar</p>
-        
+
         <p class="fr-book-desc">First published 2010. Subjects: Management, Cataloging, Archival materials, Administration, Collection and preservation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Archives+Laura+Millar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -430,7 +430,7 @@ Within debates over the [alleged Magenta UFO]({{ 'alleged-magenta-ufo/' | relati
           <a href="https://www.amazon.com/s?k=Forged+Bart+D.+Ehrman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forged">Forged</a>
         </h4>
         <p class="fr-book-author">By Bart D. Ehrman, Bart D. Ehrman</p>
-        
+
         <p class="fr-book-desc">First published 2011. Subjects: Controversial literature, Authorship, Criticism, interpretation, Bible, Evidences, authority.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Forged+Bart+D.+Ehrman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -447,7 +447,7 @@ Within debates over the [alleged Magenta UFO]({{ 'alleged-magenta-ufo/' | relati
           <a href="https://www.amazon.com/s?k=Forged%3A+Writing+in+the+Name+of+God+Bart+D.+Ehrman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forged: Writing in the Name of God">Forged: Writing in the Name of God</a>
         </h4>
         <p class="fr-book-author">By Bart D. Ehrman</p>
-        
+
         <p class="fr-book-desc">Relevant to assessing document origins.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Forged%3A+Writing+in+the+Name+of+God+Bart+D.+Ehrman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

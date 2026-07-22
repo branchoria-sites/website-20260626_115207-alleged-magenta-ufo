@@ -412,7 +412,7 @@ For that reason, careful analysis should distinguish between what the earliest a
           <a href="https://www.amazon.com/s?k=They+Are+Already+Here+Sarah+Scoles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Are Already Here">They Are Already Here</a>
         </h4>
         <p class="fr-book-author">By Sarah Scoles</p>
-        
+
         <p class="fr-book-desc">Directly examines how culture, media, and language shape perceptions of UFO reports.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=They+Are+Already+Here+Sarah+Scoles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -429,7 +429,7 @@ For that reason, careful analysis should distinguish between what the earliest a
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Contrasts evidence-based reporting with speculation, complementing discussion of wording and interpretation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -446,7 +446,7 @@ For that reason, careful analysis should distinguish between what the earliest a
           <a href="https://www.amazon.com/s?k=Is+That+a+Fish+in+Your+Ear%3F+David+Bellos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Is That a Fish in Your Ear?">Is That a Fish in Your Ear?</a>
         </h4>
         <p class="fr-book-author">By David Bellos</p>
-        
+
         <p class="fr-book-desc">Explains how translation choices alter meaning, supporting the article&#x27;s discussion of translation drift.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Is+That+a+Fish+in+Your+Ear%3F+David+Bellos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -463,7 +463,7 @@ For that reason, careful analysis should distinguish between what the earliest a
           <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
         </h4>
         <p class="fr-book-author">By Jerome Clark</p>
-        
+
         <p class="fr-book-desc">Provides broad context for famous UFO cases, including how reports and narratives evolve over time.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -396,7 +396,7 @@ For that reason, the resemblance between Die Glocke and Magenta is best understo
           <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
         </h4>
         <p class="fr-book-author">By Nick Cook</p>
-        
+
         <p class="fr-book-desc">Popularised Die Glocke for English-speaking readers and directly addresses the anti-gravity legend.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -413,7 +413,7 @@ For that reason, the resemblance between Die Glocke and Magenta is best understo
           <a href="https://www.amazon.com/s?k=Operation+paperclip+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation paperclip">Operation paperclip</a>
         </h4>
         <p class="fr-book-author">By Annie Jacobsen</p>
-        
+
         <p class="fr-book-desc">Explains the documented post-war transfer framework often used to extend Die Glocke-style narratives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Operation+paperclip+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -430,7 +430,7 @@ For that reason, the resemblance between Die Glocke and Magenta is best understo
           <a href="https://www.amazon.com/s?k=The+Truth+About+The+Wunderwaffe+Igor+Witkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Truth About The Wunderwaffe">The Truth About The Wunderwaffe</a>
         </h4>
         <p class="fr-book-author">By Igor Witkowski</p>
-        
+
         <p class="fr-book-desc">A key source associated with modern Die Glocke claims and the wonder-weapon mythology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Truth+About+The+Wunderwaffe+Igor+Witkowski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -447,7 +447,7 @@ For that reason, the resemblance between Die Glocke and Magenta is best understo
           <a href="https://www.amazon.com/s?k=Secret+Weapons+of+World+War+II+William+B.+Breuer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Secret Weapons of World War II">Secret Weapons of World War II</a>
         </h4>
         <p class="fr-book-author">By William B. Breuer</p>
-        
+
         <p class="fr-book-desc">Provides a broader wonder-weapons shelf to compare legendary devices with documented programmes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Secret+Weapons+of+World+War+II+William+B.+Breuer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

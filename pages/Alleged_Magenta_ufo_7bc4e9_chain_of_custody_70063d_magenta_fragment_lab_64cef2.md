@@ -415,7 +415,7 @@ Absent those elements, a laboratory could still analyse the material's compositi
 <a href="https://www.amazon.com/s?k=Criminalistics+An+Introduction+to+Forensic+Science+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Criminalistics An Introduction to Forensic Science">Criminalistics An Introduction to Forensic Science</a>
 </h4>
 <p class="fr-book-author">By Richard Saferstein</p>
-        
+
 <p class="fr-book-desc">First published 2014. Subjects: Criminal investigation, Medical jurisprudence, Chemistry, forensic, Forensic ballistics, Forensic Chemistry.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Criminalistics+An+Introduction+to+Forensic+Science+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -432,7 +432,7 @@ Absent those elements, a laboratory could still analyse the material's compositi
 <a href="https://www.amazon.com/s?k=Forensic+examination+of+glass+and+paint+Brian+Caddy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic examination of glass and paint">Forensic examination of glass and paint</a>
 </h4>
 <p class="fr-book-author">By Brian Caddy</p>
-        
+
 <p class="fr-book-desc">First published 2001. Subjects: Paint, Criminal investigation, Identification, Glass, Forensic sciences.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Forensic+examination+of+glass+and+paint+Brian+Caddy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -449,7 +449,7 @@ Absent those elements, a laboratory could still analyse the material's compositi
 <a href="https://www.amazon.com/s?k=Forensic+science+Stuart+H.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic science">Forensic science</a>
 </h4>
 <p class="fr-book-author">By Stuart H. James, Jon J. Nordby</p>
-        
+
 <p class="fr-book-desc">First published 2002. Subjects: Forensic sciences, Forensische wetenschappen, Handbooks, manuals, Crime laboratories, Criminal Evidence.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Forensic+science+Stuart+H.+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -466,7 +466,7 @@ Absent those elements, a laboratory could still analyse the material's compositi
 <a href="https://www.amazon.com/s?k=Materials+Characterization+Yang+Leng&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Materials Characterization">Materials Characterization</a>
 </h4>
 <p class="fr-book-author">By Yang Leng</p>
-        
+
 <p class="fr-book-desc">First published 2009. Subjects: Materials, Textbooks, Analysis.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Materials+Characterization+Yang+Leng&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

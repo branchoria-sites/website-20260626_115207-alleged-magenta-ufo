@@ -387,16 +387,16 @@ As a result, Fascist media control remains an important part of the internal log
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rise+and+Fall+of+the+Third+Reich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rise and Fall of the Third Reich on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14368440-M.jpg" alt="Cover for The Rise and Fall of the Third Reich" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rise+and+Fall+of+the+Third+Reich+William+L.+Shirer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rise and Fall of the Third Reich on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6558536-M.jpg" alt="Cover for The Rise and Fall of the Third Reich" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Rise+and+Fall+of+the+Third+Reich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rise and Fall of the Third Reich">The Rise and Fall of the Third Reich</a>
+          <a href="https://www.amazon.com/s?k=The+Rise+and+Fall+of+the+Third+Reich+William+L.+Shirer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rise and Fall of the Third Reich">The Rise and Fall of the Third Reich</a>
         </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
+        <p class="fr-book-author">By William L. Shirer</p>
+
         <p class="fr-book-desc">Provides accessible background on how authoritarian governments controlled information and maintained state secrecy.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Rise+and+Fall+of+the+Third+Reich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Rise+and+Fall+of+the+Third+Reich+William+L.+Shirer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -410,7 +410,7 @@ As a result, Fascist media control remains an important part of the internal log
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
         </h4>
         <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
         <p class="fr-book-desc">Offers a balanced framework for evaluating UFO claims apart from unsupported secrecy arguments.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,7 +427,7 @@ As a result, Fascist media control remains an important part of the internal log
           <a href="https://www.amazon.com/s?k=The+Ministry+of+Truth+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ministry of Truth">The Ministry of Truth</a>
         </h4>
         <p class="fr-book-author">By Dorian Lynskey</p>
-        
+
         <p class="fr-book-desc">Helps readers understand how censorship and managed narratives function in authoritarian systems.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Ministry+of+Truth+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -444,7 +444,7 @@ As a result, Fascist media control remains an important part of the internal log
           <a href="https://www.amazon.com/s?k=Mussolini%27s+Italy+R.+J.+B.+Bosworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mussolini&#x27;s Italy">Mussolini&#x27;s Italy</a>
         </h4>
         <p class="fr-book-author">By R. J. B. Bosworth</p>
-        
+
         <p class="fr-book-desc">Directly explains the institutions, censorship, policing and political culture discussed on the page.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mussolini%27s+Italy+R.+J.+B.+Bosworth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

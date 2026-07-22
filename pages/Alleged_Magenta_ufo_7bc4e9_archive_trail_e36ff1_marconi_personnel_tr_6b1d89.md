@@ -412,7 +412,7 @@ For that reason, Marconi's documented movements, correspondence and institutiona
 <a href="https://www.amazon.com/s?k=The+Search+for+the+%22Manchurian+Candidate%22+by+John+Marks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Search for the &quot;Manchurian Candidate&quot;">The Search for the &quot;Manchurian Candidate&quot;</a>
 </h4>
 <p class="fr-book-author">By John Marks</p>
-        
+
 <p class="fr-book-desc">Illustrates how historians reconstruct covert programs through documentary records rather than unsupported assertions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Search+for+the+%22Manchurian+Candidate%22+by+John+Marks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -429,7 +429,7 @@ For that reason, Marconi's documented movements, correspondence and institutiona
 <a href="https://www.amazon.com/s?k=The+pursuit+of+Italy+Gilmour%2C+David&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pursuit of Italy">The pursuit of Italy</a>
 </h4>
 <p class="fr-book-author">By Gilmour, David</p>
-        
+
 <p class="fr-book-desc">First published 2011. Subjects: Civilization, History, Italy, history, Italy, civilization.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+pursuit+of+Italy+Gilmour%2C+David&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -446,7 +446,7 @@ For that reason, Marconi's documented movements, correspondence and institutiona
 <a href="https://www.amazon.com/s?k=Mussolini%27s+Italy+R.+J.+B.+Bosworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mussolini&#x27;s Italy">Mussolini&#x27;s Italy</a>
 </h4>
 <p class="fr-book-author">By R. J. B. Bosworth</p>
-        
+
 <p class="fr-book-desc">First published 2005. Subjects: Fascism, History, Nonfiction, Politics, Mussolini, Benito, 1883-1945.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Mussolini%27s+Italy+R.+J.+B.+Bosworth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -463,7 +463,7 @@ For that reason, Marconi's documented movements, correspondence and institutiona
 <a href="https://www.amazon.com/s?k=Marconi+Marc+Raboy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Marconi">Marconi</a>
 </h4>
 <p class="fr-book-author">By Marc Raboy</p>
-        
+
 <p class="fr-book-desc">First published 2016. Subjects: Radio, Wireless Telegraph, Marconi system, History, Electrical engineers.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Marconi+Marc+Raboy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

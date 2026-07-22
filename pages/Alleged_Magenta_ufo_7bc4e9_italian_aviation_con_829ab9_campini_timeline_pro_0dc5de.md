@@ -380,7 +380,7 @@ Because these milestones either pre-date or naturally follow from work already i
           <a href="https://www.amazon.com/s?k=Jet+Propulsion+Nicholas+Cumpsty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jet Propulsion">Jet Propulsion</a>
         </h4>
         <p class="fr-book-author">By Nicholas Cumpsty</p>
-        
+
         <p class="fr-book-desc">Provides the engineering background needed to understand why documented pre-war jet research weakens claims of sudden alien-derived innov...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Jet+Propulsion+Nicholas+Cumpsty&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ Because these milestones either pre-date or naturally follow from work already i
           <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
         </h4>
         <p class="fr-book-author">By Nick Cook</p>
-        
+
         <p class="fr-book-desc">Provides broad context for evaluating extraordinary claims about hidden aerospace breakthroughs and alleged recovered technology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +414,7 @@ Because these milestones either pre-date or naturally follow from work already i
           <a href="https://www.amazon.com/s?k=Skunk+Works+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
         </h4>
         <p class="fr-book-author">By Leo Janos, Ben R. Rich</p>
-        
+
         <p class="fr-book-desc">Illustrates how genuine breakthrough aircraft programs develop through documented engineering rather than unexplained technological leaps.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Skunk+Works+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -431,7 +431,7 @@ Because these milestones either pre-date or naturally follow from work already i
           <a href="https://www.amazon.com/s?k=Ignition%21+John+D.+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ignition!">Ignition!</a>
         </h4>
         <p class="fr-book-author">By John D. Clark</p>
-        
+
         <p class="fr-book-desc">First published 1972. Subjects: Liquid propellants, solid propellants, rocket fuel, Rocketry, chemistry.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ignition%21+John+D.+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

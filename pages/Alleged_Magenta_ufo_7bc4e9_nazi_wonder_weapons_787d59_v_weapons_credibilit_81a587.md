@@ -373,7 +373,7 @@ Within the broader Magenta narrative, this is the principal relevance of the V-w
           <a href="https://www.amazon.com/s?k=Operation+paperclip+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation paperclip">Operation paperclip</a>
         </h4>
         <p class="fr-book-author">By Annie Jacobsen</p>
-        
+
         <p class="fr-book-desc">Shows how real rocket scientists moved into American programmes, a key reason V-weapons fuel later myths.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Operation+paperclip+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ Within the broader Magenta narrative, this is the principal relevance of the V-w
           <a href="https://www.amazon.com/s?k=Secret+Weapons+of+World+War+II+William+B.+Breuer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Secret Weapons of World War II">Secret Weapons of World War II</a>
         </h4>
         <p class="fr-book-author">By William B. Breuer</p>
-        
+
         <p class="fr-book-desc">Frames V-weapons among real secret weapons, helping separate documented breakthroughs from flying-saucer claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Secret+Weapons+of+World+War+II+William+B.+Breuer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ Within the broader Magenta narrative, this is the principal relevance of the V-w
           <a href="https://www.amazon.com/s?k=The+Rocket+and+the+Reich+Michael+J.+Neufeld&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rocket and the Reich">The Rocket and the Reich</a>
         </h4>
         <p class="fr-book-author">By Michael J. Neufeld</p>
-        
+
         <p class="fr-book-desc">Directly explains the documented rocket programme that later fed exaggerated super-technology claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Rocket+and+the+Reich+Michael+J.+Neufeld&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

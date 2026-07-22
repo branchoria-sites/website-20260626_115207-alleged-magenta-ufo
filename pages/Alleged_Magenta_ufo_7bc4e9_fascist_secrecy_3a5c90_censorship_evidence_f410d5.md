@@ -387,7 +387,7 @@ As matters currently stand, censorship provides a credible mechanism by which in
 <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
 </h4>
 <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
-        
+
 <p class="fr-book-desc">Provides practical tools for evaluating evidence, uncertainty, and unsupported claims.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ As matters currently stand, censorship provides a credible mechanism by which in
 <a href="https://www.amazon.com/s?k=How+to+think+about+weird+things+Theodore+Schick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to think about weird things">How to think about weird things</a>
 </h4>
 <p class="fr-book-author">By Theodore Schick, Lewis Vaughn et al.</p>
-        
+
 <p class="fr-book-desc">First published 1994. Subjects: Critical thinking, Curiosities and wonders, Mind, body, spirit: disciplines &amp; techniques, Parapsychology,...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=How+to+think+about+weird+things+Theodore+Schick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ As matters currently stand, censorship provides a credible mechanism by which in
 <a href="https://www.amazon.com/s?k=Mussolini%27s+Italy+R.+J.+B.+Bosworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mussolini&#x27;s Italy">Mussolini&#x27;s Italy</a>
 </h4>
 <p class="fr-book-author">By R. J. B. Bosworth</p>
-        
+
 <p class="fr-book-desc">First published 2005. Subjects: Fascism, History, Nonfiction, Politics, Mussolini, Benito, 1883-1945.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Mussolini%27s+Italy+R.+J.+B.+Bosworth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -438,7 +438,7 @@ As matters currently stand, censorship provides a credible mechanism by which in
 <a href="https://www.amazon.com/s?k=Voodoo+Histories%3A+The+Role+of+the+Conspiracy+Theory+in+Shaping+Modern+History+David+Aaronovitch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Voodoo Histories: The Role of the Conspiracy Theory in Shaping Modern History">Voodoo Histories: The Role of the Conspiracy Theory in Shapin...</a>
 </h4>
 <p class="fr-book-author">By David Aaronovitch</p>
-        
+
 <p class="fr-book-desc">First published 2010. Subjects: New York Times reviewed, Conspiracies.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Voodoo+Histories%3A+The+Role+of+the+Conspiracy+Theory+in+Shaping+Modern+History+David+Aaronovitch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

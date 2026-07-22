@@ -373,7 +373,7 @@ The aviation district therefore contributes an important but limited insight int
           <a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean</p>
-        
+
         <p class="fr-book-desc">Provides context for evaluating UFO crash claims alongside documented military and aviation cases.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ The aviation district therefore contributes an important but limited insight int
           <a href="https://www.amazon.com/s?k=The+Believing+Brain+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
         </h4>
         <p class="fr-book-author">By Michael Shermer</p>
-        
+
         <p class="fr-book-desc">Explains how narratives and assumptions can shape interpretations of historical evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Believing+Brain+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ The aviation district therefore contributes an important but limited insight int
           <a href="https://www.amazon.com/s?k=Italian+civil+and+military+aircraft%2C+1930-1945+Jonathan+W.+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Italian civil and military aircraft, 1930-1945">Italian civil and military aircraft, 1930-1945</a>
         </h4>
         <p class="fr-book-author">By Jonathan W. Thompson</p>
-        
+
         <p class="fr-book-desc">Adds technical and historical context for the aircraft industry that underpins the article&#x27;s discussion of regional aviation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Italian+civil+and+military+aircraft%2C+1930-1945+Jonathan+W.+Thompson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,7 +424,7 @@ The aviation district therefore contributes an important but limited insight int
           <a href="https://www.amazon.com/s?k=Jane%27s+All+The+World%27s+Aircraft%2C+1981-82+John+William+Ransom+Taylor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jane&#x27;s All The World&#x27;s Aircraft, 1981-82">Jane&#x27;s All The World&#x27;s Aircraft, 1981-82</a>
         </h4>
         <p class="fr-book-author">By John William Ransom Taylor, Jane&#x27;s Information Group</p>
-        
+
         <p class="fr-book-desc">First published 1981.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Jane%27s+All+The+World%27s+Aircraft%2C+1981-82+John+William+Ransom+Taylor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
