@@ -395,89 +395,89 @@ At the same time, absence becomes increasingly significant as more independent s
 For that reason, Marconi's documented movements, correspondence and institutional connections remain one of the most important empirical tests of the Magenta story. If future archival discoveries were to reveal consistent, independently verifiable links between his official activities and the alleged recovery programme, they would substantially strengthen the historical case. At present, however, publicly available evidence has not established that wider personnel trail independently of the disputed RS/33 documents themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://it.wikipedia.org/wiki/Incidente_di_Magenta" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Interesting Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente di Magenta</span><span class="citation-popover-snippet">Incidente di Magenta</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Would Marconi&#x27;s Movements Leave Clues?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Would Marconi&#x27;s Movements Leave Clues?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Search+for+the+%22Manchurian+Candidate%22+by+John+Marks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Search for the &quot;Manchurian Candidate&quot; on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GDWHAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Search for the &quot;Manchurian Candidate&quot;" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Search+for+the+%22Manchurian+Candidate%22+by+John+Marks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Search for the &quot;Manchurian Candidate&quot;">The Search for the &quot;Manchurian Candidate&quot;</a>
-</h4>
-<p class="fr-book-author">By John Marks</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Search+for+the+%22Manchurian+Candidate%22+John+Marks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Search for the &quot;Manchurian Candidate&quot; on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GDWHAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Search for the &quot;Manchurian Candidate&quot;" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Search+for+the+%22Manchurian+Candidate%22+John+Marks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Search for the &quot;Manchurian Candidate&quot;">The Search for the &quot;Manchurian Candidate&quot;</a>
+        </h4>
+        <p class="fr-book-author">By John Marks</p>
 
-<p class="fr-book-desc">Illustrates how historians reconstruct covert programs through documentary records rather than unsupported assertions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Search+for+the+%22Manchurian+Candidate%22+by+John+Marks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Illustrates how historians reconstruct covert programs through documentary records rather than unsupported assertions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Search+for+the+%22Manchurian+Candidate%22+John+Marks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+pursuit+of+Italy+Gilmour%2C+David&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The pursuit of Italy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10991844-M.jpg" alt="Cover for The pursuit of Italy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+pursuit+of+Italy+Gilmour%2C+David&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pursuit of Italy">The pursuit of Italy</a>
-</h4>
-<p class="fr-book-author">By Gilmour, David</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Marconi%3A+The+Man+Who+Networked+the+World+Marc+Raboy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Marconi: The Man Who Networked the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13055883-M.jpg" alt="Cover for Marconi: The Man Who Networked the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Marconi%3A+The+Man+Who+Networked+the+World+Marc+Raboy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Marconi: The Man Who Networked the World">Marconi: The Man Who Networked the World</a>
+        </h4>
+        <p class="fr-book-author">By Marc Raboy</p>
 
-<p class="fr-book-desc">First published 2011. Subjects: Civilization, History, Italy, history, Italy, civilization.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+pursuit+of+Italy+Gilmour%2C+David&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides authoritative coverage of Marconi&#x27;s activities, travels, correspondence, and historical context relevant to evaluating claims ab...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Marconi%3A+The+Man+Who+Networked+the+World+Marc+Raboy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mussolini%27s+Italy+R.+J.+B.+Bosworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mussolini&#x27;s Italy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/452475-M.jpg" alt="Cover for Mussolini&#x27;s Italy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Mussolini%27s+Italy+R.+J.+B.+Bosworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mussolini&#x27;s Italy">Mussolini&#x27;s Italy</a>
-</h4>
-<p class="fr-book-author">By R. J. B. Bosworth</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pursuit+of+Italy%3A+A+History+of+a+Land%2C+Its+Regions%2C+and+Their+Peoples+Gilmour%2C+David&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pursuit of Italy: A History of a Land, Its Regions, and Their Peoples on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10991844-M.jpg" alt="Cover for The Pursuit of Italy: A History of a Land, Its Regions, and Their Peoples" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Pursuit+of+Italy%3A+A+History+of+a+Land%2C+Its+Regions%2C+and+Their+Peoples+Gilmour%2C+David&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pursuit of Italy: A History of a Land, Its Regions, and Their Peoples">The Pursuit of Italy: A History of a Land, Its Regions, and T...</a>
+        </h4>
+        <p class="fr-book-author">By Gilmour, David</p>
 
-<p class="fr-book-desc">First published 2005. Subjects: Fascism, History, Nonfiction, Politics, Mussolini, Benito, 1883-1945.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Mussolini%27s+Italy+R.+J.+B.+Bosworth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides historical context for Fascist Italy, government institutions, and elite networks surrounding Marconi&#x27;s era.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Pursuit+of+Italy%3A+A+History+of+a+Land%2C+Its+Regions%2C+and+Their+Peoples+Gilmour%2C+David&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Marconi+Marc+Raboy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Marconi on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13055883-M.jpg" alt="Cover for Marconi" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Marconi+Marc+Raboy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Marconi">Marconi</a>
-</h4>
-<p class="fr-book-author">By Marc Raboy</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mussolini%27s+Italy%3A+Life+Under+the+Fascist+Dictatorship%2C+1915-1945+R.+J.+B.+Bosworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mussolini&#x27;s Italy: Life Under the Fascist Dictatorship, 1915-1945 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/452475-M.jpg" alt="Cover for Mussolini&#x27;s Italy: Life Under the Fascist Dictatorship, 1915-1945" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Mussolini%27s+Italy%3A+Life+Under+the+Fascist+Dictatorship%2C+1915-1945+R.+J.+B.+Bosworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mussolini&#x27;s Italy: Life Under the Fascist Dictatorship, 1915-1945">Mussolini&#x27;s Italy: Life Under the Fascist Dictatorship, 1915-...</a>
+        </h4>
+        <p class="fr-book-author">By R. J. B. Bosworth</p>
 
-<p class="fr-book-desc">First published 2016. Subjects: Radio, Wireless Telegraph, Marconi system, History, Electrical engineers.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Marconi+Marc+Raboy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains how the Fascist state operated, helping readers assess claims about secret committees and official records.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Mussolini%27s+Italy%3A+Life+Under+the+Fascist+Dictatorship%2C+1915-1945+R.+J.+B.+Bosworth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Search+for+the+%22Manchurian+Candidate%22&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Search for the &quot;Manchurian Candidate&quot;</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+pursuit+of+Italy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The pursuit of Italy</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mussolini%27s+Italy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mussolini&#x27;s Italy</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Search+for+the+%22Manchurian+Candidate%22&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Search for the &quot;Manchurian Candidate&quot;</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Marconi%3A+The+Man+Who+Networked+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Marconi: The Man Who Networked the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pursuit+of+Italy%3A+A+History+of+a+Land%2C+Its+Regions%2C+and+Their+Peoples&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pursuit of Italy: A History of a Land, Its Regions, and Their Peoples</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
