@@ -240,7 +240,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'kona-blue/' | relative_url }}" title="Can Rumour Become Government Process? | Alleged Magenta UFO 7 bc 4 e9 AARO official view" aria-label="Read more about Can Rumour Become Government Process? | Alleged Magenta UFO 7 bc 4 e9 AARO official view">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'kona-blue/' | relative_url }}" title="Can Rumour Become Government Process? | What Official UAP Reviews Mean for Magenta | Alleged Magenta UFO" aria-label="Read more about Can Rumour Become Government Process? | What Official UAP Reviews Mean for Magenta | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -260,7 +260,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'not-proof/' | relative_url }}" title="What AARO Did Not Prove | Alleged Magenta UFO 7 bc 4 e9 AARO official view" aria-label="Read more about What AARO Did Not Prove | Alleged Magenta UFO 7 bc 4 e9 AARO official view">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'not-proof/' | relative_url }}" title="What AARO Did Not Prove | What Official UAP Reviews Mean for Magenta | Alleged Magenta UFO" aria-label="Read more about What AARO Did Not Prove | What Official UAP Reviews Mean for Magenta | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -280,7 +280,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'aaro-tests/' | relative_url }}" title="What Did AARO Actually Check? | Alleged Magenta UFO 7 bc 4 e9 AARO official view" aria-label="Read more about What Did AARO Actually Check? | Alleged Magenta UFO 7 bc 4 e9 AARO official view">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'aaro-tests/' | relative_url }}" title="What Did AARO Actually Check? | What Official UAP Reviews Mean for Magenta | Alleged Magenta UFO" aria-label="Read more about What Did AARO Actually Check? | What Official UAP Reviews Mean for Magenta | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -300,7 +300,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'weak-data/' | relative_url }}" title="When Unidentified Does Not Mean Alien | Alleged Magenta UFO 7 bc 4 e9 AARO official view" aria-label="Read more about When Unidentified Does Not Mean Alien | Alleged Magenta UFO 7 bc 4 e9 AARO official view">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'weak-data/' | relative_url }}" title="When Unidentified Does Not Mean Alien | What Official UAP Reviews Mean for Magenta | Alleged Magenta UFO" aria-label="Read more about When Unidentified Does Not Mean Alien | What Official UAP Reviews Mean for Magenta | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -320,7 +320,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'custody-trail/' | relative_url }}" title="Where Would a Hidden Craft Leave Traces? | Alleged Magenta UFO 7 bc 4 e9 AARO official view" aria-label="Read more about Where Would a Hidden Craft Leave Traces? | Alleged Magenta UFO 7 bc 4 e9 AARO official view">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'custody-trail/' | relative_url }}" title="Where Would a Hidden Craft Leave Traces? | What Official UAP Reviews Mean for Magenta | Alleged Magenta UFO" aria-label="Read more about Where Would a Hidden Craft Leave Traces? | What Official UAP Reviews Mean for Magenta | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -340,7 +340,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'nasa-standard/' | relative_url }}" title="Why NASA Starts With Better Data | Alleged Magenta UFO 7 bc 4 e9 AARO official view" aria-label="Read more about Why NASA Starts With Better Data | Alleged Magenta UFO 7 bc 4 e9 AARO official view">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'nasa-standard/' | relative_url }}" title="Why NASA Starts With Better Data | What Official UAP Reviews Mean for Magenta | Alleged Magenta UFO" aria-label="Read more about Why NASA Starts With Better Data | What Official UAP Reviews Mean for Magenta | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -384,7 +384,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'vergiate-trail/' | relative_url }}" title="Could Vergiate Hide a Secret Craft? | Alleged Magenta UFO 7 bc 4 e9 archive trail" aria-label="Read more about Could Vergiate Hide a Secret Craft? | Alleged Magenta UFO 7 bc 4 e9 archive trail">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'vergiate-trail/' | relative_url }}" title="Could Vergiate Hide a Secret Craft? | What Records Should a Real Recovery Leave? | Alleged Magenta UFO" aria-label="Read more about Could Vergiate Hide a Secret Craft? | What Records Should a Real Recovery Leave? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -404,7 +404,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'rs-33-fit/' | relative_url }}" title="Does Cabinet RS/33 Behave Like a Real File? | Alleged Magenta UFO 7 bc 4 e9 archive trail" aria-label="Read more about Does Cabinet RS/33 Behave Like a Real File? | Alleged Magenta UFO 7 bc 4 e9 archive trail">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'rs-33-fit/' | relative_url }}" title="Does Cabinet RS/33 Behave Like a Real File? | What Records Should a Real Recovery Leave? | Alleged Magenta UFO" aria-label="Read more about Does Cabinet RS/33 Behave Like a Real File? | What Records Should a Real Recovery Leave? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -424,7 +424,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'budget-clues/' | relative_url }}" title="Follow the Money in the Magenta Story | Alleged Magenta UFO 7 bc 4 e9 archive trail" aria-label="Read more about Follow the Money in the Magenta Story | Alleged Magenta UFO 7 bc 4 e9 archive trail">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'budget-clues/' | relative_url }}" title="Follow the Money in the Magenta Story | What Records Should a Real Recovery Leave? | Alleged Magenta UFO" aria-label="Read more about Follow the Money in the Magenta Story | What Records Should a Real Recovery Leave? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -444,7 +444,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'site-orders/' | relative_url }}" title="What Magenta Site Orders Should Have Left | Alleged Magenta UFO 7 bc 4 e9 archive trail" aria-label="Read more about What Magenta Site Orders Should Have Left | Alleged Magenta UFO 7 bc 4 e9 archive trail">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'site-orders/' | relative_url }}" title="What Magenta Site Orders Should Have Left | What Records Should a Real Recovery Leave? | Alleged Magenta UFO" aria-label="Read more about What Magenta Site Orders Should Have Left | What Records Should a Real Recovery Leave? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -464,7 +464,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'press-blackout/' | relative_url }}" title="Where Would a News Blackout Appear? | Alleged Magenta UFO 7 bc 4 e9 archive trail" aria-label="Read more about Where Would a News Blackout Appear? | Alleged Magenta UFO 7 bc 4 e9 archive trail">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'press-blackout/' | relative_url }}" title="Where Would a News Blackout Appear? | What Records Should a Real Recovery Leave? | Alleged Magenta UFO" aria-label="Read more about Where Would a News Blackout Appear? | What Records Should a Real Recovery Leave? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -484,7 +484,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'personnel-trail/' | relative_url }}" title="Would Marconi&#x27;s Movements Leave Clues? | Alleged Magenta UFO 7 bc 4 e9 archive trail" aria-label="Read more about Would Marconi&#x27;s Movements Leave Clues? | Alleged Magenta UFO 7 bc 4 e9 archive trail">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'personnel-trail/' | relative_url }}" title="Would Marconi's Movements Leave Clues? | What Records Should a Real Recovery Leave? | Alleged Magenta UFO" aria-label="Read more about Would Marconi's Movements Leave Clues? | What Records Should a Real Recovery Leave? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -528,7 +528,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'paper-tests-e8ef43/' | relative_url }}" title="Can old paper prove a UFO claim? | Alleged Magenta UFO 7 bc 4 e9 document authenticat" aria-label="Read more about Can old paper prove a UFO claim? | Alleged Magenta UFO 7 bc 4 e9 document authenticat">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'paper-tests-e8ef43/' | relative_url }}" title="Can old paper prove a UFO claim? | How Can Old UFO Documents Be Tested? | Alleged Magenta UFO" aria-label="Read more about Can old paper prove a UFO claim? | How Can Old UFO Documents Be Tested? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -548,7 +548,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'archive-fit/' | relative_url }}" title="Does the document belong where it was found? | Alleged Magenta UFO 7 bc 4 e9 document authenticat" aria-label="Read more about Does the document belong where it was found? | Alleged Magenta UFO 7 bc 4 e9 document authenticat">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'archive-fit/' | relative_url }}" title="Does the document belong where it was found? | How Can Old UFO Documents Be Tested? | Alleged Magenta UFO" aria-label="Read more about Does the document belong where it was found? | How Can Old UFO Documents Be Tested? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -568,7 +568,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mj-12-lessons/' | relative_url }}" title="How fake UFO memos get tested | Alleged Magenta UFO 7 bc 4 e9 document authenticat" aria-label="Read more about How fake UFO memos get tested | Alleged Magenta UFO 7 bc 4 e9 document authenticat">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mj-12-lessons/' | relative_url }}" title="How fake UFO memos get tested | How Can Old UFO Documents Be Tested? | Alleged Magenta UFO" aria-label="Read more about How fake UFO memos get tested | How Can Old UFO Documents Be Tested? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -588,7 +588,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'blue-book/' | relative_url }}" title="What real UFO archives look like | Alleged Magenta UFO 7 bc 4 e9 document authenticat" aria-label="Read more about What real UFO archives look like | Alleged Magenta UFO 7 bc 4 e9 document authenticat">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'blue-book/' | relative_url }}" title="What real UFO archives look like | How Can Old UFO Documents Be Tested? | Alleged Magenta UFO" aria-label="Read more about What real UFO archives look like | How Can Old UFO Documents Be Tested? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -608,7 +608,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'record-echoes/' | relative_url }}" title="Where a real recovery should leave traces | Alleged Magenta UFO 7 bc 4 e9 document authenticat" aria-label="Read more about Where a real recovery should leave traces | Alleged Magenta UFO 7 bc 4 e9 document authenticat">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'record-echoes/' | relative_url }}" title="Where a real recovery should leave traces | How Can Old UFO Documents Be Tested? | Alleged Magenta UFO" aria-label="Read more about Where a real recovery should leave traces | How Can Old UFO Documents Be Tested? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -628,7 +628,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'anonymous-papers/' | relative_url }}" title="Why anonymous UFO papers are harder to trust | Alleged Magenta UFO 7 bc 4 e9 document authenticat" aria-label="Read more about Why anonymous UFO papers are harder to trust | Alleged Magenta UFO 7 bc 4 e9 document authenticat">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'anonymous-papers/' | relative_url }}" title="Why anonymous UFO papers are harder to trust | How Can Old UFO Documents Be Tested? | Alleged Magenta UFO" aria-label="Read more about Why anonymous UFO papers are harder to trust | How Can Old UFO Documents Be Tested? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -672,7 +672,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'factory-gap/' | relative_url }}" title="Did aircraft factories leave any trace? | Alleged Magenta UFO 7 bc 4 e9 italian aviation con" aria-label="Read more about Did aircraft factories leave any trace? | Alleged Magenta UFO 7 bc 4 e9 italian aviation con">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'factory-gap/' | relative_url }}" title="Did aircraft factories leave any trace? | Did Italian Aviation Make Magenta Seem Plausible? | Alleged Magenta UFO" aria-label="Read more about Did aircraft factories leave any trace? | Did Italian Aviation Make Magenta Seem Plausible? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -692,7 +692,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'timeline-gap/' | relative_url }}" title="The timeline problem for alien jet claims | Alleged Magenta UFO 7 bc 4 e9 italian aviation con" aria-label="Read more about The timeline problem for alien jet claims | Alleged Magenta UFO 7 bc 4 e9 italian aviation con">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'timeline-gap/' | relative_url }}" title="The timeline problem for alien jet claims | Did Italian Aviation Make Magenta Seem Plausible? | Alleged Magenta UFO" aria-label="Read more about The timeline problem for alien jet claims | Did Italian Aviation Make Magenta Seem Plausible? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -712,7 +712,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'n-1-myth/' | relative_url }}" title="Was Italy&#x27;s strange jet really alien technology? | Alleged Magenta UFO 7 bc 4 e9 italian aviation con" aria-label="Read more about Was Italy&#x27;s strange jet really alien technology? | Alleged Magenta UFO 7 bc 4 e9 italian aviation con">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'n-1-myth/' | relative_url }}" title="Was Italy's strange jet really alien technology? | Did Italian Aviation Make Magenta Seem Plausible? | Alleged Magenta UFO" aria-label="Read more about Was Italy's strange jet really alien technology? | Did Italian Aviation Make Magenta Seem Plausible? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -732,7 +732,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-trail/' | relative_url }}" title="What evidence would a real programme leave? | Alleged Magenta UFO 7 bc 4 e9 italian aviation con" aria-label="Read more about What evidence would a real programme leave? | Alleged Magenta UFO 7 bc 4 e9 italian aviation con">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-trail/' | relative_url }}" title="What evidence would a real programme leave? | Did Italian Aviation Make Magenta Seem Plausible? | Alleged Magenta UFO" aria-label="Read more about What evidence would a real programme leave? | Did Italian Aviation Make Magenta Seem Plausible? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -752,7 +752,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'guidonia/' | relative_url }}" title="What Guidonia proves, and what it does not | Alleged Magenta UFO 7 bc 4 e9 italian aviation con" aria-label="Read more about What Guidonia proves, and what it does not | Alleged Magenta UFO 7 bc 4 e9 italian aviation con">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'guidonia/' | relative_url }}" title="What Guidonia proves, and what it does not | Did Italian Aviation Make Magenta Seem Plausible? | Alleged Magenta UFO" aria-label="Read more about What Guidonia proves, and what it does not | Did Italian Aviation Make Magenta Seem Plausible? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -772,7 +772,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'balbo-flights/' | relative_url }}" title="Why Fascist air power made Magenta believable | Alleged Magenta UFO 7 bc 4 e9 italian aviation con" aria-label="Read more about Why Fascist air power made Magenta believable | Alleged Magenta UFO 7 bc 4 e9 italian aviation con">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'balbo-flights/' | relative_url }}" title="Why Fascist air power made Magenta believable | Did Italian Aviation Make Magenta Seem Plausible? | Alleged Magenta UFO" aria-label="Read more about Why Fascist air power made Magenta believable | Did Italian Aviation Make Magenta Seem Plausible? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -816,7 +816,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'aaro-limits/' | relative_url }}" title="Did Official Reviews Validate Alien Bodies? | Alleged Magenta UFO 7 bc 4 e9 alien bodies claims" aria-label="Read more about Did Official Reviews Validate Alien Bodies? | Alleged Magenta UFO 7 bc 4 e9 alien bodies claims">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'aaro-limits/' | relative_url }}" title="Did Official Reviews Validate Alien Bodies? | Did the Magenta Story Add Alien Bodies? | Alleged Magenta UFO" aria-label="Read more about Did Official Reviews Validate Alien Bodies? | Did the Magenta Story Add Alien Bodies? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -836,7 +836,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'source-stacking/' | relative_url }}" title="How Separate Claims Become One Bigger Myth | Alleged Magenta UFO 7 bc 4 e9 alien bodies claims" aria-label="Read more about How Separate Claims Become One Bigger Myth | Alleged Magenta UFO 7 bc 4 e9 alien bodies claims">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'source-stacking/' | relative_url }}" title="How Separate Claims Become One Bigger Myth | Did the Magenta Story Add Alien Bodies? | Alleged Magenta UFO" aria-label="Read more about How Separate Claims Become One Bigger Myth | Did the Magenta Story Add Alien Bodies? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -856,7 +856,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'roswell-pattern/' | relative_url }}" title="What Roswell Teaches About Magenta Bodies | Alleged Magenta UFO 7 bc 4 e9 alien bodies claims" aria-label="Read more about What Roswell Teaches About Magenta Bodies | Alleged Magenta UFO 7 bc 4 e9 alien bodies claims">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'roswell-pattern/' | relative_url }}" title="What Roswell Teaches About Magenta Bodies | Did the Magenta Story Add Alien Bodies? | Alleged Magenta UFO" aria-label="Read more about What Roswell Teaches About Magenta Bodies | Did the Magenta Story Add Alien Bodies? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -876,7 +876,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'evidence-test/' | relative_url }}" title="What Would Count as Real Body Evidence? | Alleged Magenta UFO 7 bc 4 e9 alien bodies claims" aria-label="Read more about What Would Count as Real Body Evidence? | Alleged Magenta UFO 7 bc 4 e9 alien bodies claims">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'evidence-test/' | relative_url }}" title="What Would Count as Real Body Evidence? | Did the Magenta Story Add Alien Bodies? | Alleged Magenta UFO" aria-label="Read more about What Would Count as Real Body Evidence? | Did the Magenta Story Add Alien Bodies? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -896,7 +896,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'witness-trail-ff0923/' | relative_url }}" title="Who Actually Saw Bodies at Magenta? | Alleged Magenta UFO 7 bc 4 e9 alien bodies claims" aria-label="Read more about Who Actually Saw Bodies at Magenta? | Alleged Magenta UFO 7 bc 4 e9 alien bodies claims">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'witness-trail-ff0923/' | relative_url }}" title="Who Actually Saw Bodies at Magenta? | Did the Magenta Story Add Alien Bodies? | Alleged Magenta UFO" aria-label="Read more about Who Actually Saw Bodies at Magenta? | Did the Magenta Story Add Alien Bodies? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -916,7 +916,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'biologics/' | relative_url }}" title="Why Biologics Makes the Story Slippery | Alleged Magenta UFO 7 bc 4 e9 alien bodies claims" aria-label="Read more about Why Biologics Makes the Story Slippery | Alleged Magenta UFO 7 bc 4 e9 alien bodies claims">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'biologics/' | relative_url }}" title="Why Biologics Makes the Story Slippery | Did the Magenta Story Add Alien Bodies? | Alleged Magenta UFO" aria-label="Read more about Why Biologics Makes the Story Slippery | Did the Magenta Story Add Alien Bodies? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -960,7 +960,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'lab-intake/' | relative_url }}" title="Before Testing, Prove the Sample Is Traceable | Alleged Magenta UFO 7 bc 4 e9 chain of custody" aria-label="Read more about Before Testing, Prove the Sample Is Traceable | Alleged Magenta UFO 7 bc 4 e9 chain of custody">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'lab-intake/' | relative_url }}" title="Before Testing, Prove the Sample Is Traceable | How Would Magenta Wreckage Be Verified? | Alleged Magenta UFO" aria-label="Read more about Before Testing, Prove the Sample Is Traceable | How Would Magenta Wreckage Be Verified? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -980,7 +980,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'hangar-records/' | relative_url }}" title="Could a Hangar Story Prove Custody? | Alleged Magenta UFO 7 bc 4 e9 chain of custody" aria-label="Read more about Could a Hangar Story Prove Custody? | Alleged Magenta UFO 7 bc 4 e9 chain of custody">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hangar-records/' | relative_url }}" title="Could a Hangar Story Prove Custody? | How Would Magenta Wreckage Be Verified? | Alleged Magenta UFO" aria-label="Read more about Could a Hangar Story Prove Custody? | How Would Magenta Wreckage Be Verified? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1000,7 +1000,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'transfer-gaps/' | relative_url }}" title="The Wartime Handovers the Story Must Survive | Alleged Magenta UFO 7 bc 4 e9 chain of custody" aria-label="Read more about The Wartime Handovers the Story Must Survive | Alleged Magenta UFO 7 bc 4 e9 chain of custody">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'transfer-gaps/' | relative_url }}" title="The Wartime Handovers the Story Must Survive | How Would Magenta Wreckage Be Verified? | Alleged Magenta UFO" aria-label="Read more about The Wartime Handovers the Story Must Survive | How Would Magenta Wreckage Be Verified? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1020,7 +1020,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'nasa-contrast/' | relative_url }}" title="What Real Extraterrestrial Custody Looks Like | Alleged Magenta UFO 7 bc 4 e9 chain of custody" aria-label="Read more about What Real Extraterrestrial Custody Looks Like | Alleged Magenta UFO 7 bc 4 e9 chain of custody">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'nasa-contrast/' | relative_url }}" title="What Real Extraterrestrial Custody Looks Like | How Would Magenta Wreckage Be Verified? | Alleged Magenta UFO" aria-label="Read more about What Real Extraterrestrial Custody Looks Like | How Would Magenta Wreckage Be Verified? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1040,7 +1040,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'first-custodian/' | relative_url }}" title="Who First Held the Alleged Magenta Wreckage? | Alleged Magenta UFO 7 bc 4 e9 chain of custody" aria-label="Read more about Who First Held the Alleged Magenta Wreckage? | Alleged Magenta UFO 7 bc 4 e9 chain of custody">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'first-custodian/' | relative_url }}" title="Who First Held the Alleged Magenta Wreckage? | How Would Magenta Wreckage Be Verified? | Alleged Magenta UFO" aria-label="Read more about Who First Held the Alleged Magenta Wreckage? | How Would Magenta Wreckage Be Verified? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1060,7 +1060,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'document-limits/' | relative_url }}" title="Why Papers Cannot Carry a Fragment | Alleged Magenta UFO 7 bc 4 e9 chain of custody" aria-label="Read more about Why Papers Cannot Carry a Fragment | Alleged Magenta UFO 7 bc 4 e9 chain of custody">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'document-limits/' | relative_url }}" title="Why Papers Cannot Carry a Fragment | How Would Magenta Wreckage Be Verified? | Alleged Magenta UFO" aria-label="Read more about Why Papers Cannot Carry a Fragment | How Would Magenta Wreckage Be Verified? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1104,7 +1104,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'anonymous-files/' | relative_url }}" title="Can Anonymous Files Carry a Crash Claim? | Alleged Magenta UFO 7 bc 4 e9 physical evidence" aria-label="Read more about Can Anonymous Files Carry a Crash Claim? | Alleged Magenta UFO 7 bc 4 e9 physical evidence">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'anonymous-files/' | relative_url }}" title="Can Anonymous Files Carry a Crash Claim? | Where Is the Magenta UFO Evidence? | Alleged Magenta UFO" aria-label="Read more about Can Anonymous Files Carry a Crash Claim? | Where Is the Magenta UFO Evidence? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1124,7 +1124,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'hangar-trail/' | relative_url }}" title="Could the Vergiate Hangars Prove Anything? | Alleged Magenta UFO 7 bc 4 e9 physical evidence" aria-label="Read more about Could the Vergiate Hangars Prove Anything? | Alleged Magenta UFO 7 bc 4 e9 physical evidence">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hangar-trail/' | relative_url }}" title="Could the Vergiate Hangars Prove Anything? | Where Is the Magenta UFO Evidence? | Alleged Magenta UFO" aria-label="Read more about Could the Vergiate Hangars Prove Anything? | Where Is the Magenta UFO Evidence? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1144,7 +1144,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'custody-trail-559c63/' | relative_url }}" title="The Missing Chain From Crash to Custody | Alleged Magenta UFO 7 bc 4 e9 physical evidence" aria-label="Read more about The Missing Chain From Crash to Custody | Alleged Magenta UFO 7 bc 4 e9 physical evidence">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'custody-trail-559c63/' | relative_url }}" title="The Missing Chain From Crash to Custody | Where Is the Magenta UFO Evidence? | Alleged Magenta UFO" aria-label="Read more about The Missing Chain From Crash to Custody | Where Is the Magenta UFO Evidence? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1164,7 +1164,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'wreckage-samples/' | relative_url }}" title="Where Is the Magenta Wreckage? | Alleged Magenta UFO 7 bc 4 e9 physical evidence" aria-label="Read more about Where Is the Magenta Wreckage? | Alleged Magenta UFO 7 bc 4 e9 physical evidence">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'wreckage-samples/' | relative_url }}" title="Where Is the Magenta Wreckage? | Where Is the Magenta UFO Evidence? | Alleged Magenta UFO" aria-label="Read more about Where Is the Magenta Wreckage? | Where Is the Magenta UFO Evidence? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1184,7 +1184,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'witness-gap/' | relative_url }}" title="Who Actually Saw the Recovery? | Alleged Magenta UFO 7 bc 4 e9 physical evidence" aria-label="Read more about Who Actually Saw the Recovery? | Alleged Magenta UFO 7 bc 4 e9 physical evidence">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'witness-gap/' | relative_url }}" title="Who Actually Saw the Recovery? | Where Is the Magenta UFO Evidence? | Alleged Magenta UFO" aria-label="Read more about Who Actually Saw the Recovery? | Where Is the Magenta UFO Evidence? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1204,7 +1204,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'archive-contrast/' | relative_url }}" title="Why Blue Book Makes Magenta Look Thin | Alleged Magenta UFO 7 bc 4 e9 physical evidence" aria-label="Read more about Why Blue Book Makes Magenta Look Thin | Alleged Magenta UFO 7 bc 4 e9 physical evidence">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'archive-contrast/' | relative_url }}" title="Why Blue Book Makes Magenta Look Thin | Where Is the Magenta UFO Evidence? | Alleged Magenta UFO" aria-label="Read more about Why Blue Book Makes Magenta Look Thin | Where Is the Magenta UFO Evidence? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1248,7 +1248,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'provenance-gap/' | relative_url }}" title="Can the Fascist UFO papers be traced? | Alleged Magenta UFO 7 bc 4 e9 fascist UFO files" aria-label="Read more about Can the Fascist UFO papers be traced? | Alleged Magenta UFO 7 bc 4 e9 fascist UFO files">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'provenance-gap/' | relative_url }}" title="Can the Fascist UFO papers be traced? | What Are the Fascist UFO Files? | Alleged Magenta UFO" aria-label="Read more about Can the Fascist UFO papers be traced? | What Are the Fascist UFO Files? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1268,7 +1268,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'rs-33-test-96d7cf/' | relative_url }}" title="Did Cabinet RS/33 leave real records? | Alleged Magenta UFO 7 bc 4 e9 fascist UFO files" aria-label="Read more about Did Cabinet RS/33 leave real records? | Alleged Magenta UFO 7 bc 4 e9 fascist UFO files">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'rs-33-test-96d7cf/' | relative_url }}" title="Did Cabinet RS/33 leave real records? | What Are the Fascist UFO Files? | Alleged Magenta UFO" aria-label="Read more about Did Cabinet RS/33 leave real records? | What Are the Fascist UFO Files? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1288,7 +1288,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'censorship/' | relative_url }}" title="Did Fascist secrecy make the files believable? | Alleged Magenta UFO 7 bc 4 e9 fascist UFO files" aria-label="Read more about Did Fascist secrecy make the files believable? | Alleged Magenta UFO 7 bc 4 e9 fascist UFO files">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'censorship/' | relative_url }}" title="Did Fascist secrecy make the files believable? | What Are the Fascist UFO Files? | Alleged Magenta UFO" aria-label="Read more about Did Fascist secrecy make the files believable? | What Are the Fascist UFO Files? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1308,7 +1308,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'proof-ladder/' | relative_url }}" title="What the files can and cannot prove | Alleged Magenta UFO 7 bc 4 e9 fascist UFO files" aria-label="Read more about What the files can and cannot prove | Alleged Magenta UFO 7 bc 4 e9 fascist UFO files">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'proof-ladder/' | relative_url }}" title="What the files can and cannot prove | What Are the Fascist UFO Files? | Alleged Magenta UFO" aria-label="Read more about What the files can and cannot prove | What Are the Fascist UFO Files? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1328,7 +1328,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'marconi-anchor/' | relative_url }}" title="Why Marconi&#x27;s name strengthened the story | Alleged Magenta UFO 7 bc 4 e9 fascist UFO files" aria-label="Read more about Why Marconi&#x27;s name strengthened the story | Alleged Magenta UFO 7 bc 4 e9 fascist UFO files">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'marconi-anchor/' | relative_url }}" title="Why Marconi's name strengthened the story | What Are the Fascist UFO Files? | Alleged Magenta UFO" aria-label="Read more about Why Marconi's name strengthened the story | What Are the Fascist UFO Files? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1348,7 +1348,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'old-paper/' | relative_url }}" title="Why old looking UFO files can mislead | Alleged Magenta UFO 7 bc 4 e9 fascist UFO files" aria-label="Read more about Why old looking UFO files can mislead | Alleged Magenta UFO 7 bc 4 e9 fascist UFO files">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'old-paper/' | relative_url }}" title="Why old looking UFO files can mislead | What Are the Fascist UFO Files? | Alleged Magenta UFO" aria-label="Read more about Why old looking UFO files can mislead | What Are the Fascist UFO Files? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1392,7 +1392,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'oversight/' | relative_url }}" title="How a UFO Claim Became an Oversight Fight | Alleged Magenta UFO 7 bc 4 e9 grusch revival" aria-label="Read more about How a UFO Claim Became an Oversight Fight | Alleged Magenta UFO 7 bc 4 e9 grusch revival">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'oversight/' | relative_url }}" title="How a UFO Claim Became an Oversight Fight | How David Grusch Revived the Magenta Case | Alleged Magenta UFO" aria-label="Read more about How a UFO Claim Became an Oversight Fight | How David Grusch Revived the Magenta Case | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1412,7 +1412,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'media-push/' | relative_url }}" title="How Media Coverage Reintroduced Magenta | Alleged Magenta UFO 7 bc 4 e9 grusch revival" aria-label="Read more about How Media Coverage Reintroduced Magenta | Alleged Magenta UFO 7 bc 4 e9 grusch revival">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'media-push/' | relative_url }}" title="How Media Coverage Reintroduced Magenta | How David Grusch Revived the Magenta Case | Alleged Magenta UFO" aria-label="Read more about How Media Coverage Reintroduced Magenta | How David Grusch Revived the Magenta Case | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1432,7 +1432,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'italian-files/' | relative_url }}" title="The Files Behind the Magenta Revival | Alleged Magenta UFO 7 bc 4 e9 grusch revival" aria-label="Read more about The Files Behind the Magenta Revival | Alleged Magenta UFO 7 bc 4 e9 grusch revival">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'italian-files/' | relative_url }}" title="The Files Behind the Magenta Revival | How David Grusch Revived the Magenta Case | Alleged Magenta UFO" aria-label="Read more about The Files Behind the Magenta Revival | How David Grusch Revived the Magenta Case | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1452,7 +1452,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'testimony-limits/' | relative_url }}" title="What Did Grusch Actually Prove in Public? | Alleged Magenta UFO 7 bc 4 e9 grusch revival" aria-label="Read more about What Did Grusch Actually Prove in Public? | Alleged Magenta UFO 7 bc 4 e9 grusch revival">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'testimony-limits/' | relative_url }}" title="What Did Grusch Actually Prove in Public? | How David Grusch Revived the Magenta Case | Alleged Magenta UFO" aria-label="Read more about What Did Grusch Actually Prove in Public? | How David Grusch Revived the Magenta Case | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1472,7 +1472,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'aaro-clash/' | relative_url }}" title="Why AARO and Grusch Cannot Both Be Right | Alleged Magenta UFO 7 bc 4 e9 grusch revival" aria-label="Read more about Why AARO and Grusch Cannot Both Be Right | Alleged Magenta UFO 7 bc 4 e9 grusch revival">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'aaro-clash/' | relative_url }}" title="Why AARO and Grusch Cannot Both Be Right | How David Grusch Revived the Magenta Case | Alleged Magenta UFO" aria-label="Read more about Why AARO and Grusch Cannot Both Be Right | How David Grusch Revived the Magenta Case | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1492,7 +1492,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'test-case/' | relative_url }}" title="Why Magenta Became the Perfect Test Case | Alleged Magenta UFO 7 bc 4 e9 grusch revival" aria-label="Read more about Why Magenta Became the Perfect Test Case | Alleged Magenta UFO 7 bc 4 e9 grusch revival">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'test-case/' | relative_url }}" title="Why Magenta Became the Perfect Test Case | How David Grusch Revived the Magenta Case | Alleged Magenta UFO" aria-label="Read more about Why Magenta Became the Perfect Test Case | How David Grusch Revived the Magenta Case | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1536,7 +1536,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'transport-links/' | relative_url }}" title="Could Northern Italy Move a Secret Object? | Alleged Magenta UFO 7 bc 4 e9 lombardy geography" aria-label="Read more about Could Northern Italy Move a Secret Object? | Alleged Magenta UFO 7 bc 4 e9 lombardy geography">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'transport-links/' | relative_url }}" title="Could Northern Italy Move a Secret Object? | Why the Magenta Setting Feels Plausible | Alleged Magenta UFO" aria-label="Read more about Could Northern Italy Move a Secret Object? | Why the Magenta Setting Feels Plausible | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1556,7 +1556,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'aviation-belt/' | relative_url }}" title="The Aviation Belt Behind the Legend | Alleged Magenta UFO 7 bc 4 e9 lombardy geography" aria-label="Read more about The Aviation Belt Behind the Legend | Alleged Magenta UFO 7 bc 4 e9 lombardy geography">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'aviation-belt/' | relative_url }}" title="The Aviation Belt Behind the Legend | Why the Magenta Setting Feels Plausible | Alleged Magenta UFO" aria-label="Read more about The Aviation Belt Behind the Legend | Why the Magenta Setting Feels Plausible | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1576,7 +1576,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'milan-distance/' | relative_url }}" title="Was Magenta Close Enough to Control? | Alleged Magenta UFO 7 bc 4 e9 lombardy geography" aria-label="Read more about Was Magenta Close Enough to Control? | Alleged Magenta UFO 7 bc 4 e9 lombardy geography">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'milan-distance/' | relative_url }}" title="Was Magenta Close Enough to Control? | Why the Magenta Setting Feels Plausible | Alleged Magenta UFO" aria-label="Read more about Was Magenta Close Enough to Control? | Why the Magenta Setting Feels Plausible | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1596,7 +1596,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'location-drift/' | relative_url }}" title="Why the Crash Site Stays Slippery | Alleged Magenta UFO 7 bc 4 e9 lombardy geography" aria-label="Read more about Why the Crash Site Stays Slippery | Alleged Magenta UFO 7 bc 4 e9 lombardy geography">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'location-drift/' | relative_url }}" title="Why the Crash Site Stays Slippery | Why the Magenta Setting Feels Plausible | Alleged Magenta UFO" aria-label="Read more about Why the Crash Site Stays Slippery | Why the Magenta Setting Feels Plausible | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1616,7 +1616,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ticino-corridor/' | relative_url }}" title="Why the Ticino Corridor Matters | Alleged Magenta UFO 7 bc 4 e9 lombardy geography" aria-label="Read more about Why the Ticino Corridor Matters | Alleged Magenta UFO 7 bc 4 e9 lombardy geography">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ticino-corridor/' | relative_url }}" title="Why the Ticino Corridor Matters | Why the Magenta Setting Feels Plausible | Alleged Magenta UFO" aria-label="Read more about Why the Ticino Corridor Matters | Why the Magenta Setting Feels Plausible | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1636,7 +1636,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'vergiate-hangars/' | relative_url }}" title="Why Vergiate Became the Storage Site | Alleged Magenta UFO 7 bc 4 e9 lombardy geography" aria-label="Read more about Why Vergiate Became the Storage Site | Alleged Magenta UFO 7 bc 4 e9 lombardy geography">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'vergiate-hangars/' | relative_url }}" title="Why Vergiate Became the Storage Site | Why the Magenta Setting Feels Plausible | Alleged Magenta UFO" aria-label="Read more about Why Vergiate Became the Storage Site | Why the Magenta Setting Feels Plausible | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1680,7 +1680,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'official-posts/' | relative_url }}" title="Did Marconi&#x27;s Power Make RS/33 Plausible? | Alleged Magenta UFO 7 bc 4 e9 marconi claim" aria-label="Read more about Did Marconi&#x27;s Power Make RS/33 Plausible? | Alleged Magenta UFO 7 bc 4 e9 marconi claim">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'official-posts/' | relative_url }}" title="Did Marconi's Power Make RS/33 Plausible? | Did Marconi Really Lead the UFO Study? | Alleged Magenta UFO" aria-label="Read more about Did Marconi's Power Make RS/33 Plausible? | Did Marconi Really Lead the UFO Study? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1700,7 +1700,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'radio-research/' | relative_url }}" title="Radio Genius or UFO Recovery Evidence? | Alleged Magenta UFO 7 bc 4 e9 marconi claim" aria-label="Read more about Radio Genius or UFO Recovery Evidence? | Alleged Magenta UFO 7 bc 4 e9 marconi claim">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'radio-research/' | relative_url }}" title="Radio Genius or UFO Recovery Evidence? | Did Marconi Really Lead the UFO Study? | Alleged Magenta UFO" aria-label="Read more about Radio Genius or UFO Recovery Evidence? | Did Marconi Really Lead the UFO Study? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1720,7 +1720,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'archive-trails/' | relative_url }}" title="Where Should RS/33 Appear in Marconi&#x27;s Records? | Alleged Magenta UFO 7 bc 4 e9 marconi claim" aria-label="Read more about Where Should RS/33 Appear in Marconi&#x27;s Records? | Alleged Magenta UFO 7 bc 4 e9 marconi claim">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'archive-trails/' | relative_url }}" title="Where Should RS/33 Appear in Marconi's Records? | Did Marconi Really Lead the UFO Study? | Alleged Magenta UFO" aria-label="Read more about Where Should RS/33 Appear in Marconi's Records? | Did Marconi Really Lead the UFO Study? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1740,7 +1740,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'witness-trail/' | relative_url }}" title="Who Could Verify Marconi&#x27;s RS/33 Role? | Alleged Magenta UFO 7 bc 4 e9 marconi claim" aria-label="Read more about Who Could Verify Marconi&#x27;s RS/33 Role? | Alleged Magenta UFO 7 bc 4 e9 marconi claim">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'witness-trail/' | relative_url }}" title="Who Could Verify Marconi's RS/33 Role? | Did Marconi Really Lead the UFO Study? | Alleged Magenta UFO" aria-label="Read more about Who Could Verify Marconi's RS/33 Role? | Did Marconi Really Lead the UFO Study? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1760,7 +1760,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'proof-burden/' | relative_url }}" title="Why Marconi&#x27;s Fame Makes the Claim Harder | Alleged Magenta UFO 7 bc 4 e9 marconi claim" aria-label="Read more about Why Marconi&#x27;s Fame Makes the Claim Harder | Alleged Magenta UFO 7 bc 4 e9 marconi claim">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'proof-burden/' | relative_url }}" title="Why Marconi's Fame Makes the Claim Harder | Did Marconi Really Lead the UFO Study? | Alleged Magenta UFO" aria-label="Read more about Why Marconi's Fame Makes the Claim Harder | Did Marconi Really Lead the UFO Study? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1780,7 +1780,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mussolini-reports/' | relative_url }}" title="Why No Mussolini Paper Trail for RS/33? | Alleged Magenta UFO 7 bc 4 e9 marconi claim" aria-label="Read more about Why No Mussolini Paper Trail for RS/33? | Alleged Magenta UFO 7 bc 4 e9 marconi claim">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mussolini-reports/' | relative_url }}" title="Why No Mussolini Paper Trail for RS/33? | Did Marconi Really Lead the UFO Study? | Alleged Magenta UFO" aria-label="Read more about Why No Mussolini Paper Trail for RS/33? | Did Marconi Really Lead the UFO Study? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1824,7 +1824,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'metadata/' | relative_url }}" title="How Thin Data Makes UFOs Look Stranger | Alleged Magenta UFO 7 bc 4 e9 NASA data problem" aria-label="Read more about How Thin Data Makes UFOs Look Stranger | Alleged Magenta UFO 7 bc 4 e9 NASA data problem">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'metadata/' | relative_url }}" title="How Thin Data Makes UFOs Look Stranger | Why UAP Data Gaps Matter for Magenta | Alleged Magenta UFO" aria-label="Read more about How Thin Data Makes UFOs Look Stranger | Why UAP Data Gaps Matter for Magenta | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1844,7 +1844,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'go-fast/' | relative_url }}" title="What Go Fast Teaches About UFO Videos | Alleged Magenta UFO 7 bc 4 e9 NASA data problem" aria-label="Read more about What Go Fast Teaches About UFO Videos | Alleged Magenta UFO 7 bc 4 e9 NASA data problem">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'go-fast/' | relative_url }}" title="What Go Fast Teaches About UFO Videos | Why UAP Data Gaps Matter for Magenta | Alleged Magenta UFO" aria-label="Read more about What Go Fast Teaches About UFO Videos | Why UAP Data Gaps Matter for Magenta | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1864,7 +1864,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'proof-test/' | relative_url }}" title="What Would Count as Real Magenta Evidence? | Alleged Magenta UFO 7 bc 4 e9 NASA data problem" aria-label="Read more about What Would Count as Real Magenta Evidence? | Alleged Magenta UFO 7 bc 4 e9 NASA data problem">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'proof-test/' | relative_url }}" title="What Would Count as Real Magenta Evidence? | Why UAP Data Gaps Matter for Magenta | Alleged Magenta UFO" aria-label="Read more about What Would Count as Real Magenta Evidence? | Why UAP Data Gaps Matter for Magenta | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1884,7 +1884,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'agency-roles/' | relative_url }}" title="Who Actually Checks UAP Claims? | Alleged Magenta UFO 7 bc 4 e9 NASA data problem" aria-label="Read more about Who Actually Checks UAP Claims? | Alleged Magenta UFO 7 bc 4 e9 NASA data problem">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'agency-roles/' | relative_url }}" title="Who Actually Checks UAP Claims? | Why UAP Data Gaps Matter for Magenta | Alleged Magenta UFO" aria-label="Read more about Who Actually Checks UAP Claims? | Why UAP Data Gaps Matter for Magenta | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1904,7 +1904,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'source-trail/' | relative_url }}" title="Why Magenta&#x27;s Paper Trail Is the Problem | Alleged Magenta UFO 7 bc 4 e9 NASA data problem" aria-label="Read more about Why Magenta&#x27;s Paper Trail Is the Problem | Alleged Magenta UFO 7 bc 4 e9 NASA data problem">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'source-trail/' | relative_url }}" title="Why Magenta's Paper Trail Is the Problem | Why UAP Data Gaps Matter for Magenta | Alleged Magenta UFO" aria-label="Read more about Why Magenta's Paper Trail Is the Problem | Why UAP Data Gaps Matter for Magenta | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1924,7 +1924,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'not-alien/' | relative_url }}" title="Why Unidentified Does Not Mean Alien | Alleged Magenta UFO 7 bc 4 e9 NASA data problem" aria-label="Read more about Why Unidentified Does Not Mean Alien | Alleged Magenta UFO 7 bc 4 e9 NASA data problem">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'not-alien/' | relative_url }}" title="Why Unidentified Does Not Mean Alien | Why UAP Data Gaps Matter for Magenta | Alleged Magenta UFO" aria-label="Read more about Why Unidentified Does Not Mean Alien | Why UAP Data Gaps Matter for Magenta | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1968,7 +1968,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'shape-conflict/' | relative_url }}" title="Can These Magenta Shapes Be the Same Object? | Alleged Magenta UFO 7 bc 4 e9 object descriptions" aria-label="Read more about Can These Magenta Shapes Be the Same Object? | Alleged Magenta UFO 7 bc 4 e9 object descriptions">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'shape-conflict/' | relative_url }}" title="Can These Magenta Shapes Be the Same Object? | What Shape Was the Magenta UFO Supposed to Be? | Alleged Magenta UFO" aria-label="Read more about Can These Magenta Shapes Be the Same Object? | What Shape Was the Magenta UFO Supposed to Be? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -1988,7 +1988,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ '1936-blur/' | relative_url }}" title="Did Later Sightings Change Magenta&#x27;s Shape? | Alleged Magenta UFO 7 bc 4 e9 object descriptions" aria-label="Read more about Did Later Sightings Change Magenta&#x27;s Shape? | Alleged Magenta UFO 7 bc 4 e9 object descriptions">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ '1936-blur/' | relative_url }}" title="Did Later Sightings Change Magenta's Shape? | What Shape Was the Magenta UFO Supposed to Be? | Alleged Magenta UFO" aria-label="Read more about Did Later Sightings Change Magenta's Shape? | What Shape Was the Magenta UFO Supposed to Be? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2008,7 +2008,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'translation-drift/' | relative_url }}" title="How Words Changed the Magenta Craft | Alleged Magenta UFO 7 bc 4 e9 object descriptions" aria-label="Read more about How Words Changed the Magenta Craft | Alleged Magenta UFO 7 bc 4 e9 object descriptions">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'translation-drift/' | relative_url }}" title="How Words Changed the Magenta Craft | What Shape Was the Magenta UFO Supposed to Be? | Alleged Magenta UFO" aria-label="Read more about How Words Changed the Magenta Craft | What Shape Was the Magenta UFO Supposed to Be? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2028,7 +2028,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'saucer-label/' | relative_url }}" title="Why Did Magenta Become a Flying Saucer? | Alleged Magenta UFO 7 bc 4 e9 object descriptions" aria-label="Read more about Why Did Magenta Become a Flying Saucer? | Alleged Magenta UFO 7 bc 4 e9 object descriptions">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'saucer-label/' | relative_url }}" title="Why Did Magenta Become a Flying Saucer? | What Shape Was the Magenta UFO Supposed to Be? | Alleged Magenta UFO" aria-label="Read more about Why Did Magenta Become a Flying Saucer? | What Shape Was the Magenta UFO Supposed to Be? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2048,7 +2048,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'evidence-test-1a50a4/' | relative_url }}" title="Why Shape Drift Matters for Magenta | Alleged Magenta UFO 7 bc 4 e9 object descriptions" aria-label="Read more about Why Shape Drift Matters for Magenta | Alleged Magenta UFO 7 bc 4 e9 object descriptions">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'evidence-test-1a50a4/' | relative_url }}" title="Why Shape Drift Matters for Magenta | What Shape Was the Magenta UFO Supposed to Be? | Alleged Magenta UFO" aria-label="Read more about Why Shape Drift Matters for Magenta | What Shape Was the Magenta UFO Supposed to Be? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2068,7 +2068,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'nazi-bell/' | relative_url }}" title="Why the Bell Shape Raises Red Flags | Alleged Magenta UFO 7 bc 4 e9 object descriptions" aria-label="Read more about Why the Bell Shape Raises Red Flags | Alleged Magenta UFO 7 bc 4 e9 object descriptions">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'nazi-bell/' | relative_url }}" title="Why the Bell Shape Raises Red Flags | What Shape Was the Magenta UFO Supposed to Be? | Alleged Magenta UFO" aria-label="Read more about Why the Bell Shape Raises Red Flags | What Shape Was the Magenta UFO Supposed to Be? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2112,7 +2112,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'photocopies/' | relative_url }}" title="Can photocopies ever prove the Pinotti papers? | Alleged Magenta UFO 7 bc 4 e9 pinotti documents" aria-label="Read more about Can photocopies ever prove the Pinotti papers? | Alleged Magenta UFO 7 bc 4 e9 pinotti documents">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'photocopies/' | relative_url }}" title="Can photocopies ever prove the Pinotti papers? | How Strong Are the Pinotti UFO Documents? | Alleged Magenta UFO" aria-label="Read more about Can photocopies ever prove the Pinotti papers? | How Strong Are the Pinotti UFO Documents? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2132,7 +2132,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'publication-path/' | relative_url }}" title="How the papers became a UFO story | Alleged Magenta UFO 7 bc 4 e9 pinotti documents" aria-label="Read more about How the papers became a UFO story | Alleged Magenta UFO 7 bc 4 e9 pinotti documents">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'publication-path/' | relative_url }}" title="How the papers became a UFO story | How Strong Are the Pinotti UFO Documents? | Alleged Magenta UFO" aria-label="Read more about How the papers became a UFO story | How Strong Are the Pinotti UFO Documents? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2152,7 +2152,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'old-paper-1d800c/' | relative_url }}" title="Old paper is not an official record | Alleged Magenta UFO 7 bc 4 e9 pinotti documents" aria-label="Read more about Old paper is not an official record | Alleged Magenta UFO 7 bc 4 e9 pinotti documents">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'old-paper-1d800c/' | relative_url }}" title="Old paper is not an official record | How Strong Are the Pinotti UFO Documents? | Alleged Magenta UFO" aria-label="Read more about Old paper is not an official record | How Strong Are the Pinotti UFO Documents? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2172,7 +2172,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'anonymous-source/' | relative_url }}" title="The mystery sender problem | Alleged Magenta UFO 7 bc 4 e9 pinotti documents" aria-label="Read more about The mystery sender problem | Alleged Magenta UFO 7 bc 4 e9 pinotti documents">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'anonymous-source/' | relative_url }}" title="The mystery sender problem | How Strong Are the Pinotti UFO Documents? | Alleged Magenta UFO" aria-label="Read more about The mystery sender problem | How Strong Are the Pinotti UFO Documents? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2192,7 +2192,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'archive-marks/' | relative_url }}" title="Where are the missing archive marks? | Alleged Magenta UFO 7 bc 4 e9 pinotti documents" aria-label="Read more about Where are the missing archive marks? | Alleged Magenta UFO 7 bc 4 e9 pinotti documents">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'archive-marks/' | relative_url }}" title="Where are the missing archive marks? | How Strong Are the Pinotti UFO Documents? | Alleged Magenta UFO" aria-label="Read more about Where are the missing archive marks? | How Strong Are the Pinotti UFO Documents? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2212,7 +2212,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'archivist-view/' | relative_url }}" title="Why archivists doubt the Pinotti files | Alleged Magenta UFO 7 bc 4 e9 pinotti documents" aria-label="Read more about Why archivists doubt the Pinotti files | Alleged Magenta UFO 7 bc 4 e9 pinotti documents">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'archivist-view/' | relative_url }}" title="Why archivists doubt the Pinotti files | How Strong Are the Pinotti UFO Documents? | Alleged Magenta UFO" aria-label="Read more about Why archivists doubt the Pinotti files | How Strong Are the Pinotti UFO Documents? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2256,7 +2256,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'custody-gap/' | relative_url }}" title="Can an anonymous file trail prove anything? | Alleged Magenta UFO 7 bc 4 e9 anonymous files" aria-label="Read more about Can an anonymous file trail prove anything? | Alleged Magenta UFO 7 bc 4 e9 anonymous files">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'custody-gap/' | relative_url }}" title="Can an anonymous file trail prove anything? | Can Anonymous UFO Files Prove Anything? | Alleged Magenta UFO" aria-label="Read more about Can an anonymous file trail prove anything? | Can Anonymous UFO Files Prove Anything? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2276,7 +2276,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'rs-33-papers/' | relative_url }}" title="Does RS/33 make the files more credible? | Alleged Magenta UFO 7 bc 4 e9 anonymous files" aria-label="Read more about Does RS/33 make the files more credible? | Alleged Magenta UFO 7 bc 4 e9 anonymous files">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'rs-33-papers/' | relative_url }}" title="Does RS/33 make the files more credible? | Can Anonymous UFO Files Prove Anything? | Alleged Magenta UFO" aria-label="Read more about Does RS/33 make the files more credible? | Can Anonymous UFO Files Prove Anything? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2296,7 +2296,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'retelling-drift/' | relative_url }}" title="How one vivid detail can reshape Magenta | Alleged Magenta UFO 7 bc 4 e9 anonymous files" aria-label="Read more about How one vivid detail can reshape Magenta | Alleged Magenta UFO 7 bc 4 e9 anonymous files">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'retelling-drift/' | relative_url }}" title="How one vivid detail can reshape Magenta | Can Anonymous UFO Files Prove Anything? | Alleged Magenta UFO" aria-label="Read more about How one vivid detail can reshape Magenta | Can Anonymous UFO Files Prove Anything? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2316,7 +2316,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'stefani-telegram/' | relative_url }}" title="The telegram that carries the cover up claim | Alleged Magenta UFO 7 bc 4 e9 anonymous files" aria-label="Read more about The telegram that carries the cover up claim | Alleged Magenta UFO 7 bc 4 e9 anonymous files">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'stefani-telegram/' | relative_url }}" title="The telegram that carries the cover up claim | Can Anonymous UFO Files Prove Anything? | Alleged Magenta UFO" aria-label="Read more about The telegram that carries the cover up claim | Can Anonymous UFO Files Prove Anything? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2336,7 +2336,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'paper-tests/' | relative_url }}" title="What old paper can and cannot prove | Alleged Magenta UFO 7 bc 4 e9 anonymous files" aria-label="Read more about What old paper can and cannot prove | Alleged Magenta UFO 7 bc 4 e9 anonymous files">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'paper-tests/' | relative_url }}" title="What old paper can and cannot prove | Can Anonymous UFO Files Prove Anything? | Alleged Magenta UFO" aria-label="Read more about What old paper can and cannot prove | Can Anonymous UFO Files Prove Anything? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2356,7 +2356,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'lost-originals/' | relative_url }}" title="Why lost originals weaken old UFO files | Alleged Magenta UFO 7 bc 4 e9 anonymous files" aria-label="Read more about Why lost originals weaken old UFO files | Alleged Magenta UFO 7 bc 4 e9 anonymous files">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'lost-originals/' | relative_url }}" title="Why lost originals weaken old UFO files | Can Anonymous UFO Files Prove Anything? | Alleged Magenta UFO" aria-label="Read more about Why lost originals weaken old UFO files | Can Anonymous UFO Files Prove Anything? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2400,7 +2400,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'kecksburg/' | relative_url }}" title="Did Kecksburg Follow the Retrieval Script? | Alleged Magenta UFO 7 bc 4 e9 crash retrieval patt" aria-label="Read more about Did Kecksburg Follow the Retrieval Script? | Alleged Magenta UFO 7 bc 4 e9 crash retrieval patt">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'kecksburg/' | relative_url }}" title="Did Kecksburg Follow the Retrieval Script? | Why Crash Retrieval Stories Keep Returning | Alleged Magenta UFO" aria-label="Read more about Did Kecksburg Follow the Retrieval Script? | Why Crash Retrieval Stories Keep Returning | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2420,7 +2420,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'custody-chain/' | relative_url }}" title="Why Custody Is the Heart of Retrieval Lore | Alleged Magenta UFO 7 bc 4 e9 crash retrieval patt" aria-label="Read more about Why Custody Is the Heart of Retrieval Lore | Alleged Magenta UFO 7 bc 4 e9 crash retrieval patt">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'custody-chain/' | relative_url }}" title="Why Custody Is the Heart of Retrieval Lore | Why Crash Retrieval Stories Keep Returning | Alleged Magenta UFO" aria-label="Read more about Why Custody Is the Heart of Retrieval Lore | Why Crash Retrieval Stories Keep Returning | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2440,7 +2440,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'late-leaks/' | relative_url }}" title="Why Late Leaks Keep Retrieval Stories Alive | Alleged Magenta UFO 7 bc 4 e9 crash retrieval patt" aria-label="Read more about Why Late Leaks Keep Retrieval Stories Alive | Alleged Magenta UFO 7 bc 4 e9 crash retrieval patt">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'late-leaks/' | relative_url }}" title="Why Late Leaks Keep Retrieval Stories Alive | Why Crash Retrieval Stories Keep Returning | Alleged Magenta UFO" aria-label="Read more about Why Late Leaks Keep Retrieval Stories Alive | Why Crash Retrieval Stories Keep Returning | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2460,7 +2460,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'hidden-teams/' | relative_url }}" title="Why Retrieval Stories Need Hidden Teams | Alleged Magenta UFO 7 bc 4 e9 crash retrieval patt" aria-label="Read more about Why Retrieval Stories Need Hidden Teams | Alleged Magenta UFO 7 bc 4 e9 crash retrieval patt">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hidden-teams/' | relative_url }}" title="Why Retrieval Stories Need Hidden Teams | Why Crash Retrieval Stories Keep Returning | Alleged Magenta UFO" aria-label="Read more about Why Retrieval Stories Need Hidden Teams | Why Crash Retrieval Stories Keep Returning | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2480,7 +2480,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'reverse-engineering/' | relative_url }}" title="Why Reverse Engineering Powers Retrieval Claims | Alleged Magenta UFO 7 bc 4 e9 crash retrieval patt" aria-label="Read more about Why Reverse Engineering Powers Retrieval Claims | Alleged Magenta UFO 7 bc 4 e9 crash retrieval patt">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'reverse-engineering/' | relative_url }}" title="Why Reverse Engineering Powers Retrieval Claims | Why Crash Retrieval Stories Keep Returning | Alleged Magenta UFO" aria-label="Read more about Why Reverse Engineering Powers Retrieval Claims | Why Crash Retrieval Stories Keep Returning | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2500,7 +2500,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'roswell-model/' | relative_url }}" title="Why Roswell Became the Retrieval Template | Alleged Magenta UFO 7 bc 4 e9 crash retrieval patt" aria-label="Read more about Why Roswell Became the Retrieval Template | Alleged Magenta UFO 7 bc 4 e9 crash retrieval patt">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'roswell-model/' | relative_url }}" title="Why Roswell Became the Retrieval Template | Why Crash Retrieval Stories Keep Returning | Alleged Magenta UFO" aria-label="Read more about Why Roswell Became the Retrieval Template | Why Crash Retrieval Stories Keep Returning | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2544,7 +2544,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'rs-33-cabinet/' | relative_url }}" title="Did Magenta Have Its Own Secret Unit? | Alleged Magenta UFO 7 bc 4 e9 magenta vs roswell" aria-label="Read more about Did Magenta Have Its Own Secret Unit? | Alleged Magenta UFO 7 bc 4 e9 magenta vs roswell">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'rs-33-cabinet/' | relative_url }}" title="Did Magenta Have Its Own Secret Unit? | Was Magenta the Pre Roswell Crash Story? | Alleged Magenta UFO" aria-label="Read more about Did Magenta Have Its Own Secret Unit? | Was Magenta the Pre Roswell Crash Story? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2564,7 +2564,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'witness-cycle/' | relative_url }}" title="How Roswell Grew After the Fact | Alleged Magenta UFO 7 bc 4 e9 magenta vs roswell" aria-label="Read more about How Roswell Grew After the Fact | Alleged Magenta UFO 7 bc 4 e9 magenta vs roswell">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'witness-cycle/' | relative_url }}" title="How Roswell Grew After the Fact | Was Magenta the Pre Roswell Crash Story? | Alleged Magenta UFO" aria-label="Read more about How Roswell Grew After the Fact | Was Magenta the Pre Roswell Crash Story? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2584,7 +2584,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mogul-theory/' | relative_url }}" title="The Secret Balloon Behind Roswell | Alleged Magenta UFO 7 bc 4 e9 magenta vs roswell" aria-label="Read more about The Secret Balloon Behind Roswell | Alleged Magenta UFO 7 bc 4 e9 magenta vs roswell">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mogul-theory/' | relative_url }}" title="The Secret Balloon Behind Roswell | Was Magenta the Pre Roswell Crash Story? | Alleged Magenta UFO" aria-label="Read more about The Secret Balloon Behind Roswell | Was Magenta the Pre Roswell Crash Story? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2604,7 +2604,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'pre-roswell-stakes/' | relative_url }}" title="What Changes If Magenta Came First? | Alleged Magenta UFO 7 bc 4 e9 magenta vs roswell" aria-label="Read more about What Changes If Magenta Came First? | Alleged Magenta UFO 7 bc 4 e9 magenta vs roswell">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'pre-roswell-stakes/' | relative_url }}" title="What Changes If Magenta Came First? | Was Magenta the Pre Roswell Crash Story? | Alleged Magenta UFO" aria-label="Read more about What Changes If Magenta Came First? | Was Magenta the Pre Roswell Crash Story? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2624,7 +2624,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'record-trails/' | relative_url }}" title="Which Case Has the Stronger Paper Trail? | Alleged Magenta UFO 7 bc 4 e9 magenta vs roswell" aria-label="Read more about Which Case Has the Stronger Paper Trail? | Alleged Magenta UFO 7 bc 4 e9 magenta vs roswell">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'record-trails/' | relative_url }}" title="Which Case Has the Stronger Paper Trail? | Was Magenta the Pre Roswell Crash Story? | Alleged Magenta UFO" aria-label="Read more about Which Case Has the Stronger Paper Trail? | Was Magenta the Pre Roswell Crash Story? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2644,7 +2644,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'roswell-reversal/' | relative_url }}" title="Why Roswell Had a Public Hook | Alleged Magenta UFO 7 bc 4 e9 magenta vs roswell" aria-label="Read more about Why Roswell Had a Public Hook | Alleged Magenta UFO 7 bc 4 e9 magenta vs roswell">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'roswell-reversal/' | relative_url }}" title="Why Roswell Had a Public Hook | Was Magenta the Pre Roswell Crash Story? | Alleged Magenta UFO" aria-label="Read more about Why Roswell Had a Public Hook | Was Magenta the Pre Roswell Crash Story? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2688,7 +2688,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ '1990-s-papers/' | relative_url }}" title="Can anonymous papers prove RS/33? | Alleged Magenta UFO 7 bc 4 e9 cabinet" aria-label="Read more about Can anonymous papers prove RS/33? | Alleged Magenta UFO 7 bc 4 e9 cabinet">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ '1990-s-papers/' | relative_url }}" title="Can anonymous papers prove RS/33? | Was Cabinet RS/33 a Real UFO Office? | Alleged Magenta UFO" aria-label="Read more about Can anonymous papers prove RS/33? | Was Cabinet RS/33 a Real UFO Office? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2708,7 +2708,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'secrecy-7f462c/' | relative_url }}" title="Could Fascist Italy hide Magenta? | Alleged Magenta UFO 7 bc 4 e9 cabinet" aria-label="Read more about Could Fascist Italy hide Magenta? | Alleged Magenta UFO 7 bc 4 e9 cabinet">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'secrecy-7f462c/' | relative_url }}" title="Could Fascist Italy hide Magenta? | Was Cabinet RS/33 a Real UFO Office? | Alleged Magenta UFO" aria-label="Read more about Could Fascist Italy hide Magenta? | Was Cabinet RS/33 a Real UFO Office? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2728,7 +2728,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'marconi-0f5182/' | relative_url }}" title="Did Marconi really lead RS/33? | Alleged Magenta UFO 7 bc 4 e9 cabinet" aria-label="Read more about Did Marconi really lead RS/33? | Alleged Magenta UFO 7 bc 4 e9 cabinet">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'marconi-0f5182/' | relative_url }}" title="Did Marconi really lead RS/33? | Was Cabinet RS/33 a Real UFO Office? | Alleged Magenta UFO" aria-label="Read more about Did Marconi really lead RS/33? | Was Cabinet RS/33 a Real UFO Office? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2748,7 +2748,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'paper-trail/' | relative_url }}" title="Where should RS/33 records appear? | Alleged Magenta UFO 7 bc 4 e9 cabinet" aria-label="Read more about Where should RS/33 records appear? | Alleged Magenta UFO 7 bc 4 e9 cabinet">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'paper-trail/' | relative_url }}" title="Where should RS/33 records appear? | Was Cabinet RS/33 a Real UFO Office? | Alleged Magenta UFO" aria-label="Read more about Where should RS/33 records appear? | Was Cabinet RS/33 a Real UFO Office? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2768,7 +2768,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'member-list/' | relative_url }}" title="Why the RS/33 names raise the stakes | Alleged Magenta UFO 7 bc 4 e9 cabinet" aria-label="Read more about Why the RS/33 names raise the stakes | Alleged Magenta UFO 7 bc 4 e9 cabinet">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'member-list/' | relative_url }}" title="Why the RS/33 names raise the stakes | Was Cabinet RS/33 a Real UFO Office? | Alleged Magenta UFO" aria-label="Read more about Why the RS/33 names raise the stakes | Was Cabinet RS/33 a Real UFO Office? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2788,7 +2788,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'wording/' | relative_url }}" title="Why the RS/33 wording matters | Alleged Magenta UFO 7 bc 4 e9 cabinet" aria-label="Read more about Why the RS/33 wording matters | Alleged Magenta UFO 7 bc 4 e9 cabinet">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'wording/' | relative_url }}" title="Why the RS/33 wording matters | Was Cabinet RS/33 a Real UFO Office? | Alleged Magenta UFO" aria-label="Read more about Why the RS/33 wording matters | Was Cabinet RS/33 a Real UFO Office? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2832,7 +2832,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'craft-shape/' | relative_url }}" title="How one craft became many shapes | Alleged Magenta UFO 7 bc 4 e9 skeptical arguments" aria-label="Read more about How one craft became many shapes | Alleged Magenta UFO 7 bc 4 e9 skeptical arguments">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'craft-shape/' | relative_url }}" title="How one craft became many shapes | Why Do Sceptics Doubt the Magenta Crash? | Alleged Magenta UFO" aria-label="Read more about How one craft became many shapes | Why Do Sceptics Doubt the Magenta Crash? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2852,7 +2852,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'record-trail-acf270/' | relative_url }}" title="The records a real recovery might leave | Alleged Magenta UFO 7 bc 4 e9 skeptical arguments" aria-label="Read more about The records a real recovery might leave | Alleged Magenta UFO 7 bc 4 e9 skeptical arguments">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'record-trail-acf270/' | relative_url }}" title="The records a real recovery might leave | Why Do Sceptics Doubt the Magenta Crash? | Alleged Magenta UFO" aria-label="Read more about The records a real recovery might leave | Why Do Sceptics Doubt the Magenta Crash? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2872,7 +2872,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'forensics/' | relative_url }}" title="What paper tests can and cannot prove | Alleged Magenta UFO 7 bc 4 e9 skeptical arguments" aria-label="Read more about What paper tests can and cannot prove | Alleged Magenta UFO 7 bc 4 e9 skeptical arguments">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'forensics/' | relative_url }}" title="What paper tests can and cannot prove | Why Do Sceptics Doubt the Magenta Crash? | Alleged Magenta UFO" aria-label="Read more about What paper tests can and cannot prove | Why Do Sceptics Doubt the Magenta Crash? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2892,7 +2892,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'witness-gap-a9a61f/' | relative_url }}" title="Where are the Magenta witnesses? | Alleged Magenta UFO 7 bc 4 e9 skeptical arguments" aria-label="Read more about Where are the Magenta witnesses? | Alleged Magenta UFO 7 bc 4 e9 skeptical arguments">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'witness-gap-a9a61f/' | relative_url }}" title="Where are the Magenta witnesses? | Why Do Sceptics Doubt the Magenta Crash? | Alleged Magenta UFO" aria-label="Read more about Where are the Magenta witnesses? | Why Do Sceptics Doubt the Magenta Crash? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2912,7 +2912,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'lost-dossier/' | relative_url }}" title="Why the lost dossier still matters | Alleged Magenta UFO 7 bc 4 e9 skeptical arguments" aria-label="Read more about Why the lost dossier still matters | Alleged Magenta UFO 7 bc 4 e9 skeptical arguments">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'lost-dossier/' | relative_url }}" title="Why the lost dossier still matters | Why Do Sceptics Doubt the Magenta Crash? | Alleged Magenta UFO" aria-label="Read more about Why the lost dossier still matters | Why Do Sceptics Doubt the Magenta Crash? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2932,7 +2932,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'dates-places/' | relative_url }}" title="Why the timeline keeps slipping | Alleged Magenta UFO 7 bc 4 e9 skeptical arguments" aria-label="Read more about Why the timeline keeps slipping | Alleged Magenta UFO 7 bc 4 e9 skeptical arguments">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'dates-places/' | relative_url }}" title="Why the timeline keeps slipping | Why Do Sceptics Doubt the Magenta Crash? | Alleged Magenta UFO" aria-label="Read more about Why the timeline keeps slipping | Why Do Sceptics Doubt the Magenta Crash? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2976,7 +2976,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ovra-limits/' | relative_url }}" title="Could the OVRA really hide Magenta? | Alleged Magenta UFO 7 bc 4 e9 fascist secrecy" aria-label="Read more about Could the OVRA really hide Magenta? | Alleged Magenta UFO 7 bc 4 e9 fascist secrecy">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ovra-limits/' | relative_url }}" title="Could the OVRA really hide Magenta? | Could Fascist Italy Have Hidden a UFO? | Alleged Magenta UFO" aria-label="Read more about Could the OVRA really hide Magenta? | Could Fascist Italy Have Hidden a UFO? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -2996,7 +2996,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'censorship-gap/' | relative_url }}" title="Does silence prove a cover up? | Alleged Magenta UFO 7 bc 4 e9 fascist secrecy" aria-label="Read more about Does silence prove a cover up? | Alleged Magenta UFO 7 bc 4 e9 fascist secrecy">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'censorship-gap/' | relative_url }}" title="Does silence prove a cover up? | Could Fascist Italy Have Hidden a UFO? | Alleged Magenta UFO" aria-label="Read more about Does silence prove a cover up? | Could Fascist Italy Have Hidden a UFO? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3016,7 +3016,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'paper-trails/' | relative_url }}" title="The paper trail Magenta would need | Alleged Magenta UFO 7 bc 4 e9 fascist secrecy" aria-label="Read more about The paper trail Magenta would need | Alleged Magenta UFO 7 bc 4 e9 fascist secrecy">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'paper-trails/' | relative_url }}" title="The paper trail Magenta would need | Could Fascist Italy Have Hidden a UFO? | Alleged Magenta UFO" aria-label="Read more about The paper trail Magenta would need | Could Fascist Italy Have Hidden a UFO? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3036,7 +3036,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'prestige-risk/' | relative_url }}" title="Why a crash threatened Fascist prestige | Alleged Magenta UFO 7 bc 4 e9 fascist secrecy" aria-label="Read more about Why a crash threatened Fascist prestige | Alleged Magenta UFO 7 bc 4 e9 fascist secrecy">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'prestige-risk/' | relative_url }}" title="Why a crash threatened Fascist prestige | Could Fascist Italy Have Hidden a UFO? | Alleged Magenta UFO" aria-label="Read more about Why a crash threatened Fascist prestige | Could Fascist Italy Have Hidden a UFO? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3056,7 +3056,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'aviation-secrecy/' | relative_url }}" title="Why aviation secrecy matters to Magenta | Alleged Magenta UFO 7 bc 4 e9 fascist secrecy" aria-label="Read more about Why aviation secrecy matters to Magenta | Alleged Magenta UFO 7 bc 4 e9 fascist secrecy">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'aviation-secrecy/' | relative_url }}" title="Why aviation secrecy matters to Magenta | Could Fascist Italy Have Hidden a UFO? | Alleged Magenta UFO" aria-label="Read more about Why aviation secrecy matters to Magenta | Could Fascist Italy Have Hidden a UFO? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3076,7 +3076,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'transfer-claim/' | relative_url }}" title="Why the Allied transfer raises stakes | Alleged Magenta UFO 7 bc 4 e9 fascist secrecy" aria-label="Read more about Why the Allied transfer raises stakes | Alleged Magenta UFO 7 bc 4 e9 fascist secrecy">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'transfer-claim/' | relative_url }}" title="Why the Allied transfer raises stakes | Could Fascist Italy Have Hidden a UFO? | Alleged Magenta UFO" aria-label="Read more about Why the Allied transfer raises stakes | Could Fascist Italy Have Hidden a UFO? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3120,7 +3120,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'vergiate-gap/' | relative_url }}" title="Did Vergiate Have the Right Hangars in 1933? | Alleged Magenta UFO 7 bc 4 e9 siai marchetti" aria-label="Read more about Did Vergiate Have the Right Hangars in 1933? | Alleged Magenta UFO 7 bc 4 e9 siai marchetti">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'vergiate-gap/' | relative_url }}" title="Did Vergiate Have the Right Hangars in 1933? | Why SIAI Marchetti Matters to the Story | Alleged Magenta UFO" aria-label="Read more about Did Vergiate Have the Right Hangars in 1933? | Why SIAI Marchetti Matters to the Story | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3140,7 +3140,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'varese-district/' | relative_url }}" title="The Aviation District Behind the Magenta Story | Alleged Magenta UFO 7 bc 4 e9 siai marchetti" aria-label="Read more about The Aviation District Behind the Magenta Story | Alleged Magenta UFO 7 bc 4 e9 siai marchetti">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'varese-district/' | relative_url }}" title="The Aviation District Behind the Magenta Story | Why SIAI Marchetti Matters to the Story | Alleged Magenta UFO" aria-label="Read more about The Aviation District Behind the Magenta Story | Why SIAI Marchetti Matters to the Story | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3160,7 +3160,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'record-trail/' | relative_url }}" title="What Records Could Test the Hangar Claim? | Alleged Magenta UFO 7 bc 4 e9 siai marchetti" aria-label="Read more about What Records Could Test the Hangar Claim? | Alleged Magenta UFO 7 bc 4 e9 siai marchetti">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'record-trail/' | relative_url }}" title="What Records Could Test the Hangar Claim? | Why SIAI Marchetti Matters to the Story | Alleged Magenta UFO" aria-label="Read more about What Records Could Test the Hangar Claim? | Why SIAI Marchetti Matters to the Story | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3180,7 +3180,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'name-problem/' | relative_url }}" title="When Later Names Distort Older Claims | Alleged Magenta UFO 7 bc 4 e9 siai marchetti" aria-label="Read more about When Later Names Distort Older Claims | Alleged Magenta UFO 7 bc 4 e9 siai marchetti">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'name-problem/' | relative_url }}" title="When Later Names Distort Older Claims | Why SIAI Marchetti Matters to the Story | Alleged Magenta UFO" aria-label="Read more about When Later Names Distort Older Claims | Why SIAI Marchetti Matters to the Story | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3200,7 +3200,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'factory-logic/' | relative_url }}" title="Why an Aircraft Factory Makes the Legend Work | Alleged Magenta UFO 7 bc 4 e9 siai marchetti" aria-label="Read more about Why an Aircraft Factory Makes the Legend Work | Alleged Magenta UFO 7 bc 4 e9 siai marchetti">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'factory-logic/' | relative_url }}" title="Why an Aircraft Factory Makes the Legend Work | Why SIAI Marchetti Matters to the Story | Alleged Magenta UFO" aria-label="Read more about Why an Aircraft Factory Makes the Legend Work | Why SIAI Marchetti Matters to the Story | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3220,7 +3220,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sesto-base/' | relative_url }}" title="Why Sesto Calende Fits the Story Better | Alleged Magenta UFO 7 bc 4 e9 siai marchetti" aria-label="Read more about Why Sesto Calende Fits the Story Better | Alleged Magenta UFO 7 bc 4 e9 siai marchetti">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sesto-base/' | relative_url }}" title="Why Sesto Calende Fits the Story Better | Why SIAI Marchetti Matters to the Story | Alleged Magenta UFO" aria-label="Read more about Why Sesto Calende Fits the Story Better | Why SIAI Marchetti Matters to the Story | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3264,7 +3264,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'secrecy-5bda47/' | relative_url }}" title="Can censorship explain every missing record? | Alleged Magenta UFO 7 bc 4 e9 supporter arguments" aria-label="Read more about Can censorship explain every missing record? | Alleged Magenta UFO 7 bc 4 e9 supporter arguments">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'secrecy-5bda47/' | relative_url }}" title="Can censorship explain every missing record? | What Is the Best Case for Magenta? | Alleged Magenta UFO" aria-label="Read more about Can censorship explain every missing record? | What Is the Best Case for Magenta? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3284,7 +3284,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'paper-tests-c217fe/' | relative_url }}" title="Can old documents prove a crash? | Alleged Magenta UFO 7 bc 4 e9 supporter arguments" aria-label="Read more about Can old documents prove a crash? | Alleged Magenta UFO 7 bc 4 e9 supporter arguments">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'paper-tests-c217fe/' | relative_url }}" title="Can old documents prove a crash? | What Is the Best Case for Magenta? | Alleged Magenta UFO" aria-label="Read more about Can old documents prove a crash? | What Is the Best Case for Magenta? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3304,7 +3304,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'retellings/' | relative_url }}" title="Did later retellings change the case? | Alleged Magenta UFO 7 bc 4 e9 supporter arguments" aria-label="Read more about Did later retellings change the case? | Alleged Magenta UFO 7 bc 4 e9 supporter arguments">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'retellings/' | relative_url }}" title="Did later retellings change the case? | What Is the Best Case for Magenta? | Alleged Magenta UFO" aria-label="Read more about Did later retellings change the case? | What Is the Best Case for Magenta? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3324,7 +3324,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'hangars/' | relative_url }}" title="Do real hangars make the story stronger? | Alleged Magenta UFO 7 bc 4 e9 supporter arguments" aria-label="Read more about Do real hangars make the story stronger? | Alleged Magenta UFO 7 bc 4 e9 supporter arguments">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hangars/' | relative_url }}" title="Do real hangars make the story stronger? | What Is the Best Case for Magenta? | Alleged Magenta UFO" aria-label="Read more about Do real hangars make the story stronger? | What Is the Best Case for Magenta? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3344,7 +3344,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'marconi-36650a/' | relative_url }}" title="Was Marconi plausible evidence or decoration? | Alleged Magenta UFO 7 bc 4 e9 supporter arguments" aria-label="Read more about Was Marconi plausible evidence or decoration? | Alleged Magenta UFO 7 bc 4 e9 supporter arguments">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'marconi-36650a/' | relative_url }}" title="Was Marconi plausible evidence or decoration? | What Is the Best Case for Magenta? | Alleged Magenta UFO" aria-label="Read more about Was Marconi plausible evidence or decoration? | What Is the Best Case for Magenta? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3364,7 +3364,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'file-trail/' | relative_url }}" title="Why the anonymous file trail matters | Alleged Magenta UFO 7 bc 4 e9 supporter arguments" aria-label="Read more about Why the anonymous file trail matters | Alleged Magenta UFO 7 bc 4 e9 supporter arguments">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'file-trail/' | relative_url }}" title="Why the anonymous file trail matters | What Is the Best Case for Magenta? | Alleged Magenta UFO" aria-label="Read more about Why the anonymous file trail matters | What Is the Best Case for Magenta? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3408,7 +3408,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ '1990-s-batches/' | relative_url }}" title="How the 1990 s Mailings Rebuilt Magenta | Alleged Magenta UFO 7 bc 4 e9 magenta timeline" aria-label="Read more about How the 1990 s Mailings Rebuilt Magenta | Alleged Magenta UFO 7 bc 4 e9 magenta timeline">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ '1990-s-batches/' | relative_url }}" title="How the 1990 s Mailings Rebuilt Magenta | When Was the Magenta UFO Supposed to Crash? | Alleged Magenta UFO" aria-label="Read more about How the 1990 s Mailings Rebuilt Magenta | When Was the Magenta UFO Supposed to Crash? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3428,7 +3428,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'crash-or-landing/' | relative_url }}" title="Was Magenta a Crash or a Landing? | Alleged Magenta UFO 7 bc 4 e9 magenta timeline" aria-label="Read more about Was Magenta a Crash or a Landing? | Alleged Magenta UFO 7 bc 4 e9 magenta timeline">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'crash-or-landing/' | relative_url }}" title="Was Magenta a Crash or a Landing? | When Was the Magenta UFO Supposed to Crash? | Alleged Magenta UFO" aria-label="Read more about Was Magenta a Crash or a Landing? | When Was the Magenta UFO Supposed to Crash? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3448,7 +3448,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'telegrams/' | relative_url }}" title="What Can the Telegrams Really Prove? | Alleged Magenta UFO 7 bc 4 e9 magenta timeline" aria-label="Read more about What Can the Telegrams Really Prove? | Alleged Magenta UFO 7 bc 4 e9 magenta timeline">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'telegrams/' | relative_url }}" title="What Can the Telegrams Really Prove? | When Was the Magenta UFO Supposed to Crash? | Alleged Magenta UFO" aria-label="Read more about What Can the Telegrams Really Prove? | When Was the Magenta UFO Supposed to Crash? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3468,7 +3468,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'later-additions/' | relative_url }}" title="When Did the Bigger Story Get Added? | Alleged Magenta UFO 7 bc 4 e9 magenta timeline" aria-label="Read more about When Did the Bigger Story Get Added? | Alleged Magenta UFO 7 bc 4 e9 magenta timeline">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'later-additions/' | relative_url }}" title="When Did the Bigger Story Get Added? | When Was the Magenta UFO Supposed to Crash? | Alleged Magenta UFO" aria-label="Read more about When Did the Bigger Story Get Added? | When Was the Magenta UFO Supposed to Crash? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3488,7 +3488,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'rs-33-4e01af/' | relative_url }}" title="Where Does RS/33 Fit in the Story? | Alleged Magenta UFO 7 bc 4 e9 magenta timeline" aria-label="Read more about Where Does RS/33 Fit in the Story? | Alleged Magenta UFO 7 bc 4 e9 magenta timeline">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'rs-33-4e01af/' | relative_url }}" title="Where Does RS/33 Fit in the Story? | When Was the Magenta UFO Supposed to Crash? | Alleged Magenta UFO" aria-label="Read more about Where Does RS/33 Fit in the Story? | When Was the Magenta UFO Supposed to Crash? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3508,7 +3508,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'april-vs-june/' | relative_url }}" title="Why Do Magenta Dates Not Match? | Alleged Magenta UFO 7 bc 4 e9 magenta timeline" aria-label="Read more about Why Do Magenta Dates Not Match? | Alleged Magenta UFO 7 bc 4 e9 magenta timeline">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'april-vs-june/' | relative_url }}" title="Why Do Magenta Dates Not Match? | When Was the Magenta UFO Supposed to Crash? | Alleged Magenta UFO" aria-label="Read more about Why Do Magenta Dates Not Match? | When Was the Magenta UFO Supposed to Crash? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3552,7 +3552,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'nara-search/' | relative_url }}" title="Can archives test old UAP claims? | Alleged Magenta UFO 7 bc 4 e9 UAP transparency" aria-label="Read more about Can archives test old UAP claims? | Alleged Magenta UFO 7 bc 4 e9 UAP transparency">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'nara-search/' | relative_url }}" title="Can archives test old UAP claims? | Why Magenta Became a UAP Disclosure Issue | Alleged Magenta UFO" aria-label="Read more about Can archives test old UAP claims? | Why Magenta Became a UAP Disclosure Issue | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3572,7 +3572,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'house-hearings/' | relative_url }}" title="What the UAP hearings actually changed | Alleged Magenta UFO 7 bc 4 e9 UAP transparency" aria-label="Read more about What the UAP hearings actually changed | Alleged Magenta UFO 7 bc 4 e9 UAP transparency">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'house-hearings/' | relative_url }}" title="What the UAP hearings actually changed | Why Magenta Became a UAP Disclosure Issue | Alleged Magenta UFO" aria-label="Read more about What the UAP hearings actually changed | Why Magenta Became a UAP Disclosure Issue | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3592,7 +3592,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'closed-proof/' | relative_url }}" title="When evidence stays behind closed doors | Alleged Magenta UFO 7 bc 4 e9 UAP transparency" aria-label="Read more about When evidence stays behind closed doors | Alleged Magenta UFO 7 bc 4 e9 UAP transparency">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'closed-proof/' | relative_url }}" title="When evidence stays behind closed doors | Why Magenta Became a UAP Disclosure Issue | Alleged Magenta UFO" aria-label="Read more about When evidence stays behind closed doors | Why Magenta Became a UAP Disclosure Issue | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3612,7 +3612,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ '2024-historical-review-by-the-all/' | relative_url }}" title="Why AARO did not end the argument | Alleged Magenta UFO 7 bc 4 e9 UAP transparency" aria-label="Read more about Why AARO did not end the argument | Alleged Magenta UFO 7 bc 4 e9 UAP transparency">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ '2024-historical-review-by-the-all/' | relative_url }}" title="Why AARO did not end the argument | Why Magenta Became a UAP Disclosure Issue | Alleged Magenta UFO" aria-label="Read more about Why AARO did not end the argument | Why Magenta Became a UAP Disclosure Issue | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3632,7 +3632,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'records-plan/' | relative_url }}" title="Why the UAP records plan mattered | Alleged Magenta UFO 7 bc 4 e9 UAP transparency" aria-label="Read more about Why the UAP records plan mattered | Alleged Magenta UFO 7 bc 4 e9 UAP transparency">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'records-plan/' | relative_url }}" title="Why the UAP records plan mattered | Why Magenta Became a UAP Disclosure Issue | Alleged Magenta UFO" aria-label="Read more about Why the UAP records plan mattered | Why Magenta Became a UAP Disclosure Issue | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3652,7 +3652,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'whistleblowers/' | relative_url }}" title="Why whistleblowers became central to UAP oversight | Alleged Magenta UFO 7 bc 4 e9 UAP transparency" aria-label="Read more about Why whistleblowers became central to UAP oversight | Alleged Magenta UFO 7 bc 4 e9 UAP transparency">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'whistleblowers/' | relative_url }}" title="Why whistleblowers became central to UAP oversight | Why Magenta Became a UAP Disclosure Issue | Alleged Magenta UFO" aria-label="Read more about Why whistleblowers became central to UAP oversight | Why Magenta Became a UAP Disclosure Issue | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3696,7 +3696,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'april-1945/' | relative_url }}" title="Did April 1945 Fit the Retrieval Story? | Alleged Magenta UFO 7 bc 4 e9 american retrieval" aria-label="Read more about Did April 1945 Fit the Retrieval Story? | Alleged Magenta UFO 7 bc 4 e9 american retrieval">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'april-1945/' | relative_url }}" title="Did April 1945 Fit the Retrieval Story? | Did America Take the Magenta Object? | Alleged Magenta UFO" aria-label="Read more about Did April 1945 Fit the Retrieval Story? | Did America Take the Magenta Object? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3716,7 +3716,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'vatican-claim/' | relative_url }}" title="Did the Vatican Help the Americans? | Alleged Magenta UFO 7 bc 4 e9 american retrieval" aria-label="Read more about Did the Vatican Help the Americans? | Alleged Magenta UFO 7 bc 4 e9 american retrieval">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'vatican-claim/' | relative_url }}" title="Did the Vatican Help the Americans? | Did America Take the Magenta Object? | Alleged Magenta UFO" aria-label="Read more about Did the Vatican Help the Americans? | Did America Take the Magenta Object? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3736,7 +3736,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'oss-records/' | relative_url }}" title="What Records Would Prove a Transfer? | Alleged Magenta UFO 7 bc 4 e9 american retrieval" aria-label="Read more about What Records Would Prove a Transfer? | Alleged Magenta UFO 7 bc 4 e9 american retrieval">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'oss-records/' | relative_url }}" title="What Records Would Prove a Transfer? | Did America Take the Magenta Object? | Alleged Magenta UFO" aria-label="Read more about What Records Would Prove a Transfer? | Did America Take the Magenta Object? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3756,7 +3756,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'storage-sites/' | relative_url }}" title="Where Was the Object Supposedly Stored? | Alleged Magenta UFO 7 bc 4 e9 american retrieval" aria-label="Read more about Where Was the Object Supposedly Stored? | Alleged Magenta UFO 7 bc 4 e9 american retrieval">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'storage-sites/' | relative_url }}" title="Where Was the Object Supposedly Stored? | Did America Take the Magenta Object? | Alleged Magenta UFO" aria-label="Read more about Where Was the Object Supposedly Stored? | Did America Take the Magenta Object? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3776,7 +3776,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ '1944-problem/' | relative_url }}" title="Why 1944 Is the Harder Date | Alleged Magenta UFO 7 bc 4 e9 american retrieval" aria-label="Read more about Why 1944 Is the Harder Date | Alleged Magenta UFO 7 bc 4 e9 american retrieval">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ '1944-problem/' | relative_url }}" title="Why 1944 Is the Harder Date | Did America Take the Magenta Object? | Alleged Magenta UFO" aria-label="Read more about Why 1944 Is the Harder Date | Did America Take the Magenta Object? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3796,7 +3796,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'two-versions/' | relative_url }}" title="Why the Two Transfer Stories Differ | Alleged Magenta UFO 7 bc 4 e9 american retrieval" aria-label="Read more about Why the Two Transfer Stories Differ | Alleged Magenta UFO 7 bc 4 e9 american retrieval">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'two-versions/' | relative_url }}" title="Why the Two Transfer Stories Differ | Did America Take the Magenta Object? | Alleged Magenta UFO" aria-label="Read more about Why the Two Transfer Stories Differ | Did America Take the Magenta Object? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3840,7 +3840,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'rs-33-test/' | relative_url }}" title="Can Later Claims Fit RS/33? | Alleged Magenta UFO 7 bc 4 e9 van erp critique" aria-label="Read more about Can Later Claims Fit RS/33? | Alleged Magenta UFO 7 bc 4 e9 van erp critique">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'rs-33-test/' | relative_url }}" title="Can Later Claims Fit RS/33? | What Sceptics Say Was Added Later | Alleged Magenta UFO" aria-label="Read more about Can Later Claims Fit RS/33? | What Sceptics Say Was Added Later | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3860,7 +3860,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'bell-shape/' | relative_url }}" title="Did the Bell Shape Come Later? | Alleged Magenta UFO 7 bc 4 e9 van erp critique" aria-label="Read more about Did the Bell Shape Come Later? | Alleged Magenta UFO 7 bc 4 e9 van erp critique">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'bell-shape/' | relative_url }}" title="Did the Bell Shape Come Later? | What Sceptics Say Was Added Later | Alleged Magenta UFO" aria-label="Read more about Did the Bell Shape Come Later? | What Sceptics Say Was Added Later | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3880,7 +3880,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'brophy-drift/' | relative_url }}" title="How Brophy Blurred the Magenta Story | Alleged Magenta UFO 7 bc 4 e9 van erp critique" aria-label="Read more about How Brophy Blurred the Magenta Story | Alleged Magenta UFO 7 bc 4 e9 van erp critique">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'brophy-drift/' | relative_url }}" title="How Brophy Blurred the Magenta Story | What Sceptics Say Was Added Later | Alleged Magenta UFO" aria-label="Read more about How Brophy Blurred the Magenta Story | What Sceptics Say Was Added Later | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3900,7 +3900,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'motif-map/' | relative_url }}" title="How Many Stories Became One Magenta Myth | Alleged Magenta UFO 7 bc 4 e9 van erp critique" aria-label="Read more about How Many Stories Became One Magenta Myth | Alleged Magenta UFO 7 bc 4 e9 van erp critique">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'motif-map/' | relative_url }}" title="How Many Stories Became One Magenta Myth | What Sceptics Say Was Added Later | Alleged Magenta UFO" aria-label="Read more about How Many Stories Became One Magenta Myth | What Sceptics Say Was Added Later | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3920,7 +3920,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'craft-drift/' | relative_url }}" title="When a Saucer Became a Specific Craft | Alleged Magenta UFO 7 bc 4 e9 van erp critique" aria-label="Read more about When a Saucer Became a Specific Craft | Alleged Magenta UFO 7 bc 4 e9 van erp critique">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'craft-drift/' | relative_url }}" title="When a Saucer Became a Specific Craft | What Sceptics Say Was Added Later | Alleged Magenta UFO" aria-label="Read more about When a Saucer Became a Specific Craft | What Sceptics Say Was Added Later | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3940,7 +3940,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'date-drift/' | relative_url }}" title="Why the 1933 Dates Do Not Line Up | Alleged Magenta UFO 7 bc 4 e9 van erp critique" aria-label="Read more about Why the 1933 Dates Do Not Line Up | Alleged Magenta UFO 7 bc 4 e9 van erp critique">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'date-drift/' | relative_url }}" title="Why the 1933 Dates Do Not Line Up | What Sceptics Say Was Added Later | Alleged Magenta UFO" aria-label="Read more about Why the 1933 Dates Do Not Line Up | What Sceptics Say Was Added Later | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -3984,7 +3984,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'chronology-problem/' | relative_url }}" title="Could the Retrieval Timeline Work? | Alleged Magenta UFO 7 bc 4 e9 vatican story" aria-label="Read more about Could the Retrieval Timeline Work? | Alleged Magenta UFO 7 bc 4 e9 vatican story">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'chronology-problem/' | relative_url }}" title="Could the Retrieval Timeline Work? | Did the Vatican Help Transfer the UFO Secret? | Alleged Magenta UFO" aria-label="Read more about Could the Retrieval Timeline Work? | Did the Vatican Help Transfer the UFO Secret? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -4004,7 +4004,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'grusch-claim/' | relative_url }}" title="What Did Grusch Actually Add? | Alleged Magenta UFO 7 bc 4 e9 vatican story" aria-label="Read more about What Did Grusch Actually Add? | Alleged Magenta UFO 7 bc 4 e9 vatican story">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'grusch-claim/' | relative_url }}" title="What Did Grusch Actually Add? | Did the Vatican Help Transfer the UFO Secret? | Alleged Magenta UFO" aria-label="Read more about What Did Grusch Actually Add? | Did the Vatican Help Transfer the UFO Secret? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -4024,7 +4024,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'later-retellings/' | relative_url }}" title="When Did the Vatican Enter the Story? | Alleged Magenta UFO 7 bc 4 e9 vatican story" aria-label="Read more about When Did the Vatican Enter the Story? | Alleged Magenta UFO 7 bc 4 e9 vatican story">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'later-retellings/' | relative_url }}" title="When Did the Vatican Enter the Story? | Did the Vatican Help Transfer the UFO Secret? | Alleged Magenta UFO" aria-label="Read more about When Did the Vatican Enter the Story? | Did the Vatican Help Transfer the UFO Secret? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -4044,7 +4044,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'allied-records/' | relative_url }}" title="Where Are the Allied Intelligence Files? | Alleged Magenta UFO 7 bc 4 e9 vatican story" aria-label="Read more about Where Are the Allied Intelligence Files? | Alleged Magenta UFO 7 bc 4 e9 vatican story">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'allied-records/' | relative_url }}" title="Where Are the Allied Intelligence Files? | Did the Vatican Help Transfer the UFO Secret? | Alleged Magenta UFO" aria-label="Read more about Where Are the Allied Intelligence Files? | Did the Vatican Help Transfer the UFO Secret? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -4064,7 +4064,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'pope-confusion/' | relative_url }}" title="Which Pope Was the Story About? | Alleged Magenta UFO 7 bc 4 e9 vatican story" aria-label="Read more about Which Pope Was the Story About? | Alleged Magenta UFO 7 bc 4 e9 vatican story">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'pope-confusion/' | relative_url }}" title="Which Pope Was the Story About? | Did the Vatican Help Transfer the UFO Secret? | Alleged Magenta UFO" aria-label="Read more about Which Pope Was the Story About? | Did the Vatican Help Transfer the UFO Secret? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -4084,7 +4084,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'archive-gap/' | relative_url }}" title="Why Are the Vatican Records Missing? | Alleged Magenta UFO 7 bc 4 e9 vatican story" aria-label="Read more about Why Are the Vatican Records Missing? | Alleged Magenta UFO 7 bc 4 e9 vatican story">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'archive-gap/' | relative_url }}" title="Why Are the Vatican Records Missing? | Did the Vatican Help Transfer the UFO Secret? | Alleged Magenta UFO" aria-label="Read more about Why Are the Vatican Records Missing? | Did the Vatican Help Transfer the UFO Secret? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -4128,7 +4128,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'document-cache/' | relative_url }}" title="Can Anonymous Papers Locate a Hangar? | Alleged Magenta UFO 7 bc 4 e9 vergiate hangars" aria-label="Read more about Can Anonymous Papers Locate a Hangar? | Alleged Magenta UFO 7 bc 4 e9 vergiate hangars">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'document-cache/' | relative_url }}" title="Can Anonymous Papers Locate a Hangar? | Why Vergiate Became the UFO Hangar Site | Alleged Magenta UFO" aria-label="Read more about Can Anonymous Papers Locate a Hangar? | Why Vergiate Became the UFO Hangar Site | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -4148,7 +4148,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ '1945-removal/' | relative_url }}" title="Did the Allies Remove Anything from Vergiate? | Alleged Magenta UFO 7 bc 4 e9 vergiate hangars" aria-label="Read more about Did the Allies Remove Anything from Vergiate? | Alleged Magenta UFO 7 bc 4 e9 vergiate hangars">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ '1945-removal/' | relative_url }}" title="Did the Allies Remove Anything from Vergiate? | Why Vergiate Became the UFO Hangar Site | Alleged Magenta UFO" aria-label="Read more about Did the Allies Remove Anything from Vergiate? | Why Vergiate Became the UFO Hangar Site | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -4168,7 +4168,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ '1933-site/' | relative_url }}" title="Did Vergiate Have the Hangars Yet? | Alleged Magenta UFO 7 bc 4 e9 vergiate hangars" aria-label="Read more about Did Vergiate Have the Hangars Yet? | Alleged Magenta UFO 7 bc 4 e9 vergiate hangars">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ '1933-site/' | relative_url }}" title="Did Vergiate Have the Hangars Yet? | Why Vergiate Became the UFO Hangar Site | Alleged Magenta UFO" aria-label="Read more about Did Vergiate Have the Hangars Yet? | Why Vergiate Became the UFO Hangar Site | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -4188,7 +4188,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'two-sites/' | relative_url }}" title="Was Vergiate Really the Right Hangar? | Alleged Magenta UFO 7 bc 4 e9 vergiate hangars" aria-label="Read more about Was Vergiate Really the Right Hangar? | Alleged Magenta UFO 7 bc 4 e9 vergiate hangars">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'two-sites/' | relative_url }}" title="Was Vergiate Really the Right Hangar? | Why Vergiate Became the UFO Hangar Site | Alleged Magenta UFO" aria-label="Read more about Was Vergiate Really the Right Hangar? | Why Vergiate Became the UFO Hangar Site | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -4208,7 +4208,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'paper-trail-de9771/' | relative_url }}" title="What Proof Should a Hidden Hangar Leave? | Alleged Magenta UFO 7 bc 4 e9 vergiate hangars" aria-label="Read more about What Proof Should a Hidden Hangar Leave? | Alleged Magenta UFO 7 bc 4 e9 vergiate hangars">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'paper-trail-de9771/' | relative_url }}" title="What Proof Should a Hidden Hangar Leave? | Why Vergiate Became the UFO Hangar Site | Alleged Magenta UFO" aria-label="Read more about What Proof Should a Hidden Hangar Leave? | Why Vergiate Became the UFO Hangar Site | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -4228,7 +4228,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'siai-role/' | relative_url }}" title="Why SIAI Marchetti Made the Story Credible | Alleged Magenta UFO 7 bc 4 e9 vergiate hangars" aria-label="Read more about Why SIAI Marchetti Made the Story Credible | Alleged Magenta UFO 7 bc 4 e9 vergiate hangars">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'siai-role/' | relative_url }}" title="Why SIAI Marchetti Made the Story Credible | Why Vergiate Became the UFO Hangar Site | Alleged Magenta UFO" aria-label="Read more about Why SIAI Marchetti Made the Story Credible | Why Vergiate Became the UFO Hangar Site | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -4272,7 +4272,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'rs-33-names/' | relative_url }}" title="Can Cabinet RS/33 Supply Real Witnesses? | Alleged Magenta UFO 7 bc 4 e9 witness problem" aria-label="Read more about Can Cabinet RS/33 Supply Real Witnesses? | Alleged Magenta UFO 7 bc 4 e9 witness problem">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'rs-33-names/' | relative_url }}" title="Can Cabinet RS/33 Supply Real Witnesses? | Why Are There No Clear Magenta Witnesses? | Alleged Magenta UFO" aria-label="Read more about Can Cabinet RS/33 Supply Real Witnesses? | Why Are There No Clear Magenta Witnesses? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -4292,7 +4292,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'date-problem/' | relative_url }}" title="Can Magenta&#x27;s 1933 Dates Be Reconciled? | Alleged Magenta UFO 7 bc 4 e9 witness problem" aria-label="Read more about Can Magenta&#x27;s 1933 Dates Be Reconciled? | Alleged Magenta UFO 7 bc 4 e9 witness problem">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'date-problem/' | relative_url }}" title="Can Magenta's 1933 Dates Be Reconciled? | Why Are There No Clear Magenta Witnesses? | Alleged Magenta UFO" aria-label="Read more about Can Magenta's 1933 Dates Be Reconciled? | Why Are There No Clear Magenta Witnesses? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -4312,7 +4312,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'family-chain/' | relative_url }}" title="Is an Anonymous Family Source Enough? | Alleged Magenta UFO 7 bc 4 e9 witness problem" aria-label="Read more about Is an Anonymous Family Source Enough? | Alleged Magenta UFO 7 bc 4 e9 witness problem">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'family-chain/' | relative_url }}" title="Is an Anonymous Family Source Enough? | Why Are There No Clear Magenta Witnesses? | Alleged Magenta UFO" aria-label="Read more about Is an Anonymous Family Source Enough? | Why Are There No Clear Magenta Witnesses? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -4332,7 +4332,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'vergiate-trail-416e7e/' | relative_url }}" title="Where Are the Vergiate Hangar Witnesses? | Alleged Magenta UFO 7 bc 4 e9 witness problem" aria-label="Read more about Where Are the Vergiate Hangar Witnesses? | Alleged Magenta UFO 7 bc 4 e9 witness problem">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'vergiate-trail-416e7e/' | relative_url }}" title="Where Are the Vergiate Hangar Witnesses? | Why Are There No Clear Magenta Witnesses? | Alleged Magenta UFO" aria-label="Read more about Where Are the Vergiate Hangar Witnesses? | Why Are There No Clear Magenta Witnesses? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -4352,7 +4352,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'local-silence/' | relative_url }}" title="Why Did Local Witnesses Not Surface? | Alleged Magenta UFO 7 bc 4 e9 witness problem" aria-label="Read more about Why Did Local Witnesses Not Surface? | Alleged Magenta UFO 7 bc 4 e9 witness problem">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'local-silence/' | relative_url }}" title="Why Did Local Witnesses Not Surface? | Why Are There No Clear Magenta Witnesses? | Alleged Magenta UFO" aria-label="Read more about Why Did Local Witnesses Not Surface? | Why Are There No Clear Magenta Witnesses? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -4372,7 +4372,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'no-witness/' | relative_url }}" title="Why Is There No Named Magenta Witness? | Alleged Magenta UFO 7 bc 4 e9 witness problem" aria-label="Read more about Why Is There No Named Magenta Witness? | Alleged Magenta UFO 7 bc 4 e9 witness problem">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'no-witness/' | relative_url }}" title="Why Is There No Named Magenta Witness? | Why Are There No Clear Magenta Witnesses? | Alleged Magenta UFO" aria-label="Read more about Why Is There No Named Magenta Witness? | Why Are There No Clear Magenta Witnesses? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -4416,7 +4416,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'turboproietti/' | relative_url }}" title="Did Belluzzo&#x27;s Disc Designs Explain Magenta? | Alleged Magenta UFO 7 bc 4 e9 nazi wonder weapons" aria-label="Read more about Did Belluzzo&#x27;s Disc Designs Explain Magenta? | Alleged Magenta UFO 7 bc 4 e9 nazi wonder weapons">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'turboproietti/' | relative_url }}" title="Did Belluzzo's Disc Designs Explain Magenta? | Did Nazi UFO Lore Shape Magenta Retellings? | Alleged Magenta UFO" aria-label="Read more about Did Belluzzo's Disc Designs Explain Magenta? | Did Nazi UFO Lore Shape Magenta Retellings? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -4436,7 +4436,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'v-weapons/' | relative_url }}" title="How Real Wonder Weapons Fed UFO Myths | Alleged Magenta UFO 7 bc 4 e9 nazi wonder weapons" aria-label="Read more about How Real Wonder Weapons Fed UFO Myths | Alleged Magenta UFO 7 bc 4 e9 nazi wonder weapons">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'v-weapons/' | relative_url }}" title="How Real Wonder Weapons Fed UFO Myths | Did Nazi UFO Lore Shape Magenta Retellings? | Alleged Magenta UFO" aria-label="Read more about How Real Wonder Weapons Fed UFO Myths | Did Nazi UFO Lore Shape Magenta Retellings? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -4456,7 +4456,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'campini-jet/' | relative_url }}" title="Was Italy&#x27;s Early Jet Really a Clue? | Alleged Magenta UFO 7 bc 4 e9 nazi wonder weapons" aria-label="Read more about Was Italy&#x27;s Early Jet Really a Clue? | Alleged Magenta UFO 7 bc 4 e9 nazi wonder weapons">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'campini-jet/' | relative_url }}" title="Was Italy's Early Jet Really a Clue? | Did Nazi UFO Lore Shape Magenta Retellings? | Alleged Magenta UFO" aria-label="Read more about Was Italy's Early Jet Really a Clue? | Did Nazi UFO Lore Shape Magenta Retellings? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -4476,7 +4476,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'paperclip/' | relative_url }}" title="Where Paperclip Ends and UFO Lore Begins | Alleged Magenta UFO 7 bc 4 e9 nazi wonder weapons" aria-label="Read more about Where Paperclip Ends and UFO Lore Begins | Alleged Magenta UFO 7 bc 4 e9 nazi wonder weapons">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'paperclip/' | relative_url }}" title="Where Paperclip Ends and UFO Lore Begins | Did Nazi UFO Lore Shape Magenta Retellings? | Alleged Magenta UFO" aria-label="Read more about Where Paperclip Ends and UFO Lore Begins | Did Nazi UFO Lore Shape Magenta Retellings? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -4496,7 +4496,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'die-glocke/' | relative_url }}" title="Why Die Glocke Sounds Like Magenta | Alleged Magenta UFO 7 bc 4 e9 nazi wonder weapons" aria-label="Read more about Why Die Glocke Sounds Like Magenta | Alleged Magenta UFO 7 bc 4 e9 nazi wonder weapons">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'die-glocke/' | relative_url }}" title="Why Die Glocke Sounds Like Magenta | Did Nazi UFO Lore Shape Magenta Retellings? | Alleged Magenta UFO" aria-label="Read more about Why Die Glocke Sounds Like Magenta | Did Nazi UFO Lore Shape Magenta Retellings? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
@@ -4516,7 +4516,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'secret-labs/' | relative_url }}" title="Why Secret Labs Make Magenta Feel Plausible | Alleged Magenta UFO 7 bc 4 e9 nazi wonder weapons" aria-label="Read more about Why Secret Labs Make Magenta Feel Plausible | Alleged Magenta UFO 7 bc 4 e9 nazi wonder weapons">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'secret-labs/' | relative_url }}" title="Why Secret Labs Make Magenta Feel Plausible | Did Nazi UFO Lore Shape Magenta Retellings? | Alleged Magenta UFO" aria-label="Read more about Why Secret Labs Make Magenta Feel Plausible | Did Nazi UFO Lore Shape Magenta Retellings? | Alleged Magenta UFO">Read more</a>
 </div>
 </div>
 </div>
