@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /alleged-magenta-ufo-7bc4e9-uap/
 description: Focused pages that expand on Transparency.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b
 parent_title: Transparency
