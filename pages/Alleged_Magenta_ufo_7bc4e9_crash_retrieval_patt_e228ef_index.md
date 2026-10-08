@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /alleged-magenta-ufo-7bc4e9-crash/
 description: Focused pages that expand on Retrieval Lore.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Alleged_Magenta_ufo_7bc4e9_crash_retrieval_patt_e228ef
 parent_title: Retrieval Lore
