@@ -266,6 +266,7 @@ next_link:
   short_title: Hangars
   heading_title: Do real hangars make the story stronger?
 date: '2026-06-26 11:46:18 '
+last_modified_at: '2026-06-26 11:46:18 '
 header:
   og_image: /assets/images/Alleged_Magenta_ufo_7bc4e9_supporter_arguments_2e8636_anonymous_file_trail_7ba62a-Illustration-1-social.jpg
   preview_image: /assets/images/Alleged_Magenta_ufo_7bc4e9_supporter_arguments_2e8636_anonymous_file_trail_7ba62a-Illustration-1.webp

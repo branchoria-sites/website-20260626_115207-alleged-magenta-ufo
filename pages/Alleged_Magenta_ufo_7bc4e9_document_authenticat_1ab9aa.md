@@ -426,6 +426,7 @@ next_link:
   short_title: Aviation
   heading_title: Did Italian Aviation Make Magenta Seem Plausible?
 date: '2026-06-26 09:31:12 '
+last_modified_at: '2026-06-26 09:31:12 '
 header:
   og_image: /assets/images/Alleged_Magenta_ufo_7bc4e9_document_authenticat_1ab9aa-overview-social.jpg
   preview_image: /assets/images/Alleged_Magenta_ufo_7bc4e9_document_authenticat_1ab9aa-overview.webp

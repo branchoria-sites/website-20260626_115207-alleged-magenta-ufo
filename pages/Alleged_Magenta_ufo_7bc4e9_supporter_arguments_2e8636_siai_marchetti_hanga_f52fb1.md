@@ -272,6 +272,7 @@ next_link:
   short_title: Marconi
   heading_title: Was Marconi plausible evidence or decoration?
 date: '2026-06-26 11:46:22 '
+last_modified_at: '2026-06-26 11:46:22 '
 header:
   og_image: /assets/images/Alleged_Magenta_ufo_7bc4e9_supporter_arguments_2e8636_siai_marchetti_hanga_f52fb1-Illustration-1-social.jpg
   preview_image: /assets/images/Alleged_Magenta_ufo_7bc4e9_supporter_arguments_2e8636_siai_marchetti_hanga_f52fb1-Illustration-1.webp

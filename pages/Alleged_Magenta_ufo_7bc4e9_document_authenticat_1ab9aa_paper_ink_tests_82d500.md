@@ -272,6 +272,7 @@ next_link:
   short_title: Record Echoes
   heading_title: Where a real recovery should leave traces
 date: '2026-06-26 11:45:10 '
+last_modified_at: '2026-06-26 11:45:10 '
 header:
   og_image: /assets/images/Alleged_Magenta_ufo_7bc4e9_document_authenticat_1ab9aa_paper_ink_tests_82d500-Illustration-1-social.jpg
   preview_image: /assets/images/Alleged_Magenta_ufo_7bc4e9_document_authenticat_1ab9aa_paper_ink_tests_82d500-Illustration-1.webp

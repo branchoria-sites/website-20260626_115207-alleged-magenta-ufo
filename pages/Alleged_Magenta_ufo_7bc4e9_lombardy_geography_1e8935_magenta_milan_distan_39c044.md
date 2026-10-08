@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-26 06:47:43'
+last_modified_at: '2026-06-26 06:47:43'
 parent_title: Why the Magenta Setting Feels Plausible
 parent_permalink: /lombardy/
 parent_nav_short_title: Lombardy

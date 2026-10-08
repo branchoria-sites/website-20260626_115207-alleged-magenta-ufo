@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-26 03:06:51'
+last_modified_at: '2026-06-26 03:06:51'
 parent_title: Why SIAI Marchetti Matters to the Story
 parent_permalink: /siai/
 parent_nav_short_title: SIAI

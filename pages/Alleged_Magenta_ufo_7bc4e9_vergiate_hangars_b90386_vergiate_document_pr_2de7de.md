@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-25 17:14:11'
+last_modified_at: '2026-06-25 17:14:11'
 parent_title: Why Vergiate Became the UFO Hangar Site
 parent_permalink: /vergiate/
 parent_nav_short_title: Vergiate

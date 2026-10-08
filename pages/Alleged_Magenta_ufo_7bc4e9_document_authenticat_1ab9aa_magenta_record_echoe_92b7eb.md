@@ -266,6 +266,7 @@ prev_link:
   short_title: Paper Tests
   heading_title: Can old paper prove a UFO claim?
 date: '2026-06-26 11:46:24 '
+last_modified_at: '2026-06-26 11:46:24 '
 header:
   og_image: /assets/images/Alleged_Magenta_ufo_7bc4e9_document_authenticat_1ab9aa_magenta_record_echoe_92b7eb-Illustration-1-social.jpg
   preview_image: /assets/images/Alleged_Magenta_ufo_7bc4e9_document_authenticat_1ab9aa_magenta_record_echoe_92b7eb-Illustration-1.webp

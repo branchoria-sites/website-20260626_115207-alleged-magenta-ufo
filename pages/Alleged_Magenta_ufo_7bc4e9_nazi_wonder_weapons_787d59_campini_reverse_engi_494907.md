@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-26 08:08:21'
+last_modified_at: '2026-06-26 08:08:21'
 parent_title: Did Nazi UFO Lore Shape Magenta Retellings?
 parent_permalink: /wonder-weapons/
 parent_nav_short_title: Wonder Weapons

@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-25 20:07:28'
+last_modified_at: '2026-06-25 20:07:28'
 parent_title: Did America Take the Magenta Object?
 parent_permalink: /us-transfer/
 parent_nav_short_title: US Transfer

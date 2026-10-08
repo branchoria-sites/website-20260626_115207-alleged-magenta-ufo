@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-26 00:42:04'
+last_modified_at: '2026-06-26 00:42:04'
 parent_title: Why Are There No Clear Magenta Witnesses?
 parent_permalink: /witnesses/
 parent_nav_short_title: Witnesses

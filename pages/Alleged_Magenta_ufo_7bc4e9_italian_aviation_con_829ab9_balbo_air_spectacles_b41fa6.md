@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-26 03:05:03'
+last_modified_at: '2026-06-26 03:05:03'
 parent_title: Did Italian Aviation Make Magenta Seem Plausible?
 parent_permalink: /aviation/
 parent_nav_short_title: Aviation

@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-26 01:48:50'
+last_modified_at: '2026-06-26 01:48:50'
 parent_title: What Shape Was the Magenta UFO Supposed to Be?
 parent_permalink: /object-shape/
 parent_nav_short_title: Object Shape

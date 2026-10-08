@@ -272,6 +272,7 @@ next_link:
   short_title: MJ 12 Lessons
   heading_title: How fake UFO memos get tested
 date: '2026-06-26 11:45:35 '
+last_modified_at: '2026-06-26 11:45:35 '
 header:
   og_image: /assets/images/Alleged_Magenta_ufo_7bc4e9_document_authenticat_1ab9aa_blue_book_custody_d213f8-Illustration-1-social.jpg
   preview_image: /assets/images/Alleged_Magenta_ufo_7bc4e9_document_authenticat_1ab9aa_blue_book_custody_d213f8-Illustration-1.webp
