@@ -209,7 +209,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-alleged-magenta-ufo-7bc4e9-aaro-official-view-8814fc" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'aaro/' | relative_url }}" title="What Official UAP Reviews Mean for Magenta | Alleged Magenta UFO" aria-label="Open page: What Official UAP Reviews Mean for Magenta | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_aaro_official_view_8814fc-overview.webp' | relative_url }}" alt="Overview image for What Official UAP Reviews Mean for Magenta | Alleged Magenta UFO" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_aaro_official_view_8814fc-overview.webp' | relative_url }}" alt="Overview image for What Official UAP Reviews Mean for Magenta" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">AARO</span>
@@ -231,7 +231,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-aaro-official-view-8814fc-kona-blue-circular-r-01e6b1" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'kona-blue/' | relative_url }}" title="Can Rumour Become Government Process? | What Official UAP Reviews Mean for Magenta | Alleged Magenta UFO" aria-label="Open page: Can Rumour Become Government Process? | What Official UAP Reviews Mean for Magenta | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_aaro_official_view_8814fc_kona_blue_circular_r_01e6b1-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Rumour Become Government Process? | Alleged Magenta UFO 7 bc 4 e9 AARO official view" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_aaro_official_view_8814fc_kona_blue_circular_r_01e6b1-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Rumour Become Government Process?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Kona Blue</span>
@@ -251,7 +251,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-aaro-official-view-8814fc-scepticism-not-absen-75016e" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'not-proof/' | relative_url }}" title="What AARO Did Not Prove | What Official UAP Reviews Mean for Magenta | Alleged Magenta UFO" aria-label="Open page: What AARO Did Not Prove | What Official UAP Reviews Mean for Magenta | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_aaro_official_view_8814fc_scepticism_not_absen_75016e-Illustration-1.webp' | relative_url }}" alt="Overview image for What AARO Did Not Prove | Alleged Magenta UFO 7 bc 4 e9 AARO official view" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_aaro_official_view_8814fc_scepticism_not_absen_75016e-Illustration-1.webp' | relative_url }}" alt="Overview image for What AARO Did Not Prove" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Not Proof</span>
@@ -271,7 +271,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-aaro-official-view-8814fc-aaro-tested-claims-9df86f" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'aaro-tests/' | relative_url }}" title="What Did AARO Actually Check? | What Official UAP Reviews Mean for Magenta | Alleged Magenta UFO" aria-label="Open page: What Did AARO Actually Check? | What Official UAP Reviews Mean for Magenta | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_aaro_official_view_8814fc_aaro_tested_claims_9df86f-Illustration-1.webp' | relative_url }}" alt="Overview image for What Did AARO Actually Check? | Alleged Magenta UFO 7 bc 4 e9 AARO official view" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_aaro_official_view_8814fc_aaro_tested_claims_9df86f-Illustration-1.webp' | relative_url }}" alt="Overview image for What Did AARO Actually Check?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">AARO Tests</span>
@@ -291,7 +291,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-aaro-official-view-8814fc-poor-uap-data-e0a07d" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'weak-data/' | relative_url }}" title="When Unidentified Does Not Mean Alien | What Official UAP Reviews Mean for Magenta | Alleged Magenta UFO" aria-label="Open page: When Unidentified Does Not Mean Alien | What Official UAP Reviews Mean for Magenta | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_aaro_official_view_8814fc_poor_uap_data_e0a07d-Illustration-1.webp' | relative_url }}" alt="Overview image for When Unidentified Does Not Mean Alien | Alleged Magenta UFO 7 bc 4 e9 AARO official view" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_aaro_official_view_8814fc_poor_uap_data_e0a07d-Illustration-1.webp' | relative_url }}" alt="Overview image for When Unidentified Does Not Mean Alien" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Weak Data</span>
@@ -311,7 +311,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-aaro-official-view-8814fc-missing-us-custody-t-a433f6" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'custody-trail/' | relative_url }}" title="Where Would a Hidden Craft Leave Traces? | What Official UAP Reviews Mean for Magenta | Alleged Magenta UFO" aria-label="Open page: Where Would a Hidden Craft Leave Traces? | What Official UAP Reviews Mean for Magenta | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_aaro_official_view_8814fc_missing_us_custody_t_a433f6-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Would a Hidden Craft Leave Traces? | Alleged Magenta UFO 7 bc 4 e9 AARO official view" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_aaro_official_view_8814fc_missing_us_custody_t_a433f6-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Would a Hidden Craft Leave Traces?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Custody Trail</span>
@@ -331,7 +331,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-aaro-official-view-8814fc-nasa-evidence-standa-dcf049" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'nasa-standard/' | relative_url }}" title="Why NASA Starts With Better Data | What Official UAP Reviews Mean for Magenta | Alleged Magenta UFO" aria-label="Open page: Why NASA Starts With Better Data | What Official UAP Reviews Mean for Magenta | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_aaro_official_view_8814fc_nasa_evidence_standa_dcf049-Illustration-1.webp' | relative_url }}" alt="Overview image for Why NASA Starts With Better Data | Alleged Magenta UFO 7 bc 4 e9 AARO official view" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_aaro_official_view_8814fc_nasa_evidence_standa_dcf049-Illustration-1.webp' | relative_url }}" alt="Overview image for Why NASA Starts With Better Data" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">NASA Standard</span>
@@ -353,7 +353,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-alleged-magenta-ufo-7bc4e9-archive-trail-e36ff1" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'archive-trail/' | relative_url }}" title="What Records Should a Real Recovery Leave? | Alleged Magenta UFO" aria-label="Open page: What Records Should a Real Recovery Leave? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_archive_trail_e36ff1-overview.webp' | relative_url }}" alt="Overview image for What Records Should a Real Recovery Leave? | Alleged Magenta UFO" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_archive_trail_e36ff1-overview.webp' | relative_url }}" alt="Overview image for What Records Should a Real Recovery Leave?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Archive Trail</span>
@@ -375,7 +375,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-archive-trail-e36ff1-vergiate-hangar-cust-7f1e2f" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'vergiate-trail/' | relative_url }}" title="Could Vergiate Hide a Secret Craft? | What Records Should a Real Recovery Leave? | Alleged Magenta UFO" aria-label="Open page: Could Vergiate Hide a Secret Craft? | What Records Should a Real Recovery Leave? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_archive_trail_e36ff1_vergiate_hangar_cust_7f1e2f-Illustration-1.webp' | relative_url }}" alt="Overview image for Could Vergiate Hide a Secret Craft? | Alleged Magenta UFO 7 bc 4 e9 archive trail" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_archive_trail_e36ff1_vergiate_hangar_cust_7f1e2f-Illustration-1.webp' | relative_url }}" alt="Overview image for Could Vergiate Hide a Secret Craft?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Vergiate Trail</span>
@@ -395,7 +395,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-archive-trail-e36ff1-rs33-administrative-7fcb6e" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'rs-33-fit/' | relative_url }}" title="Does Cabinet RS/33 Behave Like a Real File? | What Records Should a Real Recovery Leave? | Alleged Magenta UFO" aria-label="Open page: Does Cabinet RS/33 Behave Like a Real File? | What Records Should a Real Recovery Leave? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_archive_trail_e36ff1_rs33_administrative_7fcb6e-Illustration-1.webp' | relative_url }}" alt="Overview image for Does Cabinet RS/33 Behave Like a Real File? | Alleged Magenta UFO 7 bc 4 e9 archive trail" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_archive_trail_e36ff1_rs33_administrative_7fcb6e-Illustration-1.webp' | relative_url }}" alt="Overview image for Does Cabinet RS/33 Behave Like a Real File?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">RS 33 Fit</span>
@@ -415,7 +415,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-archive-trail-e36ff1-secret-recovery-budg-a96bb3" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'budget-clues/' | relative_url }}" title="Follow the Money in the Magenta Story | What Records Should a Real Recovery Leave? | Alleged Magenta UFO" aria-label="Open page: Follow the Money in the Magenta Story | What Records Should a Real Recovery Leave? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_archive_trail_e36ff1_secret_recovery_budg_a96bb3-Illustration-1.webp' | relative_url }}" alt="Overview image for Follow the Money in the Magenta Story | Alleged Magenta UFO 7 bc 4 e9 archive trail" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_archive_trail_e36ff1_secret_recovery_budg_a96bb3-Illustration-1.webp' | relative_url }}" alt="Overview image for Follow the Money in the Magenta Story" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Budget Clues</span>
@@ -435,7 +435,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-archive-trail-e36ff1-magenta-site-orders-5af591" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'site-orders/' | relative_url }}" title="What Magenta Site Orders Should Have Left | What Records Should a Real Recovery Leave? | Alleged Magenta UFO" aria-label="Open page: What Magenta Site Orders Should Have Left | What Records Should a Real Recovery Leave? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_archive_trail_e36ff1_magenta_site_orders_5af591-Illustration-1.webp' | relative_url }}" alt="Overview image for What Magenta Site Orders Should Have Left | Alleged Magenta UFO 7 bc 4 e9 archive trail" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_archive_trail_e36ff1_magenta_site_orders_5af591-Illustration-1.webp' | relative_url }}" alt="Overview image for What Magenta Site Orders Should Have Left" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Site Orders</span>
@@ -455,7 +455,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-archive-trail-e36ff1-magenta-press-blacko-caabc6" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'press-blackout/' | relative_url }}" title="Where Would a News Blackout Appear? | What Records Should a Real Recovery Leave? | Alleged Magenta UFO" aria-label="Open page: Where Would a News Blackout Appear? | What Records Should a Real Recovery Leave? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_archive_trail_e36ff1_magenta_press_blacko_caabc6-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Would a News Blackout Appear? | Alleged Magenta UFO 7 bc 4 e9 archive trail" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_archive_trail_e36ff1_magenta_press_blacko_caabc6-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Would a News Blackout Appear?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Press Blackout</span>
@@ -475,7 +475,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-archive-trail-e36ff1-marconi-personnel-tr-6b1d89" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'personnel-trail/' | relative_url }}" title="Would Marconi's Movements Leave Clues? | What Records Should a Real Recovery Leave? | Alleged Magenta UFO" aria-label="Open page: Would Marconi's Movements Leave Clues? | What Records Should a Real Recovery Leave? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_archive_trail_e36ff1_marconi_personnel_tr_6b1d89-Illustration-1.webp' | relative_url }}" alt="Overview image for Would Marconi&#x27;s Movements Leave Clues? | Alleged Magenta UFO 7 bc 4 e9 archive trail" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_archive_trail_e36ff1_marconi_personnel_tr_6b1d89-Illustration-1.webp' | relative_url }}" alt="Overview image for Would Marconi's Movements Leave Clues?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Personnel Trail</span>
@@ -497,7 +497,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-alleged-magenta-ufo-7bc4e9-document-authenticat-1ab9aa" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'authentication/' | relative_url }}" title="How Can Old UFO Documents Be Tested? | Alleged Magenta UFO" aria-label="Open page: How Can Old UFO Documents Be Tested? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_document_authenticat_1ab9aa-overview.webp' | relative_url }}" alt="Overview image for How Can Old UFO Documents Be Tested? | Alleged Magenta UFO" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_document_authenticat_1ab9aa-overview.webp' | relative_url }}" alt="Overview image for How Can Old UFO Documents Be Tested?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Authentication</span>
@@ -519,7 +519,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-document-authenticat-1ab9aa-paper-ink-tests-82d500" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'paper-tests-e8ef43/' | relative_url }}" title="Can old paper prove a UFO claim? | How Can Old UFO Documents Be Tested? | Alleged Magenta UFO" aria-label="Open page: Can old paper prove a UFO claim? | How Can Old UFO Documents Be Tested? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_document_authenticat_1ab9aa_paper_ink_tests_82d500-Illustration-1.webp' | relative_url }}" alt="Overview image for Can old paper prove a UFO claim? | Alleged Magenta UFO 7 bc 4 e9 document authenticat" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_document_authenticat_1ab9aa_paper_ink_tests_82d500-Illustration-1.webp' | relative_url }}" alt="Overview image for Can old paper prove a UFO claim?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Paper Tests</span>
@@ -539,7 +539,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-document-authenticat-1ab9aa-archive-placement-7d7a05" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'archive-fit/' | relative_url }}" title="Does the document belong where it was found? | How Can Old UFO Documents Be Tested? | Alleged Magenta UFO" aria-label="Open page: Does the document belong where it was found? | How Can Old UFO Documents Be Tested? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_document_authenticat_1ab9aa_archive_placement_7d7a05-Illustration-1.webp' | relative_url }}" alt="Overview image for Does the document belong where it was found? | Alleged Magenta UFO 7 bc 4 e9 document authenticat" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_document_authenticat_1ab9aa_archive_placement_7d7a05-Illustration-1.webp' | relative_url }}" alt="Overview image for Does the document belong where it was found?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Archive Fit</span>
@@ -559,7 +559,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-document-authenticat-1ab9aa-mj12-fake-memo-tests-0f72bf" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'mj-12-lessons/' | relative_url }}" title="How fake UFO memos get tested | How Can Old UFO Documents Be Tested? | Alleged Magenta UFO" aria-label="Open page: How fake UFO memos get tested | How Can Old UFO Documents Be Tested? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_document_authenticat_1ab9aa_mj12_fake_memo_tests_0f72bf-Illustration-1.webp' | relative_url }}" alt="Overview image for How fake UFO memos get tested | Alleged Magenta UFO 7 bc 4 e9 document authenticat" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_document_authenticat_1ab9aa_mj12_fake_memo_tests_0f72bf-Illustration-1.webp' | relative_url }}" alt="Overview image for How fake UFO memos get tested" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">MJ 12 Lessons</span>
@@ -579,7 +579,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-document-authenticat-1ab9aa-blue-book-custody-d213f8" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'blue-book/' | relative_url }}" title="What real UFO archives look like | How Can Old UFO Documents Be Tested? | Alleged Magenta UFO" aria-label="Open page: What real UFO archives look like | How Can Old UFO Documents Be Tested? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_document_authenticat_1ab9aa_blue_book_custody_d213f8-Illustration-1.webp' | relative_url }}" alt="Overview image for What real UFO archives look like | Alleged Magenta UFO 7 bc 4 e9 document authenticat" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_document_authenticat_1ab9aa_blue_book_custody_d213f8-Illustration-1.webp' | relative_url }}" alt="Overview image for What real UFO archives look like" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Blue Book</span>
@@ -599,7 +599,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-document-authenticat-1ab9aa-magenta-record-echoe-92b7eb" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'record-echoes/' | relative_url }}" title="Where a real recovery should leave traces | How Can Old UFO Documents Be Tested? | Alleged Magenta UFO" aria-label="Open page: Where a real recovery should leave traces | How Can Old UFO Documents Be Tested? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_document_authenticat_1ab9aa_magenta_record_echoe_92b7eb-Illustration-1.webp' | relative_url }}" alt="Overview image for Where a real recovery should leave traces | Alleged Magenta UFO 7 bc 4 e9 document authenticat" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_document_authenticat_1ab9aa_magenta_record_echoe_92b7eb-Illustration-1.webp' | relative_url }}" alt="Overview image for Where a real recovery should leave traces" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Record Echoes</span>
@@ -619,7 +619,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-document-authenticat-1ab9aa-anonymous-ufo-papers-c0147e" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'anonymous-papers/' | relative_url }}" title="Why anonymous UFO papers are harder to trust | How Can Old UFO Documents Be Tested? | Alleged Magenta UFO" aria-label="Open page: Why anonymous UFO papers are harder to trust | How Can Old UFO Documents Be Tested? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_document_authenticat_1ab9aa_anonymous_ufo_papers_c0147e-Illustration-1.webp' | relative_url }}" alt="Overview image for Why anonymous UFO papers are harder to trust | Alleged Magenta UFO 7 bc 4 e9 document authenticat" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_document_authenticat_1ab9aa_anonymous_ufo_papers_c0147e-Illustration-1.webp' | relative_url }}" alt="Overview image for Why anonymous UFO papers are harder to trust" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Anonymous Papers</span>
@@ -641,7 +641,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-alleged-magenta-ufo-7bc4e9-italian-aviation-con-829ab9" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'aviation/' | relative_url }}" title="Did Italian Aviation Make Magenta Seem Plausible? | Alleged Magenta UFO" aria-label="Open page: Did Italian Aviation Make Magenta Seem Plausible? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9-overview.webp' | relative_url }}" alt="Overview image for Did Italian Aviation Make Magenta Seem Plausible? | Alleged Magenta UFO" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9-overview.webp' | relative_url }}" alt="Overview image for Did Italian Aviation Make Magenta Seem Plausible?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Aviation</span>
@@ -663,7 +663,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-italian-aviation-con-829ab9-siai-marchetti-recor-721331" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'factory-gap/' | relative_url }}" title="Did aircraft factories leave any trace? | Did Italian Aviation Make Magenta Seem Plausible? | Alleged Magenta UFO" aria-label="Open page: Did aircraft factories leave any trace? | Did Italian Aviation Make Magenta Seem Plausible? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9_siai_marchetti_recor_721331-Illustration-1.webp' | relative_url }}" alt="Overview image for Did aircraft factories leave any trace? | Alleged Magenta UFO 7 bc 4 e9 italian aviation con" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9_siai_marchetti_recor_721331-Illustration-1.webp' | relative_url }}" alt="Overview image for Did aircraft factories leave any trace?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Factory Gap</span>
@@ -683,7 +683,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-italian-aviation-con-829ab9-campini-timeline-pro-0dc5de" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'timeline-gap/' | relative_url }}" title="The timeline problem for alien jet claims | Did Italian Aviation Make Magenta Seem Plausible? | Alleged Magenta UFO" aria-label="Open page: The timeline problem for alien jet claims | Did Italian Aviation Make Magenta Seem Plausible? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9_campini_timeline_pro_0dc5de-Illustration-1.webp' | relative_url }}" alt="Overview image for The timeline problem for alien jet claims | Alleged Magenta UFO 7 bc 4 e9 italian aviation con" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9_campini_timeline_pro_0dc5de-Illustration-1.webp' | relative_url }}" alt="Overview image for The timeline problem for alien jet claims" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Timeline Gap</span>
@@ -703,7 +703,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-italian-aviation-con-829ab9-caproni-campini-myth-e4173f" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'n-1-myth/' | relative_url }}" title="Was Italy's strange jet really alien technology? | Did Italian Aviation Make Magenta Seem Plausible? | Alleged Magenta UFO" aria-label="Open page: Was Italy's strange jet really alien technology? | Did Italian Aviation Make Magenta Seem Plausible? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9_caproni_campini_myth_e4173f-Illustration-1.webp' | relative_url }}" alt="Overview image for Was Italy&#x27;s strange jet really alien technology? | Alleged Magenta UFO 7 bc 4 e9 italian aviation con" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9_caproni_campini_myth_e4173f-Illustration-1.webp' | relative_url }}" alt="Overview image for Was Italy's strange jet really alien technology?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">N 1 Myth</span>
@@ -723,7 +723,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-italian-aviation-con-829ab9-italian-reverse-engi-0d47fe" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'missing-trail/' | relative_url }}" title="What evidence would a real programme leave? | Did Italian Aviation Make Magenta Seem Plausible? | Alleged Magenta UFO" aria-label="Open page: What evidence would a real programme leave? | Did Italian Aviation Make Magenta Seem Plausible? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9_italian_reverse_engi_0d47fe-Illustration-1.webp' | relative_url }}" alt="Overview image for What evidence would a real programme leave? | Alleged Magenta UFO 7 bc 4 e9 italian aviation con" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9_italian_reverse_engi_0d47fe-Illustration-1.webp' | relative_url }}" alt="Overview image for What evidence would a real programme leave?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Missing Trail</span>
@@ -743,7 +743,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-italian-aviation-con-829ab9-guidonia-wind-tunnel-41f36f" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'guidonia/' | relative_url }}" title="What Guidonia proves, and what it does not | Did Italian Aviation Make Magenta Seem Plausible? | Alleged Magenta UFO" aria-label="Open page: What Guidonia proves, and what it does not | Did Italian Aviation Make Magenta Seem Plausible? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9_guidonia_wind_tunnel_41f36f-Illustration-1.webp' | relative_url }}" alt="Overview image for What Guidonia proves, and what it does not | Alleged Magenta UFO 7 bc 4 e9 italian aviation con" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9_guidonia_wind_tunnel_41f36f-Illustration-1.webp' | relative_url }}" alt="Overview image for What Guidonia proves, and what it does not" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Guidonia</span>
@@ -763,7 +763,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-italian-aviation-con-829ab9-balbo-air-spectacles-b41fa6" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'balbo-flights/' | relative_url }}" title="Why Fascist air power made Magenta believable | Did Italian Aviation Make Magenta Seem Plausible? | Alleged Magenta UFO" aria-label="Open page: Why Fascist air power made Magenta believable | Did Italian Aviation Make Magenta Seem Plausible? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9_balbo_air_spectacles_b41fa6-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Fascist air power made Magenta believable | Alleged Magenta UFO 7 bc 4 e9 italian aviation con" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_italian_aviation_con_829ab9_balbo_air_spectacles_b41fa6-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Fascist air power made Magenta believable" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Balbo Flights</span>
@@ -785,7 +785,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-alleged-magenta-ufo-7bc4e9-alien-bodies-claims-fb6300" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'bodies-claim/' | relative_url }}" title="Did the Magenta Story Add Alien Bodies? | Alleged Magenta UFO" aria-label="Open page: Did the Magenta Story Add Alien Bodies? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_alien_bodies_claims_fb6300-overview.webp' | relative_url }}" alt="Overview image for Did the Magenta Story Add Alien Bodies? | Alleged Magenta UFO" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_alien_bodies_claims_fb6300-overview.webp' | relative_url }}" alt="Overview image for Did the Magenta Story Add Alien Bodies?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Bodies Claim</span>
@@ -807,7 +807,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-alien-bodies-claims-fb6300-aaro-body-recovery-l-81505d" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'aaro-limits/' | relative_url }}" title="Did Official Reviews Validate Alien Bodies? | Did the Magenta Story Add Alien Bodies? | Alleged Magenta UFO" aria-label="Open page: Did Official Reviews Validate Alien Bodies? | Did the Magenta Story Add Alien Bodies? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_alien_bodies_claims_fb6300_aaro_body_recovery_l_81505d-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Official Reviews Validate Alien Bodies? | Alleged Magenta UFO 7 bc 4 e9 alien bodies claims" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_alien_bodies_claims_fb6300_aaro_body_recovery_l_81505d-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Official Reviews Validate Alien Bodies?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">AARO Limits</span>
@@ -827,7 +827,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-alien-bodies-claims-fb6300-magenta-source-stack-23f60d" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'source-stacking/' | relative_url }}" title="How Separate Claims Become One Bigger Myth | Did the Magenta Story Add Alien Bodies? | Alleged Magenta UFO" aria-label="Open page: How Separate Claims Become One Bigger Myth | Did the Magenta Story Add Alien Bodies? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_alien_bodies_claims_fb6300_magenta_source_stack_23f60d-Illustration-1.webp' | relative_url }}" alt="Overview image for How Separate Claims Become One Bigger Myth | Alleged Magenta UFO 7 bc 4 e9 alien bodies claims" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_alien_bodies_claims_fb6300_magenta_source_stack_23f60d-Illustration-1.webp' | relative_url }}" alt="Overview image for How Separate Claims Become One Bigger Myth" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Source Stacking</span>
@@ -847,7 +847,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-alien-bodies-claims-fb6300-roswell-body-lore-co-e387b7" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'roswell-pattern/' | relative_url }}" title="What Roswell Teaches About Magenta Bodies | Did the Magenta Story Add Alien Bodies? | Alleged Magenta UFO" aria-label="Open page: What Roswell Teaches About Magenta Bodies | Did the Magenta Story Add Alien Bodies? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_alien_bodies_claims_fb6300_roswell_body_lore_co_e387b7-Illustration-1.webp' | relative_url }}" alt="Overview image for What Roswell Teaches About Magenta Bodies | Alleged Magenta UFO 7 bc 4 e9 alien bodies claims" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_alien_bodies_claims_fb6300_roswell_body_lore_co_e387b7-Illustration-1.webp' | relative_url }}" alt="Overview image for What Roswell Teaches About Magenta Bodies" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Roswell Pattern</span>
@@ -867,7 +867,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-alien-bodies-claims-fb6300-magenta-body-evidenc-14b71b" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'evidence-test/' | relative_url }}" title="What Would Count as Real Body Evidence? | Did the Magenta Story Add Alien Bodies? | Alleged Magenta UFO" aria-label="Open page: What Would Count as Real Body Evidence? | Did the Magenta Story Add Alien Bodies? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_alien_bodies_claims_fb6300_magenta_body_evidenc_14b71b-Illustration-1.webp' | relative_url }}" alt="Overview image for What Would Count as Real Body Evidence? | Alleged Magenta UFO 7 bc 4 e9 alien bodies claims" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_alien_bodies_claims_fb6300_magenta_body_evidenc_14b71b-Illustration-1.webp' | relative_url }}" alt="Overview image for What Would Count as Real Body Evidence?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Evidence Test</span>
@@ -887,7 +887,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-alien-bodies-claims-fb6300-magenta-body-witness-d6b9da" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'witness-trail-ff0923/' | relative_url }}" title="Who Actually Saw Bodies at Magenta? | Did the Magenta Story Add Alien Bodies? | Alleged Magenta UFO" aria-label="Open page: Who Actually Saw Bodies at Magenta? | Did the Magenta Story Add Alien Bodies? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_alien_bodies_claims_fb6300_magenta_body_witness_d6b9da-Illustration-1.webp' | relative_url }}" alt="Overview image for Who Actually Saw Bodies at Magenta? | Alleged Magenta UFO 7 bc 4 e9 alien bodies claims" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_alien_bodies_claims_fb6300_magenta_body_witness_d6b9da-Illustration-1.webp' | relative_url }}" alt="Overview image for Who Actually Saw Bodies at Magenta?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Witness Trail</span>
@@ -907,7 +907,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-alien-bodies-claims-fb6300-biologics-language-g-d54ce2" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'biologics/' | relative_url }}" title="Why Biologics Makes the Story Slippery | Did the Magenta Story Add Alien Bodies? | Alleged Magenta UFO" aria-label="Open page: Why Biologics Makes the Story Slippery | Did the Magenta Story Add Alien Bodies? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_alien_bodies_claims_fb6300_biologics_language_g_d54ce2-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Biologics Makes the Story Slippery | Alleged Magenta UFO 7 bc 4 e9 alien bodies claims" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_alien_bodies_claims_fb6300_biologics_language_g_d54ce2-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Biologics Makes the Story Slippery" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Biologics</span>
@@ -929,7 +929,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-alleged-magenta-ufo-7bc4e9-chain-of-custody-70063d" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'custody/' | relative_url }}" title="How Would Magenta Wreckage Be Verified? | Alleged Magenta UFO" aria-label="Open page: How Would Magenta Wreckage Be Verified? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d-overview.webp' | relative_url }}" alt="Overview image for How Would Magenta Wreckage Be Verified? | Alleged Magenta UFO" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d-overview.webp' | relative_url }}" alt="Overview image for How Would Magenta Wreckage Be Verified?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Custody</span>
@@ -951,7 +951,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-chain-of-custody-70063d-magenta-fragment-lab-64cef2" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'lab-intake/' | relative_url }}" title="Before Testing, Prove the Sample Is Traceable | How Would Magenta Wreckage Be Verified? | Alleged Magenta UFO" aria-label="Open page: Before Testing, Prove the Sample Is Traceable | How Would Magenta Wreckage Be Verified? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_magenta_fragment_lab_64cef2-Illustration-1.webp' | relative_url }}" alt="Overview image for Before Testing, Prove the Sample Is Traceable | Alleged Magenta UFO 7 bc 4 e9 chain of custody" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_magenta_fragment_lab_64cef2-Illustration-1.webp' | relative_url }}" alt="Overview image for Before Testing, Prove the Sample Is Traceable" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Lab Intake</span>
@@ -971,7 +971,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-chain-of-custody-70063d-siai-storage-records-1d7853" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'hangar-records/' | relative_url }}" title="Could a Hangar Story Prove Custody? | How Would Magenta Wreckage Be Verified? | Alleged Magenta UFO" aria-label="Open page: Could a Hangar Story Prove Custody? | How Would Magenta Wreckage Be Verified? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_siai_storage_records_1d7853-Illustration-1.webp' | relative_url }}" alt="Overview image for Could a Hangar Story Prove Custody? | Alleged Magenta UFO 7 bc 4 e9 chain of custody" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_siai_storage_records_1d7853-Illustration-1.webp' | relative_url }}" alt="Overview image for Could a Hangar Story Prove Custody?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Hangar Records</span>
@@ -991,7 +991,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-chain-of-custody-70063d-wartime-transfer-gap-b64845" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'transfer-gaps/' | relative_url }}" title="The Wartime Handovers the Story Must Survive | How Would Magenta Wreckage Be Verified? | Alleged Magenta UFO" aria-label="Open page: The Wartime Handovers the Story Must Survive | How Would Magenta Wreckage Be Verified? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_wartime_transfer_gap_b64845-Illustration-1.webp' | relative_url }}" alt="Overview image for The Wartime Handovers the Story Must Survive | Alleged Magenta UFO 7 bc 4 e9 chain of custody" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_wartime_transfer_gap_b64845-Illustration-1.webp' | relative_url }}" alt="Overview image for The Wartime Handovers the Story Must Survive" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Transfer Gaps</span>
@@ -1011,7 +1011,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-chain-of-custody-70063d-nasa-curation-contra-591b66" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'nasa-contrast/' | relative_url }}" title="What Real Extraterrestrial Custody Looks Like | How Would Magenta Wreckage Be Verified? | Alleged Magenta UFO" aria-label="Open page: What Real Extraterrestrial Custody Looks Like | How Would Magenta Wreckage Be Verified? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_nasa_curation_contra_591b66-Illustration-1.webp' | relative_url }}" alt="Overview image for What Real Extraterrestrial Custody Looks Like | Alleged Magenta UFO 7 bc 4 e9 chain of custody" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_nasa_curation_contra_591b66-Illustration-1.webp' | relative_url }}" alt="Overview image for What Real Extraterrestrial Custody Looks Like" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">NASA Contrast</span>
@@ -1031,7 +1031,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-chain-of-custody-70063d-missing-first-custod-46be1a" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'first-custodian/' | relative_url }}" title="Who First Held the Alleged Magenta Wreckage? | How Would Magenta Wreckage Be Verified? | Alleged Magenta UFO" aria-label="Open page: Who First Held the Alleged Magenta Wreckage? | How Would Magenta Wreckage Be Verified? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_missing_first_custod_46be1a-Illustration-1.webp' | relative_url }}" alt="Overview image for Who First Held the Alleged Magenta Wreckage? | Alleged Magenta UFO 7 bc 4 e9 chain of custody" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_missing_first_custod_46be1a-Illustration-1.webp' | relative_url }}" alt="Overview image for Who First Held the Alleged Magenta Wreckage?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">First Custodian</span>
@@ -1051,7 +1051,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-chain-of-custody-70063d-anonymous-docs-vs-wr-a3343d" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'document-limits/' | relative_url }}" title="Why Papers Cannot Carry a Fragment | How Would Magenta Wreckage Be Verified? | Alleged Magenta UFO" aria-label="Open page: Why Papers Cannot Carry a Fragment | How Would Magenta Wreckage Be Verified? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_anonymous_docs_vs_wr_a3343d-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Papers Cannot Carry a Fragment | Alleged Magenta UFO 7 bc 4 e9 chain of custody" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_chain_of_custody_70063d_anonymous_docs_vs_wr_a3343d-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Papers Cannot Carry a Fragment" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Document Limits</span>
@@ -1073,7 +1073,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-alleged-magenta-ufo-7bc4e9-physical-evidence-ga-4e2226" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'evidence-gap/' | relative_url }}" title="Where Is the Magenta UFO Evidence? | Alleged Magenta UFO" aria-label="Open page: Where Is the Magenta UFO Evidence? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_physical_evidence_ga_4e2226-overview.webp' | relative_url }}" alt="Overview image for Where Is the Magenta UFO Evidence? | Alleged Magenta UFO" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_physical_evidence_ga_4e2226-overview.webp' | relative_url }}" alt="Overview image for Where Is the Magenta UFO Evidence?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Evidence Gap</span>
@@ -1095,7 +1095,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-physical-evidence-ga-4e2226-anonymous-files-limi-8c12cc" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'anonymous-files/' | relative_url }}" title="Can Anonymous Files Carry a Crash Claim? | Where Is the Magenta UFO Evidence? | Alleged Magenta UFO" aria-label="Open page: Can Anonymous Files Carry a Crash Claim? | Where Is the Magenta UFO Evidence? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_physical_evidence_ga_4e2226_anonymous_files_limi_8c12cc-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Anonymous Files Carry a Crash Claim? | Alleged Magenta UFO 7 bc 4 e9 physical evidence" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_physical_evidence_ga_4e2226_anonymous_files_limi_8c12cc-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Anonymous Files Carry a Crash Claim?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Anonymous Files</span>
@@ -1115,7 +1115,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-physical-evidence-ga-4e2226-siai-marchetti-hanga-9a7c5f" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'hangar-trail/' | relative_url }}" title="Could the Vergiate Hangars Prove Anything? | Where Is the Magenta UFO Evidence? | Alleged Magenta UFO" aria-label="Open page: Could the Vergiate Hangars Prove Anything? | Where Is the Magenta UFO Evidence? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_physical_evidence_ga_4e2226_siai_marchetti_hanga_9a7c5f-Illustration-1.webp' | relative_url }}" alt="Overview image for Could the Vergiate Hangars Prove Anything? | Alleged Magenta UFO 7 bc 4 e9 physical evidence" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_physical_evidence_ga_4e2226_siai_marchetti_hanga_9a7c5f-Illustration-1.webp' | relative_url }}" alt="Overview image for Could the Vergiate Hangars Prove Anything?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Hangar Trail</span>
@@ -1135,7 +1135,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-physical-evidence-ga-4e2226-magenta-chain-of-cus-fc2ef3" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'custody-trail-559c63/' | relative_url }}" title="The Missing Chain From Crash to Custody | Where Is the Magenta UFO Evidence? | Alleged Magenta UFO" aria-label="Open page: The Missing Chain From Crash to Custody | Where Is the Magenta UFO Evidence? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_physical_evidence_ga_4e2226_magenta_chain_of_cus_fc2ef3-Illustration-1.webp' | relative_url }}" alt="Overview image for The Missing Chain From Crash to Custody | Alleged Magenta UFO 7 bc 4 e9 physical evidence" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_physical_evidence_ga_4e2226_magenta_chain_of_cus_fc2ef3-Illustration-1.webp' | relative_url }}" alt="Overview image for The Missing Chain From Crash to Custody" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Custody Trail</span>
@@ -1155,7 +1155,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-physical-evidence-ga-4e2226-magenta-wreckage-sam-f37bb0" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'wreckage-samples/' | relative_url }}" title="Where Is the Magenta Wreckage? | Where Is the Magenta UFO Evidence? | Alleged Magenta UFO" aria-label="Open page: Where Is the Magenta Wreckage? | Where Is the Magenta UFO Evidence? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_physical_evidence_ga_4e2226_magenta_wreckage_sam_f37bb0-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Is the Magenta Wreckage? | Alleged Magenta UFO 7 bc 4 e9 physical evidence" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_physical_evidence_ga_4e2226_magenta_wreckage_sam_f37bb0-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Is the Magenta Wreckage?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Wreckage Samples</span>
@@ -1175,7 +1175,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-physical-evidence-ga-4e2226-magenta-witness-gap-39a76f" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'witness-gap/' | relative_url }}" title="Who Actually Saw the Recovery? | Where Is the Magenta UFO Evidence? | Alleged Magenta UFO" aria-label="Open page: Who Actually Saw the Recovery? | Where Is the Magenta UFO Evidence? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_physical_evidence_ga_4e2226_magenta_witness_gap_39a76f-Illustration-1.webp' | relative_url }}" alt="Overview image for Who Actually Saw the Recovery? | Alleged Magenta UFO 7 bc 4 e9 physical evidence" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_physical_evidence_ga_4e2226_magenta_witness_gap_39a76f-Illustration-1.webp' | relative_url }}" alt="Overview image for Who Actually Saw the Recovery?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Witness Gap</span>
@@ -1195,7 +1195,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-physical-evidence-ga-4e2226-blue-book-archive-co-ad2a40" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'archive-contrast/' | relative_url }}" title="Why Blue Book Makes Magenta Look Thin | Where Is the Magenta UFO Evidence? | Alleged Magenta UFO" aria-label="Open page: Why Blue Book Makes Magenta Look Thin | Where Is the Magenta UFO Evidence? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_physical_evidence_ga_4e2226_blue_book_archive_co_ad2a40-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Blue Book Makes Magenta Look Thin | Alleged Magenta UFO 7 bc 4 e9 physical evidence" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_physical_evidence_ga_4e2226_blue_book_archive_co_ad2a40-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Blue Book Makes Magenta Look Thin" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Archive Contrast</span>
@@ -1217,7 +1217,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-alleged-magenta-ufo-7bc4e9-fascist-ufo-files-e2e7f2" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'fascist-files/' | relative_url }}" title="What Are the Fascist UFO Files? | Alleged Magenta UFO" aria-label="Open page: What Are the Fascist UFO Files? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_ufo_files_e2e7f2-overview.webp' | relative_url }}" alt="Overview image for What Are the Fascist UFO Files? | Alleged Magenta UFO" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_ufo_files_e2e7f2-overview.webp' | relative_url }}" alt="Overview image for What Are the Fascist UFO Files?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Fascist Files</span>
@@ -1239,7 +1239,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-fascist-ufo-files-e2e7f2-provenance-gap-244423" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'provenance-gap/' | relative_url }}" title="Can the Fascist UFO papers be traced? | What Are the Fascist UFO Files? | Alleged Magenta UFO" aria-label="Open page: Can the Fascist UFO papers be traced? | What Are the Fascist UFO Files? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_ufo_files_e2e7f2_provenance_gap_244423-Illustration-1.webp' | relative_url }}" alt="Overview image for Can the Fascist UFO papers be traced? | Alleged Magenta UFO 7 bc 4 e9 fascist UFO files" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_ufo_files_e2e7f2_provenance_gap_244423-Illustration-1.webp' | relative_url }}" alt="Overview image for Can the Fascist UFO papers be traced?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Provenance Gap</span>
@@ -1259,7 +1259,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-fascist-ufo-files-e2e7f2-rs33-archival-test-b3200a" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'rs-33-test-96d7cf/' | relative_url }}" title="Did Cabinet RS/33 leave real records? | What Are the Fascist UFO Files? | Alleged Magenta UFO" aria-label="Open page: Did Cabinet RS/33 leave real records? | What Are the Fascist UFO Files? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_ufo_files_e2e7f2_rs33_archival_test_b3200a-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Cabinet RS/33 leave real records? | Alleged Magenta UFO 7 bc 4 e9 fascist UFO files" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_ufo_files_e2e7f2_rs33_archival_test_b3200a-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Cabinet RS/33 leave real records?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">RS 33 Test</span>
@@ -1279,7 +1279,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-fascist-ufo-files-e2e7f2-fascist-censorship-c-87c34c" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'censorship/' | relative_url }}" title="Did Fascist secrecy make the files believable? | What Are the Fascist UFO Files? | Alleged Magenta UFO" aria-label="Open page: Did Fascist secrecy make the files believable? | What Are the Fascist UFO Files? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_ufo_files_e2e7f2_fascist_censorship_c_87c34c-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Fascist secrecy make the files believable? | Alleged Magenta UFO 7 bc 4 e9 fascist UFO files" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_ufo_files_e2e7f2_fascist_censorship_c_87c34c-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Fascist secrecy make the files believable?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Censorship</span>
@@ -1299,7 +1299,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-fascist-ufo-files-e2e7f2-document-event-proof-8ff4d2" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'proof-ladder/' | relative_url }}" title="What the files can and cannot prove | What Are the Fascist UFO Files? | Alleged Magenta UFO" aria-label="Open page: What the files can and cannot prove | What Are the Fascist UFO Files? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_ufo_files_e2e7f2_document_event_proof_8ff4d2-Illustration-1.webp' | relative_url }}" alt="Overview image for What the files can and cannot prove | Alleged Magenta UFO 7 bc 4 e9 fascist UFO files" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_ufo_files_e2e7f2_document_event_proof_8ff4d2-Illustration-1.webp' | relative_url }}" alt="Overview image for What the files can and cannot prove" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Proof Ladder</span>
@@ -1319,7 +1319,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-fascist-ufo-files-e2e7f2-marconi-credibility-4d3f77" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'marconi-anchor/' | relative_url }}" title="Why Marconi's name strengthened the story | What Are the Fascist UFO Files? | Alleged Magenta UFO" aria-label="Open page: Why Marconi's name strengthened the story | What Are the Fascist UFO Files? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_ufo_files_e2e7f2_marconi_credibility_4d3f77-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Marconi&#x27;s name strengthened the story | Alleged Magenta UFO 7 bc 4 e9 fascist UFO files" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_ufo_files_e2e7f2_marconi_credibility_4d3f77-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Marconi's name strengthened the story" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Marconi Anchor</span>
@@ -1339,7 +1339,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-fascist-ufo-files-e2e7f2-old-paper-traps-83df15" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'old-paper/' | relative_url }}" title="Why old looking UFO files can mislead | What Are the Fascist UFO Files? | Alleged Magenta UFO" aria-label="Open page: Why old looking UFO files can mislead | What Are the Fascist UFO Files? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_ufo_files_e2e7f2_old_paper_traps_83df15-Illustration-1.webp' | relative_url }}" alt="Overview image for Why old looking UFO files can mislead | Alleged Magenta UFO 7 bc 4 e9 fascist UFO files" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_ufo_files_e2e7f2_old_paper_traps_83df15-Illustration-1.webp' | relative_url }}" alt="Overview image for Why old looking UFO files can mislead" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Old Paper</span>
@@ -1361,7 +1361,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-alleged-magenta-ufo-7bc4e9-grusch-revival-d55603" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'grusch/' | relative_url }}" title="How David Grusch Revived the Magenta Case | Alleged Magenta UFO" aria-label="Open page: How David Grusch Revived the Magenta Case | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603-overview.webp' | relative_url }}" alt="Overview image for How David Grusch Revived the Magenta Case | Alleged Magenta UFO" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603-overview.webp' | relative_url }}" alt="Overview image for How David Grusch Revived the Magenta Case" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Grusch</span>
@@ -1383,7 +1383,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-grusch-revival-d55603-grusch-oversight-sta-fdb62a" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'oversight/' | relative_url }}" title="How a UFO Claim Became an Oversight Fight | How David Grusch Revived the Magenta Case | Alleged Magenta UFO" aria-label="Open page: How a UFO Claim Became an Oversight Fight | How David Grusch Revived the Magenta Case | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603_grusch_oversight_sta_fdb62a-Illustration-1.webp' | relative_url }}" alt="Overview image for How a UFO Claim Became an Oversight Fight | Alleged Magenta UFO 7 bc 4 e9 grusch revival" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603_grusch_oversight_sta_fdb62a-Illustration-1.webp' | relative_url }}" alt="Overview image for How a UFO Claim Became an Oversight Fight" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Oversight</span>
@@ -1403,7 +1403,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-grusch-revival-d55603-magenta-media-reviva-762bdd" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'media-push/' | relative_url }}" title="How Media Coverage Reintroduced Magenta | How David Grusch Revived the Magenta Case | Alleged Magenta UFO" aria-label="Open page: How Media Coverage Reintroduced Magenta | How David Grusch Revived the Magenta Case | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603_magenta_media_reviva_762bdd-Illustration-1.webp' | relative_url }}" alt="Overview image for How Media Coverage Reintroduced Magenta | Alleged Magenta UFO 7 bc 4 e9 grusch revival" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603_magenta_media_reviva_762bdd-Illustration-1.webp' | relative_url }}" alt="Overview image for How Media Coverage Reintroduced Magenta" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Media Push</span>
@@ -1423,7 +1423,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-grusch-revival-d55603-pinotti-fascist-file-7b42a9" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'italian-files/' | relative_url }}" title="The Files Behind the Magenta Revival | How David Grusch Revived the Magenta Case | Alleged Magenta UFO" aria-label="Open page: The Files Behind the Magenta Revival | How David Grusch Revived the Magenta Case | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603_pinotti_fascist_file_7b42a9-Illustration-1.webp' | relative_url }}" alt="Overview image for The Files Behind the Magenta Revival | Alleged Magenta UFO 7 bc 4 e9 grusch revival" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603_pinotti_fascist_file_7b42a9-Illustration-1.webp' | relative_url }}" alt="Overview image for The Files Behind the Magenta Revival" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Italian Files</span>
@@ -1443,7 +1443,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-grusch-revival-d55603-grusch-testimony-lim-365ecc" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'testimony-limits/' | relative_url }}" title="What Did Grusch Actually Prove in Public? | How David Grusch Revived the Magenta Case | Alleged Magenta UFO" aria-label="Open page: What Did Grusch Actually Prove in Public? | How David Grusch Revived the Magenta Case | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603_grusch_testimony_lim_365ecc-Illustration-1.webp' | relative_url }}" alt="Overview image for What Did Grusch Actually Prove in Public? | Alleged Magenta UFO 7 bc 4 e9 grusch revival" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603_grusch_testimony_lim_365ecc-Illustration-1.webp' | relative_url }}" alt="Overview image for What Did Grusch Actually Prove in Public?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Testimony Limits</span>
@@ -1463,7 +1463,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-grusch-revival-d55603-aaro-grusch-conflict-e74465" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'aaro-clash/' | relative_url }}" title="Why AARO and Grusch Cannot Both Be Right | How David Grusch Revived the Magenta Case | Alleged Magenta UFO" aria-label="Open page: Why AARO and Grusch Cannot Both Be Right | How David Grusch Revived the Magenta Case | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603_aaro_grusch_conflict_e74465-Illustration-1.webp' | relative_url }}" alt="Overview image for Why AARO and Grusch Cannot Both Be Right | Alleged Magenta UFO 7 bc 4 e9 grusch revival" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603_aaro_grusch_conflict_e74465-Illustration-1.webp' | relative_url }}" alt="Overview image for Why AARO and Grusch Cannot Both Be Right" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">AARO Clash</span>
@@ -1483,7 +1483,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-grusch-revival-d55603-magenta-test-case-621ef9" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'test-case/' | relative_url }}" title="Why Magenta Became the Perfect Test Case | How David Grusch Revived the Magenta Case | Alleged Magenta UFO" aria-label="Open page: Why Magenta Became the Perfect Test Case | How David Grusch Revived the Magenta Case | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603_magenta_test_case_621ef9-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Magenta Became the Perfect Test Case | Alleged Magenta UFO 7 bc 4 e9 grusch revival" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_grusch_revival_d55603_magenta_test_case_621ef9-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Magenta Became the Perfect Test Case" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Test Case</span>
@@ -1505,7 +1505,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-alleged-magenta-ufo-7bc4e9-lombardy-geography-1e8935" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'lombardy/' | relative_url }}" title="Why the Magenta Setting Feels Plausible | Alleged Magenta UFO" aria-label="Open page: Why the Magenta Setting Feels Plausible | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935-overview.webp' | relative_url }}" alt="Overview image for Why the Magenta Setting Feels Plausible | Alleged Magenta UFO" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935-overview.webp' | relative_url }}" alt="Overview image for Why the Magenta Setting Feels Plausible" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Lombardy</span>
@@ -1527,7 +1527,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-lombardy-geography-1e8935-milan-transport-link-71d098" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'transport-links/' | relative_url }}" title="Could Northern Italy Move a Secret Object? | Why the Magenta Setting Feels Plausible | Alleged Magenta UFO" aria-label="Open page: Could Northern Italy Move a Secret Object? | Why the Magenta Setting Feels Plausible | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935_milan_transport_link_71d098-Illustration-1.webp' | relative_url }}" alt="Overview image for Could Northern Italy Move a Secret Object? | Alleged Magenta UFO 7 bc 4 e9 lombardy geography" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935_milan_transport_link_71d098-Illustration-1.webp' | relative_url }}" alt="Overview image for Could Northern Italy Move a Secret Object?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Transport Links</span>
@@ -1547,7 +1547,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-lombardy-geography-1e8935-malpensa-aviation-be-ae7f37" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'aviation-belt/' | relative_url }}" title="The Aviation Belt Behind the Legend | Why the Magenta Setting Feels Plausible | Alleged Magenta UFO" aria-label="Open page: The Aviation Belt Behind the Legend | Why the Magenta Setting Feels Plausible | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935_malpensa_aviation_be_ae7f37-Illustration-1.webp' | relative_url }}" alt="Overview image for The Aviation Belt Behind the Legend | Alleged Magenta UFO 7 bc 4 e9 lombardy geography" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935_malpensa_aviation_be_ae7f37-Illustration-1.webp' | relative_url }}" alt="Overview image for The Aviation Belt Behind the Legend" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Aviation Belt</span>
@@ -1567,7 +1567,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-lombardy-geography-1e8935-magenta-milan-distan-39c044" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'milan-distance/' | relative_url }}" title="Was Magenta Close Enough to Control? | Why the Magenta Setting Feels Plausible | Alleged Magenta UFO" aria-label="Open page: Was Magenta Close Enough to Control? | Why the Magenta Setting Feels Plausible | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935_magenta_milan_distan_39c044-Illustration-1.webp' | relative_url }}" alt="Overview image for Was Magenta Close Enough to Control? | Alleged Magenta UFO 7 bc 4 e9 lombardy geography" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935_magenta_milan_distan_39c044-Illustration-1.webp' | relative_url }}" alt="Overview image for Was Magenta Close Enough to Control?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Milan Distance</span>
@@ -1587,7 +1587,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-lombardy-geography-1e8935-magenta-location-dri-0933c4" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'location-drift/' | relative_url }}" title="Why the Crash Site Stays Slippery | Why the Magenta Setting Feels Plausible | Alleged Magenta UFO" aria-label="Open page: Why the Crash Site Stays Slippery | Why the Magenta Setting Feels Plausible | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935_magenta_location_dri_0933c4-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Crash Site Stays Slippery | Alleged Magenta UFO 7 bc 4 e9 lombardy geography" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935_magenta_location_dri_0933c4-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Crash Site Stays Slippery" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Location Drift</span>
@@ -1607,7 +1607,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-lombardy-geography-1e8935-ticino-corridor-b30ade" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'ticino-corridor/' | relative_url }}" title="Why the Ticino Corridor Matters | Why the Magenta Setting Feels Plausible | Alleged Magenta UFO" aria-label="Open page: Why the Ticino Corridor Matters | Why the Magenta Setting Feels Plausible | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935_ticino_corridor_b30ade-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Ticino Corridor Matters | Alleged Magenta UFO 7 bc 4 e9 lombardy geography" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935_ticino_corridor_b30ade-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Ticino Corridor Matters" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Ticino Corridor</span>
@@ -1627,7 +1627,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-lombardy-geography-1e8935-vergiate-hangars-b90386" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'vergiate-hangars/' | relative_url }}" title="Why Vergiate Became the Storage Site | Why the Magenta Setting Feels Plausible | Alleged Magenta UFO" aria-label="Open page: Why Vergiate Became the Storage Site | Why the Magenta Setting Feels Plausible | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935_vergiate_hangars_b90386-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Vergiate Became the Storage Site | Alleged Magenta UFO 7 bc 4 e9 lombardy geography" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_lombardy_geography_1e8935_vergiate_hangars_b90386-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Vergiate Became the Storage Site" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Vergiate Hangars</span>
@@ -1649,7 +1649,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-alleged-magenta-ufo-7bc4e9-marconi-claim-304998" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'marconi/' | relative_url }}" title="Did Marconi Really Lead the UFO Study? | Alleged Magenta UFO" aria-label="Open page: Did Marconi Really Lead the UFO Study? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_marconi_claim_304998-overview.webp' | relative_url }}" alt="Overview image for Did Marconi Really Lead the UFO Study? | Alleged Magenta UFO" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_marconi_claim_304998-overview.webp' | relative_url }}" alt="Overview image for Did Marconi Really Lead the UFO Study?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Marconi</span>
@@ -1671,7 +1671,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-marconi-claim-304998-marconi-official-pos-9beac6" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'official-posts/' | relative_url }}" title="Did Marconi's Power Make RS/33 Plausible? | Did Marconi Really Lead the UFO Study? | Alleged Magenta UFO" aria-label="Open page: Did Marconi's Power Make RS/33 Plausible? | Did Marconi Really Lead the UFO Study? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_marconi_claim_304998_marconi_official_pos_9beac6-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Marconi&#x27;s Power Make RS/33 Plausible? | Alleged Magenta UFO 7 bc 4 e9 marconi claim" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_marconi_claim_304998_marconi_official_pos_9beac6-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Marconi's Power Make RS/33 Plausible?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Official Posts</span>
@@ -1691,7 +1691,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-marconi-claim-304998-marconi-radio-vs-ufo-2a56e4" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'radio-research/' | relative_url }}" title="Radio Genius or UFO Recovery Evidence? | Did Marconi Really Lead the UFO Study? | Alleged Magenta UFO" aria-label="Open page: Radio Genius or UFO Recovery Evidence? | Did Marconi Really Lead the UFO Study? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_marconi_claim_304998_marconi_radio_vs_ufo_2a56e4-Illustration-1.webp' | relative_url }}" alt="Overview image for Radio Genius or UFO Recovery Evidence? | Alleged Magenta UFO 7 bc 4 e9 marconi claim" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_marconi_claim_304998_marconi_radio_vs_ufo_2a56e4-Illustration-1.webp' | relative_url }}" alt="Overview image for Radio Genius or UFO Recovery Evidence?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Radio Research</span>
@@ -1711,7 +1711,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-marconi-claim-304998-marconi-archive-trai-b3c876" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'archive-trails/' | relative_url }}" title="Where Should RS/33 Appear in Marconi's Records? | Did Marconi Really Lead the UFO Study? | Alleged Magenta UFO" aria-label="Open page: Where Should RS/33 Appear in Marconi's Records? | Did Marconi Really Lead the UFO Study? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_marconi_claim_304998_marconi_archive_trai_b3c876-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Should RS/33 Appear in Marconi&#x27;s Records? | Alleged Magenta UFO 7 bc 4 e9 marconi claim" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_marconi_claim_304998_marconi_archive_trai_b3c876-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Should RS/33 Appear in Marconi's Records?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Archive Trails</span>
@@ -1731,7 +1731,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-marconi-claim-304998-marconi-witness-trai-89a7f7" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'witness-trail/' | relative_url }}" title="Who Could Verify Marconi's RS/33 Role? | Did Marconi Really Lead the UFO Study? | Alleged Magenta UFO" aria-label="Open page: Who Could Verify Marconi's RS/33 Role? | Did Marconi Really Lead the UFO Study? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_marconi_claim_304998_marconi_witness_trai_89a7f7-Illustration-1.webp' | relative_url }}" alt="Overview image for Who Could Verify Marconi&#x27;s RS/33 Role? | Alleged Magenta UFO 7 bc 4 e9 marconi claim" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_marconi_claim_304998_marconi_witness_trai_89a7f7-Illustration-1.webp' | relative_url }}" alt="Overview image for Who Could Verify Marconi's RS/33 Role?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Witness Trail</span>
@@ -1751,7 +1751,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-marconi-claim-304998-marconi-burden-of-pr-92fc69" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'proof-burden/' | relative_url }}" title="Why Marconi's Fame Makes the Claim Harder | Did Marconi Really Lead the UFO Study? | Alleged Magenta UFO" aria-label="Open page: Why Marconi's Fame Makes the Claim Harder | Did Marconi Really Lead the UFO Study? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_marconi_claim_304998_marconi_burden_of_pr_92fc69-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Marconi&#x27;s Fame Makes the Claim Harder | Alleged Magenta UFO 7 bc 4 e9 marconi claim" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_marconi_claim_304998_marconi_burden_of_pr_92fc69-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Marconi's Fame Makes the Claim Harder" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Proof Burden</span>
@@ -1771,7 +1771,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-marconi-claim-304998-mussolini-reports-rs-cb021d" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'mussolini-reports/' | relative_url }}" title="Why No Mussolini Paper Trail for RS/33? | Did Marconi Really Lead the UFO Study? | Alleged Magenta UFO" aria-label="Open page: Why No Mussolini Paper Trail for RS/33? | Did Marconi Really Lead the UFO Study? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_marconi_claim_304998_mussolini_reports_rs_cb021d-Illustration-1.webp' | relative_url }}" alt="Overview image for Why No Mussolini Paper Trail for RS/33? | Alleged Magenta UFO 7 bc 4 e9 marconi claim" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_marconi_claim_304998_mussolini_reports_rs_cb021d-Illustration-1.webp' | relative_url }}" alt="Overview image for Why No Mussolini Paper Trail for RS/33?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Mussolini Reports</span>
@@ -1793,7 +1793,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-alleged-magenta-ufo-7bc4e9-nasa-data-problem-d6b89b" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'nasa-data/' | relative_url }}" title="Why UAP Data Gaps Matter for Magenta | Alleged Magenta UFO" aria-label="Open page: Why UAP Data Gaps Matter for Magenta | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_nasa_data_problem_d6b89b-overview.webp' | relative_url }}" alt="Overview image for Why UAP Data Gaps Matter for Magenta | Alleged Magenta UFO" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_nasa_data_problem_d6b89b-overview.webp' | relative_url }}" alt="Overview image for Why UAP Data Gaps Matter for Magenta" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">NASA Data</span>
@@ -1815,7 +1815,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-nasa-data-problem-d6b89b-uap-missing-metadata-4f1b19" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'metadata/' | relative_url }}" title="How Thin Data Makes UFOs Look Stranger | Why UAP Data Gaps Matter for Magenta | Alleged Magenta UFO" aria-label="Open page: How Thin Data Makes UFOs Look Stranger | Why UAP Data Gaps Matter for Magenta | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_nasa_data_problem_d6b89b_uap_missing_metadata_4f1b19-Illustration-1.webp' | relative_url }}" alt="Overview image for How Thin Data Makes UFOs Look Stranger | Alleged Magenta UFO 7 bc 4 e9 NASA data problem" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_nasa_data_problem_d6b89b_uap_missing_metadata_4f1b19-Illustration-1.webp' | relative_url }}" alt="Overview image for How Thin Data Makes UFOs Look Stranger" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Metadata</span>
@@ -1835,7 +1835,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-nasa-data-problem-d6b89b-gofast-uap-lesson-a1b858" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'go-fast/' | relative_url }}" title="What Go Fast Teaches About UFO Videos | Why UAP Data Gaps Matter for Magenta | Alleged Magenta UFO" aria-label="Open page: What Go Fast Teaches About UFO Videos | Why UAP Data Gaps Matter for Magenta | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_nasa_data_problem_d6b89b_gofast_uap_lesson_a1b858-Illustration-1.webp' | relative_url }}" alt="Overview image for What Go Fast Teaches About UFO Videos | Alleged Magenta UFO 7 bc 4 e9 NASA data problem" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_nasa_data_problem_d6b89b_gofast_uap_lesson_a1b858-Illustration-1.webp' | relative_url }}" alt="Overview image for What Go Fast Teaches About UFO Videos" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Go Fast</span>
@@ -1855,7 +1855,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-nasa-data-problem-d6b89b-magenta-reproducible-cb7ae2" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'proof-test/' | relative_url }}" title="What Would Count as Real Magenta Evidence? | Why UAP Data Gaps Matter for Magenta | Alleged Magenta UFO" aria-label="Open page: What Would Count as Real Magenta Evidence? | Why UAP Data Gaps Matter for Magenta | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_nasa_data_problem_d6b89b_magenta_reproducible_cb7ae2-Illustration-1.webp' | relative_url }}" alt="Overview image for What Would Count as Real Magenta Evidence? | Alleged Magenta UFO 7 bc 4 e9 NASA data problem" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_nasa_data_problem_d6b89b_magenta_reproducible_cb7ae2-Illustration-1.webp' | relative_url }}" alt="Overview image for What Would Count as Real Magenta Evidence?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Proof Test</span>
@@ -1875,7 +1875,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-nasa-data-problem-d6b89b-nasa-aaro-roles-b5a3b2" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'agency-roles/' | relative_url }}" title="Who Actually Checks UAP Claims? | Why UAP Data Gaps Matter for Magenta | Alleged Magenta UFO" aria-label="Open page: Who Actually Checks UAP Claims? | Why UAP Data Gaps Matter for Magenta | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_nasa_data_problem_d6b89b_nasa_aaro_roles_b5a3b2-Illustration-1.webp' | relative_url }}" alt="Overview image for Who Actually Checks UAP Claims? | Alleged Magenta UFO 7 bc 4 e9 NASA data problem" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_nasa_data_problem_d6b89b_nasa_aaro_roles_b5a3b2-Illustration-1.webp' | relative_url }}" alt="Overview image for Who Actually Checks UAP Claims?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Agency Roles</span>
@@ -1895,7 +1895,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-nasa-data-problem-d6b89b-magenta-anonymous-do-725fb2" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'source-trail/' | relative_url }}" title="Why Magenta's Paper Trail Is the Problem | Why UAP Data Gaps Matter for Magenta | Alleged Magenta UFO" aria-label="Open page: Why Magenta's Paper Trail Is the Problem | Why UAP Data Gaps Matter for Magenta | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_nasa_data_problem_d6b89b_magenta_anonymous_do_725fb2-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Magenta&#x27;s Paper Trail Is the Problem | Alleged Magenta UFO 7 bc 4 e9 NASA data problem" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_nasa_data_problem_d6b89b_magenta_anonymous_do_725fb2-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Magenta's Paper Trail Is the Problem" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Source Trail</span>
@@ -1915,7 +1915,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-nasa-data-problem-d6b89b-unidentified-not-ali-becdd7" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'not-alien/' | relative_url }}" title="Why Unidentified Does Not Mean Alien | Why UAP Data Gaps Matter for Magenta | Alleged Magenta UFO" aria-label="Open page: Why Unidentified Does Not Mean Alien | Why UAP Data Gaps Matter for Magenta | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_nasa_data_problem_d6b89b_unidentified_not_ali_becdd7-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Unidentified Does Not Mean Alien | Alleged Magenta UFO 7 bc 4 e9 NASA data problem" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_nasa_data_problem_d6b89b_unidentified_not_ali_becdd7-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Unidentified Does Not Mean Alien" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Not Alien</span>
@@ -1937,7 +1937,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-alleged-magenta-ufo-7bc4e9-object-descriptions-7204e5" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'object-shape/' | relative_url }}" title="What Shape Was the Magenta UFO Supposed to Be? | Alleged Magenta UFO" aria-label="Open page: What Shape Was the Magenta UFO Supposed to Be? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_object_descriptions_7204e5-overview.webp' | relative_url }}" alt="Overview image for What Shape Was the Magenta UFO Supposed to Be? | Alleged Magenta UFO" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_object_descriptions_7204e5-overview.webp' | relative_url }}" alt="Overview image for What Shape Was the Magenta UFO Supposed to Be?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Object Shape</span>
@@ -1959,7 +1959,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-object-descriptions-7204e5-magenta-shape-confli-a6f7f8" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'shape-conflict/' | relative_url }}" title="Can These Magenta Shapes Be the Same Object? | What Shape Was the Magenta UFO Supposed to Be? | Alleged Magenta UFO" aria-label="Open page: Can These Magenta Shapes Be the Same Object? | What Shape Was the Magenta UFO Supposed to Be? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_object_descriptions_7204e5_magenta_shape_confli_a6f7f8-Illustration-1.webp' | relative_url }}" alt="Overview image for Can These Magenta Shapes Be the Same Object? | Alleged Magenta UFO 7 bc 4 e9 object descriptions" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_object_descriptions_7204e5_magenta_shape_confli_a6f7f8-Illustration-1.webp' | relative_url }}" alt="Overview image for Can These Magenta Shapes Be the Same Object?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Shape Conflict</span>
@@ -1979,7 +1979,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-object-descriptions-7204e5-magenta-1936-blendin-d8853d" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ '1936-blur/' | relative_url }}" title="Did Later Sightings Change Magenta's Shape? | What Shape Was the Magenta UFO Supposed to Be? | Alleged Magenta UFO" aria-label="Open page: Did Later Sightings Change Magenta's Shape? | What Shape Was the Magenta UFO Supposed to Be? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_object_descriptions_7204e5_magenta_1936_blendin_d8853d-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Later Sightings Change Magenta&#x27;s Shape? | Alleged Magenta UFO 7 bc 4 e9 object descriptions" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_object_descriptions_7204e5_magenta_1936_blendin_d8853d-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Later Sightings Change Magenta's Shape?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">1936 Blur</span>
@@ -1999,7 +1999,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-object-descriptions-7204e5-magenta-translation-81870e" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'translation-drift/' | relative_url }}" title="How Words Changed the Magenta Craft | What Shape Was the Magenta UFO Supposed to Be? | Alleged Magenta UFO" aria-label="Open page: How Words Changed the Magenta Craft | What Shape Was the Magenta UFO Supposed to Be? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_object_descriptions_7204e5_magenta_translation_81870e-Illustration-1.webp' | relative_url }}" alt="Overview image for How Words Changed the Magenta Craft | Alleged Magenta UFO 7 bc 4 e9 object descriptions" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_object_descriptions_7204e5_magenta_translation_81870e-Illustration-1.webp' | relative_url }}" alt="Overview image for How Words Changed the Magenta Craft" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Translation Drift</span>
@@ -2019,7 +2019,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-object-descriptions-7204e5-magenta-saucer-label-738601" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'saucer-label/' | relative_url }}" title="Why Did Magenta Become a Flying Saucer? | What Shape Was the Magenta UFO Supposed to Be? | Alleged Magenta UFO" aria-label="Open page: Why Did Magenta Become a Flying Saucer? | What Shape Was the Magenta UFO Supposed to Be? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_object_descriptions_7204e5_magenta_saucer_label_738601-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Did Magenta Become a Flying Saucer? | Alleged Magenta UFO 7 bc 4 e9 object descriptions" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_object_descriptions_7204e5_magenta_saucer_label_738601-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Did Magenta Become a Flying Saucer?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Saucer Label</span>
@@ -2039,7 +2039,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-object-descriptions-7204e5-magenta-shape-eviden-6adf5f" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'evidence-test-1a50a4/' | relative_url }}" title="Why Shape Drift Matters for Magenta | What Shape Was the Magenta UFO Supposed to Be? | Alleged Magenta UFO" aria-label="Open page: Why Shape Drift Matters for Magenta | What Shape Was the Magenta UFO Supposed to Be? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_object_descriptions_7204e5_magenta_shape_eviden_6adf5f-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Shape Drift Matters for Magenta | Alleged Magenta UFO 7 bc 4 e9 object descriptions" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_object_descriptions_7204e5_magenta_shape_eviden_6adf5f-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Shape Drift Matters for Magenta" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Evidence Test</span>
@@ -2059,7 +2059,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-object-descriptions-7204e5-magenta-nazi-bell-mo-88a457" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'nazi-bell/' | relative_url }}" title="Why the Bell Shape Raises Red Flags | What Shape Was the Magenta UFO Supposed to Be? | Alleged Magenta UFO" aria-label="Open page: Why the Bell Shape Raises Red Flags | What Shape Was the Magenta UFO Supposed to Be? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_object_descriptions_7204e5_magenta_nazi_bell_mo_88a457-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Bell Shape Raises Red Flags | Alleged Magenta UFO 7 bc 4 e9 object descriptions" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_object_descriptions_7204e5_magenta_nazi_bell_mo_88a457-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Bell Shape Raises Red Flags" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Nazi Bell</span>
@@ -2081,7 +2081,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-alleged-magenta-ufo-7bc4e9-pinotti-documents-21e30d" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'pinotti-files/' | relative_url }}" title="How Strong Are the Pinotti UFO Documents? | Alleged Magenta UFO" aria-label="Open page: How Strong Are the Pinotti UFO Documents? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_pinotti_documents_21e30d-overview.webp' | relative_url }}" alt="Overview image for How Strong Are the Pinotti UFO Documents? | Alleged Magenta UFO" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_pinotti_documents_21e30d-overview.webp' | relative_url }}" alt="Overview image for How Strong Are the Pinotti UFO Documents?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Pinotti Files</span>
@@ -2103,7 +2103,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-pinotti-documents-21e30d-pinotti-photocopy-li-dd1343" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'photocopies/' | relative_url }}" title="Can photocopies ever prove the Pinotti papers? | How Strong Are the Pinotti UFO Documents? | Alleged Magenta UFO" aria-label="Open page: Can photocopies ever prove the Pinotti papers? | How Strong Are the Pinotti UFO Documents? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_pinotti_documents_21e30d_pinotti_photocopy_li_dd1343-Illustration-1.webp' | relative_url }}" alt="Overview image for Can photocopies ever prove the Pinotti papers? | Alleged Magenta UFO 7 bc 4 e9 pinotti documents" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_pinotti_documents_21e30d_pinotti_photocopy_li_dd1343-Illustration-1.webp' | relative_url }}" alt="Overview image for Can photocopies ever prove the Pinotti papers?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Photocopies</span>
@@ -2123,7 +2123,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-pinotti-documents-21e30d-ufo-publication-path-e45546" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'publication-path/' | relative_url }}" title="How the papers became a UFO story | How Strong Are the Pinotti UFO Documents? | Alleged Magenta UFO" aria-label="Open page: How the papers became a UFO story | How Strong Are the Pinotti UFO Documents? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_pinotti_documents_21e30d_ufo_publication_path_e45546-Illustration-1.webp' | relative_url }}" alt="Overview image for How the papers became a UFO story | Alleged Magenta UFO 7 bc 4 e9 pinotti documents" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_pinotti_documents_21e30d_ufo_publication_path_e45546-Illustration-1.webp' | relative_url }}" alt="Overview image for How the papers became a UFO story" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Publication Path</span>
@@ -2143,7 +2143,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-pinotti-documents-21e30d-old-paper-official-r-d32eb6" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'old-paper-1d800c/' | relative_url }}" title="Old paper is not an official record | How Strong Are the Pinotti UFO Documents? | Alleged Magenta UFO" aria-label="Open page: Old paper is not an official record | How Strong Are the Pinotti UFO Documents? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_pinotti_documents_21e30d_old_paper_official_r_d32eb6-Illustration-1.webp' | relative_url }}" alt="Overview image for Old paper is not an official record | Alleged Magenta UFO 7 bc 4 e9 pinotti documents" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_pinotti_documents_21e30d_old_paper_official_r_d32eb6-Illustration-1.webp' | relative_url }}" alt="Overview image for Old paper is not an official record" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Old Paper</span>
@@ -2163,7 +2163,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-pinotti-documents-21e30d-anonymous-mailing-so-cd77e2" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'anonymous-source/' | relative_url }}" title="The mystery sender problem | How Strong Are the Pinotti UFO Documents? | Alleged Magenta UFO" aria-label="Open page: The mystery sender problem | How Strong Are the Pinotti UFO Documents? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_pinotti_documents_21e30d_anonymous_mailing_so_cd77e2-Illustration-1.webp' | relative_url }}" alt="Overview image for The mystery sender problem | Alleged Magenta UFO 7 bc 4 e9 pinotti documents" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_pinotti_documents_21e30d_anonymous_mailing_so_cd77e2-Illustration-1.webp' | relative_url }}" alt="Overview image for The mystery sender problem" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Anonymous Source</span>
@@ -2183,7 +2183,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-pinotti-documents-21e30d-missing-archive-mark-0bf7c7" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'archive-marks/' | relative_url }}" title="Where are the missing archive marks? | How Strong Are the Pinotti UFO Documents? | Alleged Magenta UFO" aria-label="Open page: Where are the missing archive marks? | How Strong Are the Pinotti UFO Documents? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_pinotti_documents_21e30d_missing_archive_mark_0bf7c7-Illustration-1.webp' | relative_url }}" alt="Overview image for Where are the missing archive marks? | Alleged Magenta UFO 7 bc 4 e9 pinotti documents" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_pinotti_documents_21e30d_missing_archive_mark_0bf7c7-Illustration-1.webp' | relative_url }}" alt="Overview image for Where are the missing archive marks?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Archive Marks</span>
@@ -2203,7 +2203,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-pinotti-documents-21e30d-cisu-archivist-criti-906d11" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'archivist-view/' | relative_url }}" title="Why archivists doubt the Pinotti files | How Strong Are the Pinotti UFO Documents? | Alleged Magenta UFO" aria-label="Open page: Why archivists doubt the Pinotti files | How Strong Are the Pinotti UFO Documents? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_pinotti_documents_21e30d_cisu_archivist_criti_906d11-Illustration-1.webp' | relative_url }}" alt="Overview image for Why archivists doubt the Pinotti files | Alleged Magenta UFO 7 bc 4 e9 pinotti documents" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_pinotti_documents_21e30d_cisu_archivist_criti_906d11-Illustration-1.webp' | relative_url }}" alt="Overview image for Why archivists doubt the Pinotti files" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Archivist View</span>
@@ -2225,7 +2225,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-alleged-magenta-ufo-7bc4e9-anonymous-files-cf7a62" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'provenance/' | relative_url }}" title="Can Anonymous UFO Files Prove Anything? | Alleged Magenta UFO" aria-label="Open page: Can Anonymous UFO Files Prove Anything? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62-overview.webp' | relative_url }}" alt="Overview image for Can Anonymous UFO Files Prove Anything? | Alleged Magenta UFO" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62-overview.webp' | relative_url }}" alt="Overview image for Can Anonymous UFO Files Prove Anything?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Provenance</span>
@@ -2247,7 +2247,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-anonymous-files-cf7a62-anonymous-sender-cus-9ad279" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'custody-gap/' | relative_url }}" title="Can an anonymous file trail prove anything? | Can Anonymous UFO Files Prove Anything? | Alleged Magenta UFO" aria-label="Open page: Can an anonymous file trail prove anything? | Can Anonymous UFO Files Prove Anything? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62_anonymous_sender_cus_9ad279-Illustration-1.webp' | relative_url }}" alt="Overview image for Can an anonymous file trail prove anything? | Alleged Magenta UFO 7 bc 4 e9 anonymous files" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62_anonymous_sender_cus_9ad279-Illustration-1.webp' | relative_url }}" alt="Overview image for Can an anonymous file trail prove anything?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Custody Gap</span>
@@ -2267,7 +2267,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-anonymous-files-cf7a62-rs33-institutional-p-fbf54c" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'rs-33-papers/' | relative_url }}" title="Does RS/33 make the files more credible? | Can Anonymous UFO Files Prove Anything? | Alleged Magenta UFO" aria-label="Open page: Does RS/33 make the files more credible? | Can Anonymous UFO Files Prove Anything? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62_rs33_institutional_p_fbf54c-Illustration-1.webp' | relative_url }}" alt="Overview image for Does RS/33 make the files more credible? | Alleged Magenta UFO 7 bc 4 e9 anonymous files" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62_rs33_institutional_p_fbf54c-Illustration-1.webp' | relative_url }}" alt="Overview image for Does RS/33 make the files more credible?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">RS 33 Papers</span>
@@ -2287,7 +2287,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-anonymous-files-cf7a62-bell-craft-retelling-e29967" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'retelling-drift/' | relative_url }}" title="How one vivid detail can reshape Magenta | Can Anonymous UFO Files Prove Anything? | Alleged Magenta UFO" aria-label="Open page: How one vivid detail can reshape Magenta | Can Anonymous UFO Files Prove Anything? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62_bell_craft_retelling_e29967-Illustration-1.webp' | relative_url }}" alt="Overview image for How one vivid detail can reshape Magenta | Alleged Magenta UFO 7 bc 4 e9 anonymous files" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62_bell_craft_retelling_e29967-Illustration-1.webp' | relative_url }}" alt="Overview image for How one vivid detail can reshape Magenta" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Retelling Drift</span>
@@ -2307,7 +2307,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-anonymous-files-cf7a62-stefani-telegram-sec-70b246" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'stefani-telegram/' | relative_url }}" title="The telegram that carries the cover up claim | Can Anonymous UFO Files Prove Anything? | Alleged Magenta UFO" aria-label="Open page: The telegram that carries the cover up claim | Can Anonymous UFO Files Prove Anything? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62_stefani_telegram_sec_70b246-Illustration-1.webp' | relative_url }}" alt="Overview image for The telegram that carries the cover up claim | Alleged Magenta UFO 7 bc 4 e9 anonymous files" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62_stefani_telegram_sec_70b246-Illustration-1.webp' | relative_url }}" alt="Overview image for The telegram that carries the cover up claim" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Stefani Telegram</span>
@@ -2327,7 +2327,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-anonymous-files-cf7a62-paper-tests-limits-800914" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'paper-tests/' | relative_url }}" title="What old paper can and cannot prove | Can Anonymous UFO Files Prove Anything? | Alleged Magenta UFO" aria-label="Open page: What old paper can and cannot prove | Can Anonymous UFO Files Prove Anything? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62_paper_tests_limits_800914-Illustration-1.webp' | relative_url }}" alt="Overview image for What old paper can and cannot prove | Alleged Magenta UFO 7 bc 4 e9 anonymous files" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62_paper_tests_limits_800914-Illustration-1.webp' | relative_url }}" alt="Overview image for What old paper can and cannot prove" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Paper Tests</span>
@@ -2347,7 +2347,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-anonymous-files-cf7a62-lost-originals-repea-a78722" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'lost-originals/' | relative_url }}" title="Why lost originals weaken old UFO files | Can Anonymous UFO Files Prove Anything? | Alleged Magenta UFO" aria-label="Open page: Why lost originals weaken old UFO files | Can Anonymous UFO Files Prove Anything? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62_lost_originals_repea_a78722-Illustration-1.webp' | relative_url }}" alt="Overview image for Why lost originals weaken old UFO files | Alleged Magenta UFO 7 bc 4 e9 anonymous files" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_anonymous_files_cf7a62_lost_originals_repea_a78722-Illustration-1.webp' | relative_url }}" alt="Overview image for Why lost originals weaken old UFO files" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Lost Originals</span>
@@ -2369,7 +2369,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-alleged-magenta-ufo-7bc4e9-crash-retrieval-patt-e228ef" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'retrieval-lore/' | relative_url }}" title="Why Crash Retrieval Stories Keep Returning | Alleged Magenta UFO" aria-label="Open page: Why Crash Retrieval Stories Keep Returning | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_crash_retrieval_patt_e228ef-overview.webp' | relative_url }}" alt="Overview image for Why Crash Retrieval Stories Keep Returning | Alleged Magenta UFO" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_crash_retrieval_patt_e228ef-overview.webp' | relative_url }}" alt="Overview image for Why Crash Retrieval Stories Keep Returning" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Retrieval Lore</span>
@@ -2391,7 +2391,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-crash-retrieval-patt-e228ef-kecksburg-retrieval-c5ad74" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'kecksburg/' | relative_url }}" title="Did Kecksburg Follow the Retrieval Script? | Why Crash Retrieval Stories Keep Returning | Alleged Magenta UFO" aria-label="Open page: Did Kecksburg Follow the Retrieval Script? | Why Crash Retrieval Stories Keep Returning | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_crash_retrieval_patt_e228ef_kecksburg_retrieval_c5ad74-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Kecksburg Follow the Retrieval Script? | Alleged Magenta UFO 7 bc 4 e9 crash retrieval patt" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_crash_retrieval_patt_e228ef_kecksburg_retrieval_c5ad74-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Kecksburg Follow the Retrieval Script?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Kecksburg</span>
@@ -2411,7 +2411,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-crash-retrieval-patt-e228ef-custody-chain-retrie-f16b73" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'custody-chain/' | relative_url }}" title="Why Custody Is the Heart of Retrieval Lore | Why Crash Retrieval Stories Keep Returning | Alleged Magenta UFO" aria-label="Open page: Why Custody Is the Heart of Retrieval Lore | Why Crash Retrieval Stories Keep Returning | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_crash_retrieval_patt_e228ef_custody_chain_retrie_f16b73-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Custody Is the Heart of Retrieval Lore | Alleged Magenta UFO 7 bc 4 e9 crash retrieval patt" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_crash_retrieval_patt_e228ef_custody_chain_retrie_f16b73-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Custody Is the Heart of Retrieval Lore" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Custody Chain</span>
@@ -2431,7 +2431,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-crash-retrieval-patt-e228ef-delayed-leaks-retrie-6505cf" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'late-leaks/' | relative_url }}" title="Why Late Leaks Keep Retrieval Stories Alive | Why Crash Retrieval Stories Keep Returning | Alleged Magenta UFO" aria-label="Open page: Why Late Leaks Keep Retrieval Stories Alive | Why Crash Retrieval Stories Keep Returning | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_crash_retrieval_patt_e228ef_delayed_leaks_retrie_6505cf-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Late Leaks Keep Retrieval Stories Alive | Alleged Magenta UFO 7 bc 4 e9 crash retrieval patt" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_crash_retrieval_patt_e228ef_delayed_leaks_retrie_6505cf-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Late Leaks Keep Retrieval Stories Alive" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Late Leaks</span>
@@ -2451,7 +2451,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-crash-retrieval-patt-e228ef-secret-compartments-03cf5b" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'hidden-teams/' | relative_url }}" title="Why Retrieval Stories Need Hidden Teams | Why Crash Retrieval Stories Keep Returning | Alleged Magenta UFO" aria-label="Open page: Why Retrieval Stories Need Hidden Teams | Why Crash Retrieval Stories Keep Returning | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_crash_retrieval_patt_e228ef_secret_compartments_03cf5b-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Retrieval Stories Need Hidden Teams | Alleged Magenta UFO 7 bc 4 e9 crash retrieval patt" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_crash_retrieval_patt_e228ef_secret_compartments_03cf5b-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Retrieval Stories Need Hidden Teams" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Hidden Teams</span>
@@ -2471,7 +2471,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-crash-retrieval-patt-e228ef-reverse-engineering-17a70d" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'reverse-engineering/' | relative_url }}" title="Why Reverse Engineering Powers Retrieval Claims | Why Crash Retrieval Stories Keep Returning | Alleged Magenta UFO" aria-label="Open page: Why Reverse Engineering Powers Retrieval Claims | Why Crash Retrieval Stories Keep Returning | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_crash_retrieval_patt_e228ef_reverse_engineering_17a70d-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Reverse Engineering Powers Retrieval Claims | Alleged Magenta UFO 7 bc 4 e9 crash retrieval patt" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_crash_retrieval_patt_e228ef_reverse_engineering_17a70d-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Reverse Engineering Powers Retrieval Claims" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Reverse Engineering</span>
@@ -2491,7 +2491,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-crash-retrieval-patt-e228ef-roswell-retrieval-te-32570d" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'roswell-model/' | relative_url }}" title="Why Roswell Became the Retrieval Template | Why Crash Retrieval Stories Keep Returning | Alleged Magenta UFO" aria-label="Open page: Why Roswell Became the Retrieval Template | Why Crash Retrieval Stories Keep Returning | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_crash_retrieval_patt_e228ef_roswell_retrieval_te_32570d-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Roswell Became the Retrieval Template | Alleged Magenta UFO 7 bc 4 e9 crash retrieval patt" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_crash_retrieval_patt_e228ef_roswell_retrieval_te_32570d-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Roswell Became the Retrieval Template" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Roswell Model</span>
@@ -2513,7 +2513,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-alleged-magenta-ufo-7bc4e9-magenta-vs-roswell-5988a2" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'roswell/' | relative_url }}" title="Was Magenta the Pre Roswell Crash Story? | Alleged Magenta UFO" aria-label="Open page: Was Magenta the Pre Roswell Crash Story? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_vs_roswell_5988a2-overview.webp' | relative_url }}" alt="Overview image for Was Magenta the Pre Roswell Crash Story? | Alleged Magenta UFO" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_vs_roswell_5988a2-overview.webp' | relative_url }}" alt="Overview image for Was Magenta the Pre Roswell Crash Story?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Roswell</span>
@@ -2535,7 +2535,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-magenta-vs-roswell-5988a2-cabinet-rs33-claim-099b01" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'rs-33-cabinet/' | relative_url }}" title="Did Magenta Have Its Own Secret Unit? | Was Magenta the Pre Roswell Crash Story? | Alleged Magenta UFO" aria-label="Open page: Did Magenta Have Its Own Secret Unit? | Was Magenta the Pre Roswell Crash Story? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_vs_roswell_5988a2_cabinet_rs33_claim_099b01-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Magenta Have Its Own Secret Unit? | Alleged Magenta UFO 7 bc 4 e9 magenta vs roswell" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_vs_roswell_5988a2_cabinet_rs33_claim_099b01-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Magenta Have Its Own Secret Unit?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">RS 33 Cabinet</span>
@@ -2555,7 +2555,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-magenta-vs-roswell-5988a2-roswell-witness-cycl-c2f3d6" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'witness-cycle/' | relative_url }}" title="How Roswell Grew After the Fact | Was Magenta the Pre Roswell Crash Story? | Alleged Magenta UFO" aria-label="Open page: How Roswell Grew After the Fact | Was Magenta the Pre Roswell Crash Story? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_vs_roswell_5988a2_roswell_witness_cycl_c2f3d6-Illustration-1.webp' | relative_url }}" alt="Overview image for How Roswell Grew After the Fact | Alleged Magenta UFO 7 bc 4 e9 magenta vs roswell" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_vs_roswell_5988a2_roswell_witness_cycl_c2f3d6-Illustration-1.webp' | relative_url }}" alt="Overview image for How Roswell Grew After the Fact" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Witness Cycle</span>
@@ -2575,7 +2575,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-magenta-vs-roswell-5988a2-project-mogul-roswel-ad2ec0" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'mogul-theory/' | relative_url }}" title="The Secret Balloon Behind Roswell | Was Magenta the Pre Roswell Crash Story? | Alleged Magenta UFO" aria-label="Open page: The Secret Balloon Behind Roswell | Was Magenta the Pre Roswell Crash Story? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_vs_roswell_5988a2_project_mogul_roswel_ad2ec0-Illustration-1.webp' | relative_url }}" alt="Overview image for The Secret Balloon Behind Roswell | Alleged Magenta UFO 7 bc 4 e9 magenta vs roswell" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_vs_roswell_5988a2_project_mogul_roswel_ad2ec0-Illustration-1.webp' | relative_url }}" alt="Overview image for The Secret Balloon Behind Roswell" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Mogul Theory</span>
@@ -2595,7 +2595,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-magenta-vs-roswell-5988a2-magenta-preroswell-s-307978" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'pre-roswell-stakes/' | relative_url }}" title="What Changes If Magenta Came First? | Was Magenta the Pre Roswell Crash Story? | Alleged Magenta UFO" aria-label="Open page: What Changes If Magenta Came First? | Was Magenta the Pre Roswell Crash Story? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_vs_roswell_5988a2_magenta_preroswell_s_307978-Illustration-1.webp' | relative_url }}" alt="Overview image for What Changes If Magenta Came First? | Alleged Magenta UFO 7 bc 4 e9 magenta vs roswell" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_vs_roswell_5988a2_magenta_preroswell_s_307978-Illustration-1.webp' | relative_url }}" alt="Overview image for What Changes If Magenta Came First?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Pre Roswell Stakes</span>
@@ -2615,7 +2615,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-magenta-vs-roswell-5988a2-magenta-roswell-reco-3f471b" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'record-trails/' | relative_url }}" title="Which Case Has the Stronger Paper Trail? | Was Magenta the Pre Roswell Crash Story? | Alleged Magenta UFO" aria-label="Open page: Which Case Has the Stronger Paper Trail? | Was Magenta the Pre Roswell Crash Story? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_vs_roswell_5988a2_magenta_roswell_reco_3f471b-Illustration-1.webp' | relative_url }}" alt="Overview image for Which Case Has the Stronger Paper Trail? | Alleged Magenta UFO 7 bc 4 e9 magenta vs roswell" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_vs_roswell_5988a2_magenta_roswell_reco_3f471b-Illustration-1.webp' | relative_url }}" alt="Overview image for Which Case Has the Stronger Paper Trail?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Record Trails</span>
@@ -2635,7 +2635,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-magenta-vs-roswell-5988a2-roswell-public-rever-f02461" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'roswell-reversal/' | relative_url }}" title="Why Roswell Had a Public Hook | Was Magenta the Pre Roswell Crash Story? | Alleged Magenta UFO" aria-label="Open page: Why Roswell Had a Public Hook | Was Magenta the Pre Roswell Crash Story? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_vs_roswell_5988a2_roswell_public_rever_f02461-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Roswell Had a Public Hook | Alleged Magenta UFO 7 bc 4 e9 magenta vs roswell" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_vs_roswell_5988a2_roswell_public_rever_f02461-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Roswell Had a Public Hook" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Roswell Reversal</span>
@@ -2657,7 +2657,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-alleged-magenta-ufo-7bc4e9-cabinet-rs33-e30383" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'rs-33/' | relative_url }}" title="Was Cabinet RS/33 a Real UFO Office? | Alleged Magenta UFO" aria-label="Open page: Was Cabinet RS/33 a Real UFO Office? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_cabinet_rs33_e30383-overview.webp' | relative_url }}" alt="Overview image for Was Cabinet RS/33 a Real UFO Office? | Alleged Magenta UFO" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_cabinet_rs33_e30383-overview.webp' | relative_url }}" alt="Overview image for Was Cabinet RS/33 a Real UFO Office?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">RS 33</span>
@@ -2679,7 +2679,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-cabinet-rs33-e30383-rs33-1990s-papers-824b24" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ '1990-s-papers/' | relative_url }}" title="Can anonymous papers prove RS/33? | Was Cabinet RS/33 a Real UFO Office? | Alleged Magenta UFO" aria-label="Open page: Can anonymous papers prove RS/33? | Was Cabinet RS/33 a Real UFO Office? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_cabinet_rs33_e30383_rs33_1990s_papers_824b24-Illustration-1.webp' | relative_url }}" alt="Overview image for Can anonymous papers prove RS/33? | Alleged Magenta UFO 7 bc 4 e9 cabinet" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_cabinet_rs33_e30383_rs33_1990s_papers_824b24-Illustration-1.webp' | relative_url }}" alt="Overview image for Can anonymous papers prove RS/33?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">1990 s Papers</span>
@@ -2699,7 +2699,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-cabinet-rs33-e30383-fascist-media-secrec-094fe7" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'secrecy-7f462c/' | relative_url }}" title="Could Fascist Italy hide Magenta? | Was Cabinet RS/33 a Real UFO Office? | Alleged Magenta UFO" aria-label="Open page: Could Fascist Italy hide Magenta? | Was Cabinet RS/33 a Real UFO Office? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_cabinet_rs33_e30383_fascist_media_secrec_094fe7-Illustration-1.webp' | relative_url }}" alt="Overview image for Could Fascist Italy hide Magenta? | Alleged Magenta UFO 7 bc 4 e9 cabinet" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_cabinet_rs33_e30383_fascist_media_secrec_094fe7-Illustration-1.webp' | relative_url }}" alt="Overview image for Could Fascist Italy hide Magenta?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Secrecy</span>
@@ -2719,7 +2719,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-cabinet-rs33-e30383-marconi-rs33-leaders-4d96e2" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'marconi-0f5182/' | relative_url }}" title="Did Marconi really lead RS/33? | Was Cabinet RS/33 a Real UFO Office? | Alleged Magenta UFO" aria-label="Open page: Did Marconi really lead RS/33? | Was Cabinet RS/33 a Real UFO Office? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_cabinet_rs33_e30383_marconi_rs33_leaders_4d96e2-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Marconi really lead RS/33? | Alleged Magenta UFO 7 bc 4 e9 cabinet" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_cabinet_rs33_e30383_marconi_rs33_leaders_4d96e2-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Marconi really lead RS/33?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Marconi</span>
@@ -2739,7 +2739,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-cabinet-rs33-e30383-rs33-bureaucratic-tr-39a768" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'paper-trail/' | relative_url }}" title="Where should RS/33 records appear? | Was Cabinet RS/33 a Real UFO Office? | Alleged Magenta UFO" aria-label="Open page: Where should RS/33 records appear? | Was Cabinet RS/33 a Real UFO Office? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_cabinet_rs33_e30383_rs33_bureaucratic_tr_39a768-Illustration-1.webp' | relative_url }}" alt="Overview image for Where should RS/33 records appear? | Alleged Magenta UFO 7 bc 4 e9 cabinet" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_cabinet_rs33_e30383_rs33_bureaucratic_tr_39a768-Illustration-1.webp' | relative_url }}" alt="Overview image for Where should RS/33 records appear?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Paper Trail</span>
@@ -2759,7 +2759,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-cabinet-rs33-e30383-rs33-member-list-ede81f" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'member-list/' | relative_url }}" title="Why the RS/33 names raise the stakes | Was Cabinet RS/33 a Real UFO Office? | Alleged Magenta UFO" aria-label="Open page: Why the RS/33 names raise the stakes | Was Cabinet RS/33 a Real UFO Office? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_cabinet_rs33_e30383_rs33_member_list_ede81f-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the RS/33 names raise the stakes | Alleged Magenta UFO 7 bc 4 e9 cabinet" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_cabinet_rs33_e30383_rs33_member_list_ede81f-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the RS/33 names raise the stakes" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Member List</span>
@@ -2779,7 +2779,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-cabinet-rs33-e30383-rs33-unconventional-f23518" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'wording/' | relative_url }}" title="Why the RS/33 wording matters | Was Cabinet RS/33 a Real UFO Office? | Alleged Magenta UFO" aria-label="Open page: Why the RS/33 wording matters | Was Cabinet RS/33 a Real UFO Office? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_cabinet_rs33_e30383_rs33_unconventional_f23518-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the RS/33 wording matters | Alleged Magenta UFO 7 bc 4 e9 cabinet" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_cabinet_rs33_e30383_rs33_unconventional_f23518-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the RS/33 wording matters" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Wording</span>
@@ -2801,7 +2801,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-alleged-magenta-ufo-7bc4e9-skeptical-arguments-1935ef" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'sceptics/' | relative_url }}" title="Why Do Sceptics Doubt the Magenta Crash? | Alleged Magenta UFO" aria-label="Open page: Why Do Sceptics Doubt the Magenta Crash? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef-overview.webp' | relative_url }}" alt="Overview image for Why Do Sceptics Doubt the Magenta Crash? | Alleged Magenta UFO" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef-overview.webp' | relative_url }}" alt="Overview image for Why Do Sceptics Doubt the Magenta Crash?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Sceptics</span>
@@ -2823,7 +2823,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-skeptical-arguments-1935ef-changing-craft-descr-9081c8" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'craft-shape/' | relative_url }}" title="How one craft became many shapes | Why Do Sceptics Doubt the Magenta Crash? | Alleged Magenta UFO" aria-label="Open page: How one craft became many shapes | Why Do Sceptics Doubt the Magenta Crash? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef_changing_craft_descr_9081c8-Illustration-1.webp' | relative_url }}" alt="Overview image for How one craft became many shapes | Alleged Magenta UFO 7 bc 4 e9 skeptical arguments" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef_changing_craft_descr_9081c8-Illustration-1.webp' | relative_url }}" alt="Overview image for How one craft became many shapes" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Craft Shape</span>
@@ -2843,7 +2843,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-skeptical-arguments-1935ef-expected-records-gap-a07bd7" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'record-trail-acf270/' | relative_url }}" title="The records a real recovery might leave | Why Do Sceptics Doubt the Magenta Crash? | Alleged Magenta UFO" aria-label="Open page: The records a real recovery might leave | Why Do Sceptics Doubt the Magenta Crash? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef_expected_records_gap_a07bd7-Illustration-1.webp' | relative_url }}" alt="Overview image for The records a real recovery might leave | Alleged Magenta UFO 7 bc 4 e9 skeptical arguments" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef_expected_records_gap_a07bd7-Illustration-1.webp' | relative_url }}" alt="Overview image for The records a real recovery might leave" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Record Trail</span>
@@ -2863,7 +2863,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-skeptical-arguments-1935ef-paper-ink-limits-aeaee9" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'forensics/' | relative_url }}" title="What paper tests can and cannot prove | Why Do Sceptics Doubt the Magenta Crash? | Alleged Magenta UFO" aria-label="Open page: What paper tests can and cannot prove | Why Do Sceptics Doubt the Magenta Crash? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef_paper_ink_limits_aeaee9-Illustration-1.webp' | relative_url }}" alt="Overview image for What paper tests can and cannot prove | Alleged Magenta UFO 7 bc 4 e9 skeptical arguments" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef_paper_ink_limits_aeaee9-Illustration-1.webp' | relative_url }}" alt="Overview image for What paper tests can and cannot prove" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Forensics</span>
@@ -2883,7 +2883,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-skeptical-arguments-1935ef-missing-civilian-wit-044ce6" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'witness-gap-a9a61f/' | relative_url }}" title="Where are the Magenta witnesses? | Why Do Sceptics Doubt the Magenta Crash? | Alleged Magenta UFO" aria-label="Open page: Where are the Magenta witnesses? | Why Do Sceptics Doubt the Magenta Crash? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef_missing_civilian_wit_044ce6-Illustration-1.webp' | relative_url }}" alt="Overview image for Where are the Magenta witnesses? | Alleged Magenta UFO 7 bc 4 e9 skeptical arguments" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef_missing_civilian_wit_044ce6-Illustration-1.webp' | relative_url }}" alt="Overview image for Where are the Magenta witnesses?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Witness Gap</span>
@@ -2903,7 +2903,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-skeptical-arguments-1935ef-lost-dossier-photoco-0e90ac" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'lost-dossier/' | relative_url }}" title="Why the lost dossier still matters | Why Do Sceptics Doubt the Magenta Crash? | Alleged Magenta UFO" aria-label="Open page: Why the lost dossier still matters | Why Do Sceptics Doubt the Magenta Crash? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef_lost_dossier_photoco_0e90ac-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the lost dossier still matters | Alleged Magenta UFO 7 bc 4 e9 skeptical arguments" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef_lost_dossier_photoco_0e90ac-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the lost dossier still matters" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Lost Dossier</span>
@@ -2923,7 +2923,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-skeptical-arguments-1935ef-dates-locations-conf-0dafe6" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'dates-places/' | relative_url }}" title="Why the timeline keeps slipping | Why Do Sceptics Doubt the Magenta Crash? | Alleged Magenta UFO" aria-label="Open page: Why the timeline keeps slipping | Why Do Sceptics Doubt the Magenta Crash? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef_dates_locations_conf_0dafe6-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the timeline keeps slipping | Alleged Magenta UFO 7 bc 4 e9 skeptical arguments" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef_dates_locations_conf_0dafe6-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the timeline keeps slipping" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Dates Places</span>
@@ -2945,7 +2945,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-alleged-magenta-ufo-7bc4e9-fascist-secrecy-3a5c90" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'secrecy/' | relative_url }}" title="Could Fascist Italy Have Hidden a UFO? | Alleged Magenta UFO" aria-label="Open page: Could Fascist Italy Have Hidden a UFO? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_3a5c90-overview.webp' | relative_url }}" alt="Overview image for Could Fascist Italy Have Hidden a UFO? | Alleged Magenta UFO" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_3a5c90-overview.webp' | relative_url }}" alt="Overview image for Could Fascist Italy Have Hidden a UFO?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Secrecy</span>
@@ -2967,7 +2967,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-fascist-secrecy-3a5c90-ovra-secrecy-limits-3a5bea" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'ovra-limits/' | relative_url }}" title="Could the OVRA really hide Magenta? | Could Fascist Italy Have Hidden a UFO? | Alleged Magenta UFO" aria-label="Open page: Could the OVRA really hide Magenta? | Could Fascist Italy Have Hidden a UFO? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_3a5c90_ovra_secrecy_limits_3a5bea-Illustration-1.webp' | relative_url }}" alt="Overview image for Could the OVRA really hide Magenta? | Alleged Magenta UFO 7 bc 4 e9 fascist secrecy" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_3a5c90_ovra_secrecy_limits_3a5bea-Illustration-1.webp' | relative_url }}" alt="Overview image for Could the OVRA really hide Magenta?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">OVRA limits</span>
@@ -2987,7 +2987,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-fascist-secrecy-3a5c90-censorship-evidence-f410d5" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'censorship-gap/' | relative_url }}" title="Does silence prove a cover up? | Could Fascist Italy Have Hidden a UFO? | Alleged Magenta UFO" aria-label="Open page: Does silence prove a cover up? | Could Fascist Italy Have Hidden a UFO? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_3a5c90_censorship_evidence_f410d5-Illustration-1.webp' | relative_url }}" alt="Overview image for Does silence prove a cover up? | Alleged Magenta UFO 7 bc 4 e9 fascist secrecy" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_3a5c90_censorship_evidence_f410d5-Illustration-1.webp' | relative_url }}" alt="Overview image for Does silence prove a cover up?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Censorship gap</span>
@@ -3007,7 +3007,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-fascist-secrecy-3a5c90-magenta-paper-trails-60c18b" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'paper-trails/' | relative_url }}" title="The paper trail Magenta would need | Could Fascist Italy Have Hidden a UFO? | Alleged Magenta UFO" aria-label="Open page: The paper trail Magenta would need | Could Fascist Italy Have Hidden a UFO? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_3a5c90_magenta_paper_trails_60c18b-Illustration-1.webp' | relative_url }}" alt="Overview image for The paper trail Magenta would need | Alleged Magenta UFO 7 bc 4 e9 fascist secrecy" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_3a5c90_magenta_paper_trails_60c18b-Illustration-1.webp' | relative_url }}" alt="Overview image for The paper trail Magenta would need" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Paper trails</span>
@@ -3027,7 +3027,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-fascist-secrecy-3a5c90-propaganda-prestige-07ac59" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'prestige-risk/' | relative_url }}" title="Why a crash threatened Fascist prestige | Could Fascist Italy Have Hidden a UFO? | Alleged Magenta UFO" aria-label="Open page: Why a crash threatened Fascist prestige | Could Fascist Italy Have Hidden a UFO? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_3a5c90_propaganda_prestige_07ac59-Illustration-1.webp' | relative_url }}" alt="Overview image for Why a crash threatened Fascist prestige | Alleged Magenta UFO 7 bc 4 e9 fascist secrecy" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_3a5c90_propaganda_prestige_07ac59-Illustration-1.webp' | relative_url }}" alt="Overview image for Why a crash threatened Fascist prestige" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Prestige risk</span>
@@ -3047,7 +3047,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-fascist-secrecy-3a5c90-aviation-secrecy-mag-ca55e4" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'aviation-secrecy/' | relative_url }}" title="Why aviation secrecy matters to Magenta | Could Fascist Italy Have Hidden a UFO? | Alleged Magenta UFO" aria-label="Open page: Why aviation secrecy matters to Magenta | Could Fascist Italy Have Hidden a UFO? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_3a5c90_aviation_secrecy_mag_ca55e4-Illustration-1.webp' | relative_url }}" alt="Overview image for Why aviation secrecy matters to Magenta | Alleged Magenta UFO 7 bc 4 e9 fascist secrecy" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_3a5c90_aviation_secrecy_mag_ca55e4-Illustration-1.webp' | relative_url }}" alt="Overview image for Why aviation secrecy matters to Magenta" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Aviation secrecy</span>
@@ -3067,7 +3067,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-fascist-secrecy-3a5c90-allied-transfer-comp-12b10d" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'transfer-claim/' | relative_url }}" title="Why the Allied transfer raises stakes | Could Fascist Italy Have Hidden a UFO? | Alleged Magenta UFO" aria-label="Open page: Why the Allied transfer raises stakes | Could Fascist Italy Have Hidden a UFO? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_3a5c90_allied_transfer_comp_12b10d-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Allied transfer raises stakes | Alleged Magenta UFO 7 bc 4 e9 fascist secrecy" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_3a5c90_allied_transfer_comp_12b10d-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Allied transfer raises stakes" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Transfer claim</span>
@@ -3089,7 +3089,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-alleged-magenta-ufo-7bc4e9-siai-marchetti-529af9" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'siai/' | relative_url }}" title="Why SIAI Marchetti Matters to the Story | Alleged Magenta UFO" aria-label="Open page: Why SIAI Marchetti Matters to the Story | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9-overview.webp' | relative_url }}" alt="Overview image for Why SIAI Marchetti Matters to the Story | Alleged Magenta UFO" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9-overview.webp' | relative_url }}" alt="Overview image for Why SIAI Marchetti Matters to the Story" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">SIAI</span>
@@ -3111,7 +3111,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-siai-marchetti-529af9-vergiate-1933-hangar-3e20d1" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'vergiate-gap/' | relative_url }}" title="Did Vergiate Have the Right Hangars in 1933? | Why SIAI Marchetti Matters to the Story | Alleged Magenta UFO" aria-label="Open page: Did Vergiate Have the Right Hangars in 1933? | Why SIAI Marchetti Matters to the Story | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9_vergiate_1933_hangar_3e20d1-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Vergiate Have the Right Hangars in 1933? | Alleged Magenta UFO 7 bc 4 e9 siai marchetti" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9_vergiate_1933_hangar_3e20d1-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Vergiate Have the Right Hangars in 1933?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Vergiate Gap</span>
@@ -3131,7 +3131,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-siai-marchetti-529af9-varese-aviation-dist-48db57" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'varese-district/' | relative_url }}" title="The Aviation District Behind the Magenta Story | Why SIAI Marchetti Matters to the Story | Alleged Magenta UFO" aria-label="Open page: The Aviation District Behind the Magenta Story | Why SIAI Marchetti Matters to the Story | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9_varese_aviation_dist_48db57-Illustration-1.webp' | relative_url }}" alt="Overview image for The Aviation District Behind the Magenta Story | Alleged Magenta UFO 7 bc 4 e9 siai marchetti" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9_varese_aviation_dist_48db57-Illustration-1.webp' | relative_url }}" alt="Overview image for The Aviation District Behind the Magenta Story" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Varese District</span>
@@ -3151,7 +3151,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-siai-marchetti-529af9-siai-industrial-reco-7cb33f" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'record-trail/' | relative_url }}" title="What Records Could Test the Hangar Claim? | Why SIAI Marchetti Matters to the Story | Alleged Magenta UFO" aria-label="Open page: What Records Could Test the Hangar Claim? | Why SIAI Marchetti Matters to the Story | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9_siai_industrial_reco_7cb33f-Illustration-1.webp' | relative_url }}" alt="Overview image for What Records Could Test the Hangar Claim? | Alleged Magenta UFO 7 bc 4 e9 siai marchetti" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9_siai_industrial_reco_7cb33f-Illustration-1.webp' | relative_url }}" alt="Overview image for What Records Could Test the Hangar Claim?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Record Trail</span>
@@ -3171,7 +3171,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-siai-marchetti-529af9-siai-marchetti-name-e6e38f" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'name-problem/' | relative_url }}" title="When Later Names Distort Older Claims | Why SIAI Marchetti Matters to the Story | Alleged Magenta UFO" aria-label="Open page: When Later Names Distort Older Claims | Why SIAI Marchetti Matters to the Story | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9_siai_marchetti_name_e6e38f-Illustration-1.webp' | relative_url }}" alt="Overview image for When Later Names Distort Older Claims | Alleged Magenta UFO 7 bc 4 e9 siai marchetti" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9_siai_marchetti_name_e6e38f-Illustration-1.webp' | relative_url }}" alt="Overview image for When Later Names Distort Older Claims" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Name Problem</span>
@@ -3191,7 +3191,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-siai-marchetti-529af9-aircraft-factory-sto-e8fa4f" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'factory-logic/' | relative_url }}" title="Why an Aircraft Factory Makes the Legend Work | Why SIAI Marchetti Matters to the Story | Alleged Magenta UFO" aria-label="Open page: Why an Aircraft Factory Makes the Legend Work | Why SIAI Marchetti Matters to the Story | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9_aircraft_factory_sto_e8fa4f-Illustration-1.webp' | relative_url }}" alt="Overview image for Why an Aircraft Factory Makes the Legend Work | Alleged Magenta UFO 7 bc 4 e9 siai marchetti" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9_aircraft_factory_sto_e8fa4f-Illustration-1.webp' | relative_url }}" alt="Overview image for Why an Aircraft Factory Makes the Legend Work" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Factory Logic</span>
@@ -3211,7 +3211,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-siai-marchetti-529af9-sesto-calende-siai-s-de0938" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'sesto-base/' | relative_url }}" title="Why Sesto Calende Fits the Story Better | Why SIAI Marchetti Matters to the Story | Alleged Magenta UFO" aria-label="Open page: Why Sesto Calende Fits the Story Better | Why SIAI Marchetti Matters to the Story | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9_sesto_calende_siai_s_de0938-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Sesto Calende Fits the Story Better | Alleged Magenta UFO 7 bc 4 e9 siai marchetti" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_siai_marchetti_529af9_sesto_calende_siai_s_de0938-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Sesto Calende Fits the Story Better" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Sesto Base</span>
@@ -3233,7 +3233,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-alleged-magenta-ufo-7bc4e9-supporter-arguments-2e8636" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'supporters/' | relative_url }}" title="What Is the Best Case for Magenta? | Alleged Magenta UFO" aria-label="Open page: What Is the Best Case for Magenta? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_supporter_arguments_2e8636-overview.webp' | relative_url }}" alt="Overview image for What Is the Best Case for Magenta? | Alleged Magenta UFO" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_supporter_arguments_2e8636-overview.webp' | relative_url }}" alt="Overview image for What Is the Best Case for Magenta?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Supporters</span>
@@ -3255,7 +3255,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-supporter-arguments-2e8636-fascist-secrecy-limi-8dad62" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'secrecy-5bda47/' | relative_url }}" title="Can censorship explain every missing record? | What Is the Best Case for Magenta? | Alleged Magenta UFO" aria-label="Open page: Can censorship explain every missing record? | What Is the Best Case for Magenta? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_supporter_arguments_2e8636_fascist_secrecy_limi_8dad62-Illustration-1.webp' | relative_url }}" alt="Overview image for Can censorship explain every missing record? | Alleged Magenta UFO 7 bc 4 e9 supporter arguments" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_supporter_arguments_2e8636_fascist_secrecy_limi_8dad62-Illustration-1.webp' | relative_url }}" alt="Overview image for Can censorship explain every missing record?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Secrecy</span>
@@ -3275,7 +3275,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-supporter-arguments-2e8636-fascist-paper-featur-637b48" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'paper-tests-c217fe/' | relative_url }}" title="Can old documents prove a crash? | What Is the Best Case for Magenta? | Alleged Magenta UFO" aria-label="Open page: Can old documents prove a crash? | What Is the Best Case for Magenta? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_supporter_arguments_2e8636_fascist_paper_featur_637b48-Illustration-1.webp' | relative_url }}" alt="Overview image for Can old documents prove a crash? | Alleged Magenta UFO 7 bc 4 e9 supporter arguments" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_supporter_arguments_2e8636_fascist_paper_featur_637b48-Illustration-1.webp' | relative_url }}" alt="Overview image for Can old documents prove a crash?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Paper Tests</span>
@@ -3295,7 +3295,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-supporter-arguments-2e8636-later-retellings-mag-61fd39" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'retellings/' | relative_url }}" title="Did later retellings change the case? | What Is the Best Case for Magenta? | Alleged Magenta UFO" aria-label="Open page: Did later retellings change the case? | What Is the Best Case for Magenta? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_supporter_arguments_2e8636_later_retellings_mag_61fd39-Illustration-1.webp' | relative_url }}" alt="Overview image for Did later retellings change the case? | Alleged Magenta UFO 7 bc 4 e9 supporter arguments" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_supporter_arguments_2e8636_later_retellings_mag_61fd39-Illustration-1.webp' | relative_url }}" alt="Overview image for Did later retellings change the case?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Retellings</span>
@@ -3315,7 +3315,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-supporter-arguments-2e8636-siai-marchetti-hanga-f52fb1" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'hangars/' | relative_url }}" title="Do real hangars make the story stronger? | What Is the Best Case for Magenta? | Alleged Magenta UFO" aria-label="Open page: Do real hangars make the story stronger? | What Is the Best Case for Magenta? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_supporter_arguments_2e8636_siai_marchetti_hanga_f52fb1-Illustration-1.webp' | relative_url }}" alt="Overview image for Do real hangars make the story stronger? | Alleged Magenta UFO 7 bc 4 e9 supporter arguments" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_supporter_arguments_2e8636_siai_marchetti_hanga_f52fb1-Illustration-1.webp' | relative_url }}" alt="Overview image for Do real hangars make the story stronger?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Hangars</span>
@@ -3335,7 +3335,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-supporter-arguments-2e8636-marconi-secret-commi-79add3" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'marconi-36650a/' | relative_url }}" title="Was Marconi plausible evidence or decoration? | What Is the Best Case for Magenta? | Alleged Magenta UFO" aria-label="Open page: Was Marconi plausible evidence or decoration? | What Is the Best Case for Magenta? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_supporter_arguments_2e8636_marconi_secret_commi_79add3-Illustration-1.webp' | relative_url }}" alt="Overview image for Was Marconi plausible evidence or decoration? | Alleged Magenta UFO 7 bc 4 e9 supporter arguments" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_supporter_arguments_2e8636_marconi_secret_commi_79add3-Illustration-1.webp' | relative_url }}" alt="Overview image for Was Marconi plausible evidence or decoration?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Marconi</span>
@@ -3355,7 +3355,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-supporter-arguments-2e8636-anonymous-file-trail-7ba62a" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'file-trail/' | relative_url }}" title="Why the anonymous file trail matters | What Is the Best Case for Magenta? | Alleged Magenta UFO" aria-label="Open page: Why the anonymous file trail matters | What Is the Best Case for Magenta? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_supporter_arguments_2e8636_anonymous_file_trail_7ba62a-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the anonymous file trail matters | Alleged Magenta UFO 7 bc 4 e9 supporter arguments" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_supporter_arguments_2e8636_anonymous_file_trail_7ba62a-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the anonymous file trail matters" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">File Trail</span>
@@ -3377,7 +3377,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-alleged-magenta-ufo-7bc4e9-magenta-timeline-3d7ff6" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'timeline/' | relative_url }}" title="When Was the Magenta UFO Supposed to Crash? | Alleged Magenta UFO" aria-label="Open page: When Was the Magenta UFO Supposed to Crash? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_timeline_3d7ff6-overview.webp' | relative_url }}" alt="Overview image for When Was the Magenta UFO Supposed to Crash? | Alleged Magenta UFO" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_timeline_3d7ff6-overview.webp' | relative_url }}" alt="Overview image for When Was the Magenta UFO Supposed to Crash?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Timeline</span>
@@ -3399,7 +3399,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-magenta-timeline-3d7ff6-1990s-document-batch-8b3865" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ '1990-s-batches/' | relative_url }}" title="How the 1990 s Mailings Rebuilt Magenta | When Was the Magenta UFO Supposed to Crash? | Alleged Magenta UFO" aria-label="Open page: How the 1990 s Mailings Rebuilt Magenta | When Was the Magenta UFO Supposed to Crash? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_timeline_3d7ff6_1990s_document_batch_8b3865-Illustration-1.webp' | relative_url }}" alt="Overview image for How the 1990 s Mailings Rebuilt Magenta | Alleged Magenta UFO 7 bc 4 e9 magenta timeline" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_timeline_3d7ff6_1990s_document_batch_8b3865-Illustration-1.webp' | relative_url }}" alt="Overview image for How the 1990 s Mailings Rebuilt Magenta" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">1990 s Batches</span>
@@ -3419,7 +3419,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-magenta-timeline-3d7ff6-crash-landing-wordin-1bcd61" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'crash-or-landing/' | relative_url }}" title="Was Magenta a Crash or a Landing? | When Was the Magenta UFO Supposed to Crash? | Alleged Magenta UFO" aria-label="Open page: Was Magenta a Crash or a Landing? | When Was the Magenta UFO Supposed to Crash? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_timeline_3d7ff6_crash_landing_wordin_1bcd61-Illustration-1.webp' | relative_url }}" alt="Overview image for Was Magenta a Crash or a Landing? | Alleged Magenta UFO 7 bc 4 e9 magenta timeline" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_timeline_3d7ff6_crash_landing_wordin_1bcd61-Illustration-1.webp' | relative_url }}" alt="Overview image for Was Magenta a Crash or a Landing?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Crash or Landing</span>
@@ -3439,7 +3439,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-magenta-timeline-3d7ff6-magenta-telegrams-pr-c7b466" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'telegrams/' | relative_url }}" title="What Can the Telegrams Really Prove? | When Was the Magenta UFO Supposed to Crash? | Alleged Magenta UFO" aria-label="Open page: What Can the Telegrams Really Prove? | When Was the Magenta UFO Supposed to Crash? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_timeline_3d7ff6_magenta_telegrams_pr_c7b466-Illustration-1.webp' | relative_url }}" alt="Overview image for What Can the Telegrams Really Prove? | Alleged Magenta UFO 7 bc 4 e9 magenta timeline" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_timeline_3d7ff6_magenta_telegrams_pr_c7b466-Illustration-1.webp' | relative_url }}" alt="Overview image for What Can the Telegrams Really Prove?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Telegrams</span>
@@ -3459,7 +3459,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-magenta-timeline-3d7ff6-vatican-american-add-123897" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'later-additions/' | relative_url }}" title="When Did the Bigger Story Get Added? | When Was the Magenta UFO Supposed to Crash? | Alleged Magenta UFO" aria-label="Open page: When Did the Bigger Story Get Added? | When Was the Magenta UFO Supposed to Crash? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_timeline_3d7ff6_vatican_american_add_123897-Illustration-1.webp' | relative_url }}" alt="Overview image for When Did the Bigger Story Get Added? | Alleged Magenta UFO 7 bc 4 e9 magenta timeline" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_timeline_3d7ff6_vatican_american_add_123897-Illustration-1.webp' | relative_url }}" alt="Overview image for When Did the Bigger Story Get Added?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Later Additions</span>
@@ -3479,7 +3479,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-magenta-timeline-3d7ff6-rs33-timeline-role-099117" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'rs-33-4e01af/' | relative_url }}" title="Where Does RS/33 Fit in the Story? | When Was the Magenta UFO Supposed to Crash? | Alleged Magenta UFO" aria-label="Open page: Where Does RS/33 Fit in the Story? | When Was the Magenta UFO Supposed to Crash? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_timeline_3d7ff6_rs33_timeline_role_099117-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Does RS/33 Fit in the Story? | Alleged Magenta UFO 7 bc 4 e9 magenta timeline" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_timeline_3d7ff6_rs33_timeline_role_099117-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Does RS/33 Fit in the Story?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">RS 33</span>
@@ -3499,7 +3499,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-magenta-timeline-3d7ff6-april-june-date-shif-ec8fc8" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'april-vs-june/' | relative_url }}" title="Why Do Magenta Dates Not Match? | When Was the Magenta UFO Supposed to Crash? | Alleged Magenta UFO" aria-label="Open page: Why Do Magenta Dates Not Match? | When Was the Magenta UFO Supposed to Crash? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_timeline_3d7ff6_april_june_date_shif_ec8fc8-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Do Magenta Dates Not Match? | Alleged Magenta UFO 7 bc 4 e9 magenta timeline" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_timeline_3d7ff6_april_june_date_shif_ec8fc8-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Do Magenta Dates Not Match?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">April vs June</span>
@@ -3521,7 +3521,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-alleged-magenta-ufo-7bc4e9-uap-transparency-6db16b" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'transparency/' | relative_url }}" title="Why Magenta Became a UAP Disclosure Issue | Alleged Magenta UFO" aria-label="Open page: Why Magenta Became a UAP Disclosure Issue | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b-overview.webp' | relative_url }}" alt="Overview image for Why Magenta Became a UAP Disclosure Issue | Alleged Magenta UFO" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b-overview.webp' | relative_url }}" alt="Overview image for Why Magenta Became a UAP Disclosure Issue" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Transparency</span>
@@ -3543,7 +3543,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-uap-transparency-6db16b-nara-uap-collection-5204cf" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'nara-search/' | relative_url }}" title="Can archives test old UAP claims? | Why Magenta Became a UAP Disclosure Issue | Alleged Magenta UFO" aria-label="Open page: Can archives test old UAP claims? | Why Magenta Became a UAP Disclosure Issue | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b_nara_uap_collection_5204cf-Illustration-1.webp' | relative_url }}" alt="Overview image for Can archives test old UAP claims? | Alleged Magenta UFO 7 bc 4 e9 UAP transparency" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b_nara_uap_collection_5204cf-Illustration-1.webp' | relative_url }}" alt="Overview image for Can archives test old UAP claims?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">NARA Search</span>
@@ -3563,7 +3563,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-uap-transparency-6db16b-house-uap-hearings-e09ffb" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'house-hearings/' | relative_url }}" title="What the UAP hearings actually changed | Why Magenta Became a UAP Disclosure Issue | Alleged Magenta UFO" aria-label="Open page: What the UAP hearings actually changed | Why Magenta Became a UAP Disclosure Issue | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b_house_uap_hearings_e09ffb-Illustration-1.webp' | relative_url }}" alt="Overview image for What the UAP hearings actually changed | Alleged Magenta UFO 7 bc 4 e9 UAP transparency" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b_house_uap_hearings_e09ffb-Illustration-1.webp' | relative_url }}" alt="Overview image for What the UAP hearings actually changed" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">House Hearings</span>
@@ -3583,7 +3583,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-uap-transparency-6db16b-closed-vs-public-evi-4b0afc" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'closed-proof/' | relative_url }}" title="When evidence stays behind closed doors | Why Magenta Became a UAP Disclosure Issue | Alleged Magenta UFO" aria-label="Open page: When evidence stays behind closed doors | Why Magenta Became a UAP Disclosure Issue | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b_closed_vs_public_evi_4b0afc-Illustration-1.webp' | relative_url }}" alt="Overview image for When evidence stays behind closed doors | Alleged Magenta UFO 7 bc 4 e9 UAP transparency" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b_closed_vs_public_evi_4b0afc-Illustration-1.webp' | relative_url }}" alt="Overview image for When evidence stays behind closed doors" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Closed Proof</span>
@@ -3603,7 +3603,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-uap-transparency-6db16b-aaro-oversight-backl-169d80" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ '2024-historical-review-by-the-all/' | relative_url }}" title="Why AARO did not end the argument | Why Magenta Became a UAP Disclosure Issue | Alleged Magenta UFO" aria-label="Open page: Why AARO did not end the argument | Why Magenta Became a UAP Disclosure Issue | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b_aaro_oversight_backl_169d80-Illustration-1.webp' | relative_url }}" alt="Overview image for Why AARO did not end the argument | Alleged Magenta UFO 7 bc 4 e9 UAP transparency" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b_aaro_oversight_backl_169d80-Illustration-1.webp' | relative_url }}" alt="Overview image for Why AARO did not end the argument" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">2024 Historical Review By The All Domain Anomaly...</span>
@@ -3623,7 +3623,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-uap-transparency-6db16b-schumer-rounds-recor-c412bc" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'records-plan/' | relative_url }}" title="Why the UAP records plan mattered | Why Magenta Became a UAP Disclosure Issue | Alleged Magenta UFO" aria-label="Open page: Why the UAP records plan mattered | Why Magenta Became a UAP Disclosure Issue | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b_schumer_rounds_recor_c412bc-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the UAP records plan mattered | Alleged Magenta UFO 7 bc 4 e9 UAP transparency" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b_schumer_rounds_recor_c412bc-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the UAP records plan mattered" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Records Plan</span>
@@ -3643,7 +3643,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-uap-transparency-6db16b-uap-whistleblower-pr-15e11f" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'whistleblowers/' | relative_url }}" title="Why whistleblowers became central to UAP oversight | Why Magenta Became a UAP Disclosure Issue | Alleged Magenta UFO" aria-label="Open page: Why whistleblowers became central to UAP oversight | Why Magenta Became a UAP Disclosure Issue | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b_uap_whistleblower_pr_15e11f-Illustration-1.webp' | relative_url }}" alt="Overview image for Why whistleblowers became central to UAP oversight | Alleged Magenta UFO 7 bc 4 e9 UAP transparency" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_uap_transparency_6db16b_uap_whistleblower_pr_15e11f-Illustration-1.webp' | relative_url }}" alt="Overview image for Why whistleblowers became central to UAP oversight" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Whistleblowers</span>
@@ -3665,7 +3665,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-alleged-magenta-ufo-7bc4e9-american-retrieval-1d963a" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'us-transfer/' | relative_url }}" title="Did America Take the Magenta Object? | Alleged Magenta UFO" aria-label="Open page: Did America Take the Magenta Object? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a-overview.webp' | relative_url }}" alt="Overview image for Did America Take the Magenta Object? | Alleged Magenta UFO" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a-overview.webp' | relative_url }}" alt="Overview image for Did America Take the Magenta Object?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">US Transfer</span>
@@ -3687,7 +3687,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-american-retrieval-1d963a-april-1945-siai-capt-320cf5" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'april-1945/' | relative_url }}" title="Did April 1945 Fit the Retrieval Story? | Did America Take the Magenta Object? | Alleged Magenta UFO" aria-label="Open page: Did April 1945 Fit the Retrieval Story? | Did America Take the Magenta Object? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_april_1945_siai_capt_320cf5-Illustration-1.webp' | relative_url }}" alt="Overview image for Did April 1945 Fit the Retrieval Story? | Alleged Magenta UFO 7 bc 4 e9 american retrieval" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_april_1945_siai_capt_320cf5-Illustration-1.webp' | relative_url }}" alt="Overview image for Did April 1945 Fit the Retrieval Story?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">April 1945</span>
@@ -3707,7 +3707,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-american-retrieval-1d963a-vatican-back-channel-68b52e" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'vatican-claim/' | relative_url }}" title="Did the Vatican Help the Americans? | Did America Take the Magenta Object? | Alleged Magenta UFO" aria-label="Open page: Did the Vatican Help the Americans? | Did America Take the Magenta Object? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_vatican_back_channel_68b52e-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the Vatican Help the Americans? | Alleged Magenta UFO 7 bc 4 e9 american retrieval" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_vatican_back_channel_68b52e-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the Vatican Help the Americans?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Vatican Claim</span>
@@ -3727,7 +3727,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-american-retrieval-1d963a-oss-transfer-records-971012" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'oss-records/' | relative_url }}" title="What Records Would Prove a Transfer? | Did America Take the Magenta Object? | Alleged Magenta UFO" aria-label="Open page: What Records Would Prove a Transfer? | Did America Take the Magenta Object? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_oss_transfer_records_971012-Illustration-1.webp' | relative_url }}" alt="Overview image for What Records Would Prove a Transfer? | Alleged Magenta UFO 7 bc 4 e9 american retrieval" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_oss_transfer_records_971012-Illustration-1.webp' | relative_url }}" alt="Overview image for What Records Would Prove a Transfer?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">OSS Records</span>
@@ -3747,7 +3747,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-american-retrieval-1d963a-vergiate-sesto-stora-ba4d40" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'storage-sites/' | relative_url }}" title="Where Was the Object Supposedly Stored? | Did America Take the Magenta Object? | Alleged Magenta UFO" aria-label="Open page: Where Was the Object Supposedly Stored? | Did America Take the Magenta Object? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_vergiate_sesto_stora_ba4d40-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Was the Object Supposedly Stored? | Alleged Magenta UFO 7 bc 4 e9 american retrieval" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_vergiate_sesto_stora_ba4d40-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Was the Object Supposedly Stored?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Storage Sites</span>
@@ -3767,7 +3767,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-american-retrieval-1d963a-nineteen-44-timeline-6b248c" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ '1944-problem/' | relative_url }}" title="Why 1944 Is the Harder Date | Did America Take the Magenta Object? | Alleged Magenta UFO" aria-label="Open page: Why 1944 Is the Harder Date | Did America Take the Magenta Object? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_nineteen_44_timeline_6b248c-Illustration-1.webp' | relative_url }}" alt="Overview image for Why 1944 Is the Harder Date | Alleged Magenta UFO 7 bc 4 e9 american retrieval" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_nineteen_44_timeline_6b248c-Illustration-1.webp' | relative_url }}" alt="Overview image for Why 1944 Is the Harder Date" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">1944 Problem</span>
@@ -3787,7 +3787,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-american-retrieval-1d963a-pinotti-grusch-versi-087ba1" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'two-versions/' | relative_url }}" title="Why the Two Transfer Stories Differ | Did America Take the Magenta Object? | Alleged Magenta UFO" aria-label="Open page: Why the Two Transfer Stories Differ | Did America Take the Magenta Object? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_pinotti_grusch_versi_087ba1-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Two Transfer Stories Differ | Alleged Magenta UFO 7 bc 4 e9 american retrieval" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_american_retrieval_1d963a_pinotti_grusch_versi_087ba1-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Two Transfer Stories Differ" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Two Versions</span>
@@ -3809,7 +3809,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-alleged-magenta-ufo-7bc4e9-van-erp-critique-675cc5" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'van-erp/' | relative_url }}" title="What Sceptics Say Was Added Later | Alleged Magenta UFO" aria-label="Open page: What Sceptics Say Was Added Later | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_van_erp_critique_675cc5-overview.webp' | relative_url }}" alt="Overview image for What Sceptics Say Was Added Later | Alleged Magenta UFO" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_van_erp_critique_675cc5-overview.webp' | relative_url }}" alt="Overview image for What Sceptics Say Was Added Later" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Van Erp</span>
@@ -3831,7 +3831,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-van-erp-critique-675cc5-rs33-protocol-test-f7b9d7" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'rs-33-test/' | relative_url }}" title="Can Later Claims Fit RS/33? | What Sceptics Say Was Added Later | Alleged Magenta UFO" aria-label="Open page: Can Later Claims Fit RS/33? | What Sceptics Say Was Added Later | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_van_erp_critique_675cc5_rs33_protocol_test_f7b9d7-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Later Claims Fit RS/33? | Alleged Magenta UFO 7 bc 4 e9 van erp critique" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_van_erp_critique_675cc5_rs33_protocol_test_f7b9d7-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Later Claims Fit RS/33?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">RS 33 Test</span>
@@ -3851,7 +3851,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-van-erp-critique-675cc5-bell-shape-die-glock-fd29fc" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'bell-shape/' | relative_url }}" title="Did the Bell Shape Come Later? | What Sceptics Say Was Added Later | Alleged Magenta UFO" aria-label="Open page: Did the Bell Shape Come Later? | What Sceptics Say Was Added Later | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_van_erp_critique_675cc5_bell_shape_die_glock_fd29fc-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the Bell Shape Come Later? | Alleged Magenta UFO 7 bc 4 e9 van erp critique" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_van_erp_critique_675cc5_bell_shape_die_glock_fd29fc-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the Bell Shape Come Later?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Bell Shape</span>
@@ -3871,7 +3871,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-van-erp-critique-675cc5-billy-brophy-drift-810720" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'brophy-drift/' | relative_url }}" title="How Brophy Blurred the Magenta Story | What Sceptics Say Was Added Later | Alleged Magenta UFO" aria-label="Open page: How Brophy Blurred the Magenta Story | What Sceptics Say Was Added Later | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_van_erp_critique_675cc5_billy_brophy_drift_810720-Illustration-1.webp' | relative_url }}" alt="Overview image for How Brophy Blurred the Magenta Story | Alleged Magenta UFO 7 bc 4 e9 van erp critique" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_van_erp_critique_675cc5_billy_brophy_drift_810720-Illustration-1.webp' | relative_url }}" alt="Overview image for How Brophy Blurred the Magenta Story" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Brophy Drift</span>
@@ -3891,7 +3891,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-van-erp-critique-675cc5-magenta-motif-map-c2e0d2" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'motif-map/' | relative_url }}" title="How Many Stories Became One Magenta Myth | What Sceptics Say Was Added Later | Alleged Magenta UFO" aria-label="Open page: How Many Stories Became One Magenta Myth | What Sceptics Say Was Added Later | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_van_erp_critique_675cc5_magenta_motif_map_c2e0d2-Illustration-1.webp' | relative_url }}" alt="Overview image for How Many Stories Became One Magenta Myth | Alleged Magenta UFO 7 bc 4 e9 van erp critique" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_van_erp_critique_675cc5_magenta_motif_map_c2e0d2-Illustration-1.webp' | relative_url }}" alt="Overview image for How Many Stories Became One Magenta Myth" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Motif Map</span>
@@ -3911,7 +3911,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-van-erp-critique-675cc5-saucer-to-craft-clai-7b805e" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'craft-drift/' | relative_url }}" title="When a Saucer Became a Specific Craft | What Sceptics Say Was Added Later | Alleged Magenta UFO" aria-label="Open page: When a Saucer Became a Specific Craft | What Sceptics Say Was Added Later | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_van_erp_critique_675cc5_saucer_to_craft_clai_7b805e-Illustration-1.webp' | relative_url }}" alt="Overview image for When a Saucer Became a Specific Craft | Alleged Magenta UFO 7 bc 4 e9 van erp critique" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_van_erp_critique_675cc5_saucer_to_craft_clai_7b805e-Illustration-1.webp' | relative_url }}" alt="Overview image for When a Saucer Became a Specific Craft" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Craft Drift</span>
@@ -3931,7 +3931,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-van-erp-critique-675cc5-magenta-date-drift-534bbf" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'date-drift/' | relative_url }}" title="Why the 1933 Dates Do Not Line Up | What Sceptics Say Was Added Later | Alleged Magenta UFO" aria-label="Open page: Why the 1933 Dates Do Not Line Up | What Sceptics Say Was Added Later | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_van_erp_critique_675cc5_magenta_date_drift_534bbf-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the 1933 Dates Do Not Line Up | Alleged Magenta UFO 7 bc 4 e9 van erp critique" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_van_erp_critique_675cc5_magenta_date_drift_534bbf-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the 1933 Dates Do Not Line Up" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Date Drift</span>
@@ -3953,7 +3953,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-alleged-magenta-ufo-7bc4e9-vatican-story-f31126" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'vatican/' | relative_url }}" title="Did the Vatican Help Transfer the UFO Secret? | Alleged Magenta UFO" aria-label="Open page: Did the Vatican Help Transfer the UFO Secret? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_vatican_story_f31126-overview.webp' | relative_url }}" alt="Overview image for Did the Vatican Help Transfer the UFO Secret? | Alleged Magenta UFO" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_vatican_story_f31126-overview.webp' | relative_url }}" alt="Overview image for Did the Vatican Help Transfer the UFO Secret?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Vatican</span>
@@ -3975,7 +3975,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-vatican-story-f31126-retrieval-chronology-0bb463" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'chronology-problem/' | relative_url }}" title="Could the Retrieval Timeline Work? | Did the Vatican Help Transfer the UFO Secret? | Alleged Magenta UFO" aria-label="Open page: Could the Retrieval Timeline Work? | Did the Vatican Help Transfer the UFO Secret? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_vatican_story_f31126_retrieval_chronology_0bb463-Illustration-1.webp' | relative_url }}" alt="Overview image for Could the Retrieval Timeline Work? | Alleged Magenta UFO 7 bc 4 e9 vatican story" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_vatican_story_f31126_retrieval_chronology_0bb463-Illustration-1.webp' | relative_url }}" alt="Overview image for Could the Retrieval Timeline Work?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Chronology Problem</span>
@@ -3995,7 +3995,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-vatican-story-f31126-grusch-vatican-claim-133bdd" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'grusch-claim/' | relative_url }}" title="What Did Grusch Actually Add? | Did the Vatican Help Transfer the UFO Secret? | Alleged Magenta UFO" aria-label="Open page: What Did Grusch Actually Add? | Did the Vatican Help Transfer the UFO Secret? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_vatican_story_f31126_grusch_vatican_claim_133bdd-Illustration-1.webp' | relative_url }}" alt="Overview image for What Did Grusch Actually Add? | Alleged Magenta UFO 7 bc 4 e9 vatican story" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_vatican_story_f31126_grusch_vatican_claim_133bdd-Illustration-1.webp' | relative_url }}" alt="Overview image for What Did Grusch Actually Add?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Grusch Claim</span>
@@ -4015,7 +4015,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-vatican-story-f31126-vatican-later-retell-cd5ae0" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'later-retellings/' | relative_url }}" title="When Did the Vatican Enter the Story? | Did the Vatican Help Transfer the UFO Secret? | Alleged Magenta UFO" aria-label="Open page: When Did the Vatican Enter the Story? | Did the Vatican Help Transfer the UFO Secret? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_vatican_story_f31126_vatican_later_retell_cd5ae0-Illustration-1.webp' | relative_url }}" alt="Overview image for When Did the Vatican Enter the Story? | Alleged Magenta UFO 7 bc 4 e9 vatican story" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_vatican_story_f31126_vatican_later_retell_cd5ae0-Illustration-1.webp' | relative_url }}" alt="Overview image for When Did the Vatican Enter the Story?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Later Retellings</span>
@@ -4035,7 +4035,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-vatican-story-f31126-allied-intelligence-a2e36c" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'allied-records/' | relative_url }}" title="Where Are the Allied Intelligence Files? | Did the Vatican Help Transfer the UFO Secret? | Alleged Magenta UFO" aria-label="Open page: Where Are the Allied Intelligence Files? | Did the Vatican Help Transfer the UFO Secret? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_vatican_story_f31126_allied_intelligence_a2e36c-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Are the Allied Intelligence Files? | Alleged Magenta UFO 7 bc 4 e9 vatican story" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_vatican_story_f31126_allied_intelligence_a2e36c-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Are the Allied Intelligence Files?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Allied Records</span>
@@ -4055,7 +4055,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-vatican-story-f31126-pius-confusion-856256" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'pope-confusion/' | relative_url }}" title="Which Pope Was the Story About? | Did the Vatican Help Transfer the UFO Secret? | Alleged Magenta UFO" aria-label="Open page: Which Pope Was the Story About? | Did the Vatican Help Transfer the UFO Secret? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_vatican_story_f31126_pius_confusion_856256-Illustration-1.webp' | relative_url }}" alt="Overview image for Which Pope Was the Story About? | Alleged Magenta UFO 7 bc 4 e9 vatican story" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_vatican_story_f31126_pius_confusion_856256-Illustration-1.webp' | relative_url }}" alt="Overview image for Which Pope Was the Story About?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Pope Confusion</span>
@@ -4075,7 +4075,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-vatican-story-f31126-missing-vatican-reco-cc68bf" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'archive-gap/' | relative_url }}" title="Why Are the Vatican Records Missing? | Did the Vatican Help Transfer the UFO Secret? | Alleged Magenta UFO" aria-label="Open page: Why Are the Vatican Records Missing? | Did the Vatican Help Transfer the UFO Secret? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_vatican_story_f31126_missing_vatican_reco_cc68bf-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Are the Vatican Records Missing? | Alleged Magenta UFO 7 bc 4 e9 vatican story" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_vatican_story_f31126_missing_vatican_reco_cc68bf-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Are the Vatican Records Missing?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Archive Gap</span>
@@ -4097,7 +4097,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-alleged-magenta-ufo-7bc4e9-vergiate-hangars-b90386" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'vergiate/' | relative_url }}" title="Why Vergiate Became the UFO Hangar Site | Alleged Magenta UFO" aria-label="Open page: Why Vergiate Became the UFO Hangar Site | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_vergiate_hangars_b90386-overview.webp' | relative_url }}" alt="Overview image for Why Vergiate Became the UFO Hangar Site | Alleged Magenta UFO" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_vergiate_hangars_b90386-overview.webp' | relative_url }}" alt="Overview image for Why Vergiate Became the UFO Hangar Site" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Vergiate</span>
@@ -4119,7 +4119,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-vergiate-hangars-b90386-vergiate-document-pr-2de7de" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'document-cache/' | relative_url }}" title="Can Anonymous Papers Locate a Hangar? | Why Vergiate Became the UFO Hangar Site | Alleged Magenta UFO" aria-label="Open page: Can Anonymous Papers Locate a Hangar? | Why Vergiate Became the UFO Hangar Site | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_vergiate_hangars_b90386_vergiate_document_pr_2de7de-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Anonymous Papers Locate a Hangar? | Alleged Magenta UFO 7 bc 4 e9 vergiate hangars" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_vergiate_hangars_b90386_vergiate_document_pr_2de7de-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Anonymous Papers Locate a Hangar?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Document Cache</span>
@@ -4139,7 +4139,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-vergiate-hangars-b90386-siai-1945-removal-d3d3fe" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ '1945-removal/' | relative_url }}" title="Did the Allies Remove Anything from Vergiate? | Why Vergiate Became the UFO Hangar Site | Alleged Magenta UFO" aria-label="Open page: Did the Allies Remove Anything from Vergiate? | Why Vergiate Became the UFO Hangar Site | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_vergiate_hangars_b90386_siai_1945_removal_d3d3fe-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the Allies Remove Anything from Vergiate? | Alleged Magenta UFO 7 bc 4 e9 vergiate hangars" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_vergiate_hangars_b90386_siai_1945_removal_d3d3fe-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the Allies Remove Anything from Vergiate?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">1945 Removal</span>
@@ -4159,7 +4159,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-vergiate-hangars-b90386-vergiate-1933-facili-1ac57d" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ '1933-site/' | relative_url }}" title="Did Vergiate Have the Hangars Yet? | Why Vergiate Became the UFO Hangar Site | Alleged Magenta UFO" aria-label="Open page: Did Vergiate Have the Hangars Yet? | Why Vergiate Became the UFO Hangar Site | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_vergiate_hangars_b90386_vergiate_1933_facili_1ac57d-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Vergiate Have the Hangars Yet? | Alleged Magenta UFO 7 bc 4 e9 vergiate hangars" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_vergiate_hangars_b90386_vergiate_1933_facili_1ac57d-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Vergiate Have the Hangars Yet?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">1933 Site</span>
@@ -4179,7 +4179,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-vergiate-hangars-b90386-vergiate-sesto-stora-ba4d40" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'two-sites/' | relative_url }}" title="Was Vergiate Really the Right Hangar? | Why Vergiate Became the UFO Hangar Site | Alleged Magenta UFO" aria-label="Open page: Was Vergiate Really the Right Hangar? | Why Vergiate Became the UFO Hangar Site | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_vergiate_hangars_b90386_vergiate_sesto_stora_ba4d40-Illustration-1.webp' | relative_url }}" alt="Overview image for Was Vergiate Really the Right Hangar? | Alleged Magenta UFO 7 bc 4 e9 vergiate hangars" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_vergiate_hangars_b90386_vergiate_sesto_stora_ba4d40-Illustration-1.webp' | relative_url }}" alt="Overview image for Was Vergiate Really the Right Hangar?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Two Sites</span>
@@ -4199,7 +4199,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-vergiate-hangars-b90386-vergiate-missing-rec-d62565" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'paper-trail-de9771/' | relative_url }}" title="What Proof Should a Hidden Hangar Leave? | Why Vergiate Became the UFO Hangar Site | Alleged Magenta UFO" aria-label="Open page: What Proof Should a Hidden Hangar Leave? | Why Vergiate Became the UFO Hangar Site | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_vergiate_hangars_b90386_vergiate_missing_rec_d62565-Illustration-1.webp' | relative_url }}" alt="Overview image for What Proof Should a Hidden Hangar Leave? | Alleged Magenta UFO 7 bc 4 e9 vergiate hangars" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_vergiate_hangars_b90386_vergiate_missing_rec_d62565-Illustration-1.webp' | relative_url }}" alt="Overview image for What Proof Should a Hidden Hangar Leave?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Paper Trail</span>
@@ -4219,7 +4219,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-vergiate-hangars-b90386-siai-marchetti-fit-1c325b" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'siai-role/' | relative_url }}" title="Why SIAI Marchetti Made the Story Credible | Why Vergiate Became the UFO Hangar Site | Alleged Magenta UFO" aria-label="Open page: Why SIAI Marchetti Made the Story Credible | Why Vergiate Became the UFO Hangar Site | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_vergiate_hangars_b90386_siai_marchetti_fit_1c325b-Illustration-1.webp' | relative_url }}" alt="Overview image for Why SIAI Marchetti Made the Story Credible | Alleged Magenta UFO 7 bc 4 e9 vergiate hangars" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_vergiate_hangars_b90386_siai_marchetti_fit_1c325b-Illustration-1.webp' | relative_url }}" alt="Overview image for Why SIAI Marchetti Made the Story Credible" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">SIAI Role</span>
@@ -4241,7 +4241,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-alleged-magenta-ufo-7bc4e9-witness-problem-6214cd" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'witnesses/' | relative_url }}" title="Why Are There No Clear Magenta Witnesses? | Alleged Magenta UFO" aria-label="Open page: Why Are There No Clear Magenta Witnesses? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_witness_problem_6214cd-overview.webp' | relative_url }}" alt="Overview image for Why Are There No Clear Magenta Witnesses? | Alleged Magenta UFO" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_witness_problem_6214cd-overview.webp' | relative_url }}" alt="Overview image for Why Are There No Clear Magenta Witnesses?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Witnesses</span>
@@ -4263,7 +4263,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-witness-problem-6214cd-rs33-witness-anchors-dcfaad" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'rs-33-names/' | relative_url }}" title="Can Cabinet RS/33 Supply Real Witnesses? | Why Are There No Clear Magenta Witnesses? | Alleged Magenta UFO" aria-label="Open page: Can Cabinet RS/33 Supply Real Witnesses? | Why Are There No Clear Magenta Witnesses? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_witness_problem_6214cd_rs33_witness_anchors_dcfaad-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Cabinet RS/33 Supply Real Witnesses? | Alleged Magenta UFO 7 bc 4 e9 witness problem" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_witness_problem_6214cd_rs33_witness_anchors_dcfaad-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Cabinet RS/33 Supply Real Witnesses?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">RS 33 Names</span>
@@ -4283,7 +4283,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-witness-problem-6214cd-magenta-date-witness-cc3db3" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'date-problem/' | relative_url }}" title="Can Magenta's 1933 Dates Be Reconciled? | Why Are There No Clear Magenta Witnesses? | Alleged Magenta UFO" aria-label="Open page: Can Magenta's 1933 Dates Be Reconciled? | Why Are There No Clear Magenta Witnesses? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_witness_problem_6214cd_magenta_date_witness_cc3db3-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Magenta&#x27;s 1933 Dates Be Reconciled? | Alleged Magenta UFO 7 bc 4 e9 witness problem" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_witness_problem_6214cd_magenta_date_witness_cc3db3-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Magenta's 1933 Dates Be Reconciled?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Date Problem</span>
@@ -4303,7 +4303,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-witness-problem-6214cd-anonymous-family-cha-b59c4d" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'family-chain/' | relative_url }}" title="Is an Anonymous Family Source Enough? | Why Are There No Clear Magenta Witnesses? | Alleged Magenta UFO" aria-label="Open page: Is an Anonymous Family Source Enough? | Why Are There No Clear Magenta Witnesses? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_witness_problem_6214cd_anonymous_family_cha_b59c4d-Illustration-1.webp' | relative_url }}" alt="Overview image for Is an Anonymous Family Source Enough? | Alleged Magenta UFO 7 bc 4 e9 witness problem" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_witness_problem_6214cd_anonymous_family_cha_b59c4d-Illustration-1.webp' | relative_url }}" alt="Overview image for Is an Anonymous Family Source Enough?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Family Chain</span>
@@ -4323,7 +4323,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-witness-problem-6214cd-vergiate-hangar-witn-feb362" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'vergiate-trail-416e7e/' | relative_url }}" title="Where Are the Vergiate Hangar Witnesses? | Why Are There No Clear Magenta Witnesses? | Alleged Magenta UFO" aria-label="Open page: Where Are the Vergiate Hangar Witnesses? | Why Are There No Clear Magenta Witnesses? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_witness_problem_6214cd_vergiate_hangar_witn_feb362-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Are the Vergiate Hangar Witnesses? | Alleged Magenta UFO 7 bc 4 e9 witness problem" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_witness_problem_6214cd_vergiate_hangar_witn_feb362-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Are the Vergiate Hangar Witnesses?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Vergiate Trail</span>
@@ -4343,7 +4343,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-witness-problem-6214cd-local-lombardy-witne-23343d" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'local-silence/' | relative_url }}" title="Why Did Local Witnesses Not Surface? | Why Are There No Clear Magenta Witnesses? | Alleged Magenta UFO" aria-label="Open page: Why Did Local Witnesses Not Surface? | Why Are There No Clear Magenta Witnesses? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_witness_problem_6214cd_local_lombardy_witne_23343d-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Did Local Witnesses Not Surface? | Alleged Magenta UFO 7 bc 4 e9 witness problem" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_witness_problem_6214cd_local_lombardy_witne_23343d-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Did Local Witnesses Not Surface?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Local Silence</span>
@@ -4363,7 +4363,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-witness-problem-6214cd-no-named-witness-1e7140" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'no-witness/' | relative_url }}" title="Why Is There No Named Magenta Witness? | Why Are There No Clear Magenta Witnesses? | Alleged Magenta UFO" aria-label="Open page: Why Is There No Named Magenta Witness? | Why Are There No Clear Magenta Witnesses? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_witness_problem_6214cd_no_named_witness_1e7140-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Is There No Named Magenta Witness? | Alleged Magenta UFO 7 bc 4 e9 witness problem" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_witness_problem_6214cd_no_named_witness_1e7140-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Is There No Named Magenta Witness?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">No Witness</span>
@@ -4385,7 +4385,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-alleged-magenta-ufo-7bc4e9-nazi-wonder-weapons-787d59" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'wonder-weapons/' | relative_url }}" title="Did Nazi UFO Lore Shape Magenta Retellings? | Alleged Magenta UFO" aria-label="Open page: Did Nazi UFO Lore Shape Magenta Retellings? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59-overview.webp' | relative_url }}" alt="Overview image for Did Nazi UFO Lore Shape Magenta Retellings? | Alleged Magenta UFO" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59-overview.webp' | relative_url }}" alt="Overview image for Did Nazi UFO Lore Shape Magenta Retellings?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Wonder Weapons</span>
@@ -4407,7 +4407,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-nazi-wonder-weapons-787d59-belluzzo-turboproiet-37047b" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'turboproietti/' | relative_url }}" title="Did Belluzzo's Disc Designs Explain Magenta? | Did Nazi UFO Lore Shape Magenta Retellings? | Alleged Magenta UFO" aria-label="Open page: Did Belluzzo's Disc Designs Explain Magenta? | Did Nazi UFO Lore Shape Magenta Retellings? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59_belluzzo_turboproiet_37047b-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Belluzzo&#x27;s Disc Designs Explain Magenta? | Alleged Magenta UFO 7 bc 4 e9 nazi wonder weapons" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59_belluzzo_turboproiet_37047b-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Belluzzo's Disc Designs Explain Magenta?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Turboproietti</span>
@@ -4427,7 +4427,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-nazi-wonder-weapons-787d59-v-weapons-credibilit-81a587" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'v-weapons/' | relative_url }}" title="How Real Wonder Weapons Fed UFO Myths | Did Nazi UFO Lore Shape Magenta Retellings? | Alleged Magenta UFO" aria-label="Open page: How Real Wonder Weapons Fed UFO Myths | Did Nazi UFO Lore Shape Magenta Retellings? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59_v_weapons_credibilit_81a587-Illustration-1.webp' | relative_url }}" alt="Overview image for How Real Wonder Weapons Fed UFO Myths | Alleged Magenta UFO 7 bc 4 e9 nazi wonder weapons" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59_v_weapons_credibilit_81a587-Illustration-1.webp' | relative_url }}" alt="Overview image for How Real Wonder Weapons Fed UFO Myths" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">V Weapons</span>
@@ -4447,7 +4447,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-nazi-wonder-weapons-787d59-campini-reverse-engi-494907" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'campini-jet/' | relative_url }}" title="Was Italy's Early Jet Really a Clue? | Did Nazi UFO Lore Shape Magenta Retellings? | Alleged Magenta UFO" aria-label="Open page: Was Italy's Early Jet Really a Clue? | Did Nazi UFO Lore Shape Magenta Retellings? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59_campini_reverse_engi_494907-Illustration-1.webp' | relative_url }}" alt="Overview image for Was Italy&#x27;s Early Jet Really a Clue? | Alleged Magenta UFO 7 bc 4 e9 nazi wonder weapons" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59_campini_reverse_engi_494907-Illustration-1.webp' | relative_url }}" alt="Overview image for Was Italy's Early Jet Really a Clue?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Campini Jet</span>
@@ -4467,7 +4467,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-nazi-wonder-weapons-787d59-paperclip-confusion-43f9f9" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'paperclip/' | relative_url }}" title="Where Paperclip Ends and UFO Lore Begins | Did Nazi UFO Lore Shape Magenta Retellings? | Alleged Magenta UFO" aria-label="Open page: Where Paperclip Ends and UFO Lore Begins | Did Nazi UFO Lore Shape Magenta Retellings? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59_paperclip_confusion_43f9f9-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Paperclip Ends and UFO Lore Begins | Alleged Magenta UFO 7 bc 4 e9 nazi wonder weapons" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59_paperclip_confusion_43f9f9-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Paperclip Ends and UFO Lore Begins" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Paperclip</span>
@@ -4487,7 +4487,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-nazi-wonder-weapons-787d59-die-glocke-template-8e66bf" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'die-glocke/' | relative_url }}" title="Why Die Glocke Sounds Like Magenta | Did Nazi UFO Lore Shape Magenta Retellings? | Alleged Magenta UFO" aria-label="Open page: Why Die Glocke Sounds Like Magenta | Did Nazi UFO Lore Shape Magenta Retellings? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59_die_glocke_template_8e66bf-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Die Glocke Sounds Like Magenta | Alleged Magenta UFO 7 bc 4 e9 nazi wonder weapons" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59_die_glocke_template_8e66bf-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Die Glocke Sounds Like Magenta" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Die Glocke</span>
@@ -4507,7 +4507,7 @@ site_image_description: A guarded aircraft hangar in northern Italy with a cover
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-alleged-magenta-ufo-7bc4e9-nazi-wonder-weapons-787d59-axis-secret-labs-53736b" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'secret-labs/' | relative_url }}" title="Why Secret Labs Make Magenta Feel Plausible | Did Nazi UFO Lore Shape Magenta Retellings? | Alleged Magenta UFO" aria-label="Open page: Why Secret Labs Make Magenta Feel Plausible | Did Nazi UFO Lore Shape Magenta Retellings? | Alleged Magenta UFO">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59_axis_secret_labs_53736b-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Secret Labs Make Magenta Feel Plausible | Alleged Magenta UFO 7 bc 4 e9 nazi wonder weapons" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/Alleged_Magenta_ufo_7bc4e9_nazi_wonder_weapons_787d59_axis_secret_labs_53736b-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Secret Labs Make Magenta Feel Plausible" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Secret Labs</span>
