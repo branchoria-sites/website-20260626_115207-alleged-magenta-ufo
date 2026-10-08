@@ -266,6 +266,7 @@ prev_link:
   short_title: Retellings
   heading_title: Did later retellings change the case?
 date: '2026-06-26 11:46:20 '
+last_modified_at: '2026-06-26 11:46:20 '
 header:
   og_image: /assets/images/Alleged_Magenta_ufo_7bc4e9_supporter_arguments_2e8636_fascist_secrecy_limi_8dad62-Illustration-1-social.jpg
   preview_image: /assets/images/Alleged_Magenta_ufo_7bc4e9_supporter_arguments_2e8636_fascist_secrecy_limi_8dad62-Illustration-1.webp

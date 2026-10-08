@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-26 04:18:32'
+last_modified_at: '2026-06-26 04:18:32'
 parent_title: What Sceptics Say Was Added Later
 parent_permalink: /van-erp/
 parent_nav_short_title: Van Erp

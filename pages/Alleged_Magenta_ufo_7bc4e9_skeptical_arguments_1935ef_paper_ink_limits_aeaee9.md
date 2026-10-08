@@ -272,6 +272,7 @@ next_link:
   short_title: Lost Dossier
   heading_title: Why the lost dossier still matters
 date: '2026-06-26 11:45:14 '
+last_modified_at: '2026-06-26 11:45:14 '
 header:
   og_image: /assets/images/Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef_paper_ink_limits_aeaee9-Illustration-1-social.jpg
   preview_image: /assets/images/Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef_paper_ink_limits_aeaee9-Illustration-1.webp

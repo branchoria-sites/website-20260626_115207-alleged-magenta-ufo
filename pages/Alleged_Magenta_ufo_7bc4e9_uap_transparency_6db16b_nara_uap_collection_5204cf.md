@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-26 09:26:06'
+last_modified_at: '2026-06-26 09:26:06'
 parent_title: Why Magenta Became a UAP Disclosure Issue
 parent_permalink: /transparency/
 parent_nav_short_title: Transparency

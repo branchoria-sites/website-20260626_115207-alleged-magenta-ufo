@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-25 23:30:20'
+last_modified_at: '2026-06-25 23:30:20'
 parent_title: Can Anonymous UFO Files Prove Anything?
 parent_permalink: /provenance/
 parent_nav_short_title: Provenance

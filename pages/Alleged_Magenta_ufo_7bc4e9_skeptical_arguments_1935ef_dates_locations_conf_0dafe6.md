@@ -272,6 +272,7 @@ next_link:
   short_title: Forensics
   heading_title: What paper tests can and cannot prove
 date: '2026-06-26 11:46:15 '
+last_modified_at: '2026-06-26 11:46:15 '
 header:
   og_image: /assets/images/Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef_dates_locations_conf_0dafe6-Illustration-1-social.jpg
   preview_image: /assets/images/Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef_dates_locations_conf_0dafe6-Illustration-1.webp

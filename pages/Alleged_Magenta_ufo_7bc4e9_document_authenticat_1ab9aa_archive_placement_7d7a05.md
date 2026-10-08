@@ -272,6 +272,7 @@ next_link:
   short_title: Blue Book
   heading_title: What real UFO archives look like
 date: '2026-06-26 11:45:34 '
+last_modified_at: '2026-06-26 11:45:34 '
 header:
   og_image: /assets/images/Alleged_Magenta_ufo_7bc4e9_document_authenticat_1ab9aa_archive_placement_7d7a05-Illustration-1-social.jpg
   preview_image: /assets/images/Alleged_Magenta_ufo_7bc4e9_document_authenticat_1ab9aa_archive_placement_7d7a05-Illustration-1.webp

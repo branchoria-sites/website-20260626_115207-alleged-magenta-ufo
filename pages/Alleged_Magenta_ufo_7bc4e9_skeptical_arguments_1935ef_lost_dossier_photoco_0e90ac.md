@@ -272,6 +272,7 @@ next_link:
   short_title: Record Trail
   heading_title: The records a real recovery might leave
 date: '2026-06-26 11:46:16 '
+last_modified_at: '2026-06-26 11:46:16 '
 header:
   og_image: /assets/images/Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef_lost_dossier_photoco_0e90ac-Illustration-1-social.jpg
   preview_image: /assets/images/Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef_lost_dossier_photoco_0e90ac-Illustration-1.webp

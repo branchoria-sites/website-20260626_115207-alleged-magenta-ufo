@@ -272,6 +272,7 @@ next_link:
   short_title: Witness Gap
   heading_title: Where are the Magenta witnesses?
 date: '2026-06-26 11:46:15 '
+last_modified_at: '2026-06-26 11:46:15 '
 header:
   og_image: /assets/images/Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef_expected_records_gap_a07bd7-Illustration-1-social.jpg
   preview_image: /assets/images/Alleged_Magenta_ufo_7bc4e9_skeptical_arguments_1935ef_expected_records_gap_a07bd7-Illustration-1.webp
