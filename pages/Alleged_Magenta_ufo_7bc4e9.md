@@ -961,7 +961,7 @@ The case remains worth knowing because it shows how modern UAP debates often ble
 
 22.<a id="endnote-22"></a>
    Source: uaplogic.com  
-   Link:<a href="https://www.uaplogic.com/post.php?id=7" target="_blank" rel="noopener noreferrer nofollow">https://www.uaplogic.com/post.php?id=7</a>  
+   Link:https://www.uaplogic.com/post.php?id=7  
 
 23.<a id="endnote-23"></a>
    Source: instagram.com  
